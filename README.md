@@ -26,24 +26,27 @@ After making any dialogue changes it is reccommended to at the very least run th
 # Scripts
 I have included three utility scripts I use for doing bulk work, mainly sort or verify one's work is correct.
 
-Dependencies
-https://nodejs.org/en/download
-https://www.npmjs.com/package/comment-json
+### Dependencies
+- https://nodejs.org/en/download
+- https://www.npmjs.com/package/comment-json
 
 ## Sort Dialogue
 `node sortDialogue.js  (path to .dialogueTree)  (path to .dialogue)  (opt base .dialogue file)`
+
 Is used to read a dialogue tree and paired dialouge file, sorting it's contents by where it is used in the dialogue tree, noting any instances the dialogue tree references a piece of dialogue that is missing, as well as putting unused pieces of dialogue at the bottom of the dialogue file.
 
 One can supply a third optional argument for a secondary base dialogue file to reference and point missing lines to rather than simply noting they are missing. Most useful when working on personality variant dialogue, and simply using the default as a base to use for missing lines.
 
 ## Verify Dialogue
 `node  verifyDialogue.js`
+
 Is used to verify all dialogue is valid, contain no circular reference loops, and that duplicate instances of the same group of dialogue lines are instead a reference to the first unique instance. Will note if there are any missing pieces of dialogue that are being referenced.
 
 The script is preloaded with a list of dialogue files to check and verify, if more dialogue is being added, just add it to the list inside it.
 
 ## Un-Reference Dialogue
 `node  unReferenceDialogue.js`
+
 Simply goes through its list of dialogue files, and replaces paths used to reference dialogue elsewhere in the file or in other files, with just the group of text being referenced.
 
 I simply use this to make writing an individual character's unique dialogue easier while still being able to look at the base dialogue as an example, I reccommend always running the verify script once more afterwards.
