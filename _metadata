@@ -1,12 +1,13 @@
 {
-	"version" : "3.1.3",
-	"tags" : "",
-	"author" : "Zygan, Wasabi_Raptor/LokiVulpix",
-	"description" : "A mod containing only the player presented strings within starbecue, intended for ease of contributing to main, or translating into other languages",
-	"link" : "https://www.patreon.com/LokiVulpix",
-	"name" : "Starbecue Dialogue",
-	"friendlyName" : "Starbecue Dialogue",
-	"requires" : [
-		"Starbecue"
+  "version" : "1.0",
+  "author" : "Aiser",
+  "tags" : "",
+  "description" : "3.x版本的sbc mod翻译，向2535891375@qq.com提出建议！",
+  "name" : "Starbecue Dialogue-cn",
+  "friendlyName" : "Starbecue Dialogue-cn",
+  "steamContentId" : "",
+  "link" : "" ,
+  "requires" : [
+	"Starbecue"
 	]
 }
