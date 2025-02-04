@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/sbqTransformIntoBlacklist/text",
+    "value": "你不能转化成一个在转化方面有问题的物种。"
+  },
+  {
+    "op": "replace",
+    "path": "/sbqTransformFromBlacklist/text",
+    "value": "你现在的物种不能被转化，因为它会引起问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/sbqTransformBindBlacklist/text",
+    "value": "该物种不能与转化药水绑定，因为它会引起问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/sbqTransformNPCOnly/text",
+    "value": "你不能转化一个只属于NPC的物种。"
+  }
+]
