@@ -1,1218 +1,1216 @@
 {
-	"madeThisMod": "So you made this mod?",
-	"ohGodDamnIt": "\n \nGod damn it!\n \nI knew this would happen, this game loves breaking the moment you breathe on it.",
-	"modDevelopment1": [
-		"Yeah I made this mod, used to be an addon but it became it's own standalone mod back in 2021",
-		"Ever since then I've been mostly working on it by myself with a bit of help from my partner Zygan here and there.",
-		"In the summer of 2023 the source code for starbound got leaked, which was really fucking cool for us."
-	],
-	"modDevelopment2": [
-		"As you can imagine, with the full source code available one can get to do some crazy stuff you couldn't before."
-	],
-	"modDevelopment2Cutoff": [
-		"As you can imagine, with the full source code available one can get to do some crazy"
-	],
-	"openShopOption": "I'd like to buy something.",
-	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
-	"greetingRewardsIntroduced": [
-		"<entityName> right?\nI have some things for you."
-	],
-	"greeting": [
-		"Hello.",
-		"Hey."
-	],
-	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
-	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
-	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
-	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
-	"converse": [
-		"So whats up?"
-	],
-	"introduce": [
-		"I'll try to remember your name <entityName>, I'm not great with names."
-	],
-	"converseShop": [
-		"Got any tasty rocks to pay me with?",
-		"I've got plenty of strange things to sell, as long as you're interested~",
-		"So you're gonna buy something?"
-	],
-	"talkAboutSelf": [
-		"So what is it?",
-		"What did you want to ask?",
-		"Ask away."
-	],
-	"talkAboutKinks": [
-		"So what kinky stuff did you want to know?",
-		"What're today's horny questions?"
-	],
-	"talkAboutBody": [
-		"You want to learn about my body?"
-	],
-	"itemSelectionMysteriousPotion": [
-		"TF is real, waow."
-	],
-	"itemSelectionGenderSwapPotion": [
-		"The gender fluid."
-	],
-	"itemSelectionReversionPotion": [
-		"You will very much want to have lots of these on hand if you're messing around with the potions above."
-	],
-	"itemSelectionSpeciesPotion": ":itemSelectionMysteriousPotion",
-	"itemSelectionDuplicatePotion": [
-		"Clone yourself responsibly please.",
-		"Are there any other '<entityName>'s I should know about?"
-	],
-	"itemSelectionMysteriousPotionHellhound": [
-		"This turns you into a anthro Hellhound!"
-	],
-	"itemSelectionMysteriousPotionVaporeon": [
-		"Want to be a vappy hehe?"
-	],
-	"itemSelectionMysteriousPotionFlareon": [
-		"If you floof, I will hug."
-	],
-	"itemSelectionMysteriousPotionMeowscarada": [
-		"I hear these tricky kitties are quite popular~"
-	],
-	"itemSelectionMysteriousPotionNickit": [
-		"You better watch yourself around my treasure if you choose to drink this."
-	],
-	"itemSelectionMysteriousPotionSandy_Fevix": [
-		"This turns you into Sandy the Floatporeon! just know that when playing as her, you have to go by her prefrences!"
-	],
-	"itemSelectionMysteriousPotionHelena_FFWizard": [
-		"This turns you into Helena the Hellhound! just know that when playing as her, you have to go by her prefrences!"
-	],
-	"itemSelectionPotionDartGun": {
-		"dialogueRandom": [
-			"TF GUN!\nTF GUN!\nTF GUN!",
-			"Make sure to buy some potions too or this thing is useless.",
-			"This thing I like, made in a single day, in a frenzy of energy.",
-			"Do be aware that some people can be immune to TF."
-		],
-		"imagePortraitRandom": [
-			"AJoyful.png",
-			"ANeutral.png",
-			"AHappy.png",
-			"ANeutral.png"
-		]
-	},
-	"itemSelectionNominomicon": [
-		"This is a pretty important tool if you don't want to deal with every object Pred being randomized, though I still think modifiers to feed them are quite fun"
-	],
-	"itemSelectionPlasticEgg": {
-		"dialogueRandom": [
-			"These! These are so fun, its so dumb but they're so fun I love them.",
-			"These are entirely reusable, and random ones can come in mismatched colors",
-			"Did you know if you get unbirthVoreed by a robotic species you'll get put in one of these?"
-		],
-		"imagePortraitRandom": [
-			"AHappy.png",
-			"ANeutral.png",
-			"ABlep.png"
-		]
-	},
-	"itemSelectionEggWand": {
-		"dialogueRandom": [
-			"Oh this? its pretty crazy, not really sure I should even be selling this?",
-			"I know I had one of these laying around somewhere...",
-			"Yeah I know 9999 is ridiculous but I can't just hand out something like this."
-		],
-		"imagePortraitRandom": "AConfused.png"
-	},
-	"itemSelectionSizeRay": {
-		"dialogueRandom": [
-			[
-				"SHRINK RAY!\nSHRINK RAY!\nSHRINK RAY!",
-				"GROWTH RAY!\nGROWTH RAY!\nGROWTH RAY!",
-				"SIZE RAY!\nSIZE RAY!\nSIZE RAY!"
-			],
-			"Use responsibly, and remember, micros are meant to be stepped on.",
-			"This thing is so much fun!",
-			"If you have this in your inventory you can set a scale manually in the settings."
-		],
-		"imagePortraitRandom": [
-			"AJoyful.png",
-			"ANeutral.png",
-			"AHappy.png",
-			"ANeutral.png"
-		]
-	},
-	"itemSelectionBallsPoster": {
-		"dialogueRandom": [
-			"Hehehehe, friends are stored in the balls~"
-		],
-		"imagePortraitRandom": [
-			"AJoyful.png"
-		]
-	},
-	"itemSelectionLargeWoodenArmchair": {
-		"dialogueRandom": [
-			"Beeg chair for beeg friends."
-		],
-		"imagePortraitRandom": [
-			"ANeutral.png"
-		]
-	},
-	"itemSelectionLoki_LokiVulpix_clothes": [
-		"Part of her outfit from season 3, iconic."
-	],
-	"itemSelectionAkari_AkariKaen_clothes": [
-		"I found these on the ground next to a shrink ray... there was some cheese in the pockets.",
-		"I thought I saw some sergal wearing these once, Akari I think?"
-	],
-	"itemSelectionSmallBellyBoundStore": {
-		"dialogueRandom": [
-			"They were the reason this mod came to be, even if I have surpassed it a bit in some aspects.",
-			"Might as well offer this here incase anyone wants it.",
-			"Do note that I'm not maintaining any of that mod's content.",
-			"While this was originally an add-on to SSVM, SBQ is entirely standalone from it now."
-		],
-		"imagePortraitRandom": [
-			"ANeutral.png"
-		]
-	},
-	"itemSelectionCoreCharem": {
-		"dialogue": [
-			"So, someone edited the shop recipes and also added this back into the game, fucking disgusting. This person expliclty allowed minors into vore spaces and was pedophillic, I don't want to associate with them."
-		],
-		"imagePortrait": [
-			"AMad.png"
-		]
-	},
-	"itemSelectionBoat" : [
-		"Oh I suppose you found this, have fun with it while I still figure it out hah."
-	],
-	"itemSelectionEvilDeed" : [
-		"Made like a dark fucked up evil version of the colony deed, just a glimpse into my twisted psyche."
-	],
-	"rewardNotifyRichOre": [
-		"This is great, I think I'll share some of my shiny rocks with you after.",
-		"Hehe, I've have to pay you back for doing this for me~"
-	],
-	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
-	"rewardNotifyLowValueQuestRewards": [
-		"I think I'll give you something after, this is nice.",
-		"You keep doing that and you might get even nicer rewards."
-	],
-	"rewardNotifyMediumValueQuestRewards": [
-		"Mmmm~ hehe, you're doing real good, keep it up~",
-		"I think you'll like what I've got ready for you after~"
-	],
-	"rewardNotifyHighValueQuestRewards": [
-		"You're doing amazing, I'll have some extra nice stuff for you~",
-		"Mmm~ are you trying to get gifts, or is keeping me happy a reward itself~?"
-	],
-	"oralVoreRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequested",
-	"oralVoreRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestedAfter",
-	"oralVoreInvalid": "Whoops! oralVore is invalid <dialoguePath>",
-	"oralVoreNo": ":defaultNo",
-	"oralVoreTooBig": ":tooBig",
-	"oralVoreTooSmall": ":tooSmall",
-	"tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
-	"oralVoreNoSlots": [
-		"I don't think I can take any more."
-	],
-	"noSlots": ":oralVoreNoSlots",
-	"oralVoreFull": "/npcs/sbq/dialogue/default.dialogue:oralVoreFull",
-	"oralVoreNeedsInfusion": [
-		"I need to turn someone into that first heh~"
-	],
-	"needsInfusion": ":oralVoreNeedsInfusion",
-	"oralVoreAlreadyInfused": [
-		"That spots already taken for now!"
-	],
-	"alreadyInfused": ":oralVoreAlreadyInfused",
-	"oralVoreTargetPreySettingsMismatch": [
-		"I think one of your little friends might not appreciate that."
-	],
-	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"tailVoreRequested": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequested",
-	"tailVoreRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestedAfter",
-	"tailVoreInvalid": "Whoops! tailVore is invalid <dialoguePath>",
-	"tailVoreNo": ":defaultNo",
-	"tailVoreTooBig": ":tooBig",
-	"tooBig": "/npcs/sbq/dialogue/default.dialogue:tooBig",
-	"tailVoreTooSmall": ":tooSmall",
-	"tailVoreNoSlots": ":oralVoreNoSlots",
-	"tailVoreFull": "/npcs/sbq/dialogue/default.dialogue:tailVoreFull",
-	"tailVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"tailVoreAlreadyInfused": ":oralVoreAlreadyInfused",
-	"tailVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"unbirthVoreRequested": [
-		"Hah, you're horny.",
-		"You want to get squeezed into my pussy?",
-		"You know thats where dicks are supposed to go right?",
-		"Thats going to be a real tight fit."
-	],
-	"unbirthVoreRequestedAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ You're getting me excited~",
-		"Ffff~ Now I'm all wet~",
-		"A-ahh~ Don't stop squirming~"
-	],
-	"unbirthVoreInvalid": "Whoops! unbirthVore is invalid <dialoguePath>",
-	"unbirthVoreNo": ":defaultNo",
-	"unbirthVoreTooBig": ":tooBig",
-	"unbirthVoreTooSmall": ":tooSmall",
-	"unbirthVoreNoSlots": ":oralVoreNoSlots",
-	"unbirthVoreFull": [
-		"My womb is already occupied~",
-		"Maybe after I'm done carrying my current occupants around~",
-		"Hehe, I would if I wasn't already full down there~",
-		"Maybe after I climax heh~"
-	],
-	"unbirthVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"unbirthVoreAlreadyInfused": ":oralVoreAlreadyInfused",
-	"unbirthVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"breastVoreRequested": [
-		"Hah, you're horny.",
-		"You want to squirm into one of my boobs?",
-		"Hehe, you want a bit more than just a drink of milk don't you~",
-		"Thats going to be a real tight fit.",
-		"Now to decide which side to put you on..."
-	],
-	"breastVoreRequestedAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ You're getting me excited~",
-		"Ffff~ hehe now they look even bigger~",
-		"A-ahh~ Don't stop squirming~"
-	],
-	"breastVoreInvalid": "Whoops! breastVore is invalid <dialoguePath>",
-	"breastVoreNo": ":defaultNo",
-	"breastVoreTooBig": ":tooBig",
-	"breastVoreTooSmall": ":tooSmall",
-	"breastVoreNoSlots": ":oralVoreNoSlots",
-	"breastVoreFull": "/npcs/sbq/dialogue/default.dialogue:breastVoreFull",
-	"breastVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"breastVoreAlreadyInfused": ":oralVoreAlreadyInfused",
-	"breastVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"cockVoreRequested": [
-		"Hah, you're horny.",
-		"You want to get squeezed into my dick?",
-		"Thats going to be a real tight fit."
-	],
-	"cockVoreRequestedAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ You're getting me all excited~",
-		"Ffff~ Now I'm all hard~",
-		"A-ahh~ Don't stop squirming~"
-	],
-	"cockVoreInvalid": "Whoops! cockVore is invalid <dialoguePath>",
-	"cockVoreNo": ":defaultNo",
-	"cockVoreTooBig": ":tooBig",
-	"cockVoreTooSmall": ":tooSmall",
-	"cockVoreNoSlots": ":oralVoreNoSlots",
-	"cockVoreFull": "/npcs/sbq/dialogue/default.dialogue:cockVoreFull",
-	"cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
-	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"breastInfuseRequested": [
-		"You want to be my boobs?",
-		"Mm, can't wait to be jiggling on my chest can you?",
-		"You really want to give yourself entirely to me?"
-	],
-	"breastInfuseRequestedAfter": [
-		"Hehe, I can feel you leaking with excitment already~",
-		"Hehe, excited to be part of me~?",
-		"Ah, you're already leaking milk~"
-	],
-	"breastInfuseInvalid": "Whoops! breastInfuse is invalid <dialoguePath>",
-	"breastInfuseNo": ":defaultNo",
-	"breastInfuseTooBig": ":tooBig",
-	"breastInfuseTooSmall": ":tooSmall",
-	"breastInfuseNoSlots": ":oralVoreNoSlots",
-	"breastInfuseFull": [
-		"I'm a bit too full...",
-		"My body can't stretch any further...",
-		"I've been filled too much already...",
-		"I would... but I'm too full..."
-	],
-	"full": ":breastInfuseFull",
-	"breastInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"breastInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
-	"breastInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"pussyInfuseRequested": [
-		"You want to be my pussy?",
-		"Mm, can't wait to be soaking wet down there can you?",
-		"You really want to give yourself entirely to me?"
-	],
-	"pussyInfuseRequestedAfter": [
-		"Hehe, I can feel you leaking with excitment already~",
-		"Hehe, excited to be part of me~?",
-		"Ah, you're already sopping wet with excitment~"
-	],
-	"pussyInfuseInvalid": "Whoops! pussyInfuse is invalid <dialoguePath>",
-	"pussyInfuseNo": ":defaultNo",
-	"pussyInfuseTooBig": ":tooBig",
-	"pussyInfuseTooSmall": ":tooSmall",
-	"pussyInfuseNoSlots": ":oralVoreNoSlots",
-	"pussyInfuseFull": ":breastInfuseFull",
-	"pussyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"pussyInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
-	"pussyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"cockInfuseRequested": [
-		"You want to be my cock?",
-		"Mm, can't wait to be throbbing down there can you?",
-		"You really want to give yourself entirely to me?"
-	],
-	"cockInfuseRequestedAfter": [
-		"Hehe, I can feel you twitching with excitment already~",
-		"Hehe, excited to be part of me~?",
-		"Ah, you're already throbbing with excitment~"
-	],
-	"cockInfuseInvalid": "Whoops! cockInfuse is invalid <dialoguePath>",
-	"cockInfuseNo": ":defaultNo",
-	"cockInfuseTooBig": ":tooBig",
-	"cockInfuseTooSmall": ":tooSmall",
-	"cockInfuseNoSlots": ":oralVoreNoSlots",
-	"cockInfuseFull": ":breastInfuseFull",
-	"cockInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"cockInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
-	"cockInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"oralVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutRequested",
-	"tailVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutRequested",
-	"unbirthVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutRequested",
-	"breastVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutRequested",
-	"cockVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutRequested",
-	"oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
-	"oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
-	"oralVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYesAfter",
-	"oralVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNo",
-	"oralVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYes",
-	"oralVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYesAfter",
-	"tailVorePrompt": "/npcs/sbq/dialogue/default.dialogue:tailVorePrompt",
-	"tailVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptYes",
-	"tailVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptYesAfter",
-	"tailVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNo",
-	"tailVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNoYes",
-	"tailVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNoYesAfter",
-	"unbirthVorePrompt": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePrompt",
-	"unbirthVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptYes",
-	"unbirthVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptYesAfter",
-	"unbirthVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNo",
-	"unbirthVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNoYes",
-	"unbirthVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNoYesAfter",
-	"breastVorePrompt": "/npcs/sbq/dialogue/default.dialogue:breastVorePrompt",
-	"breastVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptYes",
-	"breastVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptYesAfter",
-	"breastVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNo",
-	"breastVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNoYes",
-	"breastVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNoYesAfter",
-	"cockVorePrompt": "/npcs/sbq/dialogue/default.dialogue:cockVorePrompt",
-	"cockVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYes",
-	"cockVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYesAfter",
-	"cockVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNo",
-	"cockVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYes",
-	"cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
-	"oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
-	"oralVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingYes",
-	"oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
-	"oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
-	"tailVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequesting",
-	"tailVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingYes",
-	"tailVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingNo",
-	"tailVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingNoYes",
-	"unbirthVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequesting",
-	"unbirthVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingYes",
-	"unbirthVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingNo",
-	"unbirthVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingNoYes",
-	"breastVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequesting",
-	"breastVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingYes",
-	"breastVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingNo",
-	"breastVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingNoYes",
-	"cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
-	"cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
-	"cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
-	"cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
-	"oralVoreNoPrompt": [
-		"I think you'll fill me up.",
-		"I just need a bite to eat.",
-		"You seem like you'd make a good meal.",
-		"My belly's been grumbling..."
-	],
-	"oralVoreNoPromptAfter": ":oralVoreRequestedAfter",
-	"tailVoreNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailVoreNoPrompt",
-	"tailVoreNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreNoPromptAfter",
-	"unbirthVoreNoPrompt": [
-		"Gonna stick you somewhere things aren't supposed to go~",
-		"Mmm~ hey, want to try something?",
-		"I got a bit excited thinking about this, so now I have to do it~",
-		"I'm gonna need you to pleasure me, but not the normal way~"
-	],
-	"cockVoreNoPrompt": ":unbirthVoreNoPrompt",
-	"unbirthVoreNoPromptAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ You're getting me even more excited~",
-		"Ffff~ Now I'm all wet~",
-		"A-ahh~ Don't stop squirming~"
-	],
-	"breastVoreNoPrompt": ":unbirthVoreNoPrompt",
-	"breastVoreNoPromptAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ You're getting me even more excited~",
-		"Ffff~ hehe now they look even bigger~",
-		"A-ahh~ Don't stop squirming~"
-	],
-	"cockVoreNoPromptAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ You're getting me even more excited~",
-		"Ffff~ Now I'm all hard~",
-		"A-ahh~ Don't stop squirming~"
-	],
-	"breastInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPrompt",
-	"breastInfuseNoPromptAfter": [
-		"Ahh~ finally got you where you belong~",
-		"You belong right where you are, jiggling on my chest~",
-		"Mmm~ feels right to have you there~"
-	],
-	"pussyInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseNoPrompt",
-	"pussyInfuseNoPromptAfter": [
-		"Ahh~ finally got you where you belong~",
-		"You belong right where you are, soaking between my legs~",
-		"Mmm~ feels right to have you there~"
-	],
-	"cockInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:cockInfuseNoPrompt",
-	"cockInfuseNoPromptAfter": [
-		"Ahh~ finally got you where you belong~",
-		"You belong right where you are, throbbing between my legs~",
-		"Mmm~ feels right to have you there~"
-	],
-	"tailInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPrompt",
-	"tailInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPromptAfter",
-	"oralVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:oralVoreUnprompted",
-	"tailVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:tailVoreUnprompted",
-	"unbirthVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreUnprompted",
-	"breastVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:breastVoreUnprompted",
-	"cockVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:cockVoreUnprompted",
-	"oralVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutUnpromptedAfter",
-	"tailVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutUnpromptedAfter",
-	"unbirthVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutUnpromptedAfter",
-	"breastVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutUnpromptedAfter",
-	"cockVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutUnpromptedAfter",
-	"oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
-	"tailVoreForcing": "/npcs/sbq/dialogue/default.dialogue:tailVoreForcing",
-	"unbirthVoreForcing": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreForcing",
-	"breastVoreForcing": "/npcs/sbq/dialogue/default.dialogue:breastVoreForcing",
-	"cockVoreForcing": "/npcs/sbq/dialogue/default.dialogue:cockVoreForcing",
-	"oralVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutForcingAfter",
-	"tailVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForcingAfter",
-	"unbirthVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutForcingAfter",
-	"breastVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForcingAfter",
-	"cockVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutForcingAfter",
-	"oralVoreForced": "/npcs/sbq/dialogue/default.dialogue:oralVoreForced",
-	"tailVoreForced": "/npcs/sbq/dialogue/default.dialogue:tailVoreForced",
-	"unbirthVoreForced": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreForced",
-	"breastVoreForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreForced",
-	"cockVoreForced": "/npcs/sbq/dialogue/default.dialogue:cockVoreForced",
-	"oralVoreLetoutForced": [
-		"Ahh... ok you want out.",
-		"Why leave?",
-		"Mmm... fine you can come out.",
-		"I actually liked having you in there..."
-	],
-	"tailVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForced",
-	"unbirthVoreLetoutForced": [
-		"Happy birthday.",
-		"Ah~ Why'd you come out?",
-		"Mmm~ I thought you were pretty comfortable.",
-		"I thought you liked it in there.",
-		"Oh... alright."
-	],
-	"breastVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForced",
-	"cockVoreLetoutForced": [
-		"Ahh~ ahh that felt so good~",
-		"Could you get back in and squirm some more?",
-		"Mmm~ I thought you were pretty comfortable.",
-		"I thought you liked it in there.",
-		"Oh... alright."
-	],
-	"struggleBelly": [
-		"Having a good time in there?",
-		"Hope its comfortable."
-	],
-	"struggleWomb": [
-		"All safe... all mine!",
-		"Ahhh~ it's quite sensitive in there!",
-		"Ehehe... you'd best enjoy yourself~",
-		"Ahhh... I can't help getting excited with you wriggling in there!",
-		"Tucked away in my hoard~",
-		"Don't stop wriggling!",
-		"<keysmash>!"
-	],
-	"struggleTail": ":struggleWomb",
-	"struggleBreasts": [
-		"Having a good time in there?",
-		"Hope its comfortable.",
-		"Get yourself a nice milk bath~",
-		"Feel free to take a drink, don't want to start leaking after all~",
-		"hehe, look at how much bigger they are with you in there~"
-	],
-	"strugglePussy": [
-		"Ahhhh! you're gonna get me all wet!",
-		"MMmmmmyess! deeper!",
-		"DEEPER~!",
-		"<keysmash>!"
-	],
-	"struggleCock": [
-		"Ffffff yeeesss~",
-		"MMMMmmm~ go deeeper~",
-		"Ahhhhh~ deeeeper~",
-		"<keysmash>~"
-	],
-	"struggleBalls": [
-		"Yeeess~",
-		"Keep squirming~",
-		"Got you stewing down there in all that cum~",
-		"Ffff I gotta hold back from cumming you out~",
-		"<keysmash>~",
-		"Friends are stored in the balls~",
-		"Ohhhh I sure do want to just keep you down there~",
-		"Just get yourself absolutely covered in cum~",
-		"Ahhhhhh~",
-		"Sloshing around down there~",
-		"Mmmmm you're gonna get stained white~"
-	],
-	"struggleAss": [
-		"Mmm! sorry if I'm clenching too hard back there!",
-		"Ehehe!",
-		"Ah~!"
-	],
-	"struggleAcidHeal": [
-		"Now you're nice and safe.",
-		"Hope you like how it feels in there.",
-		"Just snuggle into the walls~",
-		"Get yourself nice and coated in those juices~"
-	],
-	"struggleFemcumHeal": [
-		"Get yourself niiiiiice and coated in all those juices~",
-		"You'll feel soooo much better after my fluids patch you up~",
-		"Maybe you'll get healed faster if you get me off hehe~"
-	],
-	"struggleCumHeal": [
-		"All my bodily fluids tend to have a healing property hehe~",
-		"Just relax and enjoy yourself... even if you might get stained white heh."
-	],
-	"struggleMilkHeal": "/npcs/sbq/dialogue/default.dialogue:struggleMilkHeal",
-	"struggleMiscHeal": ":struggleAcidHeal",
-	"struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
-	"struggleAcidDigest": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigest",
-	"struggleAcidDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigestImmune",
-	"struggleCumDigest": [
-		[
-			"Yessss get turned into some nice sticky cum~",
-			"Mmm~ letting yourself melt down into my cum~?",
-			{
-				"check": {
-					"analVore": true
-				},
-				"add": [
-					"Maybe I'll find a nice ass to pump you out in when we're done~"
-				]
-			},
-			{
-				"check": {
-					"unbirthVore": true
-				},
-				"add": [
-					"Maybe I'll find a nice pussy to pump you out in when we're done~"
-				]
-			},
-			{
-				"check": {
-					"oralVore": true
-				},
-				"add": [
-					"Maybe I'll find a nice throat to pump you down when we're done~"
-				]
-			},
-			"Ffff, you're getting softer~",
-			"Clooooser~",
-			"Just relaaaax as I melt you down~",
-			"Feels like I've got more cum than usual sloshing around down there~"
-		]
-	],
-	"struggleCumDigestBalls": [
-		"Hehehe just melt down and stew in all that cum heheh.",
-		"I can feel you starting to slosh around with the rest of the cum hehe~"
-	],
-	"struggleCumDigestImmune": [
-		"Enjoy yourself in there for as long as you like, even if you aren't melting heh.",
-		"Ah, not melting... stay as long ass you like anyway!"
-	],
-	"struggleFemcumDigest": [
-		"Mmmmm..."
-	],
-	"struggleFemcumDigestImmune": ":struggleCumDigestImmune",
-	"struggleMilkDigest": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigest",
-	"struggleMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestImmune",
-	"struggleMiscDigest": ":struggleAcidDigest",
-	"struggleMiscDigestImmune": ":struggleAcidDigestImmune",
-	"struggleTransforming": [
-		"Hehe... I wonder what you'll turn into.",
-		"You know, I can turn people into anything, I don't even know what they'll become somtimes."
-	],
-	"struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
-	"struggleEggify": [
-		"Can you feel that egg forming around you?",
-		"Soon your squirming won't do a thing~",
-		"Trapped even more~"
-	],
-	"anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
-	"breastInfusedOccupant": [
-		[
-			"<slowlove>Mmm, you make them so much more sensitive~",
-			"<slowlove>Mmm, <entityName> you make them so much more sensitive~"
-		],
-		[
-			"<slowlove>Ahh I can just feel you making even more milk~",
-			"<slowlove>Ahh I can just feel you making even more milk <entityName>~"
-		],
-		[
-			"<slowlove>Jiggling on my chest, right where you belong~",
-			"<slowlove>Jiggling on my chest, right where you belong <entityName>~"
-		],
-		{
-			"check": {
-				"breastInfusedSize": true
-			},
-			"add": [
-				[
-					"<love>I love how much bigger you make my boobs~",
-					"<love>I love how much bigger you make my boobs <entityName>~"
-				],
-				[
-					"<love>You're better as extra size for me~",
-					"<love>You're better as extra size for me <entityName>~"
-				]
-			]
-		},
-		[
-			"<love>You're far more useful like this~",
-			"<love>You're far more useful like this <entityName>"
-		]
-	],
-	"pussyInfusedOccupant": [
-		[
-			"<slowlove>Ahh, I'm so much more sensitive with you down there~",
-			"<slowlove>Ahh, <entityName>~ I'm so much more sensitive with you down there~"
-		],
-		[
-			"<slowlove>Fff, ahh... I keep getting wet thinking about you down there~",
-			"<slowlove>Fff, ahh... <entityName> I keep getting wet thinking about you down there~"
-		],
-		[
-			"<slowlove>Hehe... dripping wet, right where you belong~",
-			"Hehe... dripping wet, right where you belong <entityName>~"
-		],
-		[
-			"<love>You're far more useful like this~",
-			"<love>You're far more useful like this <entityName>"
-		]
-	],
-	"cockInfusedOccupant": [
-		[
-			"<love>Heh, I can feel you twitching down there~",
-			"<love>Heh, I can feel you twitching down there <entityName>~"
-		],
-		[
-			"<love>Are you enjoying your new purpose?~",
-			"<love>Are you enjoying your new purpose <entityName>?~"
-		],
-		[
-			"<slowlove>Just twitch and throb away, you're right where you belong~",
-			"<slowlove>Just twitch and throb away <entityName> you're right where you belong~"
-		],
-		[
-			"<love>Heh, you belong right there, twitching and throbbing between my legs~",
-			"<love>Heh, you belong right there <entityName>, twitching and throbbing between my legs~"
-		],
-		{
-			"check": {
-				"cockInfusedSize": true
-			},
-			"add": [
-				[
-					"<love>I love how much bigger you make my cock~",
-					"<love>I love how much bigger you make my cock <entityName>~"
-				],
-				[
-					"<love>You're better as extra size for me~",
-					"<love>You're better as extra size for me <entityName>~"
-				]
-			]
-		},
-		[
-			"<love>You're far more useful like this~",
-			"<love>You're far more useful like this <entityName>"
-		]
-	],
-	"tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant",
-	"strugglingBelly": [
-		[
-			"Mmmm pretty comfortable.",
-			"Ahh... your belly is so soft...",
-			{
-				"check": {
-					"bellySounds": true
-				},
-				"add": [
-					"Your belly is so noisy.",
-					"Mmm... I like the sounds your belly is making."
-				]
-			}
-		],
-		{
-			"check": {
-				"predator": "sbqVaporeon"
-			},
-			"add": [
-				"Gooey Vappy belly.",
-				"Its all gooey in here."
-			]
-		}
-	],
-	"strugglingWomb": [
-		"Ahh~ Its so soft in here~",
-		"Ohhh~ Your womb is so snug and soft~",
-		"This is so hot~"
-	],
-	"strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
-	"strugglingBreasts": "/npcs/sbq/dialogue/default.dialogue:strugglingBreasts",
-	"strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
-	"strugglingCock": [
-		"Ahh~ your cock is squeezing tight around me~",
-		"Ohhh~ Your shaft is squeezing so hard~",
-		"This is so hot~"
-	],
-	"strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
-	"strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
-	"strugglingAcidHeal": [
-		[
-			"Ahh... its so soothing.",
-			"I can feel all my troubles melting away...",
-			"Its so comfortable in here.",
-			{
-				"check": {
-					"bellySounds": true
-				},
-				"add": [
-					"I really like the sounds your belly makes... very calming.",
-					"I could just drift off to sleep listening to the sounds of your body..."
-				]
-			}
-		],
-		{
-			"check": {
-				"predator": "sbqVaporeon"
-			},
-			"add": [
-				"I always liked vappy goo."
-			]
-		}
-	],
-	"strugglingFemcumHeal": [
-		"Your womb is soothing me so well!",
-		"I can feel my pain vanishing within your womb.",
-		"Is your womb making me feel better? Strange..."
-	],
-	"strugglingCumHeal": [
-		"Who would have thought your cock could heal so well.",
-		"Your shaft is rather soothing it seems. Weird.",
-		"Your cock is making my pain go away. It's so relaxing in here!"
-	],
-	"strugglingMilkHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkHeal",
-	"strugglingMiscHeal": ":strugglingAcidHeal",
-	"strugglingCompression": [
-		"It's getting so tight in here!",
-		"I can barely move in here...",
-		"I can't keep it... from compacting me."
-	],
-	"strugglingAcidDigest": [
-		[
-			"Ahh... I'm starting to melt.",
-			"Oh my... I'm just gonna be food.",
-			{
-				"check": {
-					"bellySounds": true
-				},
-				"add": [
-					"Your belly is so noisy... I'm going to be gurgled up aren't I?",
-					"All this grumbling... you must be pretty hungry."
-				]
-			}
-		],
-		{
-			"check": {
-				"predator": "sbqVaporeon"
-			},
-			"add": [
-				"Ahh... I'm starting to melt into goo..."
-			]
-		}
-	],
-	"strugglingAcidDigestImmune": [
-		[
-			[
-				"Trying to melt me down?",
-				"Trying to melt me down?\nThats not gonna work."
-			],
-			"Heh, I can actually stay in here as long as I want.",
-			"I'm invincible!",
-			"You can't melt me!"
-		]
-	],
-	"strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest",
-	"strugglingCumDigestBalls": [
-		"It's so hot in your nuts, I feel like I'm melting.",
-		"The seed in your balls is all over me. I think I'm melting into it.",
-		"I'm unsure how long I'll stay solid in your sack at this rate."
-	],
-	"strugglingCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestImmune",
-	"strugglingFemcumDigest": [
-		"It's so hot inside your womb, I think I'm melting...",
-		"Your womb is softening me up!",
-		"I think I'll be mush if I stay any longer in your womb!"
-	],
-	"strugglingFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingFemcumDigestImmune",
-	"strugglingMilkDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigest",
-	"strugglingMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestImmune",
-	"strugglingMiscDigest": ":strugglingAcidDigest",
-	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
-	"strugglingDrainEnergy": [
-		"I... I'm feeling so tired...",
-		"It's getting harder to move...",
-		"I'm losing the energy to struggle...",
-		"I can barely even squirm..."
-	],
-	"strugglingEggify": [
-		"Is this... an egg?",
-		"Are you making an egg around me?",
-		"I'm gonna be trapped in an egg!"
-	],
-	"anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused",
-	"breastInfused": [
-		"<slowlove>",
-		"<love>",
-		[
-			"<slowlove>(Ahh... I just feel so good...~)",
-			"<slowlove>(I belong here don't I...~)",
-			"<slowlove>(Producing milk...~)",
-			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
-		]
-	],
-	"pussyInfused": [
-		"<slowlove>",
-		"<love>",
-		[
-			"<slowlove>(Ahh... I just feel so good...~)",
-			"<slowlove>(I belong here don't I...~)",
-			"<slowlove>(I'm getting so wet ahh~)",
-			"<slowlove>(Mmm put something inside me~)",
-			"<slowlove>(<entityname>'s pussy~)",
-			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
-		]
-	],
-	"cockInfused": [
-		"<slowlove>",
-		"<love>",
-		[
-			"<slowlove>(Ahh... I just feel so good...~)",
-			"<slowlove>(I belong here don't I...~)",
-			"<slowlove>(I'm just a cock~)",
-			"<slowlove>(I can't wait to be used~)",
-			"<slowlove>(Ahh~ I'm throbbing with excitment~)",
-			"<slowlove>(I'm just <entityname>'s cock~)",
-			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
-		]
-	],
-	"tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused",
-	"climax": "/npcs/sbq/dialogue/default.dialogue:climax",
-	"climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb",
-	"climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts",
-	"climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
-	"climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
-	"shrinking": "/npcs/sbq/dialogue/default.dialogue:shrinking",
-	"growing": "/npcs/sbq/dialogue/default.dialogue:growing",
-	"didSteppy": [
-		"hehe, whoops!",
-		"Oh did I step on something?",
-		"You tinies need to pay attention more!"
-	],
-	"gotStepped": [
-		[
-			"Ahhh!",
-			"AH!",
-			"oof!",
-			"eep!"
-		],
-		[
-			"You stepped on me!",
-			"Watch your step!"
-		],
-		[
-			"Be careful where you're <steppyType>!",
-			"Watch where you're <steppyType>!"
-		],
-		[
-			"Look out!",
-			"Careful!"
-		]
-	],
-	"gotStomped": [
-		[
-			"Ahhh!",
-			"AH!",
-			"oof!",
-			"eep!"
-		],
-		[
-			"You're stomping on me!",
-			"I'm getting smushed!",
-			"*wheeze*"
-		]
-	],
-	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
-	// Unused Dialogue
-	// Unused Dialogue
-	"greetingIntroduced": [
-		"Hi <entityname>!"
-	],
-	"itemSelectionPotionGiantVaporeon": {
-		"dialogueRandom": [
-			"Vappy TF UwU",
-			"The first one we made, basically all the original sprites were done by Zevi, then I had the great idea \"what if you could play as it\" and kinda took over.",
-			"Hey guys, did you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3”03’ tall and 63.9 pounds, this means they’re large enough to be able handle human dicks, and with their impressive Base Stats for HP and access to Acid Armor, you can be rough with one. Due to their mostly water based biology, there’s no doubt in my mind that an aroused Vaporeon would be incredibly wet, so wet that you could easily have sex with one for hours without getting sore. They can also learn the moves Attract, Baby-Doll Eyes, Captivate, Charm, and Tail Whip, along with not having fur to hide nipples, so it’d be incredibly easy for one to get you in the mood. With their abilities Water Absorb and Hydration, they can easily recover from fatigue with enough water. No other Pokémon comes close to this level of compatibility. Also, fun fact, if you pull out enough, you can make your Vaporeon turn white. Vaporeon is literally built for human dick. Ungodly defense stat+high HP pool+Acid Armor means it can take cock all day, all shapes and sizes and still come for more"
-		],
-		"buttonTextRandom": [
-			"UwU",
-			"Interesting.",
-			"Fucking Hell."
-		],
-		"imagePortraitRandom": [
-			"AUwU.png",
-			"ANeutral.png",
-			"ABlep.png"
-		]
-	},
-	"itemSelectionPotionGiantAvian": {
-		"dialogueRandom": [
-			"Oh my god the bird feet were hard to draw.",
-			"Big horny vorny birb.",
-			"I doubt the Stargazers would approve of this haha!",
-			"Make sure to check out the settings on this, theres some fun things that aren't enabled by default for obvious reasons!"
-		],
-		"imagePortraitRandom": [
-			"ADizzy.png",
-			"ABlep.png",
-			"AJoyful.png",
-			"AHappy.png"
-		]
-	},
-	"itemSelectionPotionXeronious": {
-		"dialogueRandom": [
-			"The first comm for one of these, currently the one with the most varied actions.",
-			"Big fluffy kaiju belly, currently the one that holds the most prey.",
-			"Aside from the support for making all this stuff, Xeronious has been an excellent bug tester to help this project not come apart at the seams every update release.",
-			"If I have to say the most difficult part making this, I think it'd probably be the grab system, which started here, had to redo how I handled the transformation groups to make it work.",
-			"The inhale that he can do is really fun to use"
-		],
-		"imagePortraitRandom": [
-			"ANeutral.png"
-		]
-	},
-	"itemSelectionPotionSlime": {
-		"dialogueRandom": [
-			"I actually made this whole thing in like, a few hours, it was done in one night. So yeah its really simple but rather fun!",
-			"Slime"
-		],
-		"imagePortraitRandom": [
-			"ANeutral.png",
-			"ABlep.png"
-		]
-	},
-	"itemSelectionCoreZiellekDragon": [
-		"The third comm, fully playable dragon, has some more customizability, commed by Lakota.",
-		"Noodle."
-	],
-	"itemSelectionSpookypumpkinhead": {
-		"dialogueRandom": [
-			"Halloween is my favorite!",
-			"My pet plushie Socks probably would like one of these in her house."
-		],
-		"imagePortraitRandom": [
-			"AJoyful.png"
-		]
-	},
-	"greetingShop": [
-		"Welcome to my shop!"
-	],
-	"shopPlace": [
-		"Oh this is just some weird little planet linked to a bunch of others, so I decided to build my shop here to sell this weird stuff."
-	],
-	"checkNPC": {
-		"imagePortrait": [
-			"AJoyful.png",
-			"ASmug.png",
-			"AHappy.png"
-		],
-		"dialogue": [
-			"I could probably, but my real world counterpart hasn't animated that for this form yet!",
-			"However...",
-			"Should you buy a deed and make a nice place for me, I'll setup shop wherever~"
-		],
-		"buttonText": [
-			"Aww...",
-			"Oh?",
-			"Oooh!"
-		]
-	},
-	"greeting.freeSample": {
-		"dialogueRandom": [
-			"I thought I'd give you a free sample of my wares!"
-		],
-		"imagePortraitRandom": "AJoyful.png"
-	},
-	"converse.options.1.1": [
-		"Well hi there <entityname>!",
-		"You can call me Auri, I'm a what your kind might call a 'Dreamer'.\n \nI go by She/They."
-	],
-	"converse.options.3.1": [
-		"Well uhm, you might find some coins and gems and such in there...\nSince my diet includes rocks and minerals."
-	],
-	"converse.options.3.1.continue.default": {
-		"dialogue": [
-			"Other than that it should be pretty comfortable for you!"
-		],
-		"imagePortrait": [
-			"AHappy.png"
-		]
-	},
-	"converse.options.3.1.continue.heal": {
-		"dialogue": [
-			"My juices in there should patch you up and be really soothing!"
-		],
-		"imagePortrait": [
-			"AJoyful.png"
-		]
-	},
-	"converse.options.3.1.continue.softDigest": {
-		"dialogue": [
-			"Well, you'd probably drift off to a nice relaxing goopy nap as I melt you down to keep as some pudge."
-		],
-		"imagePortrait": [
-			"ASmug.png"
-		]
-	},
-	"converse.options.4.1.default": {
-		"dialogue": [
-			"Should be nice and comfy in there."
-		],
-		"imagePortrait": [
-			"AHappy.png"
-		]
-	},
-	"converse.options.4.1.heal": {
-		"dialogue": [
-			"You'll feel so comfy and rested in there, I've heard its very nice~"
-		],
-		"imagePortrait": [
-			"AHappy.png"
-		]
-	},
-	"converse.options.5.1.default": [
-		"Should be soft and milky, it's purple flavored."
-	],
-	"converse.options.5.1.heal": [
-		"I always hear a milk bath is really relaxing~"
-	],
-	"converse.options.5.1.softDigest": [
-		"Might mix you up into my next batch of milk~"
-	],
-	"converse.options.6.1.default": {
-		"dialogue": [
-			"Hehe, I'll probably get pretty hard if you squirm your way in there~"
-		],
-		"imagePortrait": [
-			"ASmug.png"
-		]
-	},
-	"converse.options.7.1.default": [
-		"Might be a bit messy to stew and slosh around in all that cum~"
-	],
-	"converse.options.7.1.heal": [
-		"Most of my bodily fluids have healing properties, my cum is no exception~"
-	],
-	"converse.options.7.1.softDigest": [
-		"Hehe, you might end up being the next load I pump out into someone if you stay in there too long~"
-	],
-	"talkAboutSelf.options.0.1": [
-		"Well, the easiest answer is 'Dragon' but theres a bit more to it than that, what I really am is a 'Drimyr' or 'Dreamer'\nGotta love those fantasy names which you just spell a word differntly for fun.",
-		"I'm a creature which is empowered by dreams and imagination, both feeding off of them and using them to create worlds of my own, as well as entering the worlds of others.",
-		"Which I guess is sorta what I'm doing here? Invading this game world to help make the kinky fantasies of vore and such take form in some way.",
-		"While my physical form is a fluffy dragon usally I do shapeshift, it's probably easier to think of me as a fae, or some form of demon.",
-		"I'm not all powerful, but realms of dreams and imagination such as this where the laws of reality are flexible are where I am."
-	],
-	"talkAboutSelf.options.1.1": [
-		"First of all, while this form is a representation of me, don't think talking about kinky stuff here lets the other me just psychically know you learned my prefs and stuff.",
-		"But hey, if you have similar prefs, don't be scared about talking to the other me outside the game."
-	],
-	"talkAboutKinks.options.0.1": [
-		"I tend to like things a bit more close, in most cases the people I ate are more than just food to me. I'm eating them because I want them to feel comfy inside me.",
-		"Or I'm eating them because I want to have them inside, nice and protected, entirely surrounded by me in what could be a really close hug, all mine.",
-		"And then... if I do choose to digest someone, its because I want them even closer, I want them to truly be mine for the time I have them.",
-		"After I would melt someone down they get to experience being pudge somewhere on my body until I they want to be reformed, but during that time they are truly all mine."
-	],
-	"talkAboutKinks.options.0.1.continue": {
-		"dialogue": [
-			"Would you like being prey like that?"
-		],
-		"buttonText": [
-			":ynPrompt"
-		]
-	},
-	"talkAboutKinks.options.0.1.continue.options.0.1": [
-		"Nice! We can have some fun sometime then."
-	],
-	"talkAboutKinks.options.0.1.continue.options.1.1": [
-		"Alright then."
-	],
-	"talkAboutKinks.options.1.1": [
-		"If I do let myself be prey... it usually is only for a few specific people. Make me feel safe and comfortable, even if I do get gurgled I'd know it would be fine."
-	],
-	"talkAboutKinks.options.1.1.continue": {
-		"dialogue": [
-			"Would you be a pred like that?"
-		],
-		"buttonText": [
-			":ynPrompt"
-		]
-	},
-	"talkAboutKinks.options.1.1.continue.options.0.1": ":talkAboutKinks.options.0.1.continue.options.0.1",
-	"talkAboutKinks.options.1.1.continue.options.1.1": ":talkAboutKinks.options.0.1.continue.options.1.1",
-	"oralVoreOtherFull": ":breastInfuseFull",
-	"errorOrBad": [
-		"I don't like this.",
-		"This might be an error.",
-		"Ugh."
-	],
-	"allMineLines": [
-		[
-			"Hehe, all mine~",
-			"Now you're all mine~",
-			"My preything~"
-		],
-		[
-			"Trapped inside me~",
-			"Hehe, got you all stuck in there~",
-			"Do you even *want* to get out~?"
-		],
-		[
-			"Hehe, part of my hoard~",
-			"Looks like I'll be keeping you in my hoard~"
-		]
-	]
+  "madeThisMod": "所以你制作了这个模组？",
+  "ohGodDamnIt": "\n \n天哪！\n \n我就知道会这样,只要呼吸一下,这个游戏就会出问题,",
+  "modDevelopment1": [
+    "是的,我制作了这个模组,它曾经是一个插件,但在2021年变成了一个独立的模组,",
+    "从那时起,我主要靠自己开发,偶尔会得到我的伴侣Zygan的帮助,",
+    "2023年夏天,星界边境的源代码泄露了,这对我们来说非常酷,"
+  ],
+  "modDevelopment2": [
+    "正如你所想,有了完整的源代码,你可以做一些以前做不到的疯狂事情,"
+  ],
+  "modDevelopment2Cutoff": [
+    "正如你所想,有了完整的源代码,你可以做一些疯狂的……"
+  ],
+  "openShopOption": "我想买点东西,",
+  "greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
+  "greetingRewardsIntroduced": [
+    "<entityName>对吧？\n我有一些东西给你,"
+  ],
+  "greeting": [
+    "你好,",
+    "嘿,"
+  ],
+  "greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
+  "crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
+  "fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
+  "crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
+  "converse": [
+    "所以,有什么新鲜事吗？"
+  ],
+  "introduce": [
+    "我会尽力记住你的名字,<entityName>,我对名字不太擅长,"
+  ],
+  "converseShop": [
+    "你有美味的石头来付钱吗？",
+    "我有很多奇怪的东西可以卖,只要你感兴趣~",
+    "所以你要买点东西？"
+  ],
+  "talkAboutSelf": [
+    "所以,是什么？",
+    "你想问什么？",
+    "尽管问吧,"
+  ],
+  "talkAboutKinks": [
+    "所以你想知道什么奇怪的事情？",
+    "今天有什么色情问题？"
+  ],
+  "talkAboutBody": [
+    "你想了解我的身体吗？"
+  ],
+  "itemSelectionMysteriousPotion": [
+    "TF是真实的,哇哦,"
+  ],
+  "itemSelectionGenderSwapPotion": [
+    "性别流动,"
+  ],
+  "itemSelectionReversionPotion": [
+    "如果你在摆弄上面的药剂,你真的会想要手头有很多这些,"
+  ],
+  "itemSelectionSpeciesPotion": ":itemSelectionMysteriousPotion",
+  "itemSelectionDuplicatePotion": [
+    "请负责任地克隆自己,",
+    "还有其他'<entityName>'我应该知道吗？"
+  ],
+  "itemSelectionMysteriousPotionHellhound": [
+    "这会把你变成一个半人半魔的地狱猎犬！"
+  ],
+  "itemSelectionMysteriousPotionVaporeon": [
+    "想变成水伊布吗,嘿？"
+  ],
+  "itemSelectionMysteriousPotionFlareon": [
+    "如果你毛茸茸的,我会拥抱你,"
+  ],
+  "itemSelectionMysteriousPotionMeowscarada": [
+    "我听说这些狡猾的猫咪很受欢迎~"
+  ],
+  "itemSelectionMysteriousPotionNickit": [
+    "如果你选择喝这个,你最好小心我的宝藏,"
+  ],
+  "itemSelectionMysteriousPotionSandy_Fevix": [
+    "这会把你变成Sandy the Floatporeon！只是要知道,当你扮演她时,你必须按照她的偏好来！"
+  ],
+  "itemSelectionMysteriousPotionHelena_FFWizard": [
+    "这会把你变成Helena the Hellhound！只是要知道,当你扮演她时,你必须按照她的偏好来！"
+  ],
+  "itemSelectionPotionDartGun": {
+    "dialogueRandom": [
+      "TF GUN!\nTF GUN!\nTF GUN!",
+      "确保你也买一些药剂,否则这东西毫无用处,",
+      "这东西是我一天之内在疯狂的精力下制作的,",
+      "请注意,有些人可能对TF免疫,"
+    ],
+    "imagePortraitRandom": [
+      "AJoyful.png",
+      "ANeutral.png",
+      "AHappy.png",
+      "ANeutral.png"
+    ]
+  },
+  "itemSelectionNominomicon": [
+    "如果你不想处理每个捕食者的随机化,这是一个相当重要的工具,尽管我认为让它们有喂食的修饰符也很有趣,"
+  ],
+  "itemSelectionPlasticEgg": {
+    "dialogueRandom": [
+      "这些！这些太有趣了,它们很愚蠢,但真的很有趣,我爱它们,",
+      "这些是可以完全重复使用的,随机的可能会有不同的颜色搭配,",
+      "你知道吗,如果你被一个机器人物种重新出生,你会被放在一个这样的蛋里？"
+    ],
+    "imagePortraitRandom": [
+      "AHappy.png",
+      "ANeutral.png",
+      "ABlep.png"
+    ]
+  },
+  "itemSelectionEggWand": {
+    "dialogueRandom": [
+      "哦这个？这有点疯狂,我真的不确定我应该卖这个吗？",
+      "我知道我某个地方有一根这样的魔杖……",
+      "是的,我知道9999很荒谬,但我不能就这样把这样的东西送出去,"
+    ],
+    "imagePortraitRandom": "AConfused.png"
+  },
+  "itemSelectionSizeRay": {
+    "dialogueRandom": [
+      [
+        "SHRINK RAY!\nSHRINK RAY!\nSHRINK RAY!",
+        "GROWTH RAY!\nGROWTH RAY!\nGROWTH RAY!",
+        "SIZE RAY!\nSIZE RAY!\nSIZE RAY!"
+      ],
+      "请负责任地使用,记住,微小的生物是用来踩的,",
+      "这东西太好玩了！",
+      "如果你的背包里有这个,你可以在设置中手动设置比例,"
+    ],
+    "imagePortraitRandom": [
+      "AJoyful.png",
+      "ANeutral.png",
+      "AHappy.png",
+      "ANeutral.png"
+    ]
+  },
+  "itemSelectionBallsPoster": {
+    "dialogueRandom": [
+      "嘿嘿嘿,朋友都存在睾丸里~"
+    ],
+    "imagePortraitRandom": [
+      "AJoyful.png"
+    ]
+  },
+  "itemSelectionLargeWoodenArmchair": {
+    "dialogueRandom": [
+      "大椅子给大朋友,"
+    ],
+    "imagePortraitRandom": [
+      "ANeutral.png"
+    ]
+  },
+  "itemSelectionLoki_LokiVulpix_clothes": [
+    "这是她在第三季的部分服装,标志性服装,"
+  ],
+  "itemSelectionAkari_AkariKaen_clothes": [
+    "我在一个缩小射线旁边发现这些的……口袋里有一些奶酪,",
+    "我好像看到某个瑟尔加穿着这些,叫Akari？"
+  ],
+  "itemSelectionSmallBellyBoundStore": {
+    "dialogueRandom": [
+      "这些是我制作这个模组的原因,尽管我在某些方面已经超越了它,",
+      "如果有人想要,我在这里提供,",
+      "请注意,我不会维护这个模组的任何内容,",
+      "虽然这最初是SSVM的插件,但SBQ现在完全独立于它,"
+    ],
+    "imagePortraitRandom": [
+      "ANeutral.png"
+    ]
+  },
+  "itemSelectionCoreCharem": {
+    "dialogue": [
+      "所以,有人修改了商店配方,还把这个加回了游戏,真令人作呕,这个人明确允许未成年人进入捕食空间,而且有恋童癖,我不想和这样的人扯上关系,"
+    ],
+    "imagePortrait": [
+      "AMad.png"
+    ]
+  },
+  "itemSelectionBoat": [
+    "哦,我想你找到了这个,趁我还没想明白的时候,好好玩吧,哈哈,"
+  ],
+  "itemSelectionEvilDeed": [
+    "就像殖民地行为的黑暗邪恶版本,只是窥探我扭曲的心灵,"
+  ],
+  "rewardNotifyRichOre": [
+    "这很棒,我想我会在之后和你分享一些我的闪亮石头,",
+    "嘿,我会因为你的帮助而回报你~"
+  ],
+  "rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
+  "rewardNotifyLowValueQuestRewards": [
+    "我想我会在之后给你一些东西,这很不错,",
+    "你继续这样,你可能会得到更好的奖励,"
+  ],
+  "rewardNotifyMediumValueQuestRewards": [
+    "Mmmm~嘿,你做得很好,继续加油~",
+    "我想你会喜欢我之后为你准备的东西~"
+  ],
+  "rewardNotifyHighValueQuestRewards": [
+    "你做得太棒了,我会给你一些特别好的东西~",
+    "嗯~你是想得到礼物,还是让我开心本身就是一种奖励~？"
+  ],
+  "oralVoreRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequested",
+  "oralVoreRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestedAfter",
+  "oralVoreInvalid": "Whoops! oralVore is invalid <dialoguePath>",
+  "oralVoreNo": ":defaultNo",
+  "oralVoreTooBig": ":tooBig",
+  "oralVoreTooSmall": ":tooSmall",
+  "tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
+  "oralVoreNoSlots": [
+    "我想我再也受不了了"
+  ],
+  "noSlots": ":oralVoreNoSlots",
+  "oralVoreFull": "/npcs/sbq/dialogue/default.dialogue:oralVoreFull",
+  "oralVoreNeedsInfusion": [
+    "我需要先把某人变成那个,呵~"
+  ],
+  "needsInfusion": ":oralVoreNeedsInfusion",
+  "oralVoreAlreadyInfused": [
+    "那里现在已经被占用了！"
+  ],
+  "alreadyInfused": ":oralVoreAlreadyInfused",
+  "oralVoreTargetPreySettingsMismatch": [
+    "我想你的一个小朋友可能不会喜欢这个"
+  ],
+  "targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "tailVoreRequested": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequested",
+  "tailVoreRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestedAfter",
+  "tailVoreInvalid": "Whoops! tailVore is invalid <dialoguePath>",
+  "tailVoreNo": ":defaultNo",
+  "tailVoreTooBig": ":tooBig",
+  "tooBig": "/npcs/sbq/dialogue/default.dialogue:tooBig",
+  "tailVoreTooSmall": ":tooSmall",
+  "tailVoreNoSlots": ":oralVoreNoSlots",
+  "tailVoreFull": "/npcs/sbq/dialogue/default.dialogue:tailVoreFull",
+  "tailVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "tailVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+  "tailVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "unbirthVoreRequested": [
+    "哈,你很饥渴",
+    "你想挤进我的小穴吗？",
+    "你知道小弟弟应该插那里吧？",
+    "这将是一个真正的紧密配合,"
+  ],
+  "unbirthVoreRequestedAfter": [
+    "啊~ 哦~ 真不错~",
+    "嗯~ 你让我兴奋~",
+    "fff~现在我都湿了~",
+    "啊~不要停止扭动~"
+  ],
+  "unbirthVoreInvalid": "Whoops! unbirthVore is invalid <dialoguePath>",
+  "unbirthVoreNo": ":defaultNo",
+  "unbirthVoreTooBig": ":tooBig",
+  "unbirthVoreTooSmall": ":tooSmall",
+  "unbirthVoreNoSlots": ":oralVoreNoSlots",
+  "unbirthVoreFull": [
+    "我的子宫已经被占满了~",
+    "也许等我怀完现在的孩子之后吧~",
+    "嘿嘿,要不是我下面已经满了,我会的~",
+    "等我达到高潮再说吧"
+  ],
+  "unbirthVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "unbirthVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+  "unbirthVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "breastVoreRequested": [
+    "哈,你很饥渴",
+    "你想钻进我的胸部吗？",
+    "嘿嘿,你想要的不只是喝牛奶吧~",
+    "那可真是太紧了",
+    "现在决定把你放在哪一边......"
+  ],
+  "breastVoreRequestedAfter": [
+    "啊~ 哦~ 太爽了~",
+    "嗯~ 你让我兴奋~",
+    "噗~嘿嘿~现在看起来更大了~",
+    "啊~不要停止扭动~"
+  ],
+  "breastVoreInvalid": "Whoops! breastVore is invalid <dialoguePath>",
+  "breastVoreNo": ":defaultNo",
+  "breastVoreTooBig": ":tooBig",
+  "breastVoreTooSmall": ":tooSmall",
+  "breastVoreNoSlots": ":oralVoreNoSlots",
+  "breastVoreFull": "/npcs/sbq/dialogue/default.dialogue:breastVoreFull",
+  "breastVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "breastVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+  "breastVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "cockVoreRequested": [
+    "哈,你很饥渴",
+    "你想挤进我的鸡巴吗？",
+    "那可真是太紧了"
+  ],
+  "cockVoreRequestedAfter": [
+    "啊~ 哦~ 太爽了~",
+    "你让我兴奋不已",
+    "fff~现在我都硬了~",
+    "啊啊~ 不要停止扭动~"
+  ],
+  "cockVoreInvalid": "Whoops! cockVore is invalid <dialoguePath>",
+  "cockVoreNo": ":defaultNo",
+  "cockVoreTooBig": ":tooBig",
+  "cockVoreTooSmall": ":tooSmall",
+  "cockVoreNoSlots": ":oralVoreNoSlots",
+  "cockVoreFull": "/npcs/sbq/dialogue/default.dialogue:cockVoreFull",
+  "cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+  "cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "breastInfuseRequested": [
+    "你想成为我的胸部吗？",
+    "嗯,等不及在我胸前晃动了吧？",
+    "你真的想把自己完全献给我吗？"
+  ],
+  "breastInfuseRequestedAfter": [
+    "嘿嘿,我能感觉到你已经兴奋得要泄了~",
+    "嘿嘿,想成为我的一部分,兴奋吗？",
+    "啊,你已经开始漏奶了~"
+  ],
+  "breastInfuseInvalid": "Whoops! breastInfuse is invalid <dialoguePath>",
+  "breastInfuseNo": ":defaultNo",
+  "breastInfuseTooBig": ":tooBig",
+  "breastInfuseTooSmall": ":tooSmall",
+  "breastInfuseNoSlots": ":oralVoreNoSlots",
+  "breastInfuseFull": [
+    "我有点太饱了......",
+    "我的身体无法再伸展......",
+    "我已经吃得太饱了......",
+    "我想......但我太满了......"
+  ],
+  "full": ":breastInfuseFull",
+  "breastInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "breastInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
+  "breastInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "pussyInfuseRequested": [
+    "你想做我的小穴吗？",
+    "嗯,等不及下面湿透了,可以吗？",
+    "你真的想把自己完全献给我吗？"
+  ],
+  "pussyInfuseRequestedAfter": [
+    "嘿嘿,我能感觉到你已经兴奋得湿透了~",
+    "嘿嘿,想成为我的一部分吗？",
+    "啊,你已经兴奋得湿透了~"
+  ],
+  "pussyInfuseInvalid": "Whoops! pussyInfuse is invalid <dialoguePath>",
+  "pussyInfuseNo": ":defaultNo",
+  "pussyInfuseTooBig": ":tooBig",
+  "pussyInfuseTooSmall": ":tooSmall",
+  "pussyInfuseNoSlots": ":oralVoreNoSlots",
+  "pussyInfuseFull": ":breastInfuseFull",
+  "pussyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "pussyInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
+  "pussyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "cockInfuseRequested": [
+    "你想成为我的鸡巴吗？",
+    "嗯,等不及在下面跳动了,是吗？",
+    "你真的想把自己完全交给我吗？"
+  ],
+  "cockInfuseRequestedAfter": [
+    "嘿嘿,我能感觉到你已经兴奋得在抽搐了~",
+    "嘿嘿,想成为我的一部分,兴奋吗？",
+    "啊,你已经兴奋得悸动了~"
+  ],
+  "cockInfuseInvalid": "Whoops! cockInfuse is invalid <dialoguePath>",
+  "cockInfuseNo": ":defaultNo",
+  "cockInfuseTooBig": ":tooBig",
+  "cockInfuseTooSmall": ":tooSmall",
+  "cockInfuseNoSlots": ":oralVoreNoSlots",
+  "cockInfuseFull": ":breastInfuseFull",
+  "cockInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "cockInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
+  "cockInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "oralVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutRequested",
+  "tailVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutRequested",
+  "unbirthVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutRequested",
+  "breastVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutRequested",
+  "cockVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutRequested",
+  "oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
+  "oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
+  "oralVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYesAfter",
+  "oralVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNo",
+  "oralVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYes",
+  "oralVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYesAfter",
+  "tailVorePrompt": "/npcs/sbq/dialogue/default.dialogue:tailVorePrompt",
+  "tailVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptYes",
+  "tailVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptYesAfter",
+  "tailVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNo",
+  "tailVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNoYes",
+  "tailVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNoYesAfter",
+  "unbirthVorePrompt": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePrompt",
+  "unbirthVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptYes",
+  "unbirthVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptYesAfter",
+  "unbirthVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNo",
+  "unbirthVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNoYes",
+  "unbirthVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNoYesAfter",
+  "breastVorePrompt": "/npcs/sbq/dialogue/default.dialogue:breastVorePrompt",
+  "breastVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptYes",
+  "breastVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptYesAfter",
+  "breastVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNo",
+  "breastVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNoYes",
+  "breastVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNoYesAfter",
+  "cockVorePrompt": "/npcs/sbq/dialogue/default.dialogue:cockVorePrompt",
+  "cockVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYes",
+  "cockVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYesAfter",
+  "cockVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNo",
+  "cockVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYes",
+  "cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
+  "oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
+  "oralVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingYes",
+  "oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
+  "oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
+  "tailVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequesting",
+  "tailVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingYes",
+  "tailVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingNo",
+  "tailVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingNoYes",
+  "unbirthVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequesting",
+  "unbirthVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingYes",
+  "unbirthVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingNo",
+  "unbirthVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingNoYes",
+  "breastVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequesting",
+  "breastVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingYes",
+  "breastVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingNo",
+  "breastVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingNoYes",
+  "cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
+  "cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
+  "cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
+  "cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
+  "oralVoreNoPrompt": [
+    "我想你会让我吃饱的",
+    "我只想吃点东西",
+    "你看起来很适合当饭",
+    "我的肚子咕咕叫......"
+  ],
+  "oralVoreNoPromptAfter": ":oralVoreRequestedAfter",
+  "tailVoreNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailVoreNoPrompt",
+  "tailVoreNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreNoPromptAfter",
+  "unbirthVoreNoPrompt": [
+    "我要把你插到不该插的地方~",
+    "嗯~嘿,想试试吗？",
+    "我一想到这个就有点兴奋,所以现在我必须这么做~",
+    "我需要你来取悦我,但不是普通的方式~"
+  ],
+  "cockVoreNoPrompt": ":unbirthVoreNoPrompt",
+  "unbirthVoreNoPromptAfter": [
+    "啊~ 哦~ 太爽了~",
+    "嗯~你让我更兴奋了~",
+    "fff~现在我都湿了~",
+    "啊~不要停止扭动~"
+  ],
+  "breastVoreNoPrompt": ":unbirthVoreNoPrompt",
+  "breastVoreNoPromptAfter": [
+    "啊~ 哦~ 真不错~",
+    "嗯~你让我更兴奋了~",
+    "噗~嘿嘿~现在看起来更大了~",
+    "啊~不要停止扭动~"
+  ],
+  "cockVoreNoPromptAfter": [
+    "啊~ 哦~ 太爽了~",
+    "你让我更兴奋了",
+    "fff~现在我都硬了~",
+    "啊~不要停止扭动~"
+  ],
+  "breastInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPrompt",
+  "breastInfuseNoPromptAfter": [
+    "啊~终于找到属于你的地方了~",
+    "你就属于这里,在我胸前晃动~",
+    "嗯~感觉你就在那里~"
+  ],
+  "pussyInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseNoPrompt",
+  "pussyInfuseNoPromptAfter": [
+    "啊~终于找到属于你的地方了~",
+    "你就属于这里,浸泡在我的双腿之间~",
+    "嗯~感觉你就在那里~"
+  ],
+  "cockInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:cockInfuseNoPrompt",
+  "cockInfuseNoPromptAfter": [
+    "啊~终于找到属于你的地方了~",
+    "你就属于这里,在我的双腿间跳动~",
+    "嗯~感觉你就在那里~"
+  ],
+  "tailInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPrompt",
+  "tailInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPromptAfter",
+  "oralVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:oralVoreUnprompted",
+  "tailVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:tailVoreUnprompted",
+  "unbirthVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreUnprompted",
+  "breastVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:breastVoreUnprompted",
+  "cockVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:cockVoreUnprompted",
+  "oralVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutUnpromptedAfter",
+  "tailVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutUnpromptedAfter",
+  "unbirthVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutUnpromptedAfter",
+  "breastVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutUnpromptedAfter",
+  "cockVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutUnpromptedAfter",
+  "oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
+  "tailVoreForcing": "/npcs/sbq/dialogue/default.dialogue:tailVoreForcing",
+  "unbirthVoreForcing": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreForcing",
+  "breastVoreForcing": "/npcs/sbq/dialogue/default.dialogue:breastVoreForcing",
+  "cockVoreForcing": "/npcs/sbq/dialogue/default.dialogue:cockVoreForcing",
+  "oralVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutForcingAfter",
+  "tailVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForcingAfter",
+  "unbirthVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutForcingAfter",
+  "breastVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForcingAfter",
+  "cockVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutForcingAfter",
+  "oralVoreForced": "/npcs/sbq/dialogue/default.dialogue:oralVoreForced",
+  "tailVoreForced": "/npcs/sbq/dialogue/default.dialogue:tailVoreForced",
+  "unbirthVoreForced": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreForced",
+  "breastVoreForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreForced",
+  "cockVoreForced": "/npcs/sbq/dialogue/default.dialogue:cockVoreForced",
+  "oralVoreLetoutForced": [
+    "啊......好吧,你想出去,",
+    "为什么要离开？",
+    "嗯... 好吧,你可以出来了",
+    "其实我很喜欢你在里面......"
+  ],
+  "tailVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForced",
+  "unbirthVoreLetoutForced": [
+    "生日快乐",
+    "啊~你怎么出来了？",
+    "我还以为你很舒服呢",
+    "我以为你喜欢里面",
+    "哦... 好吧"
+  ],
+  "breastVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForced",
+  "cockVoreLetoutForced": [
+    "啊~啊~感觉真好~",
+    "你能再进去蠕动一下吗？",
+    "嗯~我觉得你挺舒服的",
+    "我以为你喜欢这样",
+    "哦... 好吧"
+  ],
+  "struggleBelly": [
+    "在里面过得开心吗？",
+    "希望很舒服"
+  ],
+  "struggleWomb": [
+    "一切安全......都是我的！",
+    "啊~里面很敏感！",
+    "嘿嘿......你最好尽情享受~",
+    "啊......你在里面蠕动,我不禁兴奋起来！",
+    "藏在我的囤积物里~",
+    "不要停止扭动！",
+    "<keysmash>！"
+  ],
+  "struggleTail": ":struggleWomb",
+  "struggleBreasts": [
+    "玩得开心吗？",
+    "希望很舒服",
+    "给自己洗个牛奶浴吧~",
+    "随便喝点吧,毕竟不想开始漏奶~",
+    "嘿嘿,你看你在里面,它们都大了不少~"
+  ],
+  "strugglePussy": [
+    "啊！你会把我弄湿的！",
+    "再深点！",
+    "再深点！",
+    "<keysmash>！"
+  ],
+  "struggleCock": [
+    "Ffffff yeeesss~",
+    "MMMMMMMMMMMMM~去更深~",
+    "Ahhhhh~ 更深~",
+    "<keysmash>~"
+  ],
+  "struggleBalls": [
+    "Yeeess~",
+    "继续蠕动~",
+    "把你炖在精液里",
+    "我要忍住不把你射出来~",
+    "<keysmash>~",
+    "朋友都储存在蛋蛋里~",
+    "噢噢噢,我真想把你留在下面~",
+    "把自己弄得满身都是精液吧~",
+    "啊~~~",
+    "在下面荡来荡去~",
+    "嗯嗯,你会被染白的~"
+  ],
+  "struggleAss": [
+    "嗯！抱歉我后面夹得太紧了！",
+    "诶嘿嘿！",
+    "啊~！"
+  ],
+  "struggleAcidHeal": [
+    "现在你安全了",
+    "希望你喜欢里面的感觉",
+    "偎依在墙壁里吧~",
+    "把自己涂满那些汁液吧~"
+  ],
+  "struggleFemcumHeal": [
+    "把自己涂得满满的",
+    "我的液体给你包扎后,你会感觉好多了~",
+    "如果你把我弄开,也许你会好得更快,嘿嘿~"
+  ],
+  "struggleCumHeal": [
+    "我所有的体液都有治愈的特性,嘿嘿~",
+    "放轻松,尽情享受......即使你可能会被染成白色,嘿嘿,"
+  ],
+  "struggleMilkHeal": "/npcs/sbq/dialogue/default.dialogue:struggleMilkHeal",
+  "struggleMiscHeal": ":struggleAcidHeal",
+  "struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
+  "struggleAcidDigest": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigest",
+  "struggleAcidDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigestImmune",
+  "struggleCumDigest": [
+    [
+      "是的,把它变成一些漂亮的粘性精液~",
+      "嗯~让自己融化在我的精液里~？",
+      {
+        "check": {
+          "analVore": true
+        },
+        "add": [
+          "也许等我们完事了 我还能找个好屁股把你抽出来~"
+        ]
+      },
+      {
+        "check": {
+          "unbirthVore": true
+        },
+        "add": [
+          "也许我们完事之后 我会找个好地方把你抽出来~"
+        ]
+      },
+      {
+        "check": {
+          "oralVore": true
+        },
+        "add": [
+          "也许我们做完后 我会找个好喉咙把你灌下去~"
+        ]
+      },
+      "fff,你越来越软~",
+      "Clooooser~",
+      "我把你融化的时候你就放松吧~",
+      "感觉我下面的精液比平时多"
+    ]
+  ],
+  "struggleCumDigestBalls": [
+    "嘿嘿嘿,就融化在这些精液里吧,嘿嘿",
+    "我能感觉到你开始和剩下的精液一起荡来荡去了,嘿嘿~"
+  ],
+  "struggleCumDigestImmune": [
+    "在里面尽情享受吧,即使你还没有融化,嘿嘿",
+    "啊,没有融化......反正你想呆多久就呆多久吧！"
+  ],
+  "struggleFemcumDigest": [
+    "Mmmmm..."
+  ],
+  "struggleFemcumDigestImmune": ":struggleCumDigestImmune",
+  "struggleMilkDigest": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigest",
+  "struggleMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestImmune",
+  "struggleMiscDigest": ":struggleAcidDigest",
+  "struggleMiscDigestImmune": ":struggleAcidDigestImmune",
+  "struggleTransforming": [
+    "嘿嘿... 我想知道你会变成什么,",
+    "你知道吗 我可以把人变成任何东西 有时我都不知道他们会变成什么"
+  ],
+  "struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
+  "struggleEggify": [
+    "你能感觉到蛋正在你的周围形成吗？",
+    "很快你的蠕动就没用了~",
+    "被困得更深了~"
+  ],
+  "anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
+  "breastInfusedOccupant": [
+    [
+      "<slowlove>嗯,你让它们变得更敏感了~",
+      "<slowlove>嗯, <entityName>你让它们变得更敏感了~"
+    ],
+    [
+      "<slowlove>啊,我能感觉到你正在分泌更多的乳汁~",
+      "<slowlove>啊,我能感觉到你正在分泌更多的乳汁 <entityName>~"
+    ],
+    [
+      "<slowlove>在我胸前晃动,就是属于你的地方~",
+      "<slowlove>在我胸前晃动,就是属于你的地方 <entityName>~"
+    ],
+    {
+      "check": {
+        "breastInfusedSize": true
+      },
+      "add": [
+        [
+          "<love>我喜欢你让我的胸部变得更大~",
+          "<love>>我喜欢你让我的胸部变得更大<entityName>~"
+        ],
+        [
+          "<love>我喜欢你把我的胸变得更大~",
+          "<love>你比我的 <entityName>大~"
+        ]
+      ]
+    },
+    [
+      "<love>你这样更有用~",
+      "<love>你这样更有用 <entityName>"
+    ]
+  ],
+  "pussyInfusedOccupant": [
+    [
+      "<slowlove>啊,有你在下面,我敏感多了~",
+      "<slowlove>啊, <entityName>~有你在我下面敏感多了~"
+    ],
+    [
+      "<slowlove>ffff,啊......想到你下面我就湿了~",
+      "<slowlove>ffff,啊......<entityName>想到你下面我就湿了~"
+    ],
+    [
+      "<slowlove>嘿嘿......湿漉漉的,属于你的地方~",
+      "嘿嘿......湿漉漉的,就在属于你的地方~"
+    ],
+    [
+      "<love>你这样更有用~",
+      "<love>你这样更有用 <entityName>"
+    ]
+  ],
+  "cockInfusedOccupant": [
+    [
+      "<love>呵,我能感觉到你在下面抽动~",
+      "<love>呵,我能感觉到你在下面抽动<entityName>~"
+    ],
+    [
+      "<love>你喜欢你的新目标吗？",
+      "<love>你喜欢你的新目标吗？"
+    ],
+    [
+      "<slowlove>只要抽动和悸动,你就会找到属于你的地方~",
+      "<slowlove>只要抽搐和悸动, <entityName>你就在属于你的地方~"
+    ],
+    [
+      "<love>呵,你就属于那里,在我的双腿间抽动悸动~",
+      "<love>呵,你就属于那里 <entityName>,在我两腿间抽动悸动~"
+    ],
+    {
+      "check": {
+        "cockInfusedSize": true
+      },
+      "add": [
+        [
+          "<love>我喜欢你让我的鸡巴变大~",
+          "<love>我喜欢你让我的鸡巴变大<entityName>~"
+        ],
+        [
+          "<love>你更适合我的尺寸~",
+          "<love>你更适合我的尺寸<entityName>~"
+        ]
+      ]
+    },
+    [
+      "<love>你这样更有用~",
+      "<love>你这样更有用 <entityName>"
+    ]
+  ],
+  "tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant",
+  "strugglingBelly": [
+    [
+      "嗯,还挺舒服的.",
+      "啊哈……你的肚子真柔软……",
+      {
+        "check": {
+          "bellySounds": true
+        },
+        "add": [
+          "你的肚子好吵,",
+          "嗯……我喜欢你肚子发出的声音,"
+        ]
+      }
+    ],
+    {
+      "check": {
+        "predator": "sbqVaporeon"
+      },
+      "add": [
+        "黏糊糊的水伊布肚子,",
+        "这里都是黏糊糊的,"
+      ]
+    }
+  ],
+  "strugglingWomb": [
+    "啊~这里好柔软~",
+    "哦~你的子宫又紧又软~",
+    "好热啊~"
+  ],
+  "strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
+  "strugglingBreasts": "/npcs/sbq/dialogue/default.dialogue:strugglingBreasts",
+  "strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
+  "strugglingCock": [
+    "啊~你的鸡巴紧紧地挤压着我~",
+    "啊~你的阴茎挤得我好紧~",
+    "好热啊~"
+  ],
+  "strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
+  "strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
+  "strugglingAcidHeal": [
+    [
+      "啊……真舒服,",
+      "我能感觉到所有的烦恼都在消融……",
+      "这里真舒服,",
+      {
+        "check": {
+          "bellySounds": true
+        },
+        "add": [
+          "我很喜欢你肚子里发出的声音……非常安宁,",
+          "我可以听着你身体的声音慢慢睡着……"
+        ]
+      }
+    ],
+    {
+      "check": {
+        "predator": "sbqVaporeon"
+      },
+      "add": [
+        "我一直很喜欢黏糊糊的水伊布,"
+      ]
+    }
+  ],
+  "strugglingFemcumHeal": [
+    "你的子宫让我舒畅无比！",
+    "我能感觉到我的疼痛在你的子宫里消失",
+    "你的子宫让我感觉好多了？奇怪......"
+  ],
+  "strugglingCumHeal": [
+    "谁能想到你的鸡巴能治得这么好",
+    "你的阴茎似乎很舒缓,真奇怪",
+    "你的鸡巴让我的疼痛消失了 这里真让人放松！"
+  ],
+  "strugglingMilkHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkHeal",
+  "strugglingMiscHeal": ":strugglingAcidHeal",
+  "strugglingCompression": [
+    "这里太紧了！",
+    "我在这里几乎动弹不得......",
+    "我无法让它......把我压紧"
+  ],
+  "strugglingAcidDigest": [
+    [
+      "啊……我开始融化了,",
+      "哦,天哪……我只是食物,",
+      {
+        "check": {
+          "bellySounds": true
+        },
+        "add": [
+          "你的肚子好吵……我会变得汩汩流动的,不是吗？",
+          "全是咕隆声……你一定很饿了,"
+        ]
+      }
+    ],
+    {
+      "check": {
+        "predator": "sbqVaporeon"
+      },
+      "add": [
+        "啊……我开始融化成粘液了……"
+      ]
+    }
+  ],
+  "strugglingAcidDigestImmune": [
+    [
+      [
+        "想把我融化吗?",
+        "想把我融化吗n?\n 这行不通."
+      ],
+      "我想在这待多久就多久",
+      "我是无敌的！",
+      "你融化不了我！"
+    ]
+  ],
+  "strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest",
+  "strugglingCumDigestBalls": [
+    "你蛋蛋里太热了,我感觉自己要融化了",
+    "你蛋蛋里的种子沾满了我全身,我想我要融化进去了",
+    "我不知道这样下去 我还能在你的蛋蛋里呆多久"
+  ],
+  "strugglingCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestImmune",
+  "strugglingFemcumDigest": [
+    "你的子宫里好热,我想我要融化了......",
+    "你的子宫让我变软了！",
+    "我想我再呆在你的子宫里就成肉酱了！"
+  ],
+  "strugglingFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingFemcumDigestImmune",
+  "strugglingMilkDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigest",
+  "strugglingMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestImmune",
+  "strugglingMiscDigest": ":strugglingAcidDigest",
+  "strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
+  "strugglingDrainEnergy": [
+    "我......我觉得好累......",
+    "行动越来越困难......",
+    "我失去了挣扎的力气......",
+    "我几乎连蠕动都做不到了......"
+  ],
+  "strugglingEggify": [
+    "这是......蛋吗？",
+    "你在我周围做了个蛋吗？",
+    "我要被困在蛋里了！"
+  ],
+  "anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused",
+  "breastInfused": [
+    "<slowlove>",
+    "<love>",
+    [
+      "<slowlove>（啊......我感觉好极了......~）",
+      "<slowlove>（我属于这里,不是吗......~）",
+      "<slowlove>（产奶......~）",
+      "<slowlove>（我属于这里......只是<entityname>的一部分~）",
+      "<love>（<keymash>）"
+    ]
+  ],
+  "pussyInfused": [
+    "<slowlove>",
+    "<love>",
+    [
+      "<slowlove>（啊......我感觉好极了......~）",
+      "<slowlove>（我属于这里,不是吗......~）",
+      "<slowlove>（我湿透了,啊~）",
+      "<slowlove>（嗯,把东西放进我身体里~）",
+      "<slowlove>（<entityname>的阴部~）",
+      "<slowlove>（我属于这里......只是<entityname>的一部分~）",
+      "<love>（<keymash>）"
+    ]
+  ],
+  "cockInfused": [
+    "<slowlove>",
+    "<love>",
+    [
+      "<slowlove>（啊......我感觉好极了......~）",
+      "<slowlove>（我属于这里,不是吗......~）",
+      "<slowlove>（我只是个鸡巴~）",
+      "<slowlove>（我迫不及待地想被利用~）",
+      "<slowlove>（啊~我兴奋得悸动~）",
+      "<slowlove>（我只是<entityname>的鸡巴~）",
+      "<slowlove>（我属于这里......只是<entityname>的一部分~）",
+      "<love>（<keysmash>）"
+    ]
+  ],
+  "tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused",
+  "climax": "/npcs/sbq/dialogue/default.dialogue:climax",
+  "climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb",
+  "climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts",
+  "climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
+  "climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
+  "shrinking": "/npcs/sbq/dialogue/default.dialogue:shrinking",
+  "growing": "/npcs/sbq/dialogue/default.dialogue:growing",
+  "didSteppy": [
+    "嘿嘿,哎呀！",
+    "我踩到什么了吗？",
+    "你们这些小家伙得多注意点！"
+  ],
+  "gotStepped": [
+    [
+      "啊！",
+      "啊！",
+      "呜！",
+      "呃！"
+    ],
+    [
+      "你踩到我了！",
+      "小心脚下！"
+    ],
+    [
+      "小心你的脚下！",
+      "小心你的脚下！"
+    ],
+    [
+      "小心！",
+      "小心！"
+    ]
+  ],
+  "gotStomped": [
+    [
+      "啊！",
+      "啊！",
+      "呜！",
+      "呃！"
+    ],
+    [
+      "你踩到我了！",
+      "我要被踩扁了！",
+      "*哎呀*"
+    ]
+  ],
+  "vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
+  "greetingIntroduced": [
+    "嗨 <entityname>!"
+  ],
+  "itemSelectionPotionGiantVaporeon": {
+    "dialogueRandom": [
+      "水伊布TF UwU",
+      "我们做的第一个,基本上所有的原始贴图都是由Zevi完成的,然后我有了一个伟大的想法\n 如果你可以扮演它呢？\n 并有点接过了,",
+      "嘿,伙计们,你们知道吗？在男性人类和女性宝可梦繁殖方面,水伊布是与人类最兼容的宝可梦,它们不仅属于陆地蛋群,这个群组大多由哺乳动物组成,水精灵平均身高3英尺3英寸,体重63.9磅,这意味着它们足够大,能够应对人类的阴茎,凭借它们出色的HP基础属性和融化技能,你可以对它们粗暴一些,由于它们的生物结构主要基于水,我毫不怀疑,一只兴奋的水精灵会非常湿润,湿润到你可以轻松地与之性交数小时而不感到疼痛,它们还可以学习迷人,圆瞳,诱惑,魅力和摇尾巴等招式,而且没有毛发遮挡乳头,所以它们很容易就能让你兴奋起来,凭借它们的储水和保湿能力,它们可以轻松地通过足够的水分从疲劳中恢复过来,没有其他宝可梦能达到这种兼容性,另外,有趣的是,如果你射得足够多,你可以让你的水精灵变白,水精灵简直就是为人类的阴茎而生的,超凡的防御属性+高HP值+融化意味着它可以整天承受各种形状和大小的阴茎,而且还会想要更多,"
+    ],
+    "buttonTextRandom": [
+      "UwU",
+      "有趣",
+      "真他妈见鬼"
+    ],
+    "imagePortraitRandom": [
+      "AUwU.png",
+      "ANeutral.png",
+      "ABlep.png"
+    ]
+  },
+  "itemSelectionPotionGiantAvian": {
+    "dialogueRandom": [
+      "天哪 这鸟脚可真难画",
+      "好色的大鸟",
+      "我怀疑观星者会同意这样做,哈哈！",
+      "请务必查看设置,由于显而易见的原因,有些有趣的东西并没有在默认情况下启用！"
+    ],
+    "imagePortraitRandom": [
+      "ADizzy.png",
+      "ABlep.png",
+      "AJoyful.png",
+      "AHappy.png"
+    ]
+  },
+  "itemSelectionPotionXeronious": {
+    "dialogueRandom": [
+      "第一个指令,亦是目前拥有最多动作的指令,",
+      "毛茸茸的大kaiju肚子,目前是容纳猎物最多的一个,",
+      "除了对制作这些东西的支持外,Xeronious 还是一位出色的错误测试员,帮助这个项目在每次更新发布时都不会分崩离析,",
+      "如果非要说制作过程中最困难的部分,我想可能是抓取系统,从这里开始,我不得不重新设计如何处理变身组来使其工作",
+      "他能做的吸气动作真的很有趣"
+    ],
+    "imagePortraitRandom": [
+      "ANeutral.png"
+    ]
+  },
+  "itemSelectionPotionSlime": {
+    "dialogueRandom": [
+      "实际上,我只用了几个小时就做完了这个东西,一个晚上就完成了,所以是的,它真的很简单,但相当有趣！",
+      "史莱姆"
+    ],
+    "imagePortraitRandom": [
+      "ANeutral.png",
+      "ABlep.png"
+    ]
+  },
+  "itemSelectionCoreZiellekDragon": [
+    "第三条完全可玩的龙有更多自定义功能,由Lakota编写.",
+    "面条"
+  ],
+  "itemSelectionSpookypumpkinhead": {
+    "dialogueRandom": [
+      "万圣节是我的最爱！",
+      "我的宠物毛绒玩具Socks可能会喜欢在她家里放一个这个"
+    ],
+    "imagePortraitRandom": [
+      "AJoyful.png"
+    ]
+  },
+  "greetingShop": [
+    "欢迎光临我的商店！"
+  ],
+  "shopPlace": [
+    "哦,这只是个奇怪的小星球,与其他星球连接在一起,所以我决定在这里建个商店来卖这些奇怪的东西,"
+  ],
+  "checkNPC": {
+    "imagePortrait": [
+      "AJoyful.png",
+      "ASmug.png",
+      "AHappy.png"
+    ],
+    "dialogue": [
+      "我也许可以,但我在现实世界的同事还没有为这个表单制作动画！",
+      "然而......",
+      "如果你买了地契,给我造了个好地方,我就在哪里开店~"
+    ],
+    "buttonText": [
+      "啊......",
+      "哦？",
+      "噢！"
+    ]
+  },
+  "greeting.freeSample": {
+    "dialogueRandom": [
+      "我想给你一个免费样品！"
+    ],
+    "imagePortraitRandom": "AJoyful.png"
+  },
+  "converse.options.1.1": [
+    "哦你好 <entityname>!",
+    "你可以叫我Auri,我是一个你们所谓的‘梦想家’,用 她/她们 称呼我,"
+  ],
+  "converse.options.3.1": [
+    "嗯嗯,你可能会在里面找到一些硬币和宝石之类的东西......（因为我的食物包括岩石和矿物）"
+  ],
+  "converse.options.3.1.continue.default": {
+    "dialogue": [
+      "除此之外,你应该会觉得很舒服！"
+    ],
+    "imagePortrait": [
+      "AHappy.png"
+    ]
+  },
+  "converse.options.3.1.continue.heal": {
+    "dialogue": [
+      "我的汁液应该能让你痊愈,而且非常舒缓！"
+    ],
+    "imagePortrait": [
+      "AJoyful.png"
+    ]
+  },
+  "converse.options.3.1.continue.softDigest": {
+    "dialogue": [
+      "当我把你融化成软糖时,你可能会沉沉地睡上一觉"
+    ],
+    "imagePortrait": [
+      "ASmug.png"
+    ]
+  },
+  "converse.options.4.1.default": {
+    "dialogue": [
+      "里面应该很舒服"
+    ],
+    "imagePortrait": [
+      "AHappy.png"
+    ]
+  },
+  "converse.options.4.1.heal": {
+    "dialogue": [
+      "你在里面会感觉很舒服,休息得很好,我听说那里很不错~"
+    ],
+    "imagePortrait": [
+      "AHappy.png"
+    ]
+  },
+  "converse.options.5.1.default": [
+    "应该是柔软的乳白色,是紫色口味的"
+  ],
+  "converse.options.5.1.heal": [
+    "我一直听说牛奶浴能让人放松~"
+  ],
+  "converse.options.5.1.softDigest": [
+    "可能会把你混进我的下一批牛奶里~"
+  ],
+  "converse.options.6.1.default": {
+    "dialogue": [
+      "嘿嘿,如果你在里面扭来扭去,我可能会很难受~"
+    ],
+    "imagePortrait": [
+      "ASmug.png"
+    ]
+  },
+  "converse.options.7.1.default": [
+    "在这些精液里炖煮和荡漾可能会有点乱~"
+  ],
+  "converse.options.7.1.heal": [
+    "我的大部分体液都有治疗功效,我的精液也不例外~"
+  ],
+  "converse.options.7.1.softDigest": [
+    "嘿嘿,如果你在里面呆得太久,你可能会成为我下一个射精的对象~"
+  ],
+  "talkAboutSelf.options.0.1": [
+    "嗯,最简单的答案是'龙',但其实不止如此,我真正的身份是'Drimyr'或者'Dreamer'（梦想家）",
+    "我是一种被梦境和想象力赋予力量的生物,既能以梦境和想象力为食,又能利用它们创造属于自己的世界,还能进入他人的世界,",
+    "我想这就是我在这里做的事情吧？入侵这个游戏世界,以某种方式帮助人们实现淫秽幻想",
+    "虽然我的外形是一条毛茸茸的龙,但我确实会变形,把我想象成异种或某种形式的恶魔可能更容易一些,",
+    "我并不是万能的,但在梦境和想象中,比如在这里 现实法则是灵活的,这就是我所在的地方"
+  ],
+  "talkAboutSelf.options.1.1": [
+    "首先,虽然这个形象是我的一个代表,但不要以为在这里谈论变态的东西会让另一个我从心理上知道你了解了我的喜好之类的东西",
+    "不过,如果你也有类似的癖好,就不要害怕在游戏外和另一个我交谈"
+  ],
+  "talkAboutKinks.options.0.1": [
+    "我倾向于喜欢亲密一点的东西,在大多数情况下,我吃的人对我来说不仅仅是食物,我吃他们是因为我想让他们在我身体里感觉舒服,",
+    "或者说,我吃他们是因为我想让他们在我的身体里,得到很好的保护,完全被我包围,就像一个真正亲密的拥抱,属于我的,",
+    "然后......如果我选择消化一个人,那是因为我想让他们离我更近,我想让他们在我拥有他们的这段时间里真正属于我",
+    "当我把一个人融化之后 他就会在我身体的某个地方变成软泥,直到我想把他改造,但在那段时间里,他是我真正的全部"
+  ],
+  "talkAboutKinks.options.0.1.continue": {
+    "dialogue": [
+      "你喜欢这样被捕食吗？"
+    ],
+    "buttonText": [
+      ":ynPrompt"
+    ]
+  },
+  "talkAboutKinks.options.0.1.continue.options.0.1": [
+    "那我们可以找点乐子了"
+  ],
+  "talkAboutKinks.options.0.1.continue.options.1.1": [
+    "那好吧"
+  ],
+  "talkAboutKinks.options.1.1": [
+    "如果我让自己成为猎物......通常只针对几个特定的人,让我感到安全和舒适,即使我被潺潺流过,我也知道不会有事,"
+  ],
+  "talkAboutKinks.options.1.1.continue": {
+    "dialogue": [
+      "你会成为那样的预言家吗？"
+    ],
+    "buttonText": [
+      ":ynPrompt"
+    ]
+  },
+  "talkAboutKinks.options.1.1.continue.options.0.1": ":talkAboutKinks.options.0.1.continue.options.0.1",
+  "talkAboutKinks.options.1.1.continue.options.1.1": ":talkAboutKinks.options.0.1.continue.options.1.1",
+  "oralVoreOtherFull": ":breastInfuseFull",
+  "errorOrBad": [
+    "我不喜欢这样",
+    "这可能是个错误",
+    "唉"
+  ],
+  "allMineLines": [
+    [
+      "嘿嘿,都是我的~",
+      "现在你是我的了~",
+      "我的猎物~"
+    ],
+    [
+      "困在我身体里~",
+      "嘿嘿,把你困在里面了~",
+      "你想出来吗？"
+    ],
+    [
+      "嘿嘿,我囤积的一部分~",
+      "看来我要把你留在我的囤积里了~"
+    ]
+  ]
 }
