@@ -1,495 +1,494 @@
 {
-	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
-	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
-	"greeting": [
-		"Ah, hello there",
-		"merp?",
-		"yes?",
-		"yea?"
-	],
-	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
-	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
-	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
-	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
-	"converse": [
-		"Did ya want to talk about something?",
-		"merp?"
-	],
-	"introduce": [
-		"well...\n nice to make you acquittance <entityname>"
-	],
-	"talkAboutSelf": [
-		"well there isnt much to me, merp"
-	],
-	"talkAboutSelfWhatAreYou": [
-		"never seen an sergal before? well my home planet is Tal with several races and clans in them and I lived in a Major city called Gold Ring mostly populated with southern sergals I was called \"city boy\" A lot. "
-	],
-	"talkAboutSelfWhyMerp": [
-		"me...* clears throat * it's a funny sound we can make and it was popular...and now its a cliche thing we do..though once you get us going it'll be all you hear"
-	],
-	"talkAboutSelfCheeseJoke": [
-		"* groans * well aren't you clever...it's not like I heard those jokes thousands of times over my entire life...but I can't stop you having have your fun with it."
-	],
-	"talkAboutSelfKinks": [
-		"hmm...I can talk about the some of them that are worth while for this Mod."
-	],
-	"talkAboutKinks": [
-		"so you wanted to talk kinks?"
-	],
-	"talkAboutKinksMacroMicro": [
-		"Probably what you'll see me  interact with the most as I like being an micro and how I primary interact with my other kinks and I always love the tiny in house of macros avoiding their steps~"
-	],
-	"talkAboutKinksPaws": [
-		"Ah...yes paws...as I prefer humanoid soles...the same ideal follows as I enjoy the pleasure of serving them and being under them as normal or tiny~."
-	],
-	"talkAboutKinksVore": [
-		"not my biggest thing but for the case of this I'd say my go to is OV and CV though only while micro since it works better in my head."
-	],
-	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
-	"rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
-	"rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards",
-	"rewardNotifyHighValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyHighValueQuestRewards",
-	"oralVoreRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequested",
-	"oralVoreRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestedAfter",
-	"oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid",
-	"oralVoreNo": ":defaultNo",
-	"oralVoreTooBig": ":tooBig",
-	"tooBig": "/npcs/sbq/dialogue/default.dialogue:tooBig",
-	"oralVoreTooSmall": ":tooSmall",
-	"tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
-	"oralVoreNoSlots": ":noSlots",
-	"noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
-	"oralVoreFull": "/npcs/sbq/dialogue/default.dialogue:oralVoreFull",
-	"oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
-	"needsInfusion": ":oralVoreNeedsInfusion",
-	"oralVoreAlreadyInfused": [
-		"I think I'm already occupied there."
-	],
-	"alreadyInfused": ":oralVoreAlreadyInfused",
-	"oralVoreTargetPreySettingsMismatch": [
-		"One of your occupants might not appreciate that."
-	],
-	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"cockVoreRequested": [
-		"lol horny for sergal pp",
-		"merp? you want in my shaft?",
-		"hope you fit",
-		"well? come on in"
-	],
-	"cockVoreRequestedAfter": [
-		"ooh my merp that get me hard~",
-		"FFF~ you making this ergal very happy",
-		"great...im hard..hope no one notices...",
-		"m..merp merp~"
-	],
-	"cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
-	"cockVoreNo": [
-		"Not in the mood pal",
-		"I'm busy",
-		"Mayber later im just rubbed it off awhile ago",
-		"I'm got other sergals things to do...like merping",
-		"my shaft is tired"
-	],
-	"cockVoreTooBig": [
-		"Sorry micros only",
-		"Woah maybe shrink youself down and I may",
-		"get youself a shrink ray form Auri and come back to me",
-		"smalelr folks only",
-		"your to merping big"
-	],
-	"cockVoreTooSmall": ":tooSmall",
-	"cockVoreNoSlots": ":noSlots",
-	"cockVoreFull": [
-		"my sheese dispenser is full right now...",
-		"Hmmm if someone moves down to my balls you might fit~",
-		"This sergal shaft is full",
-		"Maybe when I bust a sergal nut"
-	],
-	"cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
-	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"oralVoreLetoutRequested": [
-		"alright out you go",
-		"*hack and coughs* out you go",
-		"bleh...you didnt really taste that good",
-		"come on out we got work to do *burps* er excuse me"
-	],
-	"cockVoreLetoutRequested": [
-		"Hhhhhh I'm gonna cum...",
-		"M..mmph god~",
-		"Gonna blast~",
-		"M..Meerpp....~"
-	],
-	"reformRequested": [
-		"reformation central",
-		"beep boop reforming..haha jk I aint a synth...oh hope Blue didnt hear that",
-		"alright time to reform"
-	],
-	"oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
-	"oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
-	"oralVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYesAfter",
-	"oralVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNo",
-	"oralVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYes",
-	"oralVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYesAfter",
-	"cockVorePrompt": "/npcs/sbq/dialogue/default.dialogue:cockVorePrompt",
-	"cockVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYes",
-	"cockVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYesAfter",
-	"cockVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNo",
-	"cockVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYes",
-	"cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
-	"oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
-	"oralVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingYes",
-	"oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
-	"oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
-	"cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
-	"cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
-	"cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
-	"cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
-	"oralVoreNoPrompt": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreNoPrompt",
-	"oralVoreNoPromptAfter": ":oralVoreRequestedAfter",
-	"cockVoreNoPrompt": [
-		"Surpised!",
-		"Gotcha",
-		"sorry but I have to do this~",
-		"I'm horny so come here~"
-	],
-	"cockVoreNoPromptAfter": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreNoPromptAfter",
-	"oralVoreUnprompted": [
-		"euugh so slimey",
-		"happy to fill you up^^",
-		"ill never will get use to this >~<"
-	],
-	"cockVoreUnprompted": [
-		"hehe now the fun begins",
-		"euugh..some got into my mouth",
-		"man it's tight",
-		"Friends are stored in the balls...heh Auri would be proud",
-		"needing to refuel? happy to help^^",
-		"ill never will get use to this >~<"
-	],
-	"oralVoreLetoutUnpromptedAfter": [
-		"so that's whats it like to be swallowed",
-		"I'll never get used to this"
-	],
-	"cockVoreLetoutUnpromptedAfter": [
-		"so salty..plhew",
-		"its in my mouth..."
-	],
-	"oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
-	"cockVoreForcing": "/npcs/sbq/dialogue/default.dialogue:cockVoreForcing",
-	"oralVoreLetoutForcingAfter": [
-		"won't deny it was cozy in there",
-		"well that was an expereince"
-	],
-	"cockVoreLetoutForcingAfter": [
-		"ah man...its all over my clothes",
-		"man..it'll take me forever to wash the cum out"
-	],
-	"oralVoreForced": "/npcs/sbq/dialogue/default.dialogue:oralVoreForced",
-	"cockVoreForced": "/npcs/sbq/dialogue/default.dialogue:cockVoreForced",
-	"oralVoreLetoutForced": [
-		"*hack...cough*",
-		"alright alright come on out",
-		"aw man...come on..."
-	],
-	"cockVoreLetoutForced": [
-		"Ahh~ man what a sensation~",
-		"come back anytime^^",
-		"you felt good in there~",
-		"what? didnt enjoy yourself in there?",
-		"merp...."
-	],
-	"struggleBelly": [
-		"enjoying yourself",
-		"Comfy?",
-		"merp?"
-	],
-	"struggleCock": [
-		"ooohh hehe that tingles~",
-		"wooo boy..."
-	],
-	"struggleBalls": [
-		"merp...that feels nice feeling down there",
-		"Keep going.",
-		"It feels so good having you in there~",
-		"Friends are stored in the balls~"
-	],
-	"struggleAcidHeal": [
-		"relax...you are injured",
-		"stop moving to much..just heal up"
-	],
-	"struggleCumHeal": [
-		"My seed can mend wounds, so don't panic. You'll be fine, I swear!",
-		"Seems you're pretty healthy if you can wiggle like that!",
-		"Just relax and let my sticky sauna soothe you."
-	],
-	"struggleCumHealCock": [
-		"I know it's strange, but this will heal you up. So don't worry about being in my cock!",
-		"You don't have to move so much while I'm healing you, unless you want in my sack...",
-		"While I'm enjoying your struggles a bit, do know that you're safe in my rod."
-	],
-	"struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
-	"struggleAcidDigest": [
-		"melting so good~",
-		"Be a good moursel and just melt~",
-		"Im merping you down will good..hehe"
-	],
-	"struggleAcidDigestImmune": [
-		"merp?",
-		"doesn't feel like your melting"
-	],
-	"struggleCumDigest": [
-		"mmm melting down you go~",
-		"merp for me~"
-	],
-	"struggleCumDigestBalls": [
-		"yes become nice sergal cum for me~",
-		"time to be sergal cummies~"
-	],
-	"struggleCumDigestImmune": [
-		"not melting",
-		"This sergal wants you to melt",
-		"less talking more melting",
-		"just melt down and enjoy youself"
-	],
-	"struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
-	"strugglingBelly": [
-		[
-			"comfy",
-			"so this is what it's like in a belly",
-			{
-				"check": {
-					"bellySounds": true
-				},
-				"add": [
-					"*gurgle*",
-					"Mmmph those noises",
-					"struggled grunts...oh I give up..."
-				]
-			}
-		],
-		{
-			"check": {
-				"predator": "sbqVaporeon"
-			},
-			"add": [
-				"Gooey Vappy belly.",
-				"Its all gooey in here."
-			]
-		}
-	],
-	"strugglingCock": [
-		"yes..squish me harder`",
-		"nice and smelly",
-		"This is so hot~"
-	],
-	"strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
-	"strugglingAcidHeal": [
-		"hmm...it aint melting me..that's good right?",
-		"its like a healing bath",
-		"this feels wonderful"
-	],
-	"strugglingCumHeal": ":strugglingAcidHeal",
-	"strugglingCumHealCock": ":strugglingAcidHeal",
-	"strugglingCumHealBalls": [
-		"Your healing seed is washing over me, I feel my pain going away!",
-		"Seems your balls make for a great therapeutic sauna and spa.",
-		"The soothing properties of your spunk is crazy. How novel."
-	],
-	"strugglingMiscHeal": ":strugglingAcidHeal",
-	"strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
-	"strugglingAcidDigest": [
-		"man this hurts...",
-		"hmmph..nothing but pudge"
-	],
-	"strugglingAcidDigestImmune": [
-		[
-			"Trying to melt me down?",
-			"Trying to melt me down?\nThats not gonna work."
-		],
-		"Heh, I can actually stay in here as long as I want.",
-		"I'm @#%@@#$ invincible! *enter metal gear rising refereence here*",
-		"I'm immune so good luck \n"
-	],
-	"strugglingCumDigest": [
-		"It's so hot in here, is your cum... melting me?",
-		"I think your cum is softening me up!",
-		"I'm feeling goopy inside here..."
-	],
-	"strugglingCumDigestBalls": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumDigestBalls",
-	"strugglingCumDigestImmune": [
-		"I don't think your cum can melt me.",
-		"You should know that I won't soften up in your seed.",
-		"I'm resistant to your cum trying to melt me."
-	],
-	"strugglingMiscDigest": ":strugglingAcidDigest",
-	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
-	"strugglingTransforming": [
-		"What's happening? I feel like I'm changing in here!",
-		"The more I squirm in here, the less I feel like myself...",
-		"What are you doing to me in here? I feel strange!"
-	],
-	"strugglingDrainEnergy": [
-		"You're sapping my energy as I move...",
-		"I barely have the energy... to keep resisting this...",
-		"You're draining my energy, how long I can keep squirming...?"
-	],
-	"strugglingEggify": [
-		"W-what's this shell forming around me in here?!",
-		"Hey, the stuff in here is hardening around me. What's happening!?",
-		"The walls are getting harder, or wait, is something forming around me?!"
-	],
-	"strugglingVaporeon": [
-		"did you kno-*get's slooshed around*..nvm"
-	],
-	"climax": "/npcs/sbq/dialogue/default.dialogue:climax",
-	"climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
-	"climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
-	"shrinking": [
-		"Oh boy here we go again...",
-		"this feels normal",
-		"heh I did prefer being tiny",
-		"heh..remember micros are meant ot be stepped on^^",
-		"yippie"
-	],
-	"growing": [
-		"Not my cup of tea but ill roll with it.",
-		"reminds me of my ex",
-		"*bumps head* ow....",
-		"heh...my kind were always looked at as big"
-	],
-	"didSteppy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:didSteppy",
-	"gotStepped": [
-		"oomph...",
-		"* squish ",
-		"ow......",
-		" ....ueegh...",
-		"ack! watch where you step!",
-		" ..uugh...thank you.",
-		"merp....",
-		"merp!",
-		"ugh...the micro life is never easy.."
-	],
-	"gotStomped": "/npcs/sbq/dialogue/default.dialogue:gotStomped",
-	"gotSteppedWalking": [
-		"eyy, I'm walking here!",
-		"woah..paw ahoy",
-		"Woah...watch where you step",
-		"woah..falls on butt*...ow"
-	],
-	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
-	// Unused Dialogue
-	"strugglingGurgleSoundsDigest": [
-		"so much...noise",
-		"All this grumbling... you must be pretty hungry."
-	],
-	"strugglingGurgleSoundsBelly": [
-		"I really like the sounds your belly makes... very calming.",
-		"I could just drift off to sleep listening to the sounds of your body..."
-	],
-	"full": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseFull",
-	"struggleCockInfused": [
-		"Ahhh~ <entityName> feels so great down there~",
-		"<keysmash>, you're gonna make <entityName> cum~"
-	],
-	"oralVoreLetoutForcedDigest": [
-		"oh..huh enjoy the stay then",
-		"No hard feelings?",
-		"you're no fun \n",
-		"ooh? we got outselfs a fighter"
-	],
-	"oralVoreLetoutForcedDigestImmune": [
-		"that's fine..I wasnt even that hungry",
-		"you're making me look bad infront of the others",
-		"Come on...It's my job"
-	],
-	"oralVoreLetoutForcedSoftDigest": [
-		"wha...you were gona be fine..geez",
-		"what? you had that option selected",
-		"well...just stay there I guess"
-	],
-	"oralVoreLetoutForcedSoftDigestImmune": [
-		"Dang it... I was hungry... and you didn't even melt at all.",
-		"No hard feelings? Its not like my acid even managed to do anything.",
-		"Come on, my acid didn't even do anything to you...",
-		"If only you actually started to melt..."
-	],
-	"oralVoreLetoutForcedHeal": [
-		"come on..its like a suana in there",
-		"Are you sure you're ready to come out?",
-		"well...return to me if you need more healing",
-		"don't go whinning if you die cause you didnt fully heal up",
-		"next time stop spamming for medic"
-	],
-	"oralVoreLetoutRequestedDigested": [
-		"time for you to go",
-		"get digested lol",
-		"hope it was worth the pixels",
-		"next yea when you get back"
-	],
-	"oralVoreLetoutRequestedDigest": [
-		"ok I'm good for now",
-		"I'm satified you can go now",
-		"best you leave",
-		"I didnt really want to digest you"
-	],
-	"oralVoreLetoutRequestedDigestImmune": [
-		"what's the point?",
-		"that's no fun",
-		"best you go..this sergal is intrested in something else...oh beef jerky",
-		"I'ma go get some actual food"
-	],
-	"oralVoreLetoutRequestedSoftDigest": [
-		"I think your soft enough",
-		"I'm good for now thanks",
-		"now got out of here you silly",
-		"Didn't feel like it"
-	],
-	"oralVoreLetoutRequestedSoftDigestImmune": [
-		"really?",
-		"well this is pointless",
-		"oh you selected that option...no fun",
-		"what am I sergal express?"
-	],
-	"oralVoreLetoutRequestedHeal": [
-		"alright now get back out there!",
-		"Alrighty I think you're all good to go",
-		"feeling better?",
-		"I never though id have a stomach that heals",
-		"I never got my medical degree you know?"
-	],
-	"strugglingTransformingImmune": [
-		"I don't think whatever you're doing is affecting me.",
-		"Feels like you're trying to change me, but uh... that's not gonna happen.",
-		"Your body isn't going to morph mine like that, so let me out!"
-	],
-	"struggling.default.default.default.default.default.default": [
-		[
-			"how long you gonna keep me here?",
-			"welp...this is my life for now...",
-			"*sploosh*"
-		]
-	],
-	"strugglingUnderfoot": [
-		" ..hello?...down here...",
-		">~<",
-		"* muffled sergal noises ",
-		"ack!...heavy...",
-		"I mean...I do belong here~",
-		" slupring noises *",
-		"m...merp..."
-	],
-	"vored": [
-		"wha..?!?",
-		"down I go",
-		"oh..ok I guess"
-	],
-	"struggleEscape": [
-		"oh..arlighty then",
-		"euugh..that felt funny",
-		"AH...fresh air"
-	],
-	"escape": [
-		"till next time then"
-	]
+  "greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
+  "greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
+  "greeting": [
+    "啊,你好啊",
+    "咩噗？",
+    "什么事？",
+    "啥事？"
+  ],
+  "greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
+  "crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
+  "fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
+  "crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
+  "converse": [
+    "你是想聊点什么吗？",
+    "咩噗？"
+  ],
+  "introduce": [
+    "嗯...\n 很高兴认识你, <entityName>"
+  ],
+  "talkAboutSelf": [
+    "嗯,我没啥可说的,咩噗"
+  ],
+  "talkAboutSelfWhatAreYou": [
+    "从没见过鲨狗族吗？嗯,我的家乡星球是塔尔,上面有好几个种族和氏族,我大多时候住在一个叫金环的大城市,那里主要住着南鲨狗族人,我经常被叫做 '城里娃'"
+  ],
+  "talkAboutSelfWhyMerp": [
+    "我嘛...*清了清嗓子* 这是我们能发出的一个有趣声音,曾经很流行... 现在都成我们的一个老套标志性声音了,不过一旦我们开始咩噗,那你听到的就全是这声了,"
+  ],
+  "talkAboutSelfCheeseJoke": [
+    "*清嗓子 * 哎呀,你可真聪明... 又不是我这辈子没听过几千遍那些笑话... 但我也没法阻止你自得其乐,"
+  ],
+  "talkAboutSelfKinks": [
+    "嗯... 我可以讲讲这个模组里一些值得一提的癖好,"
+  ],
+  "talkAboutKinks": [
+    "所以你想聊癖好？"
+  ],
+  "talkAboutKinksMacroMicro": [
+    "可能你最常看到我和大小相关的互动,因为我喜欢变成小小只,这也是我主要和其他癖好联动的方式,我超爱小小只在巨大生物的房子里,躲避他们的脚步～"
+  ],
+  "talkAboutKinksPaws": [
+    "啊... 对,爪子... 因为我更喜欢类人脚掌... 同样的,我喜欢伺候它们,不管正常体型还是变小后,在它们下面的感觉,"
+  ],
+  "talkAboutKinksVore": [
+    "这不是我最喜欢的,但就这个模组来说,我选口腔吞咽（OV）和菊花吞咽（CV）,不过得是变小后,这样在我脑海里才更带感,"
+  ],
+  "rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
+  "rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
+  "rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards",
+  "rewardNotifyHighValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyHighValueQuestRewards",
+  "oralVoreRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequested",
+  "oralVoreRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestedAfter",
+  "oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid",
+  "oralVoreNo": ":defaultNo",
+  "oralVoreTooBig": ":tooBig",
+  "tooBig": "/npcs/sbq/dialogue/default.dialogue:tooBig",
+  "oralVoreTooSmall": ":tooSmall",
+  "tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
+  "oralVoreNoSlots": ":noSlots",
+  "noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
+  "oralVoreFull": "/npcs/sbq/dialogue/default.dialogue:oralVoreFull",
+  "oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
+  "needsInfusion": ":oralVoreNeedsInfusion",
+  "oralVoreAlreadyInfused": [
+    "我觉得我那儿已经有东西了,"
+  ],
+  "alreadyInfused": ":oralVoreAlreadyInfused",
+  "oralVoreTargetPreySettingsMismatch": [
+    "你的某个 '住户' 可能不喜欢那样,"
+  ],
+  "targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "cockVoreRequested": [
+    "哈哈,馋鲨狗族的鸡儿了",
+    "咩噗？你想进我鸡儿里？",
+    "希望你能塞得下",
+    "嗯？那就进来吧"
+  ],
+  "cockVoreRequestedAfter": [
+    "哦哦,我的咩噗,这让我硬起来了～",
+    "嗯嗯～你让这只鲨狗族超开心的",
+    "太好了... 我硬了.. 希望没人注意到...",
+    "咩... 咩噗咩噗～"
+  ],
+  "cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
+  "cockVoreNo": [
+    "没心情,伙计",
+    "我忙着呢",
+    "也许晚点吧,我刚自己解决过一会儿了",
+    "我还有其他鲨狗族的事儿要做... 比如咩噗叫",
+    "我的鸡儿累了"
+  ],
+  "cockVoreTooBig": [
+    "抱歉,只接受小小只",
+    "哇,要不你缩小点,或许我会考虑",
+    "找奥莉拿个缩小射线,然后再来找我",
+    "只接受小个头的",
+    "你特么太大了"
+  ],
+  "cockVoreTooSmall": ":tooSmall",
+  "cockVoreNoSlots": ":noSlots",
+  "cockVoreFull": [
+    "我这 '奶酪发射器' 现在满了...",
+    "嗯,如果有人挪到我蛋蛋那儿,你可能就能挤进去了～",
+    "这只鲨狗族的鸡儿满了",
+    "等我射一发鲨狗族的精再说吧"
+  ],
+  "cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+  "cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "oralVoreLetoutRequested": [
+    "好了,你出去吧",
+    "*咳咳* 出去吧 ",
+    "呃... 你尝起来真不怎么样",
+    " 快出来,我们还有事要做 *打嗝* 呃,不好意思 "
+  ],
+  "cockVoreLetoutRequested": [
+    "嗯嗯嗯... 我要射了...",
+    "嗯... 嗯哼,天啊～",
+    "要射了～",
+    "咩... 咩噗噗....~"
+  ],
+  "reformRequested": [
+    "重塑中心",
+    "哔哔啵啵,重塑中... 哈哈,开玩笑的,我又不是合成人... 哦,希望布鲁没听到这话",
+    "好了,是时候重塑了"
+  ],
+  "oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
+  "oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
+  "oralVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYesAfter",
+  "oralVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNo",
+  "oralVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYes",
+  "oralVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYesAfter",
+  "cockVorePrompt": "/npcs/sbq/dialogue/default.dialogue:cockVorePrompt",
+  "cockVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYes",
+  "cockVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYesAfter",
+  "cockVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNo",
+  "cockVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYes",
+  "cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
+  "oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
+  "oralVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingYes",
+  "oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
+  "oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
+  "cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
+  "cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
+  "cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
+  "cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
+  "oralVoreNoPrompt": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreNoPrompt",
+  "oralVoreNoPromptAfter": ":oralVoreRequestedAfter",
+  "cockVoreNoPrompt": [
+    "惊讶吧！",
+    "骗到你了",
+    "抱歉,但我得这么做～",
+    "我欲火焚身了,过来～"
+  ],
+  "cockVoreNoPromptAfter": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreNoPromptAfter",
+  "oralVoreUnprompted": [
+    "呃,好黏糊",
+    "很乐意把你填满 ^^",
+    "我永远都习惯不了这个 >~<"
+  ],
+  "cockVoreUnprompted": [
+    "嘿嘿,现在好玩的来了",
+    "呃... 有东西进我嘴里了",
+    "天呐,好紧",
+    "朋友都存放在蛋蛋里... 嘿嘿,奥莉会很骄傲的",
+    "需要补充能量？乐意帮忙 ^^",
+    "我永远都习惯不了这个 >~<"
+  ],
+  "oralVoreLetoutUnpromptedAfter": [
+    "所以被吞下去就是这种感觉",
+    "我永远都适应不了这个"
+  ],
+  "cockVoreLetoutUnpromptedAfter": [
+    "好咸啊... 呸",
+    "都到我嘴里了..."
+  ],
+  "oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
+  "cockVoreForcing": "/npcs/sbq/dialogue/default.dialogue:cockVoreForcing",
+  "oralVoreLetoutForcingAfter": [
+    "不得不说,在里面还挺舒服的",
+    "嗯,这是次难忘的经历"
+  ],
+  "cockVoreLetoutForcingAfter": [
+    "啊,天呐... 溅得我衣服上到处都是",
+    "天呐... 我得花好久才能把精液洗干净"
+  ],
+  "oralVoreForced": "/npcs/sbq/dialogue/default.dialogue:oralVoreForced",
+  "cockVoreForced": "/npcs/sbq/dialogue/default.dialogue:cockVoreForced",
+  "oralVoreLetoutForced": [
+    "*咳咳*...",
+    "好了好了,快出来",
+    "哎呀,天呐... 快点..."
+  ],
+  "cockVoreLetoutForced": [
+    "啊～天呐,这感觉太棒了～",
+    "随时都能再来 ^^",
+    "你在里面感觉真好～",
+    "怎么？在里面玩得不开心？",
+    "咩噗...."
+  ],
+  "struggleBelly": [
+    "玩得开心吗",
+    "舒服吗？",
+    "咩噗？"
+  ],
+  "struggleCock": [
+    "哦哦,嘿嘿,这感觉痒痒的～",
+    "哇哦,好家伙..."
+  ],
+  "struggleBalls": [
+    "咩噗... 下面感觉真好",
+    "继续动,",
+    "你在里面的感觉太棒了～",
+    "朋友都存放在蛋蛋里～"
+  ],
+  "struggleAcidHeal": [
+    "放松... 你受伤了",
+    "别乱动... 好好养伤"
+  ],
+  "struggleCumHeal": [
+    "我的精液能治愈伤口,所以别慌,我发誓,你会没事的！",
+    "你要是还能这么扭动,看来身体还挺健康的！",
+    "放松点,让我这黏糊糊的 '桑拿房' 安抚你,"
+  ],
+  "struggleCumHealCock": [
+    "我知道这很奇怪,但这能治好你,所以别担心待在我鸡儿里！",
+    "我给你疗伤的时候,你不用动这么厉害,除非你想去我蛋蛋那儿...",
+    "虽然我还挺享受你挣扎的,但要知道,你在我鸡儿里很安全,"
+  ],
+  "struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
+  "struggleAcidDigest": [
+    "融化的感觉真好～",
+    "乖乖当块美味的点心,融化掉吧～",
+    "我正好好地把你咩噗下去呢.. 嘿嘿"
+  ],
+  "struggleAcidDigestImmune": [
+    "咩噗？",
+    "感觉你没在融化啊"
+  ],
+  "struggleCumDigest": [
+    "嗯嗯,融化掉,下去吧～",
+    "为我咩噗叫～"
+  ],
+  "struggleCumDigestBalls": [
+    "对,变成美味的鲨狗尔族精液吧～",
+    "是时候变成鲨狗族的精液啦～"
+  ],
+  "struggleCumDigestImmune": [
+    "没融化",
+    "这只塞尔加尔族想让你融化",
+    "少废话,多融化",
+    "直接融化,享受这过程吧"
+  ],
+  "struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
+  "strugglingBelly": [
+    [
+      "舒服",
+      "原来在肚子里是这种感觉",
+      {
+        "check": {
+          "bellySounds": true
+        },
+        "add": [
+          "*咕噜咕噜*",
+          "嗯嗯,那些声音",
+          "挣扎的闷哼... 哦,我放弃了..."
+        ]
+      }
+    ],
+    {
+      "check": {
+        "predator": "sbqVaporeon"
+      },
+      "add": [
+        "黏糊糊的水伊布肚子,",
+        "这里面全是黏糊的,"
+      ]
+    }
+  ],
+  "strugglingCock": [
+    "对... 把我夹得更紧点`",
+    "又好闻又舒服",
+    "这太刺激了～"
+  ],
+  "strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
+  "strugglingAcidHeal": [
+    "嗯... 这没把我融化掉.. 这是好事对吧？",
+    "这就像个疗伤的澡",
+    "这感觉太棒了"
+  ],
+  "strugglingCumHeal": ":strugglingAcidHeal",
+  "strugglingCumHealCock": ":strugglingAcidHeal",
+  "strugglingCumHealBalls": [
+    "你的疗伤精液冲刷着我,我感觉伤痛在消失！",
+    "看来你的蛋蛋是个很棒的疗养桑拿房和水疗中心,",
+    "你的精液这舒缓效果太神奇了,真新奇,"
+  ],
+  "strugglingMiscHeal": ":strugglingAcidHeal",
+  "strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
+  "strugglingAcidDigest": [
+    "天呐,这好痛...",
+    "哼... 除了脂肪啥都没有"
+  ],
+  "strugglingAcidDigestImmune": [
+    [
+      "想把我融化掉？",
+      "想把我融化掉？\n 那可不管用,"
+    ],
+    "呵,其实我想在这儿待多久都行,",
+    " 我是 @#%@@#$ 无敌的！*此处插入《合金装备崛起》的梗*",
+    "我免疫,祝你好运 \n"
+  ],
+  "strugglingCumDigest": [
+    "这里好热,你的精液... 是在融化我吗？",
+    "我觉得你的精液在把我软化！",
+    "我感觉在这里面变得黏糊糊的..."
+  ],
+  "strugglingCumDigestBalls": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumDigestBalls",
+  "strugglingCumDigestImmune": [
+    "我觉得你的精液融化不了我,",
+    "你要知道,我不会在你的精液里软化的,",
+    "我能抵抗你精液的融化,"
+  ],
+  "strugglingMiscDigest": ":strugglingAcidDigest",
+  "strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
+  "strugglingTransforming": [
+    "怎么回事？我感觉在这里面正在发生变化！",
+    "我在这里面越挣扎,就越觉得自己不像自己了...",
+    "你在这儿对我做了什么？我感觉很奇怪！"
+  ],
+  "strugglingDrainEnergy": [
+    "你在我动的时候吸取我的能量...",
+    "我几乎没力气... 再继续抵抗这个了...",
+    "你在吸取我的能量,我还能挣扎多久呢...？"
+  ],
+  "strugglingEggify": [
+    "这... 这在我周围形成的壳是什么东西？！",
+    "嘿,这里面的东西在我周围变硬了,发生什么事了？！",
+    "墙壁在变硬,还是说,有什么东西在我周围形成？！"
+  ],
+  "strugglingVaporeon": [
+    " 你知道吗 - *被晃来晃去*... 算了 "
+  ],
+  "climax": "/npcs/sbq/dialogue/default.dialogue:climax",
+  "climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
+  "climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
+  "shrinking": [
+    "哦,天呐,又来这一套...",
+    "这感觉很平常",
+    "呵,我其实更喜欢变小",
+    "呵... 要知道,小不点儿就该被踩在脚下 ^^",
+    "耶"
+  ],
+  "growing": [
+    "这不是我喜欢的,但我也能接受,",
+    "这让我想起了我的前任",
+    "*撞到脑袋* 哎哟....",
+    "呵... 我们族的人一直都被看作是大块头"
+  ],
+  "didSteppy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:didSteppy",
+  "gotStepped": [
+    "唔...",
+    "*被踩扁的声音*",
+    "哎哟......",
+    ".... 呃呃呃...",
+    "哎呀！走路看着点！",
+    ".. *呃呃*... 谢谢,",
+    "咩噗....",
+    "咩噗！",
+    "呃... 当小不点儿的日子可不好过啊,"
+  ],
+  "gotStomped": "/npcs/sbq/dialogue/default.dialogue:gotStomped",
+  "gotSteppedWalking": [
+    "嘿,我在这儿走路呢！",
+    "哇哦... 爪子来了",
+    "哇哦... 走路看着点",
+    " 哇哦...*摔个屁股蹲*.. 哎哟 "
+  ],
+  "vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
+  "strugglingGurgleSoundsDigest": [
+    "这么多... 声音",
+    "这些咕噜声... 你一定很饿吧,"
+  ],
+  "strugglingGurgleSoundsBelly": [
+    "我真的很喜欢你肚子发出的声音... 非常让人安心,",
+    "听着你身体发出的声音,我都能睡着了..."
+  ],
+  "full": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseFull",
+  "struggleCockInfused": [
+    "啊啊啊～ <entityName> 在下面的感觉太棒了～",
+    "<keysmash>,你要让  <entityName> 射了～"
+  ],
+  "oralVoreLetoutForcedDigest": [
+    "哦... 哈，那享受这段停留吧",
+    "没生气吧？",
+    "你真没意思 \n",
+    "哦？我们这儿有个硬骨头"
+  ],
+  "oralVoreLetoutForcedDigestImmune": [
+    "好吧... 反正我也没那么饿",
+    "你让我在其他人面前出丑了",
+    "拜托... 这是我的工作"
+  ],
+  "oralVoreLetoutForcedSoftDigest": [
+    "什么... 你本来会没事的... 哎呀",
+    "什么？你选了那个选项啊",
+    "好吧... 那你就待在那儿吧，我想"
+  ],
+  "oralVoreLetoutForcedSoftDigestImmune": [
+    "该死... 我好饿... 而你竟然一点都没融化。",
+    "没生气吧？反正我的酸液也没起什么作用。",
+    "拜托，我的酸液对你一点作用都没有...",
+    "要是你真的开始融化就好了..."
+  ],
+  "oralVoreLetoutForcedHeal": [
+    "来吧... 这里面就像个桑拿房",
+    "你确定你准备好出来了？",
+    "好吧... 要是你还需要更多治疗，就再回到我这儿",
+    "要是你因为没完全治好就死了，可别抱怨",
+    "下次别一直喊着要治疗了"
+  ],
+  "oralVoreLetoutRequestedDigested": [
+    "你该走了",
+    "去被消化吧，哈哈",
+    "希望这值得你消耗这些像素",
+    "等明年你回来再说"
+  ],
+  "oralVoreLetoutRequestedDigest": [
+    "好了，我现在够了",
+    "我满足了，你现在可以走了",
+    "你最好离开",
+    "其实我也不想消化你"
+  ],
+  "oralVoreLetoutRequestedDigestImmune": [
+    "这有什么意义？",
+    "真没意思",
+    "你最好走吧... 这只鲨狗族对别的东西感兴趣了... 哦，牛肉干",
+    "我要去吃点真正的食物了"
+  ],
+  "oralVoreLetoutRequestedSoftDigest": [
+    "我觉得你已经够软了",
+    "我现在好了，谢谢",
+    "现在从这儿出去，你这小笨蛋",
+    "没那个心情"
+  ],
+  "oralVoreLetoutRequestedSoftDigestImmune": [
+    "真的吗？",
+    "好吧，这毫无意义",
+    "哦，你选了那个选项... 真没意思",
+    "我这是鲨狗快递吗？"
+  ],
+  "oralVoreLetoutRequestedHeal": [
+    "好了，现在回到外面去吧！",
+    "好啦，我觉得你已经完全没问题可以走了",
+    "感觉好点了吗？",
+    "我从没想过我会有个能疗伤的胃",
+    "你知道吗，我可没拿到医学学位"
+  ],
+  "strugglingTransformingImmune": [
+    "我觉得你不管做什么都影响不了我。",
+    "感觉你想改变我，但是呃... 那可不会发生。",
+    "你的身体可没法把我变成那样，放我出去！"
+  ],
+  "struggling.default.default.default.default.default.default": [
+    [
+      "你要把我关在这儿多久？",
+      "好吧... 这就是我现在的生活了...",
+      "*溅水声* "
+    ]
+  ],
+  "strugglingUnderfoot": [
+    ".. 你好？... 我在这儿呢...",
+    ">~<",
+    "*模糊的鲨狗族声音*",
+    "哎呀！... 好重...",
+    "我是说... 我本来就该在这儿～",
+    " *吸吮声*",
+    "咩... 咩噗..."
+  ],
+  "vored": [
+    "什么..？！？",
+    "我下去了",
+    "哦... 好吧，我想"
+  ],
+  "struggleEscape": [
+    "哦... 好吧，那就这样",
+    "呃呃... 那感觉好怪",
+    "啊... 新鲜空气"
+  ],
+  "escape": [
+    "那下次再见咯"
+  ]
 }
