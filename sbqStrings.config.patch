@@ -1,0 +1,2722 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/belly",
+    "value": "腹部"
+  },
+  {
+    "op": "replace",
+    "path": "/womb",
+    "value": "子宫"
+  },
+  {
+    "op": "replace",
+    "path": "/pussy",
+    "value": "阴道"
+  },
+  {
+    "op": "replace",
+    "path": "/cock",
+    "value": "阴茎"
+  },
+  {
+    "op": "replace",
+    "path": "/balls",
+    "value": "睾丸"
+  },
+  {
+    "op": "replace",
+    "path": "/balls_left",
+    "value": "睾丸(左)"
+  },
+  {
+    "op": "replace",
+    "path": "/balls_right",
+    "value": "睾丸(右)"
+  },
+  {
+    "op": "replace",
+    "path": "/breasts",
+    "value": "乳房"
+  },
+  {
+    "op": "replace",
+    "path": "/breasts_left",
+    "value": "乳房(左)"
+  },
+  {
+    "op": "replace",
+    "path": "/breasts_right",
+    "value": "乳房(右)"
+  },
+  {
+    "op": "replace",
+    "path": "/ass",
+    "value": "屁股"
+  },
+  {
+    "op": "replace",
+    "path": "/cleavage",
+    "value": "乳沟"
+  },
+  {
+    "op": "replace",
+    "path": "/tail",
+    "value": "尾巴"
+  },
+  {
+    "op": "replace",
+    "path": "/navel",
+    "value": "肚脐"
+  },
+  {
+    "op": "replace",
+    "path": "/slime",
+    "value": "粘液"
+  },
+  {
+    "op": "replace",
+    "path": "/modDescription",
+    "value": "这是一个18+的特殊爱好MOD，主要关注吞食、微/巨以及TF等特殊癖好。\n请保持尊重，如果你不喜欢，请不要使用它。"
+  },
+  {
+    "op": "replace",
+    "path": "/terms",
+    "value": "我悉知本模组的所有内容均为18+内容\n我不会在没有年龄限制的情况下提供链接或以任何方式展示它，例如将视频上传到YouTube、在Twitch或任何其他限制18岁以上内容的社交媒体平台上播放。"
+  },
+  {
+    "op": "replace",
+    "path": "/agree",
+    "value": "我同意这些条款。"
+  },
+  {
+    "op": "replace",
+    "path": "/allFetishes",
+    "value": "给我所有的恋物癖！"
+  },
+  {
+    "op": "replace",
+    "path": "/noFetishes",
+    "value": "还是算了吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/allPred",
+    "value": "全部捕食者"
+  },
+  {
+    "op": "replace",
+    "path": "/noPred",
+    "value": "没有捕食者"
+  },
+  {
+    "op": "replace",
+    "path": "/allPrey",
+    "value": "全部猎物"
+  },
+  {
+    "op": "replace",
+    "path": "/noPrey",
+    "value": "没有猎物"
+  },
+  {
+    "op": "replace",
+    "path": "/allTF",
+    "value": "全部转化"
+  },
+  {
+    "op": "replace",
+    "path": "/noTF",
+    "value": "没有转化"
+  },
+  {
+    "op": "replace",
+    "path": "/settingsTitle",
+    "value": "Starbecue设置"
+  },
+  {
+    "op": "replace",
+    "path": "/preditor",
+    "value": "捕食者"
+  },
+  {
+    "op": "replace",
+    "path": "/pred",
+    "value": "捕食者"
+  },
+  {
+    "op": "replace",
+    "path": "/prey",
+    "value": "猎物"
+  },
+  {
+    "op": "replace",
+    "path": "/prefs",
+    "value": "偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/help",
+    "value": "帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/misc",
+    "value": "杂项"
+  },
+  {
+    "op": "replace",
+    "path": "/vorePredPrefs",
+    "value": "捕食者偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/vorePreyPrefs",
+    "value": "猎物偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/preferences",
+    "value": "偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/infused",
+    "value": "注入"
+  },
+  {
+    "op": "replace",
+    "path": "/infusePredPrefs",
+    "value": "捕食者注入"
+  },
+  {
+    "op": "replace",
+    "path": "/infusePreyPrefs",
+    "value": "猎物注入"
+  },
+  {
+    "op": "replace",
+    "path": "/transformationPrefs",
+    "value": "转化偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/otherPrefs",
+    "value": "其它偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/settings",
+    "value": "设置"
+  },
+  {
+    "op": "replace",
+    "path": "/sizePrefs",
+    "value": "尺寸偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/value",
+    "value": "值"
+  },
+  {
+    "op": "replace",
+    "path": "/importSettings",
+    "value": "导入\n设置"
+  },
+  {
+    "op": "replace",
+    "path": "/exportAllSettings",
+    "value": "导出全部\n设置"
+  },
+  {
+    "op": "replace",
+    "path": "/exportPrefsOnly",
+    "value": "导出\n偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/exportLocationsOnly",
+    "value": "导出\n位置"
+  },
+  {
+    "op": "replace",
+    "path": "/prefsSettingsCard",
+    "value": "SBQ偏好卡"
+  },
+  {
+    "op": "replace",
+    "path": "/allSettingsCard",
+    "value": "SBQ完整设置卡"
+  },
+  {
+    "op": "replace",
+    "path": "/locationsSettingsCard",
+    "value": "SBQ位置设置卡"
+  },
+  {
+    "op": "replace",
+    "path": "/targets",
+    "value": "目标"
+  },
+  {
+    "op": "replace",
+    "path": "/behavior",
+    "value": "行为"
+  },
+  {
+    "op": "replace",
+    "path": "/predBehavior",
+    "value": "捕食者行为"
+  },
+  {
+    "op": "replace",
+    "path": "/preyBehavior",
+    "value": "猎物行为"
+  },
+  {
+    "op": "replace",
+    "path": "/infuseeBehavior",
+    "value": "注入行为"
+  },
+  {
+    "op": "replace",
+    "path": "/infuseHostBehavior",
+    "value": "注入宿主行为"
+  },
+  {
+    "op": "replace",
+    "path": "/domBehavior",
+    "value": "强势行为"
+  },
+  {
+    "op": "replace",
+    "path": "/subBehavior",
+    "value": "顺从行为"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeInput",
+    "value": "升级输入"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradesAcquired",
+    "value": "已获得的升级"
+  },
+  {
+    "op": "replace",
+    "path": "/convertNPC",
+    "value": "转换成NPC"
+  },
+  {
+    "op": "replace",
+    "path": "/convertToType",
+    "value": "转换为指定类型"
+  },
+  {
+    "op": "replace",
+    "path": "/slot",
+    "value": "槽位"
+  },
+  {
+    "op": "replace",
+    "path": "/infuseSlots",
+    "value": "注入槽位"
+  },
+  {
+    "op": "replace",
+    "path": "/health",
+    "value": "健康"
+  },
+  {
+    "op": "replace",
+    "path": "/healthTip",
+    "value": "当前健康状况。"
+  },
+  {
+    "op": "replace",
+    "path": "/hunger",
+    "value": "饥饿"
+  },
+  {
+    "op": "replace",
+    "path": "/hungerTip",
+    "value": "饥饿度，随着时间的推移而消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/lust",
+    "value": "色欲"
+  },
+  {
+    "op": "replace",
+    "path": "/lustTip",
+    "value": "色欲水平，随着时间的推移会逐渐膨胀到一定程度，然后需要进一步推动才能缓解。"
+  },
+  {
+    "op": "replace",
+    "path": "/rest",
+    "value": "休息"
+  },
+  {
+    "op": "replace",
+    "path": "/restTip",
+    "value": "休息水平，随时间消耗，舒适或放松时充满。"
+  },
+  {
+    "op": "replace",
+    "path": "/never",
+    "value": "从不"
+  },
+  {
+    "op": "replace",
+    "path": "/yes",
+    "value": "好的"
+  },
+  {
+    "op": "replace",
+    "path": "/no",
+    "value": "不行"
+  },
+  {
+    "op": "replace",
+    "path": "/noYes",
+    "value": "不行……^#AAA;(但实际上同意)"
+  },
+  {
+    "op": "replace",
+    "path": "/dom",
+    "value": "强势"
+  },
+  {
+    "op": "replace",
+    "path": "/switch",
+    "value": "转换"
+  },
+  {
+    "op": "replace",
+    "path": "/sub",
+    "value": "顺从"
+  },
+  {
+    "op": "replace",
+    "path": "/leanSubDomTip",
+    "value": "这个角色是会变得更顺从还是更强势。"
+  },
+  {
+    "op": "replace",
+    "path": "/nextPage",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/config",
+    "value": "配置"
+  },
+  {
+    "op": "replace",
+    "path": "/assignSpeciesDesc",
+    "value": "配置你喜爱的物种，以便快速转换。"
+  },
+  {
+    "op": "replace",
+    "path": "/assignSpeciesSlot",
+    "value": "选择要分配的槽位。"
+  },
+  {
+    "op": "replace",
+    "path": "/customizeDesc",
+    "value": "自定义每个物种的外观和名称！"
+  },
+  {
+    "op": "replace",
+    "path": "/follow",
+    "value": "跟随"
+  },
+  {
+    "op": "replace",
+    "path": "/stay",
+    "value": "停留"
+  },
+  {
+    "op": "replace",
+    "path": "/recentlyDigested",
+    "value": "最近消化"
+  },
+  {
+    "op": "replace",
+    "path": "/optionYes",
+    "value": "好的"
+  },
+  {
+    "op": "replace",
+    "path": "/optionNo",
+    "value": "不行"
+  },
+  {
+    "op": "replace",
+    "path": "/optionNoYes",
+    "value": "不行……^#AAA;(但实际上同意)"
+  },
+  {
+    "op": "replace",
+    "path": "/ynPrompt",
+    "value": "[同意/拒绝]"
+  },
+  {
+    "op": "replace",
+    "path": "/optionsPrompt",
+    "value": "[选项]"
+  },
+  {
+    "op": "replace",
+    "path": "/choosePrompt",
+    "value": "[选择]"
+  },
+  {
+    "op": "replace",
+    "path": "/tellMeAboutSelf",
+    "value": "谈谈你自己吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/myNameIs",
+    "value": "我的名字是<entityName>"
+  },
+  {
+    "op": "replace",
+    "path": "/cosmeticSlots",
+    "value": "装饰品槽位"
+  },
+  {
+    "op": "replace",
+    "path": "/summonTenant",
+    "value": "召唤"
+  },
+  {
+    "op": "replace",
+    "path": "/summonTenantTip",
+    "value": "警告！召唤新房客会清除当前房客的保存数据！\n你必须点击三次以确认驱逐现有房客。"
+  },
+  {
+    "op": "replace",
+    "path": "/insertCard",
+    "value": "添加房客"
+  },
+  {
+    "op": "replace",
+    "path": "/colonyTags",
+    "value": "殖民地标签"
+  },
+  {
+    "op": "replace",
+    "path": "/orderFurniture",
+    "value": "订购家具"
+  },
+  {
+    "op": "replace",
+    "path": "/tagsNeeds",
+    "value": "需求"
+  },
+  {
+    "op": "replace",
+    "path": "/tags",
+    "value": "标签"
+  },
+  {
+    "op": "replace",
+    "path": "/remove",
+    "value": "移除"
+  },
+  {
+    "op": "replace",
+    "path": "/callTenants",
+    "value": "呼叫房客"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": "价格"
+  },
+    {
+    "op": "replace",
+    "path": "/lockedDeed",
+    "value": "已锁定"
+  },
+  {
+    "op": "replace",
+    "path": "/lockedDeedTip",
+    "value": "锁定此契约，防止其他人编辑它及其角色。"
+  },
+  {
+    "op": "replace",
+    "path": "/hiddenDeed",
+    "value": "隐藏"
+  },
+  {
+    "op": "replace",
+    "path": "/hiddenDeedTip",
+    "value": "使此契约几乎不可见。"
+  },
+  {
+    "op": "replace",
+    "path": "/targetOwned",
+    "value": "目标属于其他人。"
+  },
+  {
+    "op": "replace",
+    "path": "/requiresHouse",
+    "value": "需要封闭的房屋。"
+  },
+  {
+    "op": "replace",
+    "path": "/requiresCamp",
+    "value": "需要未封闭的营地。"
+  },
+  {
+    "op": "replace",
+    "path": "/requiresEvil",
+    "value": "必须是邪恶的 >:3"
+  },
+  {
+    "op": "replace",
+    "path": "/requiresFriendly",
+    "value": "必须是友好的 :)"
+  },
+  {
+    "op": "replace",
+    "path": "/requiresBoss",
+    "value": "必须是团队的boss！"
+  },
+  {
+    "op": "replace",
+    "path": "/deedName",
+    "value": "SBQ殖民地契约"
+  },
+  {
+    "op": "replace",
+    "path": "/deedDesc",
+    "value": "用于召唤倾向于Vore的NPC的契约，放置在有门和光源的封闭空间中。"
+  },
+  {
+    "op": "replace",
+    "path": "/miniDeedName",
+    "value": "SBQ迷你契约"
+  },
+  {
+    "op": "replace",
+    "path": "/miniDeedDesc",
+    "value": "用于召唤倾向于Vore的NPC的迷你契约，放置在有门和光源的封闭空间中。"
+  },
+  {
+    "op": "replace",
+    "path": "/campName",
+    "value": "SBQ营地标记"
+  },
+  {
+    "op": "replace",
+    "path": "/campDesc",
+    "value": "使用15格范围内的物品召唤倾向于Vore的NPC，不需要封闭。"
+  },
+  {
+    "op": "replace",
+    "path": "/evilDeedName",
+    "value": "SBQ邪恶殖民地契约"
+  },
+  {
+    "op": "replace",
+    "path": "/evilDeedDesc",
+    "value": "用于召唤具有邪恶意图的反派角色（会吃掉你）\n连接电线使它们组成团队，链的起点是团队首领。"
+  },
+  {
+    "op": "replace",
+    "path": "/miniEvilDeedName",
+    "value": "SBQ邪恶迷你契约"
+  },
+  {
+    "op": "replace",
+    "path": "/evilCampName",
+    "value": "SBQ邪恶营地标记"
+  },
+  {
+    "op": "replace",
+    "path": "/npcAlreadyExists",
+    "value": "NPC已存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/invalidNPC",
+    "value": "NPC类型无效。"
+  },
+  {
+    "op": "replace",
+    "path": "/oralVore",
+    "value": "口腔Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/cockLeakiness",
+    "value": "阴茎渗漏性"
+  },
+  {
+    "op": "replace",
+    "path": "/cockLeakinessTip",
+    "value": "随着欲望计量条的填充，你的阴茎会渗漏多少。"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyLeakiness",
+    "value": "阴道渗漏性"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyLeakinessTip",
+    "value": "随着欲望计量条的填充，你的阴道会渗漏多少。"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsLeakiness",
+    "value": "乳房渗漏性"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsLeakinessTip",
+    "value": "随着欲望计量条的填充，你的乳房会渗漏多少。"
+  },
+  {
+    "op": "replace",
+    "path": "/cockSelect",
+    "value": "阴茎选择"
+  },
+  {
+    "op": "replace",
+    "path": "/cockSelectTip",
+    "value": "选择你拥有的阴茎类型。"
+  },
+  {
+    "op": "replace",
+    "path": "/tailSelect",
+    "value": "尾巴选择"
+  },
+  {
+    "op": "replace",
+    "path": "/tailSelectTip",
+    "value": "选择你拥有的尾巴类型。"
+  },
+  {
+    "op": "replace",
+    "path": "/tailVoreCompatible",
+    "value": "尾巴吞食兼容！"
+  },
+  {
+    "op": "replace",
+    "path": "/cockInfuseSelect",
+    "value": "阴茎变形选择"
+  },
+  {
+    "op": "replace",
+    "path": "/cockInfuseSelectTip",
+    "value": "选择你变形时的阴茎类型。"
+  },
+  {
+    "op": "replace",
+    "path": "/tailInfuseSelect",
+    "value": "尾巴变形选择"
+  },
+  {
+    "op": "replace",
+    "path": "/tailInfuseSelectTip",
+    "value": "选择你变形时的尾巴类型。"
+  },
+  {
+    "op": "replace",
+    "path": "/tailSelectOverride",
+    "value": "尾巴选择覆盖"
+  },
+  {
+    "op": "replace",
+    "path": "/tailSelectOverrideTip",
+    "value": "注入角色可以用他们偏好的尾巴类型覆盖你的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/cockSelectOverride",
+    "value": "阴茎选择覆盖"
+  },
+  {
+    "op": "replace",
+    "path": "/cockSelectOverrideTip",
+    "value": "注入角色可以用他们偏好的阴茎类型覆盖你的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/auto",
+    "value": "自动"
+  },
+  {
+    "op": "replace",
+    "path": "/cockMatchGender",
+    "value": "阴茎匹配性别"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsMatchGender",
+    "value": "睾丸匹配性别"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsMatchGender",
+    "value": "乳房匹配性别"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyMatchGender",
+    "value": "阴道匹配性别"
+  },
+  {
+    "op": "replace",
+    "path": "/cockMatchGenderTip",
+    "value": "当你为男性时，你的阴茎将被启用。"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsMatchGenderTip",
+    "value": "当你为男性时，你的睾丸将被启用。"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsMatchGenderTip",
+    "value": "当你为女性时，你的乳房将被启用。"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyMatchGenderTip",
+    "value": "当你为女性时，你的阴道将被启用。"
+  },
+  {
+    "op": "replace",
+    "path": "/transgender",
+    "value": "跨性别"
+  },
+   {
+    "op": "replace",
+    "path": "/jackoff",
+    "value": "手淫"
+  },
+  {
+    "op": "replace",
+    "path": "/jackoffDesc",
+    "value": "手淫你的阴茎！"
+  },
+  {
+    "op": "replace",
+    "path": "/fingerPussy",
+    "value": "手指阴道"
+  },
+  {
+    "op": "replace",
+    "path": "/fingerPussyDesc",
+    "value": "用手指刺激你的阴道！"
+  },
+  {
+    "op": "replace",
+    "path": "/squishBreasts",
+    "value": "挤压乳房"
+  },
+  {
+    "op": "replace",
+    "path": "/squishBreastsDesc",
+    "value": "挤压你的胸部！"
+  },
+  {
+    "op": "replace",
+    "path": "/missingPred",
+    "value": "捕食者失踪"
+  },
+  {
+    "op": "replace",
+    "path": "/missingPredPrompt",
+    "value": "你所在的捕食者似乎失踪了。\n\n你想逃脱还是等待他们回来？"
+  },
+  {
+    "op": "replace",
+    "path": "/missingPredEscape",
+    "value": "逃脱"
+  },
+  {
+    "op": "replace",
+    "path": "/missingPredWait",
+    "value": "等待"
+  },
+  {
+    "op": "replace",
+    "path": "/transgenderTip",
+    "value": "在变形某人时，你也可以改变他们的性别。"
+  },
+  {
+    "op": "replace",
+    "path": "/unchanged",
+    "value": "保持不变"
+  },
+  {
+    "op": "replace",
+    "path": "/random",
+    "value": "随机"
+  },
+  {
+    "op": "replace",
+    "path": "/swap",
+    "value": "交换"
+  },
+  {
+    "op": "replace",
+    "path": "/male",
+    "value": "男性"
+  },
+  {
+    "op": "replace",
+    "path": "/female",
+    "value": "女性"
+  },
+  {
+    "op": "replace",
+    "path": "/tailVore",
+    "value": "尾巴Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/navelVore",
+    "value": "肚脐Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/absorbVore",
+    "value": "吸收Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/analVore",
+    "value": "肛门Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/unbirthVore",
+    "value": "胎内回归"
+  },
+  {
+    "op": "replace",
+    "path": "/breastVore",
+    "value": "乳房Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/cockVore",
+    "value": "阴茎Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/predEnabledTip",
+    "value": "允许自己执行此操作。"
+  },
+  {
+    "op": "replace",
+    "path": "/predConsentRequiredTip",
+    "value": "其他人让你执行此操作需要你的同意。"
+  },
+  {
+    "op": "replace",
+    "path": "/preyEnabledTip",
+    "value": "允许其他人对你执行此操作。"
+  },
+  {
+    "op": "replace",
+    "path": "/preyConsentRequiredTip",
+    "value": "其他人对你执行此操作需要你的同意。"
+  },
+  {
+    "op": "replace",
+    "path": "/thighsInfuse",
+    "value": "有意识的脂肪"
+  },
+  {
+    "op": "replace",
+    "path": "/bellyInfuse",
+    "value": "腹部转化"
+  },
+  {
+    "op": "replace",
+    "path": "/breastInfuse",
+    "value": "乳房转化"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyInfuse",
+    "value": "阴道转化"
+  },
+  {
+    "op": "replace",
+    "path": "/cockInfuse",
+    "value": "阴茎转化"
+  },
+  {
+    "op": "replace",
+    "path": "/pawInfuse",
+    "value": "爪子转化"
+  },
+  {
+    "op": "replace",
+    "path": "/tailInfuse",
+    "value": "尾巴转化"
+  },
+  {
+    "op": "replace",
+    "path": "/transformDigested",
+    "value": "转化"
+  },
+  {
+    "op": "replace",
+    "path": "/thighsInfuseDigested",
+    "value": "有意识的脂肪"
+  },
+  {
+    "op": "replace",
+    "path": "/bellyInfuseDigested",
+    "value": "腹部转化"
+  },
+  {
+    "op": "replace",
+    "path": "/breastInfuseDigested",
+    "value": "乳房转化"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyInfuseDigested",
+    "value": "阴道转化"
+  },
+  {
+    "op": "replace",
+    "path": "/cockInfuseDigested",
+    "value": "阴茎转化"
+  },
+  {
+    "op": "replace",
+    "path": "/pawInfuseDigested",
+    "value": "爪子转化"
+  },
+  {
+    "op": "replace",
+    "path": "/tailInfuseDigested",
+    "value": "尾巴转化"
+  },
+  {
+    "op": "replace",
+    "path": "/none",
+    "value": "无效果"
+  },
+  {
+    "op": "replace",
+    "path": "/heal",
+    "value": "治愈"
+  },
+  {
+    "op": "replace",
+    "path": "/softDigest",
+    "value": "软消化"
+  },
+  {
+    "op": "replace",
+    "path": "/digest",
+    "value": "消化"
+  },
+  {
+    "op": "replace",
+    "path": "/healDesc",
+    "value": "根据消化能力治疗猎物，消耗能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/healRequestDesc",
+    "value": "请求被治愈。"
+  },
+  {
+    "op": "replace",
+    "path": "/digestDesc",
+    "value": "根据消化能力融化猎物并补充饥饿和健康。"
+  },
+  {
+    "op": "replace",
+    "path": "/digestRequestDesc",
+    "value": "请求被消化。"
+  },
+  {
+    "op": "replace",
+    "path": "/softDigestDesc",
+    "value": "根据消化能力融化猎物并补充饥饿和健康。使猎物只剩 1 HP。"
+  },
+  {
+    "op": "replace",
+    "path": "/softDigestRequestDesc",
+    "value": "请求被软消化。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestDesc",
+    "value": "根据精液能力融化猎物来满足色欲。当猎物被完全融化时可能会产生避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumSoftDigestDesc",
+    "value": "根据精液能力融化猎物来满足色欲。使猎物只剩 1 HP。当猎物被“完全”融化时可能会产生避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestDesc",
+    "value": "根据爱液能力融化猎物来满足色欲。当猎物被完全融化时可能会产生避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumSoftDigestDesc",
+    "value": "根据爱液能力融化猎物来满足色欲。使猎物只剩 1 HP。当猎物被“完全”融化时可能会产生避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestDesc",
+    "value": "根据乳液能力融化猎物来满足色欲。当猎物被充分搅拌时可能会产生乳汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkSoftDigestDesc",
+    "value": "根据乳液能力融化猎物来满足色欲。使猎物只剩 1 HP。当猎物被“充分”搅拌时可能会产生乳汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumHealDesc",
+    "value": "基于精液能力治愈猎物，消耗能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumHealDesc",
+    "value": "治疗猎物的速度更快，消耗的能量更少，但会导致饥饿。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkHealDesc",
+    "value": "治疗猎物的速度更快，消耗的能量更少，但会导致饥饿。"
+  },
+  {
+    "op": "replace",
+    "path": "/energyDrainDesc",
+    "value": "消耗猎物的能量来恢复自己的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/reformDigested",
+    "value": "重塑"
+  },
+  {
+    "op": "replace",
+    "path": "/reformHealDesc",
+    "value": "软消化后慢慢治愈猎物，使其重塑。一旦他们的HP满了就可以使用^yellow;重塑^reset;行为。"
+  },
+  {
+    "op": "replace",
+    "path": "/noneDesc",
+    "value": "无效果"
+  },
+  {
+    "op": "replace",
+    "path": "/noneRequestDesc",
+    "value": "请求无效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/mainSettings",
+    "value": "主要设置"
+  },
+  {
+    "op": "replace",
+    "path": "/resistances",
+    "value": "耐性"
+  },
+  {
+    "op": "replace",
+    "path": "/unordered",
+    "value": "无序(仅限于管理员)"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDifficulty",
+    "value": "逃脱难度"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDifficultyTip",
+    "value": "你从捕食者体内挣脱的难度有多高"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestPower",
+    "value": "消化能力"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestPowerTip",
+    "value": "你的消化液对猎物的作用速度有多快。"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestResistance",
+    "value": "消化耐性"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestResistanceTip",
+    "value": "在消化液中的抗消化值。"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestFatalImmuneTip",
+    "value": "免疫致命效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestDropsTip",
+    "value": "猎物被消化后可能会掉落残骸。"
+  },
+  {
+    "op": "replace",
+    "path": "/acidDigestDropsAllowTip",
+    "value": "你被消化后可能会掉落残骸。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestPower",
+    "value": "精液能力"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestPowerTip",
+    "value": "你的精液对猎物的作用有多快。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestResistance",
+    "value": "精液耐性"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestResistanceTip",
+    "value": "在精液中的抗融化值。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestFatalImmuneTip",
+    "value": "免疫致命效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestDropsTip",
+    "value": "猎物被融化后可能会填满一个避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/cumDigestDropsAllowTip",
+    "value": "你被融化后可能会填满一个避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestPower",
+    "value": "爱液能力"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestPowerTip",
+    "value": "你的爱液对猎物的作用有多快。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestResistance",
+    "value": "爱液耐性"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestResistanceTip",
+    "value": "在爱液中的抗融化值。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestFatalImmuneTip",
+    "value": "免疫致命效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestDropsTip",
+    "value": "猎物被融化后可能会填满一个避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/femcumDigestDropsAllowTip",
+    "value": "你被融化后可能会填满一个避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestPower",
+    "value": "乳液能力"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestPowerTip",
+    "value": "你的乳液对猎物的作用有多快。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestResistance",
+    "value": "乳液耐性"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestResistanceTip",
+    "value": "在乳液中的抗融化值。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestFatalImmuneTip",
+    "value": "免疫致命效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestDropsTip",
+    "value": "猎物被搅碎后可以装满一盒奶。"
+  },
+  {
+    "op": "replace",
+    "path": "/milkDigestDropsAllowTip",
+    "value": "你被搅碎后可以装满一盒奶。"
+  },
+  {
+    "op": "replace",
+    "path": "/mainEffect",
+    "value": "主要效果"
+  },
+  {
+    "op": "replace",
+    "path": "/secondaryEffects",
+    "value": "次要效果"
+  },
+  {
+    "op": "replace",
+    "path": "/digestedEffects",
+    "value": "消化后的效果"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedEffects",
+    "value": "注入后的效果"
+  },
+  {
+    "op": "replace",
+    "path": "/energyDrain",
+    "value": "能量消耗"
+  },
+  {
+    "op": "replace",
+    "path": "/hammerspace",
+    "value": "口袋空间"
+  },
+  {
+    "op": "replace",
+    "path": "/infusePreferDirect",
+    "value": "偏向直接注入"
+  },
+  {
+    "op": "replace",
+    "path": "/infusePreferDirectTip",
+    "value": "更倾向于直接注入，而不需要任何相关的Vore行动。"
+  },
+  {
+    "op": "replace",
+    "path": "/targetFriendlyTip",
+    "value": "友好角色"
+  },
+  {
+    "op": "replace",
+    "path": "/targetHostileTip",
+    "value": "敌对角色"
+  },
+  {
+    "op": "replace",
+    "path": "/targetPlayerTip",
+    "value": "玩家角色"
+  },
+  {
+    "op": "replace",
+    "path": "/targetOCTip",
+    "value": "原创角色"
+  },
+  {
+    "op": "replace",
+    "path": "/targetCompatibleTip",
+    "value": "与SBQ兼容的角色"
+  },
+  {
+    "op": "replace",
+    "path": "/targetOtherTip",
+    "value": "其他角色"
+  },
+  {
+    "op": "replace",
+    "path": "/willingness",
+    "value": "意愿"
+  },
+  {
+    "op": "replace",
+    "path": "/favored",
+    "value": "偏爱"
+  },
+  {
+    "op": "replace",
+    "path": "/willingnessTip",
+    "value": "该角色“愿意”采取这一行动的可能性有多大。"
+  },
+  {
+    "op": "replace",
+    "path": "/favoredTip",
+    "value": "这个角色有多喜欢主动进行这个动作"
+  },
+  {
+    "op": "replace",
+    "path": "/predAlwaysDigestHostiles",
+    "value": "消化敌方"
+  },
+  {
+    "op": "replace",
+    "path": "/predAlwaysDigestHostilesTip",
+    "value": "会一直尝试消化敌方实体，无论所在位置设置的效果如何。"
+  },
+  {
+    "op": "replace",
+    "path": "/minimumScaleTip",
+    "value": "可以缩小到的最小比例。\n出于理智的考虑，上限为0.125（1/8）。"
+  },
+  {
+    "op": "replace",
+    "path": "/maximumScaleTip",
+    "value": "可以放大到的最大比例。\n为了不让你的电脑爆炸，上限是10倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/currentScaleTip",
+    "value": "当前比例。\n如果找到相关工具，可以自由设置……"
+  },
+  {
+    "op": "replace",
+    "path": "/grabbed",
+    "value": "抓取"
+  },
+  {
+    "op": "replace",
+    "path": "/grabbedTip",
+    "value": "是否可以抓住或捡起一个人。"
+  },
+  {
+    "op": "replace",
+    "path": "/pinned",
+    "value": "压制"
+  },
+  {
+    "op": "replace",
+    "path": "/pinnedTip",
+    "value": "是否能被压住，如被踩或被坐。"
+  },
+  {
+    "op": "replace",
+    "path": "/displayEffect",
+    "value": "显示效果"
+  },
+  {
+    "op": "replace",
+    "path": "/displayEffectTip",
+    "value": "您的消化效果可以创建诸如数字之类的粒子来显示其效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/nipplesVisible",
+    "value": "乳头可见"
+  },
+  {
+    "op": "replace",
+    "path": "/nipplesVisibleTip",
+    "value": "乳头在乳房上可见。"
+  },
+  {
+    "op": "replace",
+    "path": "/navelVisible",
+    "value": "肚脐可见"
+  },
+  {
+    "op": "replace",
+    "path": "/navelVisibleTip",
+    "value": "肚脐在腹部上可见。"
+  },
+  {
+    "op": "replace",
+    "path": "/struggleSounds",
+    "value": "挣扎声"
+  },
+  {
+    "op": "replace",
+    "path": "/struggleSoundsTip",
+    "value": "猎物在里面挣扎的声音会被听到。"
+  },
+  {
+    "op": "replace",
+    "path": "/gurgleSounds",
+    "value": "咕噜声"
+  },
+  {
+    "op": "replace",
+    "path": "/gurgleSoundsTip",
+    "value": "猎物会发出咕噜声。"
+  },
+  {
+    "op": "replace",
+    "path": "/interactDialogue",
+    "value": "互动对话"
+  },
+  {
+    "op": "replace",
+    "path": "/interactDialogueTip",
+    "value": "与该角色互动时会出现对话提示。\n如果未启用，角色会根据光标所在的位置以及你站立的位置尝试进行操作。"
+  },
+  {
+    "op": "replace",
+    "path": "/actionDialogue",
+    "value": "行动对话"
+  },
+  {
+    "op": "replace",
+    "path": "/actionDialogueTip",
+    "value": "该角色在做动作或挣扎时会说出相关的台词。"
+  },
+  {
+    "op": "replace",
+    "path": "/lockDownChance",
+    "value": "封锁%"
+  },
+  {
+    "op": "replace",
+    "path": "/lockDownChanceTip",
+    "value": "这个NPC有时会随机进入封锁模式，以防止你逃跑。\n他们没问你就把你吃了。"
+  },
+  {
+    "op": "replace",
+    "path": "/healthThreshold",
+    "value": "健康阈值"
+  },
+  {
+    "op": "replace",
+    "path": "/healthThresholdMinTip",
+    "value": "该角色尝试执行此操作时的最低健康值。"
+  },
+  {
+    "op": "replace",
+    "path": "/healthThresholdMaxTip",
+    "value": "该角色尝试执行此操作时的最高健康值。"
+  },
+  {
+    "op": "replace",
+    "path": "/hungerThreshold",
+    "value": "饥饿阈值"
+  },
+  {
+    "op": "replace",
+    "path": "/hungerThresholdMinTip",
+    "value": "该角色尝试执行此操作时的最低饥饿度。"
+  },
+  {
+    "op": "replace",
+    "path": "/hungerThresholdMaxTip",
+    "value": "该角色尝试执行此操作时的最高饥饿度。"
+  },
+  {
+    "op": "replace",
+    "path": "/lustThreshold",
+    "value": "色欲阈值"
+  },
+  {
+    "op": "replace",
+    "path": "/lustThresholdMinTip",
+    "value": "该角色尝试执行此操作时的最低色欲值。"
+  },
+  {
+    "op": "replace",
+    "path": "/lustThresholdMaxTip",
+    "value": "该角色尝试执行此操作时的最高色欲值。"
+  },
+  {
+    "op": "replace",
+    "path": "/restThreshold",
+    "value": "休息阈值"
+  },
+  {
+    "op": "replace",
+    "path": "/restThresholdMinTip",
+    "value": "该角色尝试执行此操作时的最低休息值。"
+  },
+  {
+    "op": "replace",
+    "path": "/restThresholdMaxTip",
+    "value": "该角色尝试执行此操作时的最高休息值。"
+  },
+  {
+    "op": "replace",
+    "path": "/maxPossibleScale",
+    "value": "最大可缩放尺寸"
+  },
+  {
+    "op": "replace",
+    "path": "/maxPossibleScaleTip",
+    "value": "你当前可以放大到的最大尺寸。\n由你消耗的升级数量决定。"
+  },
+  {
+    "op": "replace",
+    "path": "/maxDigestPower",
+    "value": "最大消化能力"
+  },
+  {
+    "op": "replace",
+    "path": "/maxDigestPowerTip",
+    "value": "你消化能力的最大值。\n由你消耗的升级数量决定。"
+  },
+  {
+    "op": "replace",
+    "path": "/locations",
+    "value": "位置"
+  },
+  {
+    "op": "replace",
+    "path": "/locationsTip",
+    "value": "位置设置的原始Json，除非你知道你在做什么，否则不要碰它。"
+  },
+  {
+    "op": "replace",
+    "path": "/vorePrefs",
+    "value": "Vore偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/vorePrefsTip",
+    "value": "Vore偏好设置的原始Json，除非你知道你在做什么，否则不要碰它。"
+  },
+  {
+    "op": "replace",
+    "path": "/infusePrefs",
+    "value": "注入偏好"
+  },
+  {
+    "op": "replace",
+    "path": "/infusePrefsTip",
+    "value": "注入设置的原始Json，除非你知道你在做什么，否则不要碰它。"
+  },
+  {
+    "op": "replace",
+    "path": "/visualMin",
+    "value": "最小填充值"
+  },
+  {
+    "op": "replace",
+    "path": "/visualMinTip",
+    "value": "这个位置在视觉上的最小填充值。"
+  },
+  {
+    "op": "replace",
+    "path": "/visualMinAdd",
+    "value": "添加填充"
+  },
+  {
+    "op": "replace",
+    "path": "/visualMinAddTip",
+    "value": "如果启用，最小填充值会影响实际上填充值。"
+  },
+  {
+    "op": "replace",
+    "path": "/visualMaxTip",
+    "value": "这个位置在视觉上的最大填充值。"
+  },
+  {
+    "op": "replace",
+    "path": "/minFill",
+    "value": "最小充填值"
+  },
+  {
+    "op": "replace",
+    "path": "/maxFill",
+    "value": "最小充填值"
+  },
+  {
+    "op": "replace",
+    "path": "/multiply",
+    "value": "乘值"
+  },
+  {
+    "op": "replace",
+    "path": "/multiplyFillTip",
+    "value": "乘以每个居住者的计数。"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedFade",
+    "value": "颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedFadeTip",
+    "value": "注入后剩余的颜色量。"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedSize",
+    "value": "尺寸"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedSizeTip",
+    "value": "注入占尺寸的百分比。"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedShrink",
+    "value": "注入缩小"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedShrinkTip",
+    "value": "尺寸会随着时间的推移而缩小。"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedFading",
+    "value": "注入褪色"
+  },
+  {
+    "op": "replace",
+    "path": "/infusedFadingTip",
+    "value": "颜色会随着时间的推移而褪去。"
+  },
+  {
+    "op": "replace",
+    "path": "/bodyParts",
+    "value": "身体部位"
+  },
+  {
+    "op": "replace",
+    "path": "/cockTip",
+    "value": "启用阴茎。"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsTip",
+    "value": "启用睾丸。"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyTip",
+    "value": "启用阴道。"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsTip",
+    "value": "启用乳房。"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsSymmetric",
+    "value": "睾丸的对称性"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsSymmetricTip",
+    "value": "为了保持对称而将睾丸的内容物平均分配到两侧。"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsSymmetric",
+    "value": "乳房的对称性"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsSymmetricTip",
+    "value": "为了保持对称而将乳房的内容物平均分配到两侧。"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsInternal",
+    "value": "内部睾丸"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsInternalTip",
+    "value": "从外面看不到睾丸。"
+  },
+  {
+    "op": "replace",
+    "path": "/compression",
+    "value": "压缩"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionHealth",
+    "value": "健康压缩"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionHealthTip",
+    "value": "猎物会根据其健康状况的百分比被压缩得更小。"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionTime",
+    "value": "时间压缩"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionTimeTip",
+    "value": "根据所在位置的能力，猎物会随着时间的推移被压缩得更小。"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionNone",
+    "value": "不压缩"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionNoneTip",
+    "value": "不压缩."
+  },
+  {
+    "op": "replace",
+    "path": "/compressionMin",
+    "value": "压缩极限"
+  },
+  {
+    "op": "replace",
+    "path": "/compressionMinTip",
+    "value": "猎物能被压缩到多小的极限。"
+  },
+  {
+    "op": "replace",
+    "path": "/huntingSpreeChance",
+    "value": "疯狂狩猎%"
+  },
+  {
+    "op": "replace",
+    "path": "/huntingSpreeChanceTip",
+    "value": "狩猎成功后，对方会立即再次开始狩猎。"
+  },
+  {
+    "op": "replace",
+    "path": "/getConsentChance",
+    "value": "征求同意概率"
+  },
+  {
+    "op": "replace",
+    "path": "/getConsentChanceTip",
+    "value": "对方可能会向目标征求同意再做这件事。"
+  },
+  {
+    "op": "replace",
+    "path": "/stripping",
+    "value": "剥离"
+  },
+  {
+    "op": "replace",
+    "path": "/headStrip",
+    "value": "头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/chestStrip",
+    "value": "胸甲"
+  },
+  {
+    "op": "replace",
+    "path": "/legsStrip",
+    "value": "腿甲"
+  },
+  {
+    "op": "replace",
+    "path": "/backStrip",
+    "value": "背甲"
+  },
+  {
+    "op": "replace",
+    "path": "/clothingStripTip",
+    "value": "角色移除此衣服槽位的色欲百分比。"
+  },
+  {
+    "op": "replace",
+    "path": "/theHatStaysOn",
+    "value": "做爱时帽子会一直戴着。"
+  },
+  {
+    "op": "replace",
+    "path": "/offerQuests",
+    "value": "提供任务"
+  },
+  {
+    "op": "replace",
+    "path": "/offerQuestsTip",
+    "value": "该角色可为玩家提供各种任务。"
+  },
+  {
+    "op": "replace",
+    "path": "/questParticipation",
+    "value": "参与任务"
+  },
+  {
+    "op": "replace",
+    "path": "/questParticipationTip",
+    "value": "该角色可以“参与”其他角色的任务。"
+  },
+  {
+    "op": "replace",
+    "path": "/npcGraduation",
+    "value": "NPC毕业"
+  },
+  {
+    "op": "replace",
+    "path": "/npcGraduationTip",
+    "value": "这个角色在完成任务后可能会“毕业”成为另一种类型。\n这通常意味着可以被招募为船员。"
+  },
+  {
+    "op": "replace",
+    "path": "/eggify",
+    "value": "蛋化"
+  },
+  {
+    "op": "replace",
+    "path": "/eggifyDesc",
+    "value": "把猎物困在蛋里！"
+  },
+  {
+    "op": "replace",
+    "path": "/eggifyRequestDesc",
+    "value": "请求被困在蛋里！"
+  },
+  {
+    "op": "replace",
+    "path": "/releaseOccupant",
+    "value": "释放乘客"
+  },
+  {
+    "op": "replace",
+    "path": "/releaseOccupantDesc",
+    "value": "这应该只针对 NPC。"
+  },
+  {
+    "op": "replace",
+    "path": "/releaseOccupantRequestDesc",
+    "value": "请求他们释放其中一名乘客。"
+  },
+  {
+    "op": "replace",
+    "path": "/personality",
+    "value": "性格"
+  },
+  {
+    "op": "replace",
+    "path": "/shy",
+    "value": "害羞"
+  },
+  {
+    "op": "replace",
+    "path": "/flirty",
+    "value": "轻浮"
+  },
+  {
+    "op": "replace",
+    "path": "/default",
+    "value": "默认"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesTF",
+    "value": "物种"
+  },
+  {
+    "op": "replace",
+    "path": "/indefiniteTF",
+    "value": "无期限"
+  },
+  {
+    "op": "replace",
+    "path": "/permanentTF",
+    "value": "永久"
+  },
+  {
+    "op": "replace",
+    "path": "/genderTF",
+    "value": "性别"
+  },
+  {
+    "op": "replace",
+    "path": "/accidentalTF",
+    "value": "事故"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesTFTip",
+    "value": "你的物种可以改变"
+  },
+  {
+    "op": "replace",
+    "path": "/indefiniteTFTip",
+    "value": "变形将无限期地持续下去，只能用还原药水治愈"
+  },
+  {
+    "op": "replace",
+    "path": "/permanentTFTip",
+    "value": "变身后，你的“原始”物种将被新物种取代，从而使复原药剂失去作用"
+  },
+  {
+    "op": "replace",
+    "path": "/genderTFTip",
+    "value": "你的性别可以改变^#555;(仅限基础，生殖器是独立的)"
+  },
+  {
+    "op": "replace",
+    "path": "/potionTFTip",
+    "value": "你可以通过药水改变自己"
+  },
+  {
+    "op": "replace",
+    "path": "/magicTFTip",
+    "value": "你可以通过魔法改变自己"
+  },
+  {
+    "op": "replace",
+    "path": "/scienceTFTip",
+    "value": "你可以通过科学改变自己"
+  },
+  {
+    "op": "replace",
+    "path": "/voreTFTip",
+    "value": "你可以在 vore 期间进行转化"
+  },
+  {
+    "op": "replace",
+    "path": "/unbirthTFTip",
+    "value": "你可以在别人的子宫里发生变化"
+  },
+  {
+    "op": "replace",
+    "path": "/accidentalTFTip",
+    "value": "各种随机事件都可能导致转变。^#555;(尊重其他设置)"
+  },
+  {
+    "op": "replace",
+    "path": "/cockCanTFChange",
+    "value": "TF效果会随你有没有阴茎而改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/ballsCanTFChange",
+    "value": "TF效果会随你有没有睾丸而改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyCanTFChange",
+    "value": "TF效果会随你有没有阴道而改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/breastsCanTFChange",
+    "value": "TF效果会随你有没有乳房而改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/actions",
+    "value": "行动"
+  },
+  {
+    "op": "replace",
+    "path": "/unassignedAction",
+    "value": "SBQ控制器"
+  },
+  {
+    "op": "replace",
+    "path": "/grab",
+    "value": "抓取"
+  },
+  {
+    "op": "replace",
+    "path": "/inhale",
+    "value": "吸气"
+  },
+  {
+    "op": "replace",
+    "path": "/vore",
+    "value": "任何Vore"
+  },
+  {
+    "op": "replace",
+    "path": "/genericDesc",
+    "value": "^green;点击^reset;尝试^yellow;<actionName>^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/unavailableDesc",
+    "value": "^yellow;<actionName>^reset;不可用。"
+  },
+  {
+    "op": "replace",
+    "path": "/unassignedDesc",
+    "value": "未分配任何操作。"
+  },
+  {
+    "op": "replace",
+    "path": "/controllerDescAppend",
+    "value": "^green;Shift+W^reset;为行动轮。^green;Shift+点击^reset;发送提示。"
+  },
+  {
+    "op": "replace",
+    "path": "/genericDomPrompt",
+    "value": "<entityName>^reset;想要<actionName>^reset;你。"
+  },
+  {
+    "op": "replace",
+    "path": "/genericSubPrompt",
+    "value": "<entityName>^reset;想要<actionName>^reset;对方。"
+  },
+  {
+    "op": "replace",
+    "path": "/voreDesc",
+    "value": "尝试对目标进行任何可用的^yellow;Vore^reset;行动。"
+  },
+  {
+    "op": "replace",
+    "path": "/voreRequestDesc",
+    "value": "让对方选择如何vore你！"
+  },
+  {
+    "op": "replace",
+    "path": "/oralVoreDesc",
+    "value": "吃对方！"
+  },
+  {
+    "op": "replace",
+    "path": "/analVoreDesc",
+    "value": "把对方塞进你的屁股里！"
+  },
+  {
+    "op": "replace",
+    "path": "/unbirthVoreDesc",
+    "value": "把对方放进你的阴道里！"
+  },
+  {
+    "op": "replace",
+    "path": "/breastVoreDesc",
+    "value": "把对方插进你的乳房里！"
+  },
+  {
+    "op": "replace",
+    "path": "/cockVoreDesc",
+    "value": "把对方放进你的阴茎里！"
+  },
+  {
+    "op": "replace",
+    "path": "/tailVoreDesc",
+    "value": "用你的尾巴吃对方！"
+  },
+  {
+    "op": "replace",
+    "path": "/absorbVoreDesc",
+    "value": "吸收对方！"
+  },
+  {
+    "op": "replace",
+    "path": "/navelVoreDesc",
+    "value": "把对方放进你的肚脐里！"
+  },
+  {
+    "op": "replace",
+    "path": "/oralVoreRequestDesc",
+    "value": "请求被吃掉!"
+  },
+  {
+    "op": "replace",
+    "path": "/analVoreRequestDesc",
+    "value": "请求被塞进对方的屁股里！"
+  },
+  {
+    "op": "replace",
+    "path": "/unbirthVoreRequestDesc",
+    "value": "请求被塞进对方的阴道！"
+  },
+  {
+    "op": "replace",
+    "path": "/breastVoreRequestDesc",
+    "value": "请求被塞进对方的乳房里！"
+  },
+  {
+    "op": "replace",
+    "path": "/cockVoreRequestDesc",
+    "value": "请求被塞进对方的阴茎里！"
+  },
+  {
+    "op": "replace",
+    "path": "/tailVoreRequestDesc",
+    "value": "请求被对方的尾巴咬！"
+  },
+  {
+    "op": "replace",
+    "path": "/absorbVoreRequestDesc",
+    "value": "请求对方吸收你！"
+  },
+  {
+    "op": "replace",
+    "path": "/navelVoreRequestDesc",
+    "value": "请求被塞进对方的肚脐！"
+  },
+  {
+    "op": "replace",
+    "path": "/bellyInfuseDesc",
+    "value": "把对方变成你的胃！"
+  },
+  {
+    "op": "replace",
+    "path": "/thighsInfuseDesc",
+    "value": "把你的猎物变成有意识的脂肪！"
+  },
+  {
+    "op": "replace",
+    "path": "/cockInfuseDesc",
+    "value": "把对方变成你的阴茎！"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyInfuseDesc",
+    "value": "把对方变成你的阴道！"
+  },
+  {
+    "op": "replace",
+    "path": "/breastInfuseDesc",
+    "value": "把对方变成你的乳房！"
+  },
+  {
+    "op": "replace",
+    "path": "/tailInfuseDesc",
+    "value": "把对方变成你的尾巴！"
+  },
+  {
+    "op": "replace",
+    "path": "/pawInfuseDesc",
+    "value": "把对方吸收到你的爪子里！"
+  },
+  {
+    "op": "replace",
+    "path": "/bellyInfuseRequestDesc",
+    "value": "请求变成对方的胃！"
+  },
+  {
+    "op": "replace",
+    "path": "/thighsInfuseRequestDesc",
+    "value": "请求变成脂肪！"
+  },
+  {
+    "op": "replace",
+    "path": "/cockInfuseRequestDesc",
+    "value": "请求变成对方的阴茎！"
+  },
+  {
+    "op": "replace",
+    "path": "/pussyInfuseRequestDesc",
+    "value": "请求变成对方的阴道！"
+  },
+  {
+    "op": "replace",
+    "path": "/breastInfuseRequestDesc",
+    "value": "请求变成对方的乳房！"
+  },
+  {
+    "op": "replace",
+    "path": "/tailInfuseRequestDesc",
+    "value": "请求变成对方的尾巴！"
+  },
+  {
+    "op": "replace",
+    "path": "/pawInfuseRequestDesc",
+    "value": "请求变成对方的爪子！"
+  },
+  {
+    "op": "replace",
+    "path": "/grabRequestDesc",
+    "value": "请求升级！"
+  },
+  {
+    "op": "replace",
+    "path": "/interact",
+    "value": "互动"
+  },
+  {
+    "op": "replace",
+    "path": "/interactDesc",
+    "value": "与该角色互动。"
+  },
+  {
+    "op": "replace",
+    "path": "/letout",
+    "value": "释放"
+  },
+  {
+    "op": "replace",
+    "path": "/controllerLetOutAnyDesc",
+    "value": "用当前的行动释放最近的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/letoutDesc",
+    "value": "用当前行动放出选定的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/letoutRequestDesc",
+    "value": "请求释放。"
+  },
+  {
+    "op": "replace",
+    "path": "/controllerRPMenu",
+    "value": "角色扮演行动"
+  },
+  {
+    "op": "replace",
+    "path": "/controllerRPMenuDesc",
+    "value": "TODO\n主要用于角色扮演的行动。"
+  },
+  {
+    "op": "replace",
+    "path": "/controllerAssign",
+    "value": "指定行动"
+  },
+  {
+    "op": "replace",
+    "path": "/controllerAssignDesc",
+    "value": "指定点击时执行的操作。"
+  },
+  {
+    "op": "replace",
+    "path": "/turboDigest",
+    "value": "快速消化"
+  },
+  {
+    "op": "replace",
+    "path": "/turboDigestDesc",
+    "value": "用10倍的速度消化！"
+  },
+  {
+    "op": "replace",
+    "path": "/turboDigestRequestDesc",
+    "value": "请求以10倍的速度被消化！"
+  },
+  {
+    "op": "replace",
+    "path": "/reform",
+    "value": "重塑"
+  },
+  {
+    "op": "replace",
+    "path": "/reformDesc",
+    "value": "猎物HP回满后对其进行重塑。"
+  },
+  {
+    "op": "replace",
+    "path": "/reformRequestDesc",
+    "value": "请求在HP回满后进行重塑。"
+  },
+  {
+    "op": "replace",
+    "path": "/turboReform",
+    "value": "快速重塑"
+  },
+  {
+    "op": "replace",
+    "path": "/turboReformDesc",
+    "value": "消耗能量使猎物的重塑速度提高10倍！"
+  },
+  {
+    "op": "replace",
+    "path": "/turboReformRequestDesc",
+    "value": "请求以10倍的速度进行重塑！"
+  },
+  {
+    "op": "replace",
+    "path": "/turboHeal",
+    "value": "快速治愈"
+  },
+  {
+    "op": "replace",
+    "path": "/turboHealDesc",
+    "value": "消耗能量使猎物的治愈速度提高10倍！"
+  },
+  {
+    "op": "replace",
+    "path": "/turboHealRequestDesc",
+    "value": "请求以10倍的速度进行治愈！"
+  },
+  {
+    "op": "replace",
+    "path": "/fatal",
+    "value": "致死"
+  },
+  {
+    "op": "replace",
+    "path": "/fatalDesc",
+    "value": "让对方解脱。"
+  },
+  {
+    "op": "replace",
+    "path": "/fatalRequestDesc",
+    "value": "请求解脱。"
+  },
+  {
+    "op": "replace",
+    "path": "/chooseLocation",
+    "value": "选择位置"
+  },
+  {
+    "op": "replace",
+    "path": "/chooseLocationDesc",
+    "value": "选择猎物被送往的位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/chooseLocationRequestDesc",
+    "value": "请求被送往其它位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/chooseLocationPrey",
+    "value": "猎物选择位置"
+  },
+  {
+    "op": "replace",
+    "path": "/chooseLocationPreyDesc",
+    "value": "让你的猎物选择被送往的位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/chooseLocationPreyPrompt",
+    "value": "选择捕食者体内的一个位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/transform",
+    "value": "转化"
+  },
+  {
+    "op": "replace",
+    "path": "/transformDesc",
+    "value": "将猎物转化为其他东西，需要消耗能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/transformRequestDesc",
+    "value": "请求变成其他东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/sendDeeper",
+    "value": "深入"
+  },
+  {
+    "op": "replace",
+    "path": "/sendDeeperDesc",
+    "value": "将猎物送入你的身体深处"
+  },
+  {
+    "op": "replace",
+    "path": "/sendDeeperRequestDesc",
+    "value": "请求更深入地进入对方的体内！"
+  },
+  {
+    "op": "replace",
+    "path": "/lockDown",
+    "value": "封锁"
+  },
+  {
+    "op": "replace",
+    "path": "/lockDownDesc",
+    "value": "切换^red;封锁^reset;模式。\n只要你还有能量，就能防止猎物逃跑，但能量的被动回复会停止。"
+  },
+  {
+    "op": "replace",
+    "path": "/action_invalidAction",
+    "value": "行动无效"
+  },
+  {
+    "op": "replace",
+    "path": "/action_settingsMismatch",
+    "value": "当前设置不允许"
+  },
+  {
+    "op": "replace",
+    "path": "/action_targetSettingsMismatch",
+    "value": "目标设置不允许"
+  },
+  {
+    "op": "replace",
+    "path": "/action_targetPreySettingsMismatch",
+    "value": "目标包含设置不允许的乘员"
+  },
+  {
+    "op": "replace",
+    "path": "/action_tooBig",
+    "value": "目标太大"
+  },
+  {
+    "op": "replace",
+    "path": "/action_tooSmall",
+    "value": "目标太小"
+  },
+  {
+    "op": "replace",
+    "path": "/action_noSlots",
+    "value": "所有位置都满了"
+  },
+  {
+    "op": "replace",
+    "path": "/action_noSpace",
+    "value": "位置空间不足"
+  },
+  {
+    "op": "replace",
+    "path": "/action_needsInfusion",
+    "value": "需要注入的必要部件"
+  },
+  {
+    "op": "replace",
+    "path": "/action_alreadyInfused",
+    "value": "已经注入的乘员"
+  },
+  {
+    "op": "replace",
+    "path": "/action_invalidLocation",
+    "value": "位置数据无效"
+  },
+  {
+    "op": "replace",
+    "path": "/action_missingAction",
+    "value": "当前状态下没有行动"
+  },
+  {
+    "op": "replace",
+    "path": "/action_actionsLocked",
+    "value": "当前已锁定的操作"
+  },
+  {
+    "op": "replace",
+    "path": "/mysteryPotionName",
+    "value": "^rainbow;神秘药水"
+  },
+  {
+    "op": "replace",
+    "path": "/mysteryPotionDesc",
+    "value": "谁知道这种药水会把人变成什么样呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesPotionName",
+    "value": "<species>药水"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesPotionDesc",
+    "value": "变身<species>的药水。"
+  },
+  {
+    "op": "replace",
+    "path": "/invalidPotionName",
+    "value": "无效的<species>药水"
+  },
+  {
+    "op": "replace",
+    "path": "/invalidPotionDesc",
+    "value": "因为某些问题而无法转化为<species>。"
+  },
+  {
+    "op": "replace",
+    "path": "/duplicatePotionName",
+    "value": "<name>药水"
+  },
+  {
+    "op": "replace",
+    "path": "/duplicatePotionDesc",
+    "value": "变身<name>的药水。"
+  },
+  {
+    "op": "replace",
+    "path": "/candiesEatenIncreased",
+    "value": "最大尺寸和消化能力增强"
+  },
+  {
+    "op": "replace",
+    "path": "/mysteryCandyName",
+    "value": "^rainbow;神秘糖果"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/0",
+    "value": "星核苹果冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/1",
+    "value": "闪闪发光的甜蜜冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/2",
+    "value": "诡异的香蕉冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/3",
+    "value": "变异的混合冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/4",
+    "value": "^rainbow;复合元素冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/5",
+    "value": "^rainbow;璀璨之星冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/candyName/9",
+    "value": "^rainbow;终极冰糖"
+  },
+  {
+    "op": "replace",
+    "path": "/mysteryCandyDesc",
+    "value": "谁知道这糖果有多厉害！"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/0",
+    "value": "这种糖果富含来自行星核心的营养成分……你的胃可以处理这些……对吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/1",
+    "value": "虽然这种糖果味道甜美，但它的密度却高得惊人……含有生长所需的一切物质！"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/2",
+    "value": "这些奇特的味道应该会让你的胃更活跃一些。"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/3",
+    "value": "用来做这个的突变水果肯定有助于快速生长。"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/4",
+    "value": "将与这三种元素相匹配的口味相结合，应该会给你带来真正的力量！"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/5",
+    "value": "要吃掉一颗星星……那还很遥远，但它的力量会让你越来越近！"
+  },
+  {
+    "op": "replace",
+    "path": "/candyDesc/9",
+    "value": "一次只吃一个是不够的……当然，吃这个一定会让人难以置信！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabPred",
+    "value": "捕食者帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabPredContent",
+    "value": "要想成为捕食者，必须选择成为相关vore类型的捕食者。玩家也可以选择是否要求其他角色在进行相关动作时必须获得同意。\n如果你选择口腔Vore，但不需要同意，你就会允许猎物角色强行进入你的身体。如果启用了同意功能，你将收到确认或拒绝请求的提示，但你仍可自由尝试自己的操作。\n\n要执行捕食者动作，需要一个^yellow;SBQ控制器^reset;，这些可以用一个像素制作。打开动作轮并分配一个动作，可用动作由你启用的设置以及你的物种决定。\n\n动作轮还将允许你释放你吃掉的任何猎物，或者选择特定的猎物来执行仅通过此菜单和捕食者HUD可用的特定猎物动作。\n\n在右下角，你会有一个HUD来显示你当前占据者的健康状况，以及他们目前正在经历的任何额外效果的进度条。这个HUD还将允许你快速更改选定位置的当前消化效果，以及选择猎物来对他们执行动作。\n\n如果有人想要增强他们的力量……用更大的力量熔化他们的猎物，他们可能能够用他们发现的每一种新资源锻造一个特别的奖励。\n\n大红色的^red;锁定^reset;按钮将使你进入^red;锁定^reset;模式，这将取消你的基础被动能量再生，但会阻止任何猎物逃脱，直到你耗尽能量。如果你处于这种模式，你的状态效果会显示出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabPrey",
+    "value": "猎物帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabPreyContent",
+    "value": "要想成为猎物，必须选择成为相关vore类型的猎物。玩家也可以选择是否要求其他角色在进行相关动作时必须获得同意。\n如果你选择口腔Vore猎物，但不要求同意，你就是允许捕食者角色尝试在不询问的情况下吃掉你。如果启用了同意功能，你将收到一个提示来确认或拒绝请求，但你仍然可以自由地尝试这个动作。\n\n当你被吃掉时，右下角会弹出一个HUD，指示你可以按哪些方向挣扎。指示箭头的颜色暗示了朝那个方向挣扎可能会对你产生什么效果。\n\n按住^green;Shift^reset;将阻止你的挣扎产生任何实际效果，只播放动画，例如如果你不想逃脱。\n\n方向指示器含义：\n^red;红色^reset;\n你可能能够逃脱捕食者。\n^blue;蓝色^reset;\n可能会使捕食者改变状态/姿势。\n^green;绿色^reset;\n朝逃脱方向挣扎，可能会使捕食者改变状态/姿势，或者将你移动到另一个身体部位。\n^cyan;青色^reset;\n可能会让你移动到捕食者身体内的另一个位置。\n^yellow;黄色^reset;\n可能会让捕食者对你执行某种动作。\n^#AAA;（锁定）^reset;\n捕食者处于'锁定'模式，你将无法逃脱，直到他们因为你的挣扎而耗尽太多能量。\n\n\n如果你发现自己处于无法应对的情况，并且想要立即脱身，有一个^orange;即时逃脱组合键^reset;。要执行它，按住^green;Shift^reset;+^green;下^reset;，然后按^green;跳跃^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabTransformation",
+    "value": "变形帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabTransformationContent",
+    "value": "在变身为足够多的不同物种后，你将解锁^yellow;变形^reset;科技，然后就可以用它自由变身为你以前变身过的任何物种。一个快速解锁的方法是从商店购买几种神秘药水，或者生成各种物种的捕食者租户让他们来变形你。\n\n如果未启用相关设置，大多数药水是临时的，你通常会在5-10分钟内恢复到原始物种，具体取决于变形方法。如果那时你还没有变回，只需从商店获取一个^yellow;恢复药水^reset;。\n请注意，如果你启用了永久变形，任何变形都会“永久”生效，并成为你“恢复”后的新物种。\n\n通过^yellow;变形者^reset;科技进行的变形总是被视为无限期的，即使没有启用该设置。\n该科技还可以用于自定义每个物种的外观，你甚至可以更改作为该物种时使用的名称！这对于角色扮演非常有用，可以在不使用单独的角色存档的情况下“更换角色”。\n\n通过克隆药水变形会覆盖你的特定自定义设置并更改你的名称，这只是暂时的！^#555;除非它不是；）^reset; 如果这是你第一次变形为那个物种，它将被保存，否则它永远不会替换你保存的自定义设置，所以不用担心随意尝试它们！\n\n在任何你在游戏中更改名称的情况下，虽然它被保存在角色数据中，但你无法在服务器上更改客户端连接名称而不断开连接并重新连接，所以我们只是让它假装你使用了'/nick'命令来更改你的服务器昵称。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabSize",
+    "value": "尺寸帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabSizeContent",
+    "value": "你可能会发现自己能通过各种方式长大或缩小。如果你希望停止这种情况，只需在你的偏好设置中设置限制。\n\n然而，如果你想要突破这些限制……并长到更高的高度，你应该用你发现的每一种新资源锻造特别的奖励。\n\n^cyan;尺寸射线^reset;\n尺寸射线可以用来逐渐增大或缩小目标，每次击中都会增加或减少目标的大小，充电时间越长，目标的大小变化就越大。你也可以按住^green;Shift^reset;来自我瞄准！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabUpgrades",
+    "value": "升级帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabUpgradesContent",
+    "value": "SBQ中有许多特定的状态和能力，本标签将对它们进行说明。\n\n^yellow;岩石糖果^reset;岩石糖果是一种分等级的特殊食物，可以在铁砧处制作或作为战利品找到。食用它可能会增加你的消化能力，或者你能够长到的最大尺寸。每个等级的制作糖果将为你提供一个用于计算最大能力或尺寸的点数，一次。多次食用同一等级的糖果不会增加你的奖励……然而，作为战利品找到的糖果有可能带来更好的结果。如果你找到一块有'发光'轮廓的岩石糖果，那么这块糖果在该等级上具有最高的潜力，这些糖果随着你等级的提高越来越难找到，但能带来更好的结果！\n\n目前它是唯一的可消耗升级物品，未来还会有更多！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabNPCs",
+    "value": "契约帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabNPCsContent",
+    "value": "SBQ的NPC可以通过我们自己版本的殖民地契约生成，该契约可以在商店中购买。\n\n与原版契约不同，该契约有自己的图形用户界面，可以选择召唤哪个租户，查看他们需要什么殖民地标签，甚至可以用这些标签购买家具。你还可以从契约中自由插入或取出NPC的卡片，该卡片包含NPC的所有数据，包括其设置。解除契约时也会掉落。\n\nNPC精华也可以通过消化获得，你可以在设置选项卡中找到一些最近被消化的猎物的精华物品。你还可以使用特殊的消化掉落。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabOther",
+    "value": "其他帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabOtherContent",
+    "value": "^yellow;食典^reset;\n通用工具，用于访问SBQ相关设置和获取相关信息。任何已加载SBQ脚本的NPC或怪物都应能打开其设置菜单，大多数（如果不是全部）非SBQ实体将只有猎物和变形设置可供配置，出于尊重将禁用某些NPC的某些设置。\n\n^yellow;SSVM^reset;\n多年来已不再是依赖项。\n并非不兼容，但它的功能与我自己的功能之间没有对应关系，这些是完全独立的模组。\n\n^yellow;星磅^reset;\n据我所知，应该不兼容，尚未添加对应关系。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabCredits",
+    "value": "致谢"
+  },
+  {
+    "op": "replace",
+    "path": "/helpTabCreditsContent",
+    "value": "^#7dad27;LokiVulpix^reset;\n该模组的主要开发者！\npatreon.com/LokiVulpix ^#AAA;(标题屏幕的模组菜单中有可点击的链接)\n^reset;我的画作也可以在itaku上找到 itaku.ee/profile/lokivulpix\n我制作了大多数的精灵并完成了几乎所有的编程！\n\n^#7ddfff;Zygan^reset;\n巨大水龙兽精灵的原作者\n理智检查员\n\n\n其他贡献者\n\n^blue;Akari Kaen^reset;^blue;ArgobargSoup^reset;\n^blue;Blueninja^reset;\n^purple;Cosmic^reset;\n^yellow;Ferrilata_^reset;\n^red;FFWizard^reset;\n^reset;HornySe7en^purple;\nradiantAurora^reset;\n^blue;Xodious^reset;\n^red;Zovoroth^reset;\n\n\n委托人\n\nxeronious\n^rainbow;Lakota Amitola^reset;\n^blue;BRYZN-Z18^reset;\n^orange;Fevix^reset;\n^red;FFWizard^reset;\n^blue;Akari Kaen^reset;\n\n\n支持者\n\n"
+  }
+]
