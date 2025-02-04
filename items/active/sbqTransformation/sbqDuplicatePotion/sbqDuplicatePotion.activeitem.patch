@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "这种药水可以把一个人变成你的完美复制品，它只需要再加一种配料……一点你的成分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "复制药水"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "药水"
+  }
+]

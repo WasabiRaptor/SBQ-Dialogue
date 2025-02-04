@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个放在烛台上的小蜡烛。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "蜡烛",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个小蜡烛。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "翼族牧师常常在烛光下工作。",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "裸露的火焰太危险了！",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "感伤。烛光，我多么想念它。",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个漂亮的小蜡烛。",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "没有什么比蜡烛火焰的闪烁更美丽了。",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个很酷的小蜡烛。",
+    "path": "/novakidDescription"
+  }
+]

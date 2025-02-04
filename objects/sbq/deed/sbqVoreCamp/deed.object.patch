@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": ":营地描述",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": ":营地名称",
+    "path": "/shortdescription"
+  }
+]

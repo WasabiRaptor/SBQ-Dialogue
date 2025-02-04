@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一张宽大舒适的木制扶手椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "大型木制扶手椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "这把扶手椅看起来又漂亮又舒服……虽然有点大。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "色彩鲜艳、舒适……而且很大"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "柔软的大椅子，光滑的木扶手。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "满足。我可以在这把超大号的椅子上愉快地消磨时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "一张大型木制扶手椅"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "舒适……不知道是否简陋"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "一张看起来很吸引人的扶手椅，我想它是为身材高大的人制作的。"
+  }
+]

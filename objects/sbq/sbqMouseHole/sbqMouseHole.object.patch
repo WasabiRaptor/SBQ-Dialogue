@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个小老鼠洞……小人可能可以通过。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "老鼠洞",
+    "path": "/shortdescription"
+  }
+]

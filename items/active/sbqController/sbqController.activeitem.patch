@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "SBQ控制器",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "如果你看到这段文字，说明存在一个错误。",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种特殊的殖民地契约，旨在召唤可能参与Vore的人，无论是捕食者还是猎物！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "SBQ殖民地契约"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "如果把它放在一栋有门有灯的建筑里，它就会鼓励人们搬进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "这个装置会请人进入大楼。只要确保有门和灯就行。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "挂在建筑墙上的屏幕。让别人搬进来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "善于观察。如果将其放置在结构合理的建筑中，这种殖民地契约会鼓励人们搬进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "这些都是扩大殖民地的好帮手。把它放在有门有灯的建筑里，就会有人搬进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "如果把它挂在一个有门有灯的封闭建筑里，就会有人搬进来，把它当成自己的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "有了殖民地契约，就会有人搬进这栋楼。只要确保建筑有门和光源就行。"
+  }
+]

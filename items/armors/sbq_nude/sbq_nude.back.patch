@@ -1,0 +1,7 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "隐藏背包",
+    "path": "/shortdescription"
+  }
+]

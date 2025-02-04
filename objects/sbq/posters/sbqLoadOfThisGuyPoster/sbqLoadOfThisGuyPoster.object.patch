@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "最后，我接受了这个家伙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "这个家伙的海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "这里的含义相当……有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "太荒谬了，这肯定是不可能的……除非……"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "叶人可以制造更多的这个家伙。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "好奇。我应该寻找这个家伙吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "这是……哦，我知道了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "这是什么意思？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "嘿，肯定还有更多。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "value": "我当然有很多。"
+  }
+]

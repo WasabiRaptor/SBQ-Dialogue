@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "食典",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一本具有对捕食者控制能力的魔法书籍，其中包含有关捕食者的信息。\n点击一个捕食者对象来编辑或了解它们。",
+    "path": "/description"
+  }
+]

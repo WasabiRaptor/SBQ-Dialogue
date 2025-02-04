@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一把看起来很不舒服的木椅……有人在椅座上涂满了胶水"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "木椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "一把非常简单的木椅……上面涂满了粘合剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "一把粗糙的木椅……我可不想把自己粘在上面。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "椅子需要枕头。这木头太粗糙了……而且太黏了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "失望。座位不舒适。粘胶太多。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "我不能在这里坐太久……如果不是因为胶水把我粘在那里的话"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "这把椅子没怎么让人舒服……可能是故意的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "我喜欢简单的木工活，不过这东西太黏了！"
+  }
+]

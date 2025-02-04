@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一顶有趣的帽子，可惜这顶帽子不能让你发射光束或制造镜像。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "小丑帽",
+    "path": "/shortdescription"
+  }
+]

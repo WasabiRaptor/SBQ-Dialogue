@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一把可以改变人大小的射线枪。\n\n^green;按住Shift键可以对自己使用。\n\n^reset;主要功能：^cyan;缩小\n^reset;次要功能：^orange;增大",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "大小射线枪",
+    "path": "/shortdescription"
+  }
+]

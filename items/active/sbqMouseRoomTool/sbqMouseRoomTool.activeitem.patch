@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "老鼠工具",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "用于修改老鼠洞和老鼠房间覆盖区域的长度和大小。",
+    "path": "/description"
+  }
+]

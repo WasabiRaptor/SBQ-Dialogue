@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一个装有彩色火焰的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "精华罐"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPrey/0",
+    "value": "代表<preyName>精华的闪烁火焰。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPrey",
+    "value": "<preyName>的精华"
+  }
+]

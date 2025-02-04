@@ -1,0 +1,32 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "将<questGiver>变回<originalArticle><originalSpecies>",
+    "path": "/scriptConfig/objectives/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "回到<questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "我觉得我不再是<currentArticle><currentSpecies>了。你能^green;把我变回<originalArticle>^orange;<originalSpecies>^white;，就像我以前一样吗？",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver>恢复正常",
+    "path": "/scriptConfig/generatedText/title/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;我想再次成为<originalArticle><originalSpecies>！",
+    "path": "/scriptConfig/generatedText/goalText/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "谢谢！回来真好！",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  }
+]

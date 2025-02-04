@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "古老的南瓜雕刻传统仍在延续。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "恐怖南瓜头",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "这看起来更可爱而不是吓人。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "我想知道制作一个鸟族南瓜脸有多容易？",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "叶族觉得这个可怕的植物脸很赞。",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "警觉。我刚才以为它是活的。",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "哇，一个小南瓜脸！好可爱。",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "我个人觉得，要是有第三只眼睛就更好了。",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "如果这玩意儿是为了吓唬我，那效果不太好。",
+    "path": "/novakidDescription"
+  }
+]

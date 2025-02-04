@@ -1,0 +1,52 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "大型传送壁炉",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "一个石制壁炉。在寒冷的城堡中取暖的好方法。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "大型传送壁炉",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "火焰的噼啪声让我感到安心。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个石制结构，内部有火焰。可能是为了提供温暖而建造的。",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "叶族愿冷一些，也不愿坐在火边。",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "怀旧。我喜欢在寒冷的夜晚坐在火边。",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "温暖的石制火焰。我现在只需要一袋棉花糖。",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "鲛人族城市的温度是精心控制的。能感受到火焰的温暖在皮肤上感觉很好。",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "没有什么能胜过木烟的甜美气味。",
+    "path": "/novakidDescription"
+  }
+]

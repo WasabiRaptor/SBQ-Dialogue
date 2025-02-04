@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个冒泡的大锅，足够大，可以容纳三个人。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "大型药水大锅",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "这看起来像是个坏主意，但我并不介意坐进去。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "我想知道如果我坐太久会不会被煮熟？",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "叶族不想被煮成汤。",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "疑问。我需要坐多久才会生锈？",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "坐进去看起来会很痒！",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "闻起来有点奇怪，但坐进去其实很放松。",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "对于一个浴缸来说，它有点太大了。",
+    "path": "/novakidDescription"
+  }
+]
