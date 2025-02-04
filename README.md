@@ -1,17 +1,17 @@
-一个用于 Starbecue 模组的对话或对话翻译的公共贡献的存储库
-**此为中文分支**
-**未完成（目前sbq-gui不支持显示中文）ver3.1.3**
+ # 一个用于 Starbecue 模组的对话或对话翻译的公共贡献的存储库 
+ ## **此为中文分支**
+ ## **未完成（目前sbq-gui不支持显示中文）ver3.1.3**
 
-所有 .config .dialogue 和 .dialogueTree 文件都应作为 UTF-8 JSONC 读取，但是，SBQ-Engine 允许 Starbound 的 Json 解析允许尾随逗号。
-不要更改键，否则将无法工作！只更改值！
+所有 `.config` `.dialogue` 和 `.dialogueTree` 文件都应作为 `UTF-8 JSONC` 读取，但是，SBQ-Engine 允许 Starbound 的 `Json` 解析允许尾随逗号。
+不要更改键（尖括号内容），否则将无法工作！只更改值！
 
-大部分面向玩家的 GUI 文本包含在单个文件 sbqStrings.config 中
+大部分面向玩家的 GUI 文本包含在单个文件 'sbqStrings.config' 中
 
-基本 NPC 对话位于 npcs/sbq/dialogue/default.dialogue ，其他个性变体在同一文件夹中。
+基本 NPC 对话位于 'npcs/sbq/dialogue/default.dialogue' ，其他个性变体在同一文件夹中。
 
-OC NPC 对话位于路径 npcs/sbq/(所有者)/(OC 名称)/npc.dialogue
+OC NPC 对话位于路径 'npcs/sbq/(所有者)/(OC 名称)/npc.dialogue'
 
-除非您要为未使用 / 未实现的对话触发器添加对话，否则您不需要为相应的对话修改 .dialogueTree 文件！树中不应包含面向玩家的文本，如果有，应将其移动到对话文件中，并将树中的条目替换为引用。
+除非您要为未使用 / 未实现的对话触发器添加对话，否则您不需要为相应的对话修改 '.dialogueTree' 文件！树中不应包含面向玩家的文本，如果有，应将其移动到对话文件中，并将树中的条目替换为引用。
 
 在进行任何对话更改后，建议至少在推送提交之前运行对话验证脚本。（如果您不知道如何操作，别急）
 脚本
