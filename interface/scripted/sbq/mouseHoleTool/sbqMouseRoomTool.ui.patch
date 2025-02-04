@@ -1,0 +1,27 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "老鼠房间",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "大小",
+    "path": "/children/0/children/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "1",
+    "path": "/children/0/children/2/0/caption"
+  },
+  {
+    "op": "replace",
+    "value": "1",
+    "path": "/children/0/children/2/1/caption"
+  },
+  {
+    "op": "replace",
+    "value": "偏移",
+    "path": "/children/1/children/1/text"
+  }
+]

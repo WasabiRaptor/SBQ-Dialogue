@@ -1,0 +1,7 @@
+﻿[
+  {
+    "op": "replace",
+    "value": ":锁定",
+    "path": "/children/0/children/3/children/4/caption"
+  }
+]

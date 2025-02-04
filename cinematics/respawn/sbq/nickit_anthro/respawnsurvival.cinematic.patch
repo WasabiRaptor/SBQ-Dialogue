@@ -1,0 +1,7 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "你惊慌失措，掉落了30%的像素...",
+    "path": "/panels/2/text"
+  }
+]

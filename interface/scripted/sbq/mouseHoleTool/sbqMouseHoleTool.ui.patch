@@ -1,0 +1,32 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "老鼠洞",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "方向",
+    "path": "/children/0/children/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "水平 -",
+    "path": "/children/0/children/2/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "垂直 |",
+    "path": "/children/0/children/2/3/text"
+  },
+  {
+    "op": "replace",
+    "value": "长度",
+    "path": "/children/1/children/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "1",
+    "path": "/children/1/children/2/caption"
+  }
+]

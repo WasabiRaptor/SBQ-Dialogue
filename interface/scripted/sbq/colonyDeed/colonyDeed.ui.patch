@@ -1,0 +1,37 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "SBQ殖民地契约",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": ":召唤租户",
+    "path": "/children/0/children/0/children/1/caption"
+  },
+  {
+    "op": "replace",
+    "value": "殖民地标签",
+    "path": "/children/0/children/1/children/0/text"
+  },
+  {
+    "op": "replace",
+    "value": ":订购家具",
+    "path": "/children/0/children/1/children/1/0/caption"
+  },
+  {
+    "op": "replace",
+    "value": ":召唤租户",
+    "path": "/children/1/children/4/caption"
+  },
+  {
+    "op": "replace",
+    "value": ":锁定契约",
+    "path": "/children/2/1/children/2/text"
+  },
+  {
+    "op": "replace",
+    "value": ":隐藏契约",
+    "path": "/children/2/2/children/2/text"
+  }
+]

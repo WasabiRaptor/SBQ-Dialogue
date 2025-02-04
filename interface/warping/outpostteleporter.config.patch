@@ -1,0 +1,7 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "Auri的商店",
+    "path": "/destinations/-/name"
+  }
+]

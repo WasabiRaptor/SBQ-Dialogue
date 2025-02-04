@@ -1,0 +1,22 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "SBQ 帮助",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "书籍有限且不太好，真正的帮助在工具栏的SBQ设置中的一个标签页里。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "书籍有些有限且不太好，真正的帮助在工具栏的SBQ设置中的一个标签页里。",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "(想象一个粗糙的阴茎画)\n \n8==D",
+    "path": "/contentPages/68"
+  }
+]
