@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "恢复原状的药水……这只是一瓶牛奶吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "复原药水"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "药水"
+  }
+]

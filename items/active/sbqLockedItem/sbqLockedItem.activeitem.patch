@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "锁定物品",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "在捕食者体内时，某些物品无法使用。当你出来后，持有这个物品可以解锁它们。",
+    "path": "/description"
+  }
+]

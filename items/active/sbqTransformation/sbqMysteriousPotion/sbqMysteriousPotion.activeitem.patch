@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一瓶神秘的液体……一整瓶的效力足以达到半永久，但用于飞镖只能持续几分钟。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "神秘药水"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "药水"
+  }
+]

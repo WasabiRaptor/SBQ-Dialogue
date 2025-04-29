@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "这个华丽灯笼中的水晶柔和地闪烁。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "紫色水晶灯笼",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "水晶似乎在产生光芒。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "在需要更持久的光源时，有些灯笼用水晶代替火焰。它们可以持续数千年。",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "诡异的发光。",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "好奇。这块水晶似乎能自己发光。",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "水晶发光，但触摸起来完全感觉不到热量。",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "如此美丽的科技。他们是怎么学会利用它的？",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "这颗闪亮的石头就像火焰一样发光。",
+    "path": "/novakidDescription"
+  }
+]

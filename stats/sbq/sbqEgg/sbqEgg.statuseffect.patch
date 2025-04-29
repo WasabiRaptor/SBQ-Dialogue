@@ -1,0 +1,7 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "卵",
+    "path": "/label"
+  }
+]

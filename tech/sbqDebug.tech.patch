@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "用于测试通常不应该接触到的捕食者^green;[F]"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "SBQ调试科技"
+  }
+]

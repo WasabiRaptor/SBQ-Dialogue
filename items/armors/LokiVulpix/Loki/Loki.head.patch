@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "女巫总是需要一顶好帽子。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "女巫帽",
+    "path": "/shortdescription"
+  }
+]

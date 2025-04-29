@@ -1,52 +1,38 @@
-# SBQ-Dialogue
-A repository meant for public contributions of dialogue or translations of dialogue for the Starbecue mod
+ # 一个用于 Starbecue 模组的对话或对话翻译的公共贡献的存储库 
+ ## **此为中文分支**
+ ## **完成 `ver3.1.4` **
 
-Download this repository and place in mods folder alongside Starbecue for it to overwrite/add on to text within Starbecue. The version of Starbecue it was last updated for will be the version in the metadata, It likely is compatible with future versions as long as no major changes to dialogue have occurred.
+**请注意，原模组当前版本的gui已支持中文，请关闭“杂项”中的“scrolIText”按钮**
 
-If being used for translations, a branch will be created for each language seperately.
+所有 `.config` `.dialogue` 和 `.dialogueTree` 文件都应作为 `UTF-8 JSONC` 读取，但是，SBQ-Engine 允许 Starbound 的 `Json` 解析允许尾随逗号。
+不要更改键（尖括号内容），否则将无法工作！只更改值！
 
-All `.config` `.dialogue` and `.dialogueTree` files are to be read as UTF-8 JSONC, however, SBQ-Engine lets Starbound's Json parsing allow trailing commas.
+大部分面向玩家的 GUI 文本包含在单个文件 'sbqStrings.config' 中
 
-Do not change the keys or things will not work! only change the values!
+基本 NPC 对话位于 'npcs/sbq/dialogue/default.dialogue' ，其他个性变体在同一文件夹中。
 
-Most SBQ text strings will print their key with a preceding colon `:` in place of their value if it is missing from the file.
+OC NPC 对话位于路径 'npcs/sbq/(所有者)/(OC 名称)/npc.dialogue'
 
-## Gui Strings
-The bulk of GUI player facing text is contained in a single file `sbqStrings.config`
+除非您要为未使用 / 未实现的对话触发器添加对话，否则您不需要为相应的对话修改 '.dialogueTree' 文件！树中不应包含面向玩家的文本，如果有，应将其移动到对话文件中，并将树中的条目替换为引用。
 
-## NPC Dialogue Strings
-The Base NPC dialogue is located at `npcs/sbq/dialogue/default.dialogue` other personality variants are in the same folder.
+在进行任何对话更改后，建议至少在推送提交之前运行对话验证脚本。（如果您不知道如何操作，别急）
+脚本
+包含了三个用于批量工作的实用脚本，主要是排序或验证工作是否正确。
+依赖项
+https://nodejs.org/en/download
+https://www.npmjs.com/package/comment-json
 
-OC NPC dialogue is located at paths `npcs/sbq/(Owner)/(OC Name)/npc.dialogue`
+排序对话
+node sortDialogue.js (对话树的路径) (对话的路径) (可选的基本.dialogue 文件)
+用于读取对话树和配对的对话文件，根据其在对话树中的使用位置对其内容进行排序，记录对话树引用缺失的对话片段的任何实例，并将未使用的对话片段放在对话文件的底部。
+可以为第三个可选参数提供一个辅助基本对话文件，用于引用并指向缺失的行，而不是简单地指出它们缺失。在处理个性变体对话时最有用，并且只需将默认值用作缺失行的基础。
 
-Unless you are adding in dialogue for unused/unimplemented dialogue triggers, you will not need to modify the `.dialogueTree` file for the respective dialogue! There should be no player facing text contained in the tree, if there is, it should be moved into the dialogue file and the entry in the tree should be replaced with a reference.
+验证对话
+node verifyDialogue.js
+用于验证所有对话是否有效，不包含循环引用循环，并且相同对话行的重复实例是对第一个唯一实例的引用。如果有任何被引用的缺失对话片段，将进行记录。
+该脚本预先加载了要检查和验证的对话文件列表，如果添加了更多对话，只需将其添加到其中的列表中。
 
-After making any dialogue changes it is reccommended to at the very least run the dialogue verification script before pushing a commit. (If you don't understand how to, thats fine)
-
-# Scripts
-I have included three utility scripts I use for doing bulk work, mainly sort or verify one's work is correct.
-
-### Dependencies
-- https://nodejs.org/en/download
-- https://www.npmjs.com/package/comment-json
-
-## Sort Dialogue
-`node sortDialogue.js  (path to .dialogueTree)  (path to .dialogue)  (opt base .dialogue file)`
-
-Is used to read a dialogue tree and paired dialouge file, sorting it's contents by where it is used in the dialogue tree, noting any instances the dialogue tree references a piece of dialogue that is missing, as well as putting unused pieces of dialogue at the bottom of the dialogue file.
-
-One can supply a third optional argument for a secondary base dialogue file to reference and point missing lines to rather than simply noting they are missing. Most useful when working on personality variant dialogue, and simply using the default as a base to use for missing lines.
-
-## Verify Dialogue
-`node  verifyDialogue.js`
-
-Is used to verify all dialogue is valid, contain no circular reference loops, and that duplicate instances of the same group of dialogue lines are instead a reference to the first unique instance. Will note if there are any missing pieces of dialogue that are being referenced.
-
-The script is preloaded with a list of dialogue files to check and verify, if more dialogue is being added, just add it to the list inside it.
-
-## Un-Reference Dialogue
-`node  unReferenceDialogue.js`
-
-Simply goes through its list of dialogue files, and replaces paths used to reference dialogue elsewhere in the file or in other files, with just the group of text being referenced.
-
-I simply use this to make writing an individual character's unique dialogue easier while still being able to look at the base dialogue as an example, I reccommend always running the verify script once more afterwards.
+取消引用对话
+node unReferenceDialogue.js
+只是遍历其对话文件列表，并将文件中或其他文件中用于引用对话的路径替换为所引用的文本组。
+只是用这个来使编写单个角色的独特对话更容易，同时仍然能够将基本对话作为示例，我建议之后再次运行验证脚本。

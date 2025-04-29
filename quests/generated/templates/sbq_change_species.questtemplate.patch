@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "将<questGiver>变成<article> <newSpecies>",
+    "path": "/scriptConfig/objectives/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "返回到<questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "榜样",
+    "path": "/parameters/target/example/name"
+  },
+  {
+    "op": "replace",
+    "value": "我觉得如果我能变得和^orange;<target>^white;一模一样，我就能更好地了解他们……你觉得你能找到某种方法把我变成^green;<article> <newSpecies>^white;吗？",
+    "path": "/scriptConfig/generatedText/text/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "你知道吗，<newSpecies>真的很令人惊叹……看看你能不能把我变成像^orange;<target>^white;那样的^green;<article><newSpecies>^white;！",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver>的<newSpecies>之梦",
+    "path": "/scriptConfig/generatedText/title/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;我希望我能变成<article> <newSpecies>！",
+    "path": "/scriptConfig/generatedText/goalText/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "哇！我得让<target>知道！",
+    "path": "/scriptConfig/generatedText/completionText/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "谢谢！这真的太令人惊叹了！",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  }
+]

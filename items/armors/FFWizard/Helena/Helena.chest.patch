@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一件袖子被撕掉的衬衫，上面印有一句相当粗俗的话。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "破旧衬衫",
+    "path": "/shortdescription"
+  }
+]

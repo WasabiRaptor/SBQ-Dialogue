@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个力场门，击打它以打开！",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "基础银河战士门",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门。",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门。",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门。",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门……看起来很熟悉。",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门。",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个力场门。",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "塑料蛋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一个可以把自己放进去的大塑料蛋！\n它们有各种颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "杂项"
+  }
+
+]

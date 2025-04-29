@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Vore商店Auri"
+  },
+  {
+    "op": "replace",
+    "path": "/dialogueTree/1/greeting/new/options/0/0",
+    "value": "这是什么地方？"
+  },
+  {
+    "op": "replace",
+    "path": "/dialogueTree/1/greeting/new/options/1/0",
+    "value": "你能吃了我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/dialogueTree/1/greeting/new/options/2/0",
+    "value": "说说你自己"
+  },
+  {
+    "op": "replace",
+    "path": "/dialogueTree/1/converse/new/options/0/0",
+    "value": "这是什么地方？"
+  },
+  {
+    "op": "replace",
+    "path": "/dialogueTree/1/converse/new/options/1/0",
+    "value": "你能吃了我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/dialogueTree/1/converse/new/options/2/0",
+    "value": "说说你自己"
+  }
+]

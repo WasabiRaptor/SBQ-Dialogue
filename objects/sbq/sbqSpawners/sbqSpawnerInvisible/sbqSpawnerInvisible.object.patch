@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "捕食者生成器"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "隐形生成器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "已弃用，请删除"
+  }
+]

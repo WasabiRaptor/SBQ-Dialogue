@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一个装满精液的大避孕套。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "装满的避孕套"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/0",
+    "value": "一个大号避孕套，上面贴着标签：\n<preyName>只是<predName>的一坨精液~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/1",
+    "value": "一个大号避孕套，上面贴着标签：\n<preyName>只是一坨精液~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/2",
+    "value": "一个大号避孕套，上面贴着标签：\n一坨<predName>的精液~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/3",
+    "value": "被<predName>装满的避孕套"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/4",
+    "value": "一个大号避孕套，上面贴着标签：\n<preyName> churned in <predName>'s nuts and all they got was this lousy condom~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/5",
+    "value": "一个大号避孕套，上面贴着标签：\n这曾经是<preyName>。后来他遇到了<predName>。剩下的，就像<preyName>一样，成为了历史~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/6",
+    "value": "一个大号避孕套，上面贴着标签：\n<predName>和<preyName>坐在树上，C-U-M-M-I-N-G~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPrey/0",
+    "value": "一个大号避孕套，上面贴着标签：\n<preyName>只是一坨精液~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPrey/1",
+    "value": "一个大号避孕套，上面贴着标签：\n<preyName>在某人的睾丸里搅动，而他们得到的只是这个糟糕的避孕套~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPrey/2",
+    "value": "一个大号避孕套，上面贴着标签：\n这曾经是<preyName>。后来他遇到了一个人。剩下的，就像<preyName>一样，成为了历史~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPred/0",
+    "value": "一个大号避孕套，上面贴着标签：\n一坨<predName>的精液~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPred/1",
+    "value": "一个大号避孕套，上面贴着标签：\n<predName> churned someone in their nuts and all they got was this lousy condom~"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescForgetful/0",
+    "value": "一个大号避孕套，上面贴着标签：\n……把你的名字忘了，抱歉！"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescForgetful",
+    "value": "被<predName>遗忘的避孕套"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPredPrey",
+    "value": "装满<preyName>的避孕套"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPrey",
+    "value": "装满<preyName>的避孕套"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPred",
+    "value": "被<predName>装满的避孕套"
+  }
+]

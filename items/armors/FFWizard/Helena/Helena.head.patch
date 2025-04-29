@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个带狗骨头形状标签的尖刺项圈。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "尖刺项圈",
+    "path": "/shortdescription"
+  }
+]

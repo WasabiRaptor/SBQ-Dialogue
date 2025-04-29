@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "吞食控制器",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "你不应该拥有这个",
+    "path": "/description"
+  }
+]

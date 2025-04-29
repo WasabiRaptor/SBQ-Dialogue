@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一个肉质的括约肌，撞开它！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "括约肌门"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "看起来有点像……嗯……你知道的"
+  }
+]

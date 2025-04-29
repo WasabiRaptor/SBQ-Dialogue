@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "骨头堆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "骨头堆"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/0",
+    "value": "<preyName>遇到<predName>后的所有残骸。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPrey/0",
+    "value": "<preyName>的残骸。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPred/0",
+    "value": "<predName>餐后的残骸。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescForgetful/0",
+    "value": "<predName>餐后的残骸……不管他们是谁。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescForgetful",
+    "value": "<predName>餐后的残骸"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPredPrey",
+    "value": "<preyName>的残骸"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPrey",
+    "value": "<preyName>的残骸"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPred",
+    "value": "<predName>餐后的残骸"
+  }
+]

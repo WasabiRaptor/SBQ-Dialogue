@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个物件",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "书架背景",
+    "path": "/shortdescription"
+  }
+]

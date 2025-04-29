@@ -1,0 +1,47 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个大型的粗糙木门。不太安全。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "大型木门",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个大型木门。",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个大型手工制作的木门。",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "叶族也会制作类似的木门……但更小。",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "愉快。这看起来是一个大型手工制作的门。",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "你可能会在超大型号屋上看到的那种门。",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一个炫耀性的木门。",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "看起来有点乡村风格，但也能凑合。",
+    "path": "/novakidDescription"
+  }
+]

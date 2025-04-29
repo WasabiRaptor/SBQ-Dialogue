@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "value": "有意识的脂肪"
+  }
+]

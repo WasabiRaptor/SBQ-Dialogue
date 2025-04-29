@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个带有标签的基本项圈。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "基本项圈",
+    "path": "/shortdescription"
+  }
+]

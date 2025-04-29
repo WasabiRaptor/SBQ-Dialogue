@@ -1,64 +1,64 @@
 {
 	"greetingRewards": [
-		"I-I really liked what we did so uhm... have this."
+		"我-我真的很喜欢一起做的那些事所以啊嗯... 拿着这个。"
 	],
 	"greetingRewardsIntroduced": [
-		"A-ah <keysmash> <entityname>!\nI-I got you some stuff... I hope you like it."
+		"嗯-啊 <keysmash> <entityname>！\n我-我给你准备了些东西... 我希望你会喜欢。"
 	],
 	"greeting": [
-		"H-Hi...",
-		"O-oh hi... I didn't see you there.",
-		"Hello...",
-		"Hi..."
+		"额嗯-嗨...",
+		"哦-哦嗨... 我没注意到你在这。",
+		"*小声* 你好...",
+		"......嗨..."
 	],
 	"greetingCrew": [
-		"H-hey there Captain.",
-		"Hi Captain...",
-		"Captain..."
+		"你-你好，船长。",
+		"嗨，船长...",
+		"船长..."
 	],
 	"greetingIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingIntroduced",
 	"crewStay": [
-		"I-I'll stay here... I guess...",
-		"Staying here... please come back though...",
-		"Ok... I-If you say so..."
+		"我-我会在这等着... 大概吧...",
+		"要我留在这... 还请一定要回来...",
+		"好吧... 如-如果你要我待在这..."
 	],
 	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
 	"crewFollow": [
-		"Y-You really want me?",
-		"O-Ok I'm right behind you!",
-		"I-I'm ready!\n...probably..."
+		"你-你真的真的需要我？",
+		"噢-好我这就跟在你后面！",
+		"我-我准备好了！\n...应该吧..."
 	],
 	"rewardNotifyMoney": [
-		"Oh uhm... maybe I should pay you after...",
-		"Do I... should I pay you for this?"
+		"喔嗯... 或许我等会... 应该... 给你钱...",
+		"我该... 我应当为此付钱给你吧？"
 	],
 	"rewardNotifyLowValueQuestRewards": [
-		"I feel like I should give you something for this...",
-		"Uhm... I like this... so I'm gonna give you a gift... if thats ok..."
+		"我感觉我应该为此给你点什么...",
+		"啊嗯... 我喜欢这样... 所以我要给你个礼物... 如果可以的话..."
 	],
 	"rewardNotifyMediumValueQuestRewards": [
-		"Maybe... maybe I'll give you something nice.",
-		"Gosh... this is great... I'll give you something good..."
+		"或许... 或许我得给你点好东西。",
+		"啊... 这太棒了... 我要给你些特别的东西..."
 	],
 	"rewardNotifyHighValueQuestRewards": [
-		"I think... yeah you're so good, I'm gonna give you a good gift.",
-		"Ahhh... I'm gonna give you something real good."
+		"我觉得... 啊你真是棒极了，我要给你一份大礼。",
+		"啊啊哈... 我要把我最好的东西送给你。"
 	],
 	"oralVoreRequested": {
 		"percentage": "food",
 		"pools": [
 			[ // 0 - 50%
-				"O-oh gosh, you would do that?",
-				"Y-you...\nReally?",
-				"You... don't have to but...\nOkay...",
-				"F-for me..?",
-				"You really think...\nI g-gues I could try..."
+				"哦-哦天呐，你真的想要被吃掉？",
+				"你-你...\n真的要来吗？",
+				"你... 不必这样子但...\n好吧...",
+				"你-你想成为我的食物..？！",
+				"你真的觉得我能...\n我想-我想我可以试着先张开嘴......"
 			],
 			[ // 50 - 100%
-				"O-oh... really? I guess I'll try",
-				"Are you sure...?",
-				"Uhm... you're asking... me?",
-				"R-right... g-get in my belly then... did I say that right?"
+				"噢-哦... 真的吗？那我就稍微尝试一下",
+				"你真的确定要我-唔-吃掉你...？",
+				"啊嘞... 你是在问我... 吗？",
+				"好-好吧...那-那就到我的肚子里来...是要这样说吧？"
 			]
 		]
 	},
@@ -66,64 +66,64 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0 - 50%
-				"Oh g-gosh...\nThat really... H-hit the spot...",
-				"Y-you really... \n<keysmash>",
-				"You didn't have to..."
+				"哦天-天哈...\n这感觉可真不错...",
+				"你你你-你可真是... \n<keysmash>",
+				"你不必这样的..."
 			],
 			[ // 50 - 100%
-				"Ah... w-wow you're really in there...",
-				"I-I didn't think you were serious...",
-				"Mmmm... is it actually good in there...?",
-				"N-now you're where you belong... did I say it right?"
+				"啊呀... 哇-你真的到我肚子里面了...",
+				"我我我-我没在想你真是要来真的...",
+				"Mmmm... 肚子里面真的很舒服吗？",
+				"现-现在给我待在你该在的地方... 我表现得像一个捕食者吗？"
 			]
 		]
 	},
 	"oralVoreInvalid": "/npcs/sbq/dialogue/default.dialogue:oralVoreInvalid",
 	"defaultNo": [
-		"Uhm... I uhm... uhm...",
-		"Y-you really t-think I can be a pred?",
-		"M-me? I can't...",
-		"*shy whimpering*",
-		"M-m-maybe another time...",
-		"Im umm... not hungry right now.",
+		"额唔... 我额呜... 嗯呜呜...",
+		"你-你真的认-认为我能是一个捕食者？",
+		"我我-我吗？我做不到...",
+		"*害羞的呜咽声*",
+		"或-或或或许下次吧...",
+		"我额呃... 现在还不饿。",
 		[
-			"*Incomprehensible Noises*",
+			"*含糊不清的拒绝声*",
 			"<keysmash>"
 		]
 	],
 	"oralVoreNo": ":defaultNo",
 	"tooBig": [
-		"A-ah y-you w-wouldn't fit if I tried",
-		"I-Oh w-wow y-you really think I could do t-that?",
+		"啊-啊不是无论我的嘴张多大都不可能吃的下你。",
+		"我-我？难不成你真的认为我能塞得下你？",
 		[
-			"Thats... you're too... *Incomprehensible Noises*",
-			"Thats... you're too... <keysmash>"
+			"明明你体型这么大... 莫非其实是你想吃我..？ *含糊不清的拒绝声*",
+			"吞不下，怎么想都吞不下！ <keysmash>"
 		],
-		"T-thats crazy..."
+		"这-这太难以想象了..."
 	],
 	"oralVoreTooBig": ":tooBig",
 	"tooSmall": [
-		"I um... sorry but I would prefer you be a little bigger...",
-		"I might not mind... if you weren't so small...",
-		"You might get lost in m-me if I let you in...",
-		"Too small... just a bit... too small..."
+		"我额额... 对不起但-但我希望你能稍微大一些...",
+		"我也许不会太介意... 如果你不是这么小的话...",
+		"如果我让你进来的话，你会在我-我的身体里迷路的...",
+		"太小了... 好小一只... 你实在是太小了..."
 	],
 	"oralVoreTooSmall": ":tooSmall",
 	"oralVoreNoSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
 	"oralVoreFull": [
-		"O-oh uhm... uh... I don't think I can eat more...",
+		"哦-哦嗯... 呃... 我不认为我还能吃得下...",
 		[
-			"*Flustered Noise* t-too many others wanted in already!",
-			"<keysmash> t-too many others wanted in already!"
+			"*慌张地嘀咕* 已-已经有太多人呆在我肚子里了！",
+			"<keysmash> 胃-胃里面已经满员了！"
 		],
 		[
-			"*Incomprehensible Noises*",
-			"aaaaaaa<keysmash><keysmash>"
+			"*发出含糊不清的拒绝声*",
+			"啊啊我真的吃不下了<keysmash><keysmash>"
 		],
-		"I-I'm too full!"
+		"我-我要撑死啦！"
 	],
 	"oralVoreNeedsInfusion": [
-		"I... I d-don't think I have that part..."
+		"我... 我想我没-没有那个-身体部位..."
 	],
 	"needsInfusion": ":oralVoreNeedsInfusion",
 	"oralVoreTargetPreySettingsMismatch": "/npcs/sbq/dialogue/default.dialogue:oralVoreTargetPreySettingsMismatch",
@@ -135,27 +135,27 @@
 	"tailVoreTooSmall": ":tooSmall",
 	"tailVoreNoSlots": ":oralVoreNoSlots",
 	"tailVoreFull": [
-		"O-oh uhm... uh... I don't think I can fit more...",
+		"这... 我的尾巴已经塞满了...",
 		[
-			"*Flustered Noise* t-too many others wanted in already!",
-			"<keysmash> t-too many others wanted in already!"
+			"*紧张的咕噜声* 我-我的尾巴正因吃的太多而叫苦不迭！",
+			"<keysmash> 现-现在尾巴里面挤得不行啦！"
 		],
 		[
-			"*Incomprehensible Noises*",
-			"aaaaaaa<keysmash><keysmash>"
+			"*尾巴内传出模糊的声音*",
+			"啊啊我我我的尾巴不是你们的睡袋！<keysmash><keysmash>"
 		],
-		"I-I'm too full!"
+		"我-我都拖不动我的尾巴了！"
 	],
 	"full": ":tailVoreFull",
 	"tailVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"tailVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"absorbVoreRequested": [
-		"You want to... just s-shove you into me?... uh... s-sure!...",
-		"A-absorb you!?... I suppose I could... let me just give you a hug..."
+		"你想被塞进我的身体...要我仔细吮吸你的全身？... 额... 好-没问题！...",
+		"要-要我吸收你!？... 应该可以... 让我们从拥抱彼此开始..."
 	],
 	"absorbVoreRequestedAfter": [
-		"This feels nice... having you i-inside my form like this...",
-		"I hope you liked me uh... e-engulfing your body with m-mine..."
+		"这感觉还不赖... 有你支持-撑着我的身体可真好...",
+		"希望你会喜欢我呃... 这样用身体将你全身吞-吞噬..."
 	],
 	"absorbVoreInvalid": "/npcs/sbq/dialogue/default.dialogue:absorbVoreInvalid",
 	"absorbVoreNo": ":defaultNo",
@@ -166,16 +166,16 @@
 	"absorbVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"absorbVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"navelVoreRequested": [
-		"Y-you... want in... m-my navel!?...",
-		"R-really?... though my own... b-button!?...",
-		"I-i... you... into my... n-navel?...",
-		"Isn't that... quite a odd... r-request?..."
+		"你-你... 想钻-钻进... 我-我的肚脐!？...",
+		"来-来真的？... 要钻入我-我的...肚-肚脐眼!？...",
+		"我-我... 你... 进入我的... 肚-肚脐？...",
+		"好-好... 好奇怪的请求... 肚脐... 不是吗？"
 	],
 	"navelVoreRequestedAfter": [
-		"O-oh wow... you feel nice going though t-there... h-huh?...",
-		"Y-you went though so s-smooth... maybe this is a better way to 'eat'... ",
-		"W-was the trip though my b-button alright... it felt good at least...",
-		"W-what a strange way to enter... my s-stomach... but still nice..."
+		"哦-哦哇... 你-你肯定很享受这个入腹过程... 对吧？...",
+		"你-你很丝滑地... 一步到胃了... 或许这样'进食'还不赖...",
+		"不-不管你有没有顺利地穿过我的肚-肚脐眼... 至-至少我感觉挺舒服的...",
+		"真-真是个奇怪的将食物送入胃-胃里的方式... 但还挺棒的..."
 	],
 	"navelVoreInvalid": "/npcs/sbq/dialogue/default.dialogue:navelVoreInvalid",
 	"navelVoreNo": ":defaultNo",
@@ -186,25 +186,25 @@
 	"navelVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"navelVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"analVoreRequested": [
-		"U-uhm y-you want... t-to go up my...?",
-		"U-uhm y-you know thats... the wrong way... r-right?",
+		"呃呃额你-你想要... 你想要进入... 我-我的那里...？",
+		"额额姆你-你知道那里... 不是正-正常的通道... 对-对吧？",
 		[
-			"*Flustered Noises*",
+			"*发出紧张不安的声音*",
 			"<keysmash>"
 		],
-		"A-are y-you sure...?"
+		"你-你你你确定...？"
 	],
 	"analVoreRequestedAfter": [
-		"Ahhh~ H-hope I'm not squeezing too much...",
+		"啊啊哈~ 但-但愿我没有挤得太用力...",
 		[
-			"Mmm~ This actually... feels... <keysmash>",
-			"Mmm~ This actually... feels... *Pleasured Noises*"
+			"哦哦哦~ 这-这感觉好爽！<keysmash>",
+			"嗯嗯嗯~ 这感觉... 可真是... *愉悦的叫声*"
 		],
 		[
-			"*Pleasured Noises*",
+			"*发出愉悦的声音*",
 			"<keysmash>"
 		],
-		"Oooh~ I-I can f-feel you squirming~"
+		"哦哦喔~ 我-我能感觉你-你正在蠕动~"
 	],
 	"analVoreInvalid": "/npcs/sbq/dialogue/default.dialogue:analVoreInvalid",
 	"analVoreNo": ":defaultNo",
@@ -218,17 +218,17 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Uhm... you're asking... me...? To put you in my pussy...?"
+				"额姆... 你想要... 我...？把你塞入我的子宫...？"
 			],
 			[ // 25% - 50%
-				"O-oh... y-you want to g-get into my... *Flustered Noises*",
-				"O-oh... y-you want to g-get into my... <keysmash>"
+				"哦-哦... 你-你想到我的那-那里面待一会... *害羞地向下看*",
+				"什-什么？子-子宫？你想进到我那里？<keysmash>"
 			],
 			[ // 50% - 75%
-				"R-right... g-get in my womb then~ ...did I say that right?"
+				"好吧-好... 那快点给我进到子宫里~ ...我的语气有感觉吗？"
 			],
 			[ // 75% - 100%
-				"Ahh... I-I'm so wet already... you might just s-slip out if you even try to squirm in..."
+				"啊呀... 我下面已经湿透了... 如果你乱-乱扭的话你可能会滑落掉出去..."
 			]
 		]
 	},
@@ -236,65 +236,65 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ooohhh~ I-I didn't think you were serious~"
+				"哦豁豁豁~ 我-我以为你只是想看我*害羞*，原-原来你真的...~"
 			],
 			[ // 25% - 50%
-				"Ahhh~ w-wow you're really in there~"
+				"啊啊哈~ 哇，你真的钻到最里面了~"
 			],
 			[ // 50% - 75%
-				"Ffffff~ N-now you're where you belong~ ...did I say it right?"
+				"吁吁吁~ 现-现在你终于回到了你诞生的地方~ ...我没有说错什么吧？"
 			],
 			[ // 75% - 100%
-				"Mmmm~ Is it as good for you as it is for me~"
+				"嗯嗯嗯嗯~ 你-你感觉有多爽，我-我也感觉有多爽~"
 			]
 		]
 	},
 	"unbirthVoreInvalid": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreInvalid",
 	"unbirthVoreNo": [
-		"Uhm... I uhm... uhm...",
-		"Y-you really t-think I can do that?",
-		"M-me? I can't...",
+		"额姆... 那-那个地方... 唔-唔我做不到... 太奇怪了...",
+		"你-你真的觉得... 我-我能做到那-那种事吗？",
+		"我-我？我甚至都没怎么*突然害羞*-没-没有！没有做过爱...",
 		[
-			"*Incomprehensible Noises*",
+			"*发出极度害羞难为情的的声音*",
 			"<keysmash>"
 		]
 	],
 	"unbirthVoreTooBig": [
-		"U-uhm... I-I don't think I could carry you... t-too big..."
+		"明-明明你的体型这么大... 进-进不去的..."
 	],
 	"unbirthVoreTooSmall": [
-		"I-I might loose you! Y-you're just too small..."
+		"你-你真的太小了... 我-我一不注意你就有可能会掉出去！"
 	],
 	"unbirthVoreNoSlots": ":oralVoreNoSlots",
 	"unbirthVoreFull": [
-		"S-someone's a-already in~",
-		"A-ahhh~ I-I don't think theres space~",
-		"Ffff~ I would... but I can't fit another~",
-		"I-if they keep squirming I-I might climax~"
+		"怎-怎么你们都想钻-钻进我的那里？",
+		"啊-啊哈~ 我的子宫实在是撑不下了~",
+		"呼呼~ 我也想... 但我下面真的塞不进去了~",
+		"等-等等他们在里面好闹腾，我-我要高潮了~"
 	],
 	"unbirthVoreNeedsInfusion": [
-		"I'd need to get a pussy somehow...",
-		"Is t-there any way for me to get one of those...?",
-		"I-I don't actually have o-one of those..."
+		"我得要想办法找地方搞到小-小穴和子-子宫...",
+		"有-有办法能让我也得到这-这一套生-生殖器官吗？",
+		"我-额实际上没有那*害羞*那些身体部位..."
 	],
 	"unbirthVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"breastVoreRequested": {
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"A-ah... A-are you sure you want... me? B-but which side do I put you on..."
+				"啊-啊... 你-你确定你想要... 我？但-但我该把你塞进哪-哪一个里面..."
 			],
 			[ // 25% - 50%
-				"I-I guess that would make them b-bigger..."
+				"我-我猜我的奶-奶子肯定会变-变得很大..."
 			],
 			[ // 50% - 75%
-				"T-that's... <keysmash> y-yes please",
-				"T-that's... *flustered noises* y-yes please",
-				"O-oh! A-and you want... mine? *flustered noise*",
-				"O-oh! A-and you want... mine? <keysmash>"
+				"什-什么？那个地方... <keysmash> 好-好请快点钻进来。",
+				"你-你要对我做这种事...*羞涩地吞咽口水* 那-那请你来-来吧...",
+				"哦噢！我-我的乳房？你-你真的想要？*激动的声音*",
+				"哦-喔！你-你你想要... 我我我的... 那-那个？<keysmash>"
 			],
 			[ // 75% - 100%
-				"U-uhm... t-that might make all the milk start... l-leaking..."
+				"啊-额姆... 你-你要进去的话... 肯-肯定会让我的乳-乳汁狂漏不止..."
 			]
 		]
 	},
@@ -302,66 +302,66 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"A-aahh~ Ooooh, t-that's really good~"
+				"啊-啊啊~ 哦哦哦哈，这-这感觉真的好棒~"
 			],
 			[ // 25% - 50%
-				"Mmmm~ You're g-getting me e-excited~"
+				"嗯姆姆姆~ 你-你真是让我兴-兴奋起来了~"
 			],
 			[ // 50% - 75%
-				"Ffff~ N-now they look even b-bigger~ *flustered noises*",
-				"Ffff~ N-now they look even b-bigger~ <keysmash>"
+				"唔唔~ 看-看起来它们更-更大了~ *紧张激动的声音*",
+				"哇哇哇~ 它-它们现在变得好-好大~<keysmash>"
 			],
 			[ // 75% - 100%
-				"A-ahh~ Don't stop squirming~"
+				"啊-哈啊~ 继续在里面扭，使劲晃~"
 			]
 		]
 	},
 	"breastVoreInvalid": "/npcs/sbq/dialogue/default.dialogue:breastVoreInvalid",
 	"breastVoreNo": [
-		"Don't really feel like that right now.",
-		"Not right now.",
-		"I'm not in the mood.",
-		"Eh, maybe later.",
-		"I, uh, um... <keysmash> not now!"
+		"我-我现在真的不想那样做。",
+		"好奇怪... 现在-现在还是算了。",
+		"我，额，我-我现在没心情这-这么做。",
+		"额呜，可-可不可以之后再说。",
+		"我，额，啊... <keysmash> 现在-现在不行！"
 	],
 	"breastVoreTooBig": ":tooBig",
 	"breastVoreTooSmall": ":tooSmall",
 	"breastVoreNoSlots": ":oralVoreNoSlots",
 	"breastVoreFull": [
-		"A-ah... T-they're already too full!",
-		"My boobs are already occupied... S-sorry...",
-		"M-maybe after I'm done carrying these ones around...",
-		"O-oh... I would definitely do it if they weren't so full..",
-		"T-too much weight on my chest right now..."
+		"啊-哈... 我-我的乳房已经够大了！",
+		"我-我的两个奶子都占满了... 抱-抱歉...",
+		"稍-稍后等我找个地方把他们挤-挤出来...",
+		"哦-哦... 真想也给你塞进来... 但我的巨乳已经塞不下了...",
+		"太-太重了... 我的胸-胸里面托着好几个人..."
 	],
 	"breastVoreNeedsInfusion": [
-		"I'd need to get some boobs somehow...",
-		"Is t-there any way for me to get those...?",
-		"I-I don't actually have those..."
+		"我-我想想去哪弄来一对奶-奶子...",
+		"我-我甚至都没有一个乳-乳头... 我-我做不到...",
+		"我-我... 我的那里是-是平的... 懂吧..."
 	],
 	"breastVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"cockVoreRequested": {
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Are you sure...?",
-				"Uhm... you're asking... me?",
-				"R-right... g-get in my dick then~ ...did I say that right?"
+				"什么？那-那里？你-你确定...？",
+				"额啊... 你-你是在-是在问我... 吗？",
+				"那-那好吧... 那-那就钻进我的-我的下面吧~ ...那个-词-我-我说不出口..."
 			],
 			[ // 25% - 50%
-				"O-oh... y-you want to g-get into my... *Flustered Noises*",
-				"O-oh... y-you want to g-get into my... <keysmash>",
-				"A-Ahhh! You're getting me all e-excited...!"
+				"哦-唔... 你想进到-进到我的... 那里... 呜*欲迎还拒地嘟囔*",
+				"额-啊... 你-你为什么想要... 钻入... 那个... <keysmash>",
+				"啊-啊啊啊！你-你把我... 把我弄的性-性奋起来了...！"
 			],
 			[ // 50% - 75%
-				"Huff... A-ah m-maybe it will help with this b-boner~",
-				"I-I'm already so hard thinking about it... p-please get in my cock!",
-				"hhhhuff... You really... r-eally want to s-squirm into my throbbing shaft?"
+				"额哈... 啊或-或许你能缓解我勃-勃起的大根~",
+				"我-我为这个问题做-做好心理准备了... 那-那请钻进我的鸡...吧！",
+				"唔唔唔呼... 你真的... 真-的想要蠕-蠕动进我悸动的小-小弟弟？"
 			],
 			[ // 75% - 100%
-				"Ahh! Y-yes please! I-I've been trying to hide this boner but I just can't!",
-				"H-how did you know!? I-I didn't think anybody knew what I was s-so horny over!",
-				"P-please just get into my cock! I-I just couldn't get myself to ask anyone!"
+				"啊哈！太-太棒了快来！我根本按捺不住我下面大根的勃起！",
+				"你-你是怎么看出来的!？我以为不会有人知道我现在有多欲火焚身！",
+				"正好，快-快进到我的鸡巴里！主-主动请求他人什么的我-我可做不到！"
 			]
 		]
 	},
@@ -369,23 +369,23 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ahh... You're m-making my shaft all firm~",
-				"I h-hope you like it in there~ "
+				"啊哈... 你-你弄的我的那里好-好硬~",
+				"希-希望你会喜欢我-我的那里~"
 			],
 			[ // 25% - 50%
-				"Ahhh~ w-wow you're really in there~",
-				"Ooohhh~ I-I didn't think you were serious~!",
-				"I-is this as good for you as it is for m-me~?"
+				"啊哈~ 哇-哇你真的就这样全都钻进去了~",
+				"哦哦呼~ 我-我没想到你是认真的！我也没想到这能成真的~！",
+				"这-这样子做你我会-会感觉舒服吗~？"
 			],
 			[ // 50% - 75%
-				"Huff ahh I-I... w-wow you're really in my cock... hhhuuufff~",
-				"I-I just t-this is so exciting! I-I really fit you in t-there!",
-				"Ffffff~ N-now you're where you belong~ ...did I say it right?"
+				"呼呋-啊啊... 没-没想到我真的给你吸-吸进去了！",
+				"这-这感觉好-好兴奋！我... 哇... 你-你真的好适合我的鸡巴！",
+				"呼呼呼~ 在-在里面给我好好取悦我-我的弟弟~ ...我表现的有气势么？"
 			],
 			[ // 75% - 100%
-				"Hhhhh... I'm so c-close! y-you might just make me cum!",
-				"Ahhhhaaahhh~ why... w-why does this feel so goooood~",
-				"Hhhuff t-this feels so amaaaaaazing~"
+				"呃呃呃呃... 我-我感觉我快了！你-你快弄的我要-我要射精了！",
+				"啊啊哈啊哈啊~ 为什么... 为-为什么这感觉能这么棒~",
+				"呼哈呼哈这-这感觉可真真真是太太太爽了~"
 			]
 		]
 	},
@@ -395,15 +395,15 @@
 	"cockVoreTooSmall": ":tooSmall",
 	"cockVoreNoSlots": ":oralVoreNoSlots",
 	"cockVoreFull": [
-		"S-someone's a-already in~",
-		"A-ahhh~ I-I don't think theres space~",
-		"Ffff~ I would... but I can't fit another~",
-		"I-if they keep squirming I-I might cum~"
+		"已-已经塞满了... 里面可挤-挤得不得了~",
+		"啊-哈~ 没地方了... 等-等我把他们射-射出来再说~",
+		"你-你们在里面还能再-再挤挤吗？我-我还想再塞几个~",
+		"如-如果他们再继续蠕动我-我就要射了~"
 	],
 	"cockVoreNeedsInfusion": [
-		"I'd need to get a dick somehow...",
-		"Is t-there any way for me to get one of those...?",
-		"I-I don't actually have o-one of those..."
+		"我-我得想办法获得一根阴-阴茎...",
+		"有-有办法... 能让我有下面那个器官吗...？",
+		"可我-可我的下面没长鸡-鸡巴..."
 	],
 	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"bellyInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseRequested",
@@ -447,52 +447,52 @@
 	"cockInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
 	"cockInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"oralVoreLetoutRequested": [
-		"S-sorry I-I just want you out...",
-		"I-it feels pretty weird having you in there...",
-		"Uhm... lets continue another time...",
-		"I uhm... uhm... yeah..."
+		"抱-抱歉，我-我只是不太习惯... 胃-胃里有活-活的食物...",
+		"把-把你吃进肚子里的感觉太-太奇怪了...",
+		"额呜... 这次奇妙的体验先到这吧... 之后再说...",
+		"我额姆... 额呜... 好-好吧..."
 	],
 	"tailVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutRequested",
 	"absorbVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:absorbVoreLetoutRequested",
 	"navelVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:navelVoreLetoutRequested",
 	"analVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutRequested",
 	"unbirthVoreLetoutRequested": [
-		"H-happy b-birthday!\n...\nS-sorry it just seemed funny...",
-		"I-I think you've had e-enough fun in there.",
-		"M-maybe its time for you to come out... maybe/"
+		"今-今天是你的生日了！\n...\n对-对不起我看大家一般都-都会这么说...",
+		"看-看起来你已经在-在里面玩的很尽兴了。",
+		"也-也该是时候放-放你出来了... 大-大概吧~"
 	],
 	"breastVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutRequested",
 	"cockVoreLetoutRequested": [
 		[
 			"<keysmash>",
-			"*Horny Noise*"
+			"*稍微掩饰的，涩情的叫声*"
 		],
-		"A-ahhhh~ Y-you're squirming so much! I-I can't hold back!",
-		"Fffff~ That feels so g-good... m-maybe get back in?",
-		"Ahhh~"
+		"啊-啊啊啊~ 我-我早就想射了！我-我其实憋-憋了好久了！",
+		"唔呼~ 你-你一开口我就没-没忍住... 要-要不然我再把你塞-塞回去？",
+		"啊哈哈哈~ 爽呐~~"
 	],
 	"oralVorePrompt": {
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"O-oohhh... I don't want to impose... b-but I really need food...",
-				"S-sorry... I'm starving... I hate t-to bother... but may I eat you?",
-				"A-ah! You startled me... Can I a-ask you for a favor? I gotta eat..."
+				"哦-哦哦... 我无意强求你... 但-但我真的很饿很需要食物...",
+				"对-对不起... 我饿得不行了... 虽-虽然不想打扰你... 但我能把你吞-吞进胃里吗？",
+				"肚子好饿... 啊-啊！我以为你没在听... 那-那我... 我能不能请你帮个忙？我需要进食..."
 			],
 			[ // 25% - 50%
-				"H-hey... I'm really starting to get hungry... W-would you like to be my meal?",
-				"Mmf... S-sorry, my belly is really... wanting food...",
-				"Ooof... I-I hate to ask... but I n-need your help..."
+				"额-嘿... 我真的感觉有点饿了... 你-你愿意当我的美餐吗？",
+				"嗯姆... 很-很抱歉打扰你，但我空空荡荡的胃真的... 很-很想有食物在里面...",
+				"哦额呜... 我-我不喜欢开口... 但-但我需要你帮我看看咕咕叫的-肚子里面..."
 			],
 			[ // 50% - 75%
-				"N-nice to bump into you here... I need a snack... If you'd like to v-volunteer, of course...",
-				"I shouldn't have skipped lunch--h-hi! P-perfect timing, could I b-borrow you for a while?",
-				"Erm.. Oh.. I feel so e-embarrassed, but... I'd like to eat you... Please?"
+				"很-很高兴在这里碰到你... 我需要点零食... 当然，如-如果你想亲自来...",
+				"我真不该午饭什么都不吃--额... 嗨！来-来的正好，我能请-请你做我的下午茶点吗？",
+				"额啊呜... 哦... 这么问好-好尴尬，但... 我想吃掉你... 好吗？"
 			],
 			[ // 75% - 100%
-				"Hey... Um... I w-wanted to see if you were interested in... spending some time in me?",
-				"<entityname>. I... I would like to eat you... if you're okay with it... It's fine if you're busy...",
-				"Something quick would be nice...  O-oh, could I trouble you as a s-snack?"
+				"嘿... 额... 我-我想知道你有没有兴趣... 在-在我肚子里与我一起共-共度夜宵？",
+				"<entityname>，我... 我想要吃掉你... 如-如果可以的话... 忙的话就算了...",
+				"能一口吃掉的食物最好了... 哦-额那个，能-能不能麻烦你当我的小-小零食？"
 			]
 		]
 	},
@@ -500,24 +500,24 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Goodness! I-I wasn't expecting you to say yes...",
-				"T-thank you so much! I'll be gentle, I promise...",
-				"W-wow! T-this means so much to me, really!"
+				"太好了！我-我本以为你不会答应我这奇怪的请求...",
+				"真-真的要谢谢你！我会很温柔地吞下并享用你，我保证...",
+				"哇-太棒了！你-你对我真的太重要了... 你的同意也很重要，真的！"
 			],
 			[ // 25% - 50%
-				"You're a life-saver... T-truly!",
-				"Thank y-you! My belly thanks you, t-too!",
-				"Whew... Thanks."
+				"你可真是我的大救星... 我-我真心这么认为的！",
+				"谢谢你！我-我空空荡荡的胃也谢谢你！",
+				"呼... 谢-谢谢你没有拒绝我... 我真是松了一口气..."
 			],
 			[ // 50% - 75%
-				"Okay! J-just relax...",
-				"You agree? A-alright!",
-				"I'm glad you like the idea."
+				"好啦！那-那就放轻松... 让我的肚-肚子好好照顾你...",
+				"你-你答应了？那-那好啦，你想让我从哪开始吃呢？",
+				"我-我很高兴你也喜欢这个点子，呼... 那还等什么呢？"
 			],
 			[ // 75% - 100%
-				"O-okay... Here goes...!",
-				"W-wow... You really mean it?",
-				"It's alright, I figured you were bus--w-wait, you said 'yes'?"
+				"那-那好... 快来... 快-快来顺着我的食-食道滑下去...",
+				"哇-真的吗... 你-你真的是想成为我-我的食物吗？",
+				"没关系的，我也能想到你会很忙--等-等等，你说了什么？可以吗？"
 			]
 		]
 	},
@@ -525,16 +525,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I really needed something in my b-belly, so uh... t-thanks, you tasted great..."
+				"我-我的胃真的需要一些食-食物，所以额... 谢-谢啦，你尝起来真棒..."
 			],
 			[ // 25% - 50%
-				"Thanks to you I can cancel lunch... you don't mind me calling you l-lunch... do you?"
+				"我不必去吃午饭了，谢谢... 你-你不介意我称呼你为午-午饭... 对吧？"
 			],
 			[ // 50% - 75%
-				"You felt great going down my th-throat... and even better filling my b-belly"
+				"将你咽下我的喉-喉咙的时候感觉好棒... 并且当你填满我的肚-肚子的时候感觉更棒了！"
 			],
 			[ // 75% - 100%
-				"Thanks for letting me have you as a s-snack..."
+				"谢-谢谢你愿意当我的饭后小-小零食..."
 			]
 		]
 	},
@@ -542,16 +542,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Darn... I was hoping you'd say y-yes... now I have to find normal food..."
+				"呜... 我-我真的希望你会愿-愿意... 这-这下我只能去找些正常的食物了..."
 			],
 			[ // 25% - 50%
-				"R-really?... I could've used the s-snack... but okay"
+				"真-真的不可以吗？... 可-可我真的需要吃些零食... 但好-好吧..."
 			],
 			[ // 50% - 75%
-				"No? I see... I'll just uh... be around then..."
+				"不-不行？我-我了解了... 那-那就当我刚才什么都没问... 我也只是路过..."
 			],
 			[ // 75% - 100%
-				"O-okay... I understand... maybe another time then?..."
+				"哦-哦好吧... 我-我能理解... 或许-或许之后有时间再试试？..."
 			]
 		]
 	},
@@ -559,16 +559,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I'm so h-hungry... I can't just take a no... close your eyes then, I'll be q-quick!"
+				"可-可我实在是太饿了... 我忍-忍不住... 闭一下你的眼睛行吗，很-很快就好！"
 			],
 			[ // 25% - 50%
-				"B-but I need something now... I really can't wait so u-uh..."
+				"但-但我现在必须吃点什么... 我真的等不了了... 所-所以..."
 			],
 			[ // 50% - 75%
-				"You m-might change your mind if I show you what I want..."
+				"或-或许等你的头被挤进胃-胃里的时候你会改-改变主意的..."
 			],
 			[ // 75% - 100%
-				"W-wait, maybe you can just let me have a t-taste?... come here..."
+				"等-等一下，或-或许只是让我尝-尝一尝总可以吧？... 让我先舔一下..."
 			]
 		]
 	},
@@ -576,16 +576,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Y-you really fill me up... I hope you're not u-upset about this though..."
+				"你-你可真是满足了我的胃口... 但-但愿你不会因为成了食-食物这事儿而苦恼..."
 			],
 			[ // 25% - 50%
-				"Ahh... If it makes you feel better, you t-taste great..."
+				"啊哈... 你-你的味道真的是好-好极了... 希望这么说能-能让你高兴..."
 			],
 			[ // 50% - 75%
-				"S-see what I mean? It's pretty nice going down my throat..."
+				"现-现在懂我的意思了么？滑进我的喉-喉咙的感觉真的很棒..."
 			],
 			[ // 75% - 100%
-				"You did t-taste great... sorry but I'm going to k-keep you... alright?"
+				"你-你尝起来真的很棒... 很抱歉但-但我的胃想多尝一尝你... 可以吗？"
 			]
 		]
 	},
@@ -599,16 +599,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I really want you... inside my b-body... will you let me... a-absorb you?..."
+				"我真的想要你能... 贴-贴合在我的身体里... 你可不可以... 让我吸-吸收你？..."
 			],
 			[ // 25% - 50%
-				"I'm peckish... can I just... s-shove you into my f-form?"
+				"我饿-额... 有点空虚... 我能不能... 把-把你塞进我的身体里？"
 			],
 			[ // 50% - 75%
-				"Is it alright if I uh... p-push you into my b-body?... only if you want..."
+				"我-我想把你呃... 压-压进我的身体里... 可以吗？... 如果你想的话..."
 			],
 			[ // 75% - 100%
-				"C-can I give you a hug?... one that might uh... bring you i-into me?..."
+				"我-我可以抱抱你吗？... 那种抱着抱着额... 会-会变成我在身体里抱着你？..."
 			]
 		]
 	},
@@ -616,16 +616,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Finally... thanks for letting me do this... now to s-shove you in..."
+				"终于... 谢谢你让我对你这么做... 我-我这就把你吞噬掉..."
 			],
 			[ // 25% - 50%
-				"I appreciate... you're willingness to be i-inside... my form..."
+				"我很感激... 你-你愿意和我的身-身体轮廓... 合二为一..."
 			],
 			[ // 50% - 75%
-				"Great to hear... now just let me... get you in m-me..."
+				"听到你愿意可太棒了... 现在就让我... 让我盖住你每一寸肌肤..."
 			],
 			[ // 75% - 100%
-				"Y-you'll let me have you?... I'ma give you a big hug then..."
+				"你-你真的允许我这么做？... 那我这就给你一个大大的拥抱..."
 			]
 		]
 	},
@@ -633,16 +633,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I was very empty... now you f-fill that h-hole... it's nice..."
+				"我本来感到很空虚... 但现在你把我-把我所有的空虚都填满了... 真好..."
 			],
 			[ // 25% - 50%
-				"I feel b-better with you uh... going into my f-form..."
+				"有你在我-我的身体里面支撑额... 支持着我的感觉可-可真棒..."
 			],
 			[ // 50% - 75%
-				"Is being w-wrapped around with my b-body... nice?"
+				"被-被我的身体紧紧贴合包-包裹着的感觉... 很美妙不是吗？"
 			],
 			[ // 75% - 100%
-				"Y-you went into me so smooth... it's almost concerning..."
+				"你-你很顺利地就在我的身体里面了... 这还挺令我在意的..."
 			]
 		]
 	},
@@ -650,16 +650,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I really needed f-filling... but okay... no s-shoving you in..."
+				"我真的很需要填饱身体... 但好吧... 不-不会把你塞下去的..."
 			],
 			[ // 25% - 50%
-				"I guess... I'll have to get some other s-snack... i-inside me..."
+				"我想... 那我只好去找些其他的小-小零食... 来满足我了..."
 			],
 			[ // 50% - 75%
-				"Well... m-maybe another day then?... maybe?..."
+				"好吧... 那-那或许改天再来？... 可以吗？"
 			],
 			[ // 75% - 100%
-				"Uh I... understand... no a-absorbing..."
+				"额我... 我知道了... 不-不会把你吸进我的身体里了..."
 			]
 		]
 	},
@@ -667,16 +667,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"J-just wait a moment... I need you... so I'm going to h-have you... g-get in..."
+				"先-先等一下... 我太需要你了... 那只能直接吞-吞噬吸收你了... 给-给我进来..."
 			],
 			[ // 25% - 50%
-				"You're here... and I w-want you... in m-me... so..."
+				"你-你就在这... 只-只要我压住你... 你就无-无路可走... 所以..."
 			],
 			[ // 50% - 75%
-				"I don't think... I'm going to a-accept that... so I'm just g-going to..."
+				"我不觉得... 我-我会听取你的想法... 因此我要-我就要直接..."
 			],
 			[ // 75% - 100%
-				"I hear you... but my arms... are already around you... so..."
+				"我听到了... 但-但是我的双臂... 已经抱紧你啦... 所以..."
 			]
 		]
 	},
@@ -684,16 +684,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I can't c-control myself... when I'm so e-empty... s-sorry... about this..."
+				"当-当我太过空虚的时候... 我-我就无法控-控制住我自己... 对-对不起..."
 			],
 			[ // 25% - 50%
-				"Listen... don't be upset... I just needed a snack... despite your no..."
+				"... 不必感到难过... 尽管你拒绝了... 我还是需要一份小点心..."
 			],
 			[ // 50% - 75%
-				"I'm s-sorry!... I just didn't want you to g-go... just stay in my f-form..."
+				"我-我很抱歉！... 我只是-我只是不想你跟我分-分开... 就-就让我们合二为一..."
 			],
 			[ // 75% - 100%
-				"S-see?... that was q-quick and easy... one little h-hug and... i-inside..."
+				"看-看到了吗？... 整个全程又-又快又简单... 只要一个小-小小的拥抱...就在里面啦..."
 			]
 		]
 	},
@@ -701,16 +701,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Will you please... get inside my n-navel?... I'm very hungry..."
+				"可不可以请你... 进-进到我的肚脐里面？... 我太饿了..."
 			],
 			[ // 25% - 50%
-				"I'm peckish... can I get you... in my n-navel?..."
+				"我饿得受不了了... 我能把你... 塞-塞进我的肚-肚脐里吗？"
 			],
 			[ // 50% - 75%
-				"Would you like... to go though... my n-navel?..."
+				"你想不想试试... 钻进我的... 我的肚-肚脐里面去？..."
 			],
 			[ // 75% - 100%
-				"Hey um... can you go into... my n-navel?..."
+				"嘿额... 我肚子上有个小洞... 你-你可以进去看看吗？"
 			]
 		]
 	},
@@ -718,16 +718,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"You are so kind... h-hurry on then... into my n-navel..."
+				"你真是太好了... 那就快-快点... 钻进我肚脐里面..."
 			],
 			[ // 25% - 50%
-				"I appreciate you... my b-button is open to enter..."
+				"那太谢谢你了... 看我把肚-肚脐眼张大... 快进去吧..."
 			],
 			[ // 50% - 75%
-				"Whew... glad you want to... so go ahead into my b-button..."
+				"呼... 还好你也想这么做... 那就快进到我的肚-肚脐眼里吧..."
 			],
 			[ // 75% - 100%
-				"You don't mind!?... my n-navel is all yours..."
+				"你-你一点都不介意吗？... 那-那我的肚-肚脐随你慢慢玩弄..."
 			]
 		]
 	},
@@ -735,16 +735,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Such a quick way... to be f-filled up... t-thanks again..."
+				"真是个最快的方法... 来填-填饱肚子... 再次谢-谢谢你..."
 			],
 			[ // 25% - 50%
-				"Was it a smooth ride... though to my b-belly?... hope so..."
+				"这趟一步到-到胃的旅程还-还顺利吗？... 但愿如此..."
 			],
 			[ // 50% - 75%
-				"I hope no l-lint... was in the way... getting to my b-belly..."
+				"但愿... 在你钻-钻入我的肚-肚子的过程中... 没有遇上太-太多衣物碎屑..."
 			],
 			[ // 75% - 100%
-				"Feels nice... you going though to my b-belly... like that..."
+				"感觉好棒... 就像那样... 你就进了我的肚-肚子里了..."
 			]
 		]
 	},
@@ -752,16 +752,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Huh... my belly won't be happy... hearing this... me either..."
+				"嗯唔... 听到这些... 我的肚子不会开心的... 我也有点难过..."
 			],
 			[ // 25% - 50%
-				"Darn... did I come off... as creepy?... wanting you in there?..."
+				"唉... 我这么想占有你的样子... 是不是看起来很令人不安？..."
 			],
 			[ // 50% - 75%
-				"Y-yeah... I suppose entering my b-button... might be w-weird..."
+				"是-是啊... 我也认为钻进肚-肚脐眼什么的... 怎么想都很-很怪..."
 			],
 			[ // 75% - 100%
-				"Aww... I should have s-suspected... you'd turn it down..."
+				"啊呜... 我早该料到... 你会拒绝的..."
 			]
 		]
 	},
@@ -769,16 +769,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"If I wasn't so hungry... I wouldn't f-force you in my b-button... but..."
+				"一般不是太饿的话... 我是不会强-强迫你钻入我的肚脐眼的... 但是... 但是..."
 			],
 			[ // 25% - 50%
-				"I need a s-snack though... really do... so... s-sorry about this!..."
+				"但我真的很-很需要... 需要一点零食... 所以... 对-对不住啦！..."
 			],
 			[ // 50% - 75%
-				"You must conquer your f-fear... of my n-navel... let me help you..."
+				"你必须战胜你的恐-恐惧... 你那对我小-小肚脐的恐惧... 让我来帮助你..."
 			],
 			[ // 75% - 100%
-				"U-uh... here's the thing... you're going in anyway... s-sorry!..."
+				"额-呃... 虽然拒绝是拒绝了... 但你还是得给我进去... 对-对不起！..."
 			]
 		]
 	},
@@ -786,16 +786,16 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I know f-forcing you though my b-button... was not nice... but I was h-hungry..."
+				"我-我知道强行把你按-按进我的肚脐眼里是... 是不对的... 但我实在实在是饿极了..."
 			],
 			[ // 25% - 50%
-				"S-sorry... but you are here... and I'm p-peckish... so you went in my n-navel..."
+				"对-对不起... 但你正好在我面前... 而且我-我还很饿... 所以你就这样被我塞-塞进肚脐里了..."
 			],
 			[ // 50% - 75%
-				"It's not so bad now... i-is it?... I'm sure my n-navel was lovely..."
+				"现在感觉不是那么糟糕... 不-不是吗？我很确信我的肚-肚脐外面与里面都很可爱..."
 			],
 			[ // 75% - 100%
-				"Enjoy my b-belly... even if you didn't want to..."
+				"享受我的肚-肚子与腹鸣吧... 即使你并不是那么想..."
 			]
 		]
 	},
@@ -803,16 +803,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"H-hey is it ok if I... um, take a seat... on you?"
+				"额-嘿，我有点想... 呃，坐在你的头上... 可不可以？"
 			],
 			[ // 25% - 50%
-				"I was wondering if, w-well, if you'd fit up my bum?"
+				"我突然很好奇，就-就是... 你是不是刚好贴合我的臀部?"
 			],
 			[ // 50% - 75%
-				"I'm so-sorry, I just... can I shove you up my butt?"
+				"打-打扰了，我想... 我可不可以把你塞进我的屁股里？"
 			],
 			[ // 75% - 100%
-				"Gah! I ju-just have, the urge to sit on you!"
+				"噶啊！我只是-我只是有一种强烈的冲动... 想把你坐入我的肚子里！"
 			]
 		]
 	},
@@ -820,16 +820,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"R-really? Thank you, I needed this."
+				"真-真的吗？谢谢你，我真的很想这么做。"
 			],
 			[ // 25% - 50%
-				"O-oh, thank you! Just don't wiggle out..."
+				"哦-噢！太谢谢你了！接下来可别扭出来..."
 			],
 			[ // 50% - 75%
-				"Y-yes, thank you, you're so helpful!"
+				"好-好耶，得救了！你可真是帮了我大忙！"
 			],
 			[ // 75% - 100%
-				"Yes, yes! Just get in there- *horny noises*"
+				"太棒了，太棒了！现在快给我进去- *淫荡的声音*"
 			]
 		]
 	},
@@ -837,16 +837,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I pr-promise I'll only squeeze you a little bit..."
+				"我-我保证我只会轻轻地... 挤一挤你..."
 			],
 			[ // 25% - 50%
-				"O-oh you feel, so good, ahhhh..."
+				"哦-噢有你在那下面的感觉可真棒，啊哈啊啊..."
 			],
 			[ // 50% - 75%
-				"N-now just, wiggle a bit. If you c-can..."
+				"现-现在，如果可-可以的话... 就在你们扭一扭..."
 			],
 			[ // 75% - 100%
-				"S-squirm! Please... all the way... Yesssss"
+				"继-继续蠕动！请无论如何... 都-都别停... 噢爽爽爽"
 			]
 		]
 	},
@@ -854,16 +854,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I j-just was curious is all..."
+				"我-我只是突然有点好奇... 真的..."
 			],
 			[ // 25% - 50%
-				"T-too forward? Sorry..."
+				"我-我问的太突然了吗？抱歉..."
 			],
 			[ // 50% - 75%
-				"It's o-ok! Just asking..."
+				"没-没关系的！我-我只是随口一问..."
 			],
 			[ // 75% - 100%
-				"Pr-pretty please another time? These urges... are hard to deal with..."
+				"之后有时间可以请你答应我吗？这种欲望... 真不容易解决..."
 			]
 		]
 	},
@@ -871,16 +871,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"W-well, I'll just take a seat- *horny noise* Oh no..."
+				"好-好吧，我就找个地方坐着歇一会- *深入的叫声* 哦不..."
 			],
 			[ // 25% - 50%
-				"It's ju-just a quick... experiment..."
+				"那-那我就... 快速地... 尝试一下而已..."
 			],
 			[ // 50% - 75%
-				"W-well maybe, getting close to my butt will change your mind?"
+				"这-这样的话，或许，等把你的脸埋进我的屁股里就能让你改变心意？"
 			],
 			[ // 75% - 100%
-				"So-sorry but these urges... I-i need relief..."
+				"但-但这些奇怪的冲动... 我-我必须要缓解一下... 对-对不住了..."
 			]
 		]
 	},
@@ -888,16 +888,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"S-since you're already there... can you just stay a bit?"
+				"既-既然你都在里面了... 那你能在里面多呆一会吗？"
 			],
 			[ // 25% - 50%
-				"Ju-just, don't mind the clenching..."
+				"只-只是，别介意我不时收缩一下我那里..."
 			],
 			[ // 50% - 75%
-				"Ju-just, relax! It'll just be a squeeze..."
+				"放-放轻松就好！只是可能有点挤而已..."
 			],
 			[ // 75% - 100%
-				"*horny noises* O-oh gosh you are helping, so much... thank you..."
+				"*涩情的叫声* 哦-噢天哪你可真是帮了我... 一个大忙... 谢谢你..."
 			]
 		]
 	},
@@ -905,16 +905,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"W-would you like, uh... a special r-room in my pants?"
+				"你-你想不想，额... 来我内裤里一个特别的空-空间瞧瞧？"
 			],
 			[ // 25% - 50%
-				"I just... what if you... went into my pants?"
+				"我只是在想... 要不你-你... 来我的胖次里坐坐？"
 			],
 			[ // 50% - 75%
-				"H-hey I uh, have a need. And the need is you... squirming in my... p-pussy?"
+				"嘿-我额，有个请求。我想请求你... 可不可以在我的阴-阴道里... 蠕动？"
 			],
 			[ // 75% - 100%
-				"P-please, let me, put you in my p-pussy..."
+				"求-求你了，请允许我... 把你塞进我的小-小穴里..."
 			]
 		]
 	},
@@ -922,16 +922,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Th-thank you! I know you'll like me..."
+				"谢-谢谢你！我-我知道你会喜欢我的..."
 			],
 			[ // 25% - 50%
-				"You really mean it? O-oh, thank you, just squeeze in..."
+				"你是真心的么？噢-哦，谢谢你，那就钻进去吧..."
 			],
 			[ // 50% - 75%
-				"Thank you thank you! Just... stay close to me..."
+				"谢谢你真的谢谢你！那就... 把头靠过来... 靠近我的下面..."
 			],
 			[ // 75% - 100%
-				"R-really? Oh thank you, these urges... they make it so hard to think..."
+				"真-真的嘛？哦谢谢你，这些冲动... 真的让我难以思考..."
 			]
 		]
 	},
@@ -939,16 +939,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ar-are you comfy in me? Is it ok if I keep you in there?"
+				"你-你在我的里面... 舒服吗？我想把你留-留在里面一会可以吗？"
 			],
 			[ // 25% - 50%
-				"O-oh this feels so good. I h-hope you feel good too..."
+				"哦-噢这感觉好棒。我-我希望你-你也觉得很棒..."
 			],
 			[ // 50% - 75%
-				"I ca-can feel you, inside me... oh gosh you feel so good..."
+				"我能-我能感觉到你就在我的那里面... 哦老天你的感觉可真棒..."
 			],
 			[ // 75% - 100%
-				"*horny noise* Y-yes, you're so much better, than my toys..."
+				"*深情的淫叫*嗷-嗷，你比我的那些玩具要-要爽的多..."
 			]
 		]
 	},
@@ -956,16 +956,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"It's o-ok... it can be vacant..."
+				"那-那好吧... 反正平时那里都是空着的..."
 			],
 			[ // 25% - 50%
-				"Just o-offering! I swear it's comfortable..."
+				"只-只是想让你体验体验！我发誓那里面会很舒服的..."
 			],
 			[ // 50% - 75%
-				"M-maybe you know something else to help me?"
+				"那... 也-也许你知道有什么办法能帮帮现在的我吗？"
 			],
 			[ // 75% - 100%
-				"So-sorry, for the forwardness. Ju-just, so hard... to think..."
+				"对-对不起，在此为我的鲁莽道歉。我-我有点，很难... 正常思考..."
 			]
 		]
 	},
@@ -973,16 +973,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"B-but I don't want to leave it vacant, so don't s-squirm too much ok?"
+				"但-但我不想让那里面空无一物，所以请不要动-动的太剧烈... 好吗？"
 			],
 			[ // 25% - 50%
-				"Y-you'll like the softness squeezing you, trust me!"
+				"你-你会喜欢那柔软的子宫腔挤压着你，相信我！"
 			],
 			[ // 50% - 75%
-				"Hnnng, just... you'd be ok l-letting me borrow you, o-ok?"
+				"嗯唔，那... 如-如果我一定要把你塞-塞进去一会，你不会拒绝吧？"
 			],
 			[ // 75% - 100%
-				"W-weh, I need to handle these urges... ju-just let me borrow you for a minute..."
+				"呜-呼，我必须处理一下这股欲望... 就-就让我借用你几分钟的时间..."
 			]
 		]
 	},
@@ -990,16 +990,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"S-see? Cozy and warm enough to stay... r-right?"
+				"感-感受到了么？待在里面既温暖又舒适... 对吧？"
 			],
 			[ // 25% - 50%
-				"Mmm, I h-hope you feel as good as I do... with you in me..."
+				"嗯姆，我-我希望你在我的那里... 能和我感觉到的一样爽..."
 			],
 			[ // 50% - 75%
-				"O-oh, that felt so good... ju-just, squirm a bit more... Please?"
+				"哦-噢，这感觉真棒... 只-只是，能请你再用力一点... 可以吗？"
 			],
 			[ // 75% - 100%
-				"Oh y-yesss, you're so much better at this than my- <keysmash>"
+				"哦哦太-爽了，你在这方面做的比我的那些东西要赞的多-啊啊<keysmash>"
 			]
 		]
 	},
@@ -1007,16 +1007,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hey so... uhhh... what if you, w-went somewhere soft on my chest?"
+				"嘿，所以... 额呃... 来-来我胸前最柔软的地方待一会... 怎么样？"
 			],
 			[ // 25% - 50%
-				"Hey so... uhhh... what if you, w-went somewhere soft on my chest?"
+				"嘿，所以... 额呃... 来-来我胸前最柔软的地方待一会... 怎么样？"
 			],
 			[ // 50% - 75%
-				"Hey so... uhhh... what if you, w-went somewhere soft on my chest?"
+				"嘿，所以... 额呃... 来-来我胸前最柔软的地方待一会... 怎么样？"
 			],
 			[ // 75% - 100%
-				"Hey so... uhhh... what if you, w-went somewhere soft on my chest?"
+				"嘿，所以... 额呃... 来-来我胸前最柔软的地方待一会... 怎么样？"
 			]
 		]
 	},
@@ -1029,24 +1029,24 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Uhm... hey I'm... I want to try something... like uhm... put you down my pants... a-and into my cock...",
-				"Could you uh... Can I uh... uhm... put... cock...",
-				"My uh... my balls feel empty... was... wondering..."
+				"啊额... 嘿我... 我想尝试一下... 像是呃... 把你塞进我的内裤里... 随-随后把你吸进阴茎里...",
+				"你能不能额... 我能不能呃... 嗯姆... 阴茎... 吞食你...",
+				"我的呃... 我的蛋蛋们感觉有点空虚... 我正在想..."
 			],
 			[ // 25% - 50%
-				"H-hey I... have a bit of a problem... c-can you help... it's a horny problem...",
-				"I uh... I just... looking at you... feeling some urges... c-can you help?",
-				"I've had this... rather silly horny idea... its probably impossible actually..."
+				"嘿-嗯我... 遇上了一点点问题... 你-你能不能帮我... 解决这个涩涩的问题...",
+				"我额... 我仅仅是... 看着你... 就感到一股莫名的冲动... 你-你能帮帮我吗？",
+				"我突然有一个... 相当可笑的涩涩玩法... 虽然听起来就感觉不太可能..."
 			],
 			[ // 50% - 75%
-				"P-please help me! I've j-just been... gah! I just want to s-shove you in my cock!",
-				"Hhufff I... g-gosh I'm so excited just t-talking to you... b-but I want more... I want to feel you s-squirming around in my balls!",
-				"Y-you would not believe h-how hard... it was t-to work up the energy to ask you... t-to help me with how hard my cock is..."
+				"请-请你帮帮我！我-我现在正... 呃啊！我只想把你塞-塞进鸡巴里！",
+				"呼呼我... 天-天哪和你搭-搭上话就已经够兴奋了... 但-但我想更进一步... 我想要你在我的蛋蛋你蠕-蠕动！",
+				"你-你不会相信我-我那里现在有多硬... 我得鼓-鼓起勇气来请你... 请你帮帮我那梆硬的鸡巴..."
 			],
 			[ // 75% - 100%
-				"Huffff... I... I neeeed your help p-pleassse! m-my cock is so h-haaard and nothing I'm doing is helping!",
-				"Ahhh I'm so c-clooose but I just need something! I have all these h-horny urges towards you!",
-				"I've just been overwhelmed with these urges... the urge to have someone squirming around in my dick!"
+				"呼呼... 我... 我真真真的需要你的帮助求-求求你了！我-我无论做什么都无法让我硬-硬的不行的鸡巴软下来！",
+				"啊啊我我那里就要溢出来了但我不想就这么结束！我想拿你来缓解我涩涩的冲动！",
+				"我被一些奇怪的冲动压的喘不过来气... 我好想有谁能在我的基霸里狂扭！"
 			]
 		]
 	},
@@ -1054,20 +1054,20 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"T-thanks for understanding! Now I just... gotta...",
-				"O-oh you said yes! Now It's time to uhm..."
+				"谢-谢谢你能理解我！那我现在... 这就把你...",
+				"哦-哦你同意了！那现在就让我们开始... 呃姆... 做..."
 			],
 			[ // 25% - 50%
-				"T-thank you! Just... real horny... now to...",
-				"Yes? Yes! Oh my... I gotta try now..."
+				"谢-谢谢你！我只是... 感觉很想做... 某些涩涩的... ",
+				"真的吗？居然真的答应我了！哦我的天哪... 我得立马试试..."
 			],
 			[ // 50% - 75%
-				"YES! s-sorry I just got excited! I'm just... hufff~",
-				"Finally! I-I can finish g-getting off with you in there!"
+				"噢耶！抱-抱歉我只是太兴奋了！我只是... 呼呋~",
+				"终于！我-我可以在那-那里面和你一起爽翻天！"
 			],
 			[ // 75% - 100%
-				"Yessss! I just! Yes! I get to do it! I-I get to put you in my cock!",
-				"Ahhh Yesss! Please get in there as quick as you can!"
+				"太太太棒了！我只是！好耶！我就要这么做了！我-我要把你塞进我的鸡巴里了！",
+				"啊哈太好了！现在基-基霸就在你面前，请你用最快的速度钻进我的那里面吧！"
 			]
 		]
 	},
@@ -1075,20 +1075,20 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"O-oh my gosh this... this feels so good!",
-				"A-ahh~ I didn't... oooh! k-keep going!"
+				"哦-哦我的天这... 这感觉好棒！",
+				"啊-哈啊~ 我没想到... 嗷吼！继-继续动！"
 			],
 			[ // 25% - 50%
-				"Y-yes t-thats what I want! squirm more! ",
-				"A-ahhh why is is so weird but feel so goood!"
+				"对-对我想要的就是这样！再多在里面扭一扭！",
+				"啊-呼呼为-为什么做这种奇怪的事会这么爽爽爽！"
 			],
 			[ // 50% - 75%
-				"Hufffff Yes... y-yes! p-push me c-closer!",
-				"Aaaahhh~ I-I'm getting even h-harder with you in there!"
+				"呼呼太棒了... 太-太棒了！继续，让-让我高潮！",
+				"啊哈啊哈啊~ 你-你钻进里面后我那-那里更硬了！"
 			],
 			[ // 75% - 100%
-				"*whines needily~*\nI'm so c-close! S-squirm! I wanna cum!",
-				"I wanna c-cum! I wanna cum! I wanna cum! I-I'm so close!"
+				"*急切地嘟囔~*\n我就要快-快去了！动-继续蠕动！我就快要射了！",
+				"我要-我要射了！我要喷射啦！我要射精啦！我-我随时都会射！"
 			]
 		]
 	},
@@ -1096,16 +1096,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Thats a-alright..."
+				"好吧... 没-没关系..."
 			],
 			[ // 25% - 50%
-				"Oh... I thought..."
+				"喔... 我以为... 你会..."
 			],
 			[ // 50% - 75%
-				"Y-yeah I'm just being s-silly! s-sorry I asked..."
+				"是-是啊我可真的蠢-蠢到家了！很-很抱歉我这么问你..."
 			],
 			[ // 75% - 100%
-				"Ahh... I just... I need...! Sorry..."
+				"额啊... 我实在是... 情不自禁...！对-对不起..."
 			]
 		]
 	},
@@ -1113,16 +1113,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"B-but... the way you s-stare... S-so I-I'm going s-shove you down my cock anyway!"
+				"但-但是... 你-你盯着我的方式... 你-你要这样的话我无论如何都要把你塞-塞进我的阴茎了！"
 			],
 			[ // 25% - 50%
-				"N-no?! B-but I...! No! Y-you're going to help! N-now get in my boner!"
+				"不-不行吗？但-但是我...！你不许不要！你-你必须帮我！现-现在给我进到我大根里面！"
 			],
 			[ // 50% - 75%
-				"A-agh! S-sorry I just! I can't take a no! N-now g-get in my shaft and squirm!"
+				"啊-呃啊！对-对不起我只是！我听不得不行！现-现在给我下去在我的管道里使劲蠕动！"
 			],
 			[ // 75% - 100%
-				"Arghuff! I...! I'm too horny! I-I can't take this! Y-you can't stop me from shoving you in there! I neeed to cum so baaadly!"
+				"啊啊呼啊！我...！我好想涩涩！我-我控制不住了！你-你别想逃过我的基霸把你吸进去！我一定要狠狠地把你射出去！"
 			]
 		]
 	},
@@ -1130,16 +1130,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"A-ah I-I was r-right! y-you did want to be in my cock! ...I was w-worried I read you wrong..."
+				"啊-哈我-我就说嘛！你-你就是想钻进我的阴茎里！... 我还担-担心我猜错你的想法了..."
 			],
 			[ // 25% - 50%
-				"Huff... I-I did it! now... t-this is ok? good! I wasn't sure..."
+				"呼呼... 我-我做到了！现在... 这-这样就行了吗？好！我本来还有点不确定..."
 			],
 			[ // 50% - 75%
-				"MMM~! Y-you didn't f-fight back much... could it be that y-you actually w-wanted this!?"
+				"嗯嗯嗯~！你-你并没有过多地挣-挣扎反抗... 或许其实你-你实际上也-也想这么做!？"
 			],
 			[ // 75% - 100%
-				"A-ah y-yes! S-sorry but! I need y-you in there to cum! a-and that squirming actually helps!"
+				"啊-哈太-太棒了！对-对不起但是！我需要你-你在里面帮我射精！光是刚才的蠕动已经让我溢了不少了！"
 			]
 		]
 	},
@@ -1160,20 +1160,20 @@
 	"navelVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:navelVoreRequestingNo",
 	"navelVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:navelVoreRequestingNoYes",
 	"analVoreRequesting": [
-		"C-can I get into that, um... booty of yours?",
-		"You have a nice b-butt... can I get i-inside it?"
+		"我-我可不可以钻进，额... 钻到你的屁股里？",
+		"你的双臀可-可真吸引人... 我能有幸被它们夹在里面吗？"
 	],
 	"analVoreRequestingYes": [
-		"Y-you'll take me in!?... T-thanks for letting me in your b-backside...",
-		"You don't mind... if I go inside your b-butt?... That's great to hear..."
+		"你-你真的同意了!？谢-谢谢你为我敞开后穴允许我进去...",
+		"你并不介意... 我钻入你的屁-屁股？... 听到你这么说可太好了..."
 	],
 	"analVoreRequestingNo": [
-		"I figured... I thought I'd ask at least, though...",
-		"But... but... alright, sorry for troubling you..."
+		"我猜到了... 尽管我还是觉得至少我得问一嘴...",
+		"但是... 但是... 好吧，很抱歉打扰你了..."
 	],
 	"analVoreRequestingNoYes": [
-		"I'm sorry I f-forced my way into your r-rear... but it's so warm...",
-		"I promise I'll be good... let me just stay in your b-butt for a bit..."
+		"对-对不起，无论如何我都要钻入你的后-后庭... 里面太暖和了...",
+		"我向你保证我会乖乖的... 就让我呆在你的屁-屁股里一小会..."
 	],
 	"unbirthVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequesting",
 	"unbirthVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingYes",
@@ -1191,30 +1191,30 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Im sorry, Im just really hungry!",
-				"S-so, I'm just gonna u-uh.. taste you a b-bit... just hold still... just tasting...",
-				"Hi... hey... Would you... hold still?... maybe get in my belly?",
-				"Uuuhm....\nS-Sorry about this!",
-				"Y-you just l-looked... so t-tasty... I c-can't h-help... m-myself!"
+				"我-我，我很抱歉，我真的实在是饿极了！对不起！",
+				"那-那个，我只是想呃-额.. 浅-浅浅地尝一口你... 不必劳烦你... 只是尝一下...",
+				"嗨... 嘿... 你能不能... 闭上眼睛一小会？... 我-我有个惊喜... 在我的胃里！",
+				"呃呃呃姆...\n对-对不起我一定要吃掉你！我好需要食物！",
+				"你-你看起来真-真的... 好-好美味... 我-我就要控... 控制不住我自己了！"
 			],
 			[ // 25% - 50%
-				"Would you, uhm-\nMind if I..?\n...Yeah...",
-				"Hey, uhm... I'm-\nYeah I'm... H-hungry.\nC-could you... yeah...",
-				"My t-tummy feels kinda empty... could you uh... h-hold still please?",
-				"Uhm... e-excuse me... I'm looking for something to eat?",
-				"Y-you don't seem busy.. I think... I want you as my snack... so don't r-run away!"
+				"你-你会不会，呃姆-\n介意我..？\n...嗯，你也懂我的意思...",
+				"嘿，额姆... 我我我-\n嗯我... 饿-饿了。\n你-你能不能... 那个...",
+				"我-我的小肚肚基本上空了... 你能不能额... 帮-帮我填补一下？",
+				"额姆... 打-打扰一下... 我在找些能吃的东西... 你看-看起来就不错...",
+				"你-你看起来不太忙.. 我在想... 我要你做我的零食... 所以别-别想跑！"
 			],
 			[ // 50% - 75%
-				"Do you... uhm... do you mind if I uh... get a lick",
-				"Hey... uhm... funny thing... I think... you're going in my maw?",
-				"Umm, may I just have a taste?"
+				"你... 额姆... 你介不介意我呃... 舔你一小口？",
+				"嘿... 呃姆... 我觉得... 把你塞进我的嘴里面... 会很有趣？",
+				"额姆，我-我可不可以就只是舔一下你尝尝味道？"
 			],
 			[ // 75% - 100%
-				"Uhm... e-excuse me... I-",
-				"Hey... uhm... funny thing... I-",
-				"Do you... uhm... do you mind if I-",
-				"Hi... hey... hi... hi... hi-",
-				"Do you mind if I just... help myself to you? Please?"
+				"啊唔... 打-打扰一下... 我-我想吃... 你...",
+				"嘿... 呃呜... 你探头看-看看我的食道... 肯定很有意思...",
+				"你... 额... 你介不介意我-我... 我把你吞下去...",
+				"嗨... 嘿... 我想... 你能待在我-我的肚子里面...",
+				"你介不介意我... 对你做些特别的事？可以么？"
 			]
 		]
 	},
@@ -1222,72 +1222,72 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"S-sorry I couldn't control myself!",
-				"T-these urges are just... impossible to control when I'm starving...",
-				"A-ahhh sorry I just... wanted to... and you looked tasty!",
-				"S-sorry I couldn't control myself after licking you!",
-				"Im sorry! Im sorry! Im sorry! Im sorry!",
-				"A-ah and now you're squirming in there...!"
+				"对-对不起我控制-控制不住我自己了！但既然你已经在胃里了...",
+				"饿-饿极了... 我真的控制不住... 我的进-进食冲动了...",
+				"啊-啊啊啊对不起我只是... 只是想... 但你看起来太美味了！",
+				"抱-抱歉我... 我舔了你一口之后就忍不住把你吞下去了！",
+				"对不起！对不起！对不起！！！我不会消化你的... 至少会温柔一点...",
+				"啊-啊你... 刚才在食道里蠕动... 现在还在我的胃里一直扭...！"
 			],
 			[ // 25% - 50%
-				"I-I'm sorry.. I hope you don't m-mind... seems I had more than just a taste...",
-				"A-ahhh sorry I just panicked!",
-				"I was just... too hungry!"
+				"我-抱歉... 我希望你不会介-介意... 看起来我不只是舔了一小口...",
+				"啊-啊啊啊对不起我... 我只是饿极了！就没忍住把你咽...",
+				"我真的只是... 太饿了！才... 才把你当成食物吃掉了..."
 			],
 			[ // 50% - 75%
-				"Was that too forward? Im sorry!",
-				"Th-this is fine right?",
-				"I hope you dont mind...",
-				"You're okay with this. Right?\nRight..?"
+				"我刚才是不是做的太直接鲁莽了？对-对不起！",
+				"我-我这么做你或许挺享受的...不是吗？",
+				"我希望你不会太介意刚才... 以及和胃里其他的食物在一起...",
+				"你对丸吞这种事没什么意见，对吧？\n对吗..？"
 			],
 			[ // 75% - 100%
-				"I k-know this is sudden... just... those predatory urges overtook me...",
-				"At l-least I'm f-full... I g-guess?",
-				"So full... So good...",
-				"Y-you're quite filling... i-if that... c-cheers y-you up"
+				"我-我知道突然之间我就把你吞掉了... 只是... 某些捕食者本能冲动淹没了我...",
+				"至-至少我-我饱了... 有... 有你在我胃里当食物...",
+				"吃的好饱... 感觉好棒...",
+				"你-你真的帮我填饱肚子了... 如-如果这样能... 能让你高-高兴起来..."
 			]
 		]
 	},
 	"tailVoreNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailVoreNoPrompt",
 	"tailVoreNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreNoPromptAfter",
 	"absorbVoreNoPrompt": [
-		"*shifts their eyes around* o-oh nooo! I uh... s-seem to be tripping... in y-your direction!",
-		"C-can I get a h-hug?... I w-want a hug... l-let me hug you!",
-		"M-may I get a handshake?... a-and a h-hug?..... a very c-close hug..."
+		"*把目光撇开*噢-哦不不要！我呃... 好-好像被绊着了... 我就要压-压在你身上了！",
+		"我-我能和你抱-抱抱吗？... 我-我想要全身心... 全-全方位地拥抱你！",
+		"我-我可以和你握个手吗？... 然-然后再来个拥抱？... 来深入地拥-拥抱..."
 	],
 	"absorbVoreNoPromptAfter": [
-		"*Acts shocked* O-oh nooo, I uh... a-accidentally pushed you into my b-body... t-totally not on p-purpose..",
-		"O-oh! you u-uh... you're i-inside me now... I uh... absorbed you... s-sorry!... but can I k-keep you a while?",
-		"W-well! I d-didn't think I hugged y-you that hard... but u-uh... since you're in t-there... stay a w-while?"
+		"*假装很震惊的样子*哦-不好，我呃... 意-意外地把你裹-裹在我的身体里面了... 绝-绝对不是故-故意的..",
+		"喔-哦！你额-呃... 你现在在我的身-身体里面了... 我呃... 吸收了你... 抱-抱歉！... 但我能-能不能多把你关在里面一会？",
+		"啊-啊这！我没-我没想到我用太大力气抱你了... 但是额... 既然你-你都在里面了... 多-多呆一会好-好吗？"
 	],
 	"navelVoreNoPrompt": [
-		"H-hey, um... I'm gonna... stuff your f-face... into my b-belly b-button...",
-		"C-come here... I just want t-to... show you m-my navel... a-and put you inside it maybe...",
-		"I t-think you'll like going... into my n-navel... so... j-just... here let me s-show you!"
+		"嘿，嗯... 我想要... 摸摸你的脸... 并一把按进我-我的肚-肚脐眼里面...",
+		"靠-靠近点... 我只是想-想... 给你看看我-我的肚脐... 并-并且把你塞进去...",
+		"我-我觉得你会喜欢... 进-进到我的肚脐里面... 来... 来让我-我们试试！"
 	],
 	"navelVoreNoPromptAfter": [
-		"S-settle down now... y-you're already past my n-navel and in my b-belly... so r-relax... p-please?",
-		"I hope that w-wasn't scary... being f-forced though m-my... b-belly button like that... felt n-nice though",
-		"I r-really j-just did that... a-and you went right t-though my n-navel... h-huh..."
+		"冷-冷静一下... 你-你已经穿过肚脐进到我的胃-胃里了... 所以请放-放轻松... 好吗？",
+		"我希望... 你不会因... 被强-强行塞进我-我的肚脐眼而受惊... 尽-尽管我感觉挺-挺不错。",
+		"我真-真的这么做了... 并-并且你也直接穿-穿过我的肚-肚脐到肚子里了... 呼-呼..."
 	],
 	"analVoreNoPrompt": [
-		"H-hey uh... I'm going to um... put you up m-my rear, so.. be s-still!",
-		"I'm gonna s-stuff you up my butt, s-so just d-don't resist!... p-please?",
-		"Do you... uhm... do you mind if I s-shove you... up my butt?",
-		"Hi... hey... s-so... butts... y-you like t-them?... up close m-maybe?",
-		"Uhm... e-excuse me... I-",
-		"Hey... uhm... funny thing... I-",
-		"Do you... uhm... do you mind if I-",
-		"Hi... hey... hi... hi... hi-"
+		"嗨-嘿额... 我想要呃... 把你塞进我的臀-臀里，所以... 站-站好别动！",
+		"我要把你填-填进我的屁股里，所-所以请不-不要反抗！...可-可以吗？",
+		"你... 额姆... 你介不介意我一屁股坐... 把你坐入我的身体？",
+		"嗨... 嘿... 那-那个... 屁股... 你-你喜欢屁-屁股吗？... 也-也许离近点看看？",
+		"额姆... 打-打扰一下我... 我-帮我检查一下肛门... 和里面... 谢谢？",
+		"嘿... 额唔... 我... 想和你做-做些... 有趣的事... 屁眼... 吸入...",
+		"你... 呃姆... 你介不介意我-我用直-直肠温-温暖你的身子...",
+		"嗨... 嘿... 嗨... 嗨... 嗨-你好我-我要用屁股吃掉你！"
 	],
 	"analVoreNoPromptAfter": [
-		"S-sorry I couldn't control myself!",
-		"I was just... too excited!",
-		"T-this is fine right?",
-		"A-ahhh sorry I just panicked!",
-		"S-sorry I couldn't control myself, you just fit right into my rear!",
-		"I was just... too excited to sit on you!",
-		"T-this is fine right? not to warm in uhm... my bottom?"
+		"对-对不起我-我控制不住我自己了！",
+		"我刚才只是... 太-太兴奋了！就把你...",
+		"这-这样也没-没什么大不了的不是吗？",
+		"啊-哈啊抱歉，我只是饿了... 下面那里也饿了！",
+		"抱-抱歉我情不自禁地就这么做了，你的大小正好适合我-我的屁眼！",
+		"一想到坐... 坐在你脸上就太激动了！然-然后我就这么做... 做了...",
+		"这-这样感觉还不错吧？我... 我的直-直肠不... 不只是很暖和... 对吧？"
 	],
 	"unbirthVoreNoPrompt": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreNoPrompt",
 	"unbirthVoreNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreNoPromptAfter",
@@ -1295,16 +1295,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Wish they were bigger... Hey what if I uhm..."
+				"真希望我的胸能大一点... 哦被你听到了... 那不如我额..."
 			],
 			[ // 25% - 50%
-				"H-hey I need some help... I think you could make my boobs just a little bigger..."
+				"额-嘿我需要点帮助... 我觉得你能让我的奶子变得再大一点..."
 			],
 			[ // 50% - 75%
-				"Want... bigger... I c-can't help myself! You're going in my tits!"
+				"想要... 更大的... 我-我控制不住了！你快给我进到我的奶头里！"
 			],
 			[ // 75% - 100%
-				"Huhfff... S-so much milk in my tits... b-but I still want something more in there!"
+				"呼呋呼呋... 乳-乳头里有好多奶-奶水... 但-但我还是想往里面塞点什么！"
 			]
 		]
 	},
@@ -1312,16 +1312,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hehe... bigger."
+				"呵呵哈... 更大... 更大的乳-乳房与乳头"
 			],
 			[ // 25% - 50%
-				"N-now I have more to squish, hehe..."
+				"这-这下我就有更-更多的乳汁能挤了，呵呵..."
 			],
 			[ // 50% - 75%
-				"Ahh~ I can't stop l-looking at my cleavage now, hehe..."
+				"啊~ 我真的忍不住盯着我的山峰与山谷看了，呵呵..."
 			],
 			[ // 75% - 100%
-				"Ahhh... O-oh my, they're gonna start l-leaking at this rate..."
+				"啊哈啊... 哦-噢我的天，再这样下去我-我的奶水就要洒出来了..."
 			]
 		]
 	},
@@ -1329,16 +1329,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"H-hey there... balls are empty... need to fill them..."
+				"嗨-嘿... 我-我的蛋蛋有点空虚... 我需要找个人满足他们..."
 			],
 			[ // 25% - 50%
-				"Hey... I gotta deal with some u-urges... so you're going in my cock... s-sorry!"
+				"嘿... 我得处理一下性-性冲动... 所以我要把你塞入我的鸡巴了... 对-对不起！"
 			],
 			[ // 50% - 75%
-				"I'm getting all h-horny... S-sorry but I need to use you to help me get off!"
+				"我-我感觉我好淫-淫荡... 对-对不起但我需要你来帮我发泄一下！"
 			],
 			[ // 75% - 100%
-				"Hufff... I'm so horny! Aaaa... N-needy... need to cum! N-need to use you!"
+				"呼哈呼... 我要涩涩！啊啊啊... 我要-要... 我要射精！我得需要你来帮我射！"
 			]
 		]
 	},
@@ -1346,16 +1346,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"S-sorry I just... I needed to feel something in there!"
+				"对-对不起我实在是... 想我的那里面塞点什么东西！"
 			],
 			[ // 25% - 50%
-				"A-ahh... you s-squirming around is actually pretty good...~"
+				"啊-哈... 你在里面扭-扭来扭曲的感觉真棒...~"
 			],
 			[ // 50% - 75%
-				"S-sorry again I just... can't control these urges~!"
+				"再-再次说声对不起我只是... 控制不住我的性冲动~！"
 			],
 			[ // 75% - 100%
-				"Aaaa S-sorry! I just, can't c-control myself when I get this horny~!"
+				"啊啊啊抱-抱歉！我想涩涩的时候很难忍住不做一下涩涩的事~！"
 			]
 		]
 	},
@@ -1389,16 +1389,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I just... r-really... r-really need inside you... r-right now... J-just let me in... your m-mouth"
+				"我只是... 真的有点想在你的肚-肚子里... 就-就请现在... 让我钻进你的嘴-嘴里。"
 			],
 			[ // 25% - 50%
-				"I-I so... want in your b-belly... You won't mind if I... dive in your m-maw... p-perhaps?"
+				"我-我真想待在你的胃里... 如果我扒开你的咽喉钻入食道... 你-你不介意吧？"
 			],
 			[ // 50% - 75%
-				"I w-want in... a warm, wet place... O-open up your m-maw for me... p-please?"
+				"我-我想在里面... 又温暖，又湿润... 让-让我爬进你下颚... 把我一口咽进肚~"
 			],
 			[ // 75% - 100%
-				"I'm just g-gonna... take a slip... down your uh... t-throat... so uh... y-yeah..."
+				"我我我等不及要从你的喉咙一步滑进你的胃了... 快让我成为食物~"
 			]
 		]
 	},
@@ -1406,16 +1406,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I r-really want... in that t-tail... Just... let me me f-feed it..."
+				"我-我真的好想... 在-在那条尾巴里... 就... 就用我来喂饱它吧..."
 			],
 			[ // 25% - 50%
-				"That t-tail you have... It's looking a bit e-empty... I'll f-fill for you..."
+				"你-你的尾巴看起来空-空空的... 让我来帮它变饱-饱满..."
 			],
 			[ // 50% - 75%
-				"I think.. your t-tail is staring at me... I should... give it want it w-wants!"
+				"我认为... 你的尾-尾巴正盯着我看... 我觉得... 我-我应该满足它！"
 			],
 			[ // 75% - 100%
-				"H-hey um... I'm gonna... maybe... pet your t-tail... and crawl i-inside!"
+				"嘿... 嗯姆... 我-我想在外面撸一撸你-你的尾巴... 然-然后爬进去在里面扭一扭！"
 			]
 		]
 	},
@@ -1423,16 +1423,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I must... d-dive into you... so just s-stay still... I-It'll feel good... I think..."
+				"我要... 我想要挤入你的身体里... 所以站好了... 应-应该会感觉很棒的..."
 			],
 			[ // 25% - 50%
-				"Don't m-mind me... I'm just... walking t-toward you, and then m-maybe... i-into you"
+				"不-不用在意我... 我只是... 我只是恰好路过... 然-然后一不小心滑进你的身体！"
 			],
 			[ // 50% - 75%
-				"I'd like... to j-just... d-disappear into you... so I'm j-just going to... fall i-into you!"
+				"好害羞... 我-我好想消失不见... 所-所以就请让我藏浸-藏进你的身体吧！"
 			],
 			[ // 75% - 100%
-				"I... I know you can... a-absorb things... so I'm gonna... sneak i-into you!"
+				"我-我知道你能吸-吸收食物... 不用管我在做什么，吸-吸收你的食-食物就好！"
 			]
 		]
 	},
@@ -1440,16 +1440,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I strongly... n-need in your n-navel... J-just... don't move a m-moment... please"
+				"我真的... 很-很需要你的肚-肚脐... 所以... 就-就请站好别动..."
 			],
 			[ // 25% - 50%
-				"You c-could use me... as a navel f-filler... c-couldn't you? Let me see..."
+				"其-其实你可以拿我填满你的肚-肚脐... 不是吗？让我们试试..."
 			],
 			[ // 50% - 75%
-				"I c-can't help... but think about b-being... in your b-belly b-button... so I'll j-just go inside!"
+				"我-我忍不住... 一想到能待-待在你的肚脐眼里... 我要进来了！"
 			],
 			[ // 75% - 100%
-				"Hey uh... c-can I like... c-crawl into your n-navel... real q-quick?"
+				"嘿额... 我-我想试试... 我-我挤进你的肚-肚脐里能有多快？"
 			]
 		]
 	},
@@ -1457,16 +1457,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I kinda.. w-wanna be up your b-butt... so I'll j-just uh... let m-myself in..."
+				"我有点... 想-想要你的屁-屁股挤压着我... 所以就-就放我进去吧..."
 			],
 			[ // 25% - 50%
-				"H-hey... would you uh... b-bend over... a l-little... I'm uh... g-going in your b-backside."
+				"嘿呀... 你能不能... 略微弯下腰... 我呃... 我要-要检查一下你的后-后门有没有关严。"
 			],
 			[ // 50% - 75%
-				"I can't h-help... but t-think about... how warm your b-butt is... I c-could use that w-warmth!"
+				"我忍-忍不住了... 我想冷脸贴-贴你的热屁股... 然后感受-感受里面的温暖！"
 			],
 			[ // 75% - 100%
-				"For your own g-good... bend over p-please... I'm going i-in... and you can't s-stop me! ...I think!"
+				"为-为了你自己好... 请-请掰开你的屁-屁股... 你阻止不了我钻进你的后穴！"
 			]
 		]
 	},
@@ -1474,16 +1474,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I want to s-see... your f-folds... so I c-can... s-snuggle inside them..."
+				"我想看-看一看你下面的褶页... 这样我就能-能蜷缩在那里面..."
 			],
 			[ // 25% - 50%
-				"Let me... g-get close to your v-vag... and m-maybe... c-crawl inside..."
+				"让我... 让我近一点看看你的阴-阴道... 这样我就好-好突然爬进去... "
 			],
 			[ // 50% - 75%
-				"Don't uh... m-mind me... b-bending down here... J-just wanna... get i-inside your w-womb!"
+				"别呃... 别在意我... 蹲在你的身前... 我只是想-想钻进你的小-小穴... 呆在你的子宫里！"
 			],
 			[ // 75% - 100%
-				"S-sorry... but I need in... that s-snatch of y-yours... r-right now! S-sorry!"
+				"对-对不起... 但我-我需要在你的里面... 呆在你-你的骚逼里... 立刻！对不住了！"
 			]
 		]
 	},
@@ -1491,16 +1491,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I w-wanna... h-hold one of your... b-boobs... a-and... get i-inside it..."
+				"我-我想... 捏捏你的... 你的奶子... 然后... 然后钻进去..."
 			],
 			[ // 25% - 50%
-				"I will uh... get a b-better look... at those j-jugs... and have... a d-deep look..."
+				"我要呃... 好好看-看一看你的两个大-大包子... 然后... 成为它们的馅料..."
 			],
 			[ // 50% - 75%
-				"I keep s-staring... at your t-tits... I t-think... I'm going to... get i-inside them!"
+				"我一直在盯-盯着你的乳-乳头看... 我-我想... 我一定要钻-钻进去！"
 			],
 			[ // 75% - 100%
-				"M-my t-thoughts... are only of... your r-rack... I m-must... get i-inside!"
+				"我-我的脑海里... 想的-想的全都是你-你的山丘... 我-我必须进去看看！"
 			]
 		]
 	},
@@ -1508,16 +1508,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hey... I'm g-going to uh... w-wiggle down your s-shaft... I'll be g-gentle though..."
+				"嘿... 我想-想要呃... 扭动着钻-钻入你的枪杆子... 我-我会轻轻地..."
 			],
 			[ // 25% - 50%
-				"I'm t-thinking... I want to b-be in... your c-cock... so let m-me... i-i-inside..."
+				"我-我想... 我想待在你的-你的阴茎里... 所以就-就让我进-进来吧..."
 			],
 			[ // 50% - 75%
-				"I j-just... w-wanna spend some time... in your m-member... so don't m-move!"
+				"我只是... 我只是想-想在你的大鸡鸡里睡一觉...所以不要乱动！"
 			],
 			[ // 75% - 100%
-				"P-please... I really n-need... in your s-shaft... so d-don't stop me!"
+				"求-求求你了... 我真的好好好想塞满你的鸡巴... 别拦着我！"
 			]
 		]
 	},
@@ -1533,24 +1533,24 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"A-ah, what are you d-doing?! I-I... just w-wanted some food!",
-				"*g-glk*, I'm s-so s-sorry...! Are you o-okay?",
-				"Wha... W-was it something my belly s-said?"
+				"啊-啊，你-你这是在做-做什么?！我-我... 只是饿了想-想吃点东西！",
+				"*咕-咳咳*，抱歉我-我把你咽-咽下去了...！你-你在里面还好吗？",
+				"哇啊... 是-是我那咕咕叫的肚子在邀请你钻-钻下去吗？"
 			],
 			[ // 25% - 50%
-				"M-mmf, you seemed to have, uh... slipped right down my throat...",
-				"*u-urp*, I, uh... appreciate the gesture... but I asked for a snack...",
-				"Fff, a-are you okay...? It's getting active in t-there..."
+				"唔-唔姆，你-你刚才好像，额... 直接滑进我的喉咙了...",
+				"*嗝-嗝噜*，我，呃... 谢谢你的好意... 但我只是想吃点正常的零食...",
+				"呼呼，你-你还好吗...？我-我的胃好像要开始消-消化食物了..."
 			],
 			[ // 50% - 75%
-				"O-oh my, I heard p-people were into me... but not like this...",
-				"<keysmash>!! U-um... please ask n-nicely next time...",
-				"Uhm... Y-you just... well... oh..."
+				"哦-哦妈呀，我听说人们喜欢和我呆一起... 但没想到是这个样子...",
+				"<keysmash>！！呃-额姆... 至-至少先征得我的同意吧...",
+				"呃呜... 你-你刚才竟然... 强行爬进... 好吧... 哦..."
 			],
 			[ // 75% - 100%
-				"*g-gulp*, not a-again!?",
-				"Um, w-well, I guess I'm carrying you around, n-now...",
-				"W-whew... You surprised m-me... Is... this what you wanted?"
+				"*咕-咕噜噗*，又-又来!？我的胃袋不是你们的睡袋！",
+				"额姆，好-好吧，我猜我得托着肚子里的你走了...",
+				"唔-呼呼... 你真是吓-吓到我了... 你... 你喜欢这样被吃掉吗？"
 			]
 		]
 	},
@@ -1558,24 +1558,24 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"W-why do I feel so f-full?... and w-why is my t-tail smil-.. o-oh... oooh....",
-				"D-don't do that t-tail... You can't e-eat anyone you p-please... t-though they are... very f-filling...",
-				"W-wait... wasn't there s-someone here a m-moment ago?... I'm not h-hungry anymore t-too... What d-did you do tail?"
+				"为-为什么我突然感觉饱了？... 以及为什么我的尾-尾巴在那笑-.. 喔-哦... 噢噢噢....",
+				"尾-尾巴别这-这样... 你不能想-想吃谁就吃谁... 尽-尽管他们... 很能填-填饱...",
+				"等-等下... 刚才是-是不是有谁在我背-背后？... 我也突然不-不觉得饿了... 你-你干了什么尾巴？"
 			],
 			[ // 25% - 50%
-				"D-darn tail... stop l-letting... p-people in y-you... though... I'm f-feeling fuller n-now...",
-				"I-It's almost s-snack time... you c-could have waited t-tail... i-instead of e-eating that p-person...",
-				"I know y-you're... getting p-peckish... but p-please d-don't eat... p-people passing by..."
+				"别-不要啊尾巴... 不要-不要再让... 别人钻-钻到你的肚子里... 尽管... 我现-现在感觉吃-吃饱了...",
+				"就-就快到点-点心时间了... 你应该再-再等等，我的尾巴... 而-而不是拿其-其他人当-当点心...",
+				"我知道你-你实在是... 饿-饿得不行了... 但还请-请不要吃... 不要吞掉路-路过的其他人..."
 			],
 			[ // 50% - 75%
-				"D-did you... get e-eaten by my t-tail maw?... I-I need to c-control it better...",
-				"B-bad tail... don't e-eat random p-people... e-even if their w-willing...",
-				"S-sorry... about my t-tail eating y-you... though... you s-seemed... rather eager about it..."
+				"你-你是不是... 被我的尾-尾巴叼走吃-吃掉了？... 我-我需要好好控-控制一下它...",
+				"坏-坏尾巴... 不要-不要再吃其-其他人了... 就-就算是他们主-主动要你吃...",
+				"对-对不起... 我-我的尾巴把你吞-吞下去了... 虽然... 你似-似乎... 很渴望这样..."
 			],
 			[ // 75% - 100%
-				"I-I-I don't... you j-just... i-into my... t-tail...so s-suddenly...",
-				"W-why would y-you... j-just let... my t-tail eat you... w-what!?..",
-				"H-huh... you h-hopped... right i-into... my t-tail maw... No h-hesitation..."
+				"我-我-我还不... 你就-就这样... 突-突然... 进了-进了我... 我的尾-尾巴...",
+				"为-为什么你会要... 要我... 我的尾-尾巴吞-吞掉你... 什-什么!？..",
+				"额-这... 你-你就这样... 豪-毫不犹豫地... 跳-跳进了... 我-我的尾巴口中... "
 			]
 		]
 	},
@@ -1583,24 +1583,24 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"D-did I look so h-hungry... that you'd c-cannonball into me... like t-that?",
-				"D-did I order f-fast food?... Are you the d-delivery guy?... O-or are you the f-food?",
-				"I'm g-glad you uh... ran into my b-body and f-filled me up... B-but please warn m-me.. You s-scared me a l-lot!"
+				"我-我有看起来饿瘪了吗... 你都直接像-像那样... 我该怎么说... 向-向胃猛冲？",
+				"我-我点外-外卖了吗？...你是送-送餐员？...还-还是说你是食-食物？...亦或者都是？",
+				"我很乐-乐意你像这样额... 沉入我的身-身体来喂饱我... 但-但还请先说一声.. 你真吓-吓到我了！"
 			],
 			[ // 25% - 50%
-				"I d-didn't expect... a-anyone to j-just... d-dive into me like t-that... D-did I do s-something?",
-				"I w-was going to g-get a snack... but t-that doesn't m-matter since you u-uh... b-bumped into m-me...",
-				"D-did someone put a s-sign on me?... so you'd c-crash into m-me?... Well, I'm n-not uh... p-peckish now..."
+				"我-我没料到... 有-有人会-会... 像这样对我投-投怀送抱... 我-我有做什么事吗？",
+				"我-我正想去找-找点小零食... 但-但既然你插-插队进来成了我的零食... 那-那都无所谓了吧...",
+				"有-有人在我背后贴小纸条了吗？... 你直接撞-撞到我身-身体里了... 好吧，至少我现在... 不-不饿了..."
 			],
 			[ // 50% - 75%
-				"C-curses... People j-just won't s-stop... w-walking into me... W-why?...",
-				"Were you e-even... l-looking where y-you were g-going?... Or d-did you mean to do t-this?",
-				"E-every time I g-get a h-hug... I e-end up absorbing t-them... but y-you h-hugged... rather t-tightly."
+				"奇-奇了怪了... 人们怎么一个个的都-都想... 想栽-栽进我的身体里... 为-为什么",
+				"你有-有在看... 看你在往-往哪里走吗？... 还是说你-你就是想没进我的身-身体里？",
+				"每-每次我和别-别人抱抱... 他们的结局都是被我吸收掉... 但是你-你却在... 更-更用力地抱着我。"
 			],
 			[ // 75% - 100%
-				"D-did I b-bump into you? I'm s-sorry!... Or w-wait... D-did you bump into m-me on p-purpose?",
-				"It's r-rude to just... enter s-someone's body l-like that... You s-should ask f-first...",
-				"You j-just... s-stepped right into m-me... B-but... w-why..."
+				"我-我撞到你了吗？对-对不起！... 哎等-等等... 还是说是-是你故意撞-撞到我的？",
+				"像-像你这样直接钻进他-他人身体里实... 实在是太粗鲁了... 你-你应该先问一声的...",
+				"你-你居然直接... 钻进了我的身体里面... 但-但是... 为-为什么..."
 			]
 		]
 	},
@@ -1608,24 +1608,24 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"I-I don't know... h-how to r-react to you j-just... h-hopping in m-my n-navel... b-but I'm f-fuller now, s-so...",
-				"Was my b-belly... grumbling so l-loudly... that y-you went and s-shoved yourself... into m-my belly b-button?",
-				"I'd be more s-surprised... if y-you having s-squeezed though... my n-navel... didn't f-fill me up so g-good..."
+				"我-我不知道... 对于你-你这样直接蹦进我的肚-肚脐... 该-该作何反应... 但-但我确实吃饱了...",
+				"是-是我的肚子... 咕咕叫的太-太大声了吗？你直接把你自己塞... 塞进了我的肚-肚脐眼...",
+				"太-太令人惊讶了... 我-我现在饿坏了... 你这样钻-钻入我的肚脐... 我的胃就把你当食物了..."
 			],
 			[ // 25% - 50%
-				"I only m-mentioned I was p-peckish... You didn't need to th-throw yourself... into my n-navel just for... t-that...",
-				"While I was w-wanting a s-snack... I d-don't think... g-getting in my belly b-button... is the b-best solution...",
-				"Was I r-really looking t-that... h-hungry? ...Or d-did you want in m-my uh... n-navel that b-badly?"
+				"我仅仅是提-提了一嘴我饿了... 你不必将-将你自己当做零食... 投-投喂给我的肚脐...",
+				"当我想吃点心的时候... 我从-从来没想过... 通-通过肚-肚脐眼吃... 会是最-最好的方法...",
+				"我看起来真-真有那... 那么饿吗？...还是说你-你就那... 那么想钻-钻进我的肚脐？"
 			],
 			[ // 50% - 75%
-				"I-I don't know... w-why you e-entered... my n-navel... but I g-guess... that's not i-important...",
-				"In m-my belly b-button a-again?... I s-should invest in... wearing l-longer shirts... or c-clothes at all...",
-				"H-how did you get into my b-belly so... easily? M-my navel?"
+				"我-我不知道... 你-你为何要进-进我... 我的肚-肚脐... 但我猜... 那-那并不重要啦...",
+				"又-又钻进我的肚-肚脐眼了？... 我-我应该考虑... 穿-穿更长更紧的衬衫或上衣了...",
+				"你-你是怎么这-这么轻松地... 进-进到我的肚子里了？肚-肚脐吗？"
 			],
 			[ // 75% - 100%
-				"Was my b-belly button... so a-appealing... t-that you had to j-jump in it?",
-				"I saw you s-staring... at my n-navel... I d-didn't think... y-you'd do t-this!",
-				"Did you r-really... p-push into my n-navel... You w-were so q-quick... The h-heck..."
+				"我-我的肚-肚脐眼... 有-有这么吸引人吗... 你就-就非得跳-跳进去？",
+				"我注意到你在盯-盯着我... 我的肚-肚脐看... 但-但我没想到... 你-你会这么做！",
+				"你-你居然真的... 真的是从我的肚-肚脐钻进去的... 动-动作真快... 见-见鬼..."
 			]
 		]
 	},
@@ -1633,24 +1633,24 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"W-what!? D-did you just... shove y-yourself... up m-my... my butt!?",
-				"I-I-I... I was j-just picking s-something up... I d-didn't think you'd j-jump in my r-rear!",
-				"I t-turn for just a m-moment... and someone j-just slides... t-themselves up my b-butt..."
+				"什-什么!？你-你刚刚居然... 把-把你自己塞-塞进了... 我-我的... 我的屁股!？",
+				"我-我-我... 我刚才只-只是弯腰捡-捡了下东西... 我-我没料到你会钻-钻入我的后-后穴！",
+				"我-我只是转了个身... 然-然后就有人滑... 滑进了我的屁-屁股里..."
 			],
 			[ // 25% - 50%
-				"W-what was... t-that feeling... in my b-butt... Did s-someone just... o-oh.....",
-				"This is... a-an unexpected... e-event... with y-you pushing... y-yourself up my b-butt...",
-				"I s-should have k-known... with y-you staring... at my b-back door... t-that you'd d-do this..."
+				"刚-刚刚... 我-我的屁股... 是什么感-感觉... 不会是有-有人... 哦-喔.....",
+				"这可真是个... 让我意-意料之外的... 情-情况... 你-你把你自己... 挤-挤进了我的屁-屁股...",
+				"我-我就该意识到... 当你-你盯着我... 我的后-后门的时候... 你-你就在想着这-这么做了..."
 			],
 			[ // 50% - 75%
-				"Ah! ...H-how bold of y-you... to just i-insert yourself... in my r-rear... so s-suddenly...",
-				"W-woah! Did you r-really... j-just sneak into m-my... b-bottom?... How uh... i-interesting...",
-				"O-oh! You s-slipped in... my b-butt so s-suddenly... T-though it's not... e-entirely unpleasant y-you did..."
+				"啊！...你-你怎么这么大胆... 突-突然一头... 直接插-插入了我... 我的后-后穴里...",
+				"唔-沃哇！你刚才居-居然... 偷偷潜入了我-我的... 下-下面那里？... 这额... 真-真有趣...",
+				"哦-哦！你突-突然就滑进了... 我-我的屁股... 尽-尽管...这感觉... 不-不算太糟糕..."
 			],
 			[ // 75% - 100%
-				"Emmphf... T-that felt... g-good... in my r-rear... so s-sudden... but n-nice... Thanks, I t-think?",
-				"Oooh! All I d-did... was w-wiggle my b-butt a little... I didn't t-think you'd c-come in... but it felt n-nice...",
-				"Oh my! You r-really... just went i-into... my b-booty... It sh-shouldn't feel so n-nice... D-darn it..."
+				"啊额姆姆呋呼... 这-这感觉... 爽-爽... 我的后-后穴... 突-突然就被... 不过好-好棒... 或-或许，谢了？",
+				"哦哦喔！我刚才只-只是... 稍稍晃-晃了晃我的屁-屁股... 我-我没想到你就钻-钻进去了... 但感觉好-好棒...",
+				"哦我的老天！你-你真的... 进到了我-我的... 臀里面了... 不会吧... 怎么-怎么会感觉这么爽..."
 			]
 		]
 	},
@@ -1658,24 +1658,24 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"D-did you... j-just go... right up my s-s-snatch!?",
-				"I-I can't believe... y-you went and shoved y-yourself... into my w-womb...",
-				"W-what the h-heck... Why'd you j-just... s-slide into my vag?"
+				"你-你刚刚... 直-直接就... 就一头顶进我的缝-缝-缝里面了？",
+				"我-我真不敢相信... 你-你把你自己... 猛的一下塞进我-我的子宫了...",
+				"什-什么鬼... 为什么你就-就... 直接滑-滑进我的阴道了？"
 			],
 			[ // 25% - 50%
-				"W-well... I didn't e-expect... someone to i-invade... my w-womb today...",
-				"Throwing y-yourself... into my f-folds... is q-quite a way... to say h-hello...",
-				"This m-might be m-my fault... for n-not better p-protecting... my p-private l-lips..."
+				"好-好吧... 我-我没料到... 今天有人会侵-侵入... 我-我的子宫...",
+				"直-直接一头扎进我... 我的褶-褶页... 真是个特-特别的... 打-打招呼的方式...",
+				"或-或许真是我-我的不对... 我-我该保护好我的隐-隐私部位... 我-我可怜的阴-阴唇..."
 			],
 			[ // 50% - 75%
-				"You w-went in... my w-womb... so u-unexpectedly... yet i-it feels... n-nice...",
-				"C-caught me off g-guard... w-with you d-diving into my s-snatch... b-but it's a-alright...",
-				"W-wow... you're so b-bold... to just p-plunge... into my f-folds... but I d-don't mind i-it..."
+				"我-我真没料到... 你-你直接钻-钻入了我... 我的子-子宫... 但这-这样感觉... 好-好棒...",
+				"你-你就这样钻-钻进了我的缝-缝里面... 真-真让我措-措手不及... 但没-没关系的...",
+				"哇-哇啊... 你可真-真大胆... 直接一头猛插-插... 进了我的褶-褶页里... 但我并-并不是那么介意..."
 			],
 			[ // 75% - 100%
-				"I w-was so w-wet... you s-slipped into my w-womb... so e-easily.. after p-pushing in...",
-				"Why'd y-you just... d-dive into my s-snatch... Is it b-because... you s-saw how h-horny I was?",
-				"Even t-though... you p-popped in my v-vag... u-uninvited... I'll g-give you a p-pass... since you f-feel so g-good..."
+				"我-我下面湿-湿透了... 你-你头顶着洞口... 轻轻一推-推... 就直接滑-滑进我的子-子宫了...",
+				"为-为什么你-你突然... 一头扎进我-我的小穴... 是-是因为... 你-你看见我下面滴-滴的水了？",
+				"虽-虽然... 你一声不吭... 就钻-钻入了我的洞-洞洞... 但你感-感觉好-好棒... 我当-当然很乐意..."
 			]
 		]
 	},
@@ -1683,24 +1683,24 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"You a-aimed... r-right for my n-nipple... and g-got in... w-weh!",
-				"H-how sudden... You j-just... w-went into my r-rack... like t-that...",
-				"When y-you were... r-running at me... I d-didn't think... y-you'd jump i-into my b-booby..."
+				"你瞅-瞅准了... 我-我的乳头... 然后钻-钻进去了... 唔-唔呜！",
+				"发-发生了什么... 你就-就... 像那样进-进到了我的奶子里...",
+				"当-当你奔... 奔向我的时候... 我-我真没料到... 你-你会扑进我-我的乳房里..."
 			],
 			[ // 25% - 50%
-				"D-did you really... j-just enter my b-boobs... with b-barely any w-warning?",
-				"I-I want to k-know... w-what made you c-could j-just... s-shove yourself in... my r-rack?",
-				"I s-saw you s-staring... at my b-boobs... but I d-didn't know... you w-wanted to be so c-close..."
+				"你-你真的... 一点预-预兆都没有... 就-就钻进我的乳房里？",
+				"我-我想知道... 你-你怎么能... 你是怎么就直-直接把你自己塞进我... 我的奶-奶子里？",
+				"我-我注意到你盯-盯着... 我的波-波波很久了... 但我不-不知道... 你会想-想靠的这么近..."
 			],
 			[ // 50% - 75%
-				"Is h-hopping into my j-jugs... how you g-great someone?... It's n-not uh... an e-entirely bad w-way to d-do so...",
-				"I can't b-believe... you e-entered my b-breasts... not t-that... I d-dislike i-it...",
-				"I-interesting... t-that you w-went and uh... i-inserted yourself... i-into my rack... G-get... c-comfy, I guess?"
+				"你-你是通过跳-跳进我的包-包子里... 来-来打招呼的吗？... 这-这额... 不-不算是特别坏的方-方式...",
+				"我真不敢相-相信... 你进-进到了我的胸-胸里面... 不-不是... 我没-没说不喜欢...",
+				"我-我挺好奇... 把你自己塞... 塞进我-我的奶子里... 会-会... 很舒服，是这样的吗？"
 			],
 			[ // 75% - 100%
-				"I m-might be upset... at y-your invasion of my b-boobs... if I w-wasn't... so n-needy right n-now...",
-				"Did you j-just... jump i-into my b-breast?... I s-suppose I'm f-flattered... so just w-wiggle for me...",
-				"You j-just... d-did that... to my r-rack... b-but I t-think... I can w-work with t-this.. so y-yeah..."
+				"我-我本会因你侵... 侵入我的咪咪而苦恼的... 如果我-我不是... 像现在这样很想要...",
+				"你直-直接... 扑-扑进了我的巨-巨乳里？... 可能我-我有点受-受宠若惊... 那就在里面多-多摇一摇...",
+				"你-你刚才... 钻-钻进了我的奶-奶子里... 但-但我觉-觉得... 我能挺-挺得住... 噢好-好耶..."
 			]
 		]
 	},
@@ -1708,35 +1708,35 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hweh... I-I can't believe someone just... dived in my cock...",
-				"A-ah! Y-you know y-you should ask first! Hufff...",
-				"Ahhh! Y-you just! Hufff... M-maybe I should wear a belt to stop this from happening..."
+				"呜啊... 我-我没料到有人直接... 钻-钻进了我的阴茎...",
+				"啊呀！你-你知道你你应该先问一句的！呼唔...",
+				"啊啊！你-你竟然！呼呼... 或-或许套套也可以拿来防范这种情况..."
 			],
 			[ // 25% - 50%
-				"MMM! T-that's! That's... hufff.. T-that was really hot, actually...",
-				"Aghhh! Hufff... I-is my cock really that inviting? T-that you just dive on in?!",
-				"Ahhhaaa~ Ffff... I'm n-not complaining but... i-isn't that a bit too f-forward?"
+				"姆姆姆！这-这这这！这... 呼呼... 不-不得不说，这样还挺性感的...",
+				"啊噶！呼呼... 我-我的阴茎有这么吸引人吗？你-你就这样直接钻进去了？",
+				"啊啊啊~ 呼... 我-我无意抱怨但... 这样未免有点太唐突了？"
 			],
 			[ // 50% - 75%
-				"HHHAaaa~ T-this is so sudden! B-but... so... exciting! Haa~",
-				"Hwehhh... W-was my boner t-that visible!? I-I can't believe you just did that!",
-				"Hghff! I... I-I didn't! I was t-trying to hide it! I-I g-guess I gotta deal with you squirming in my b-boner now!"
+				"额啊啊啊~ 你-你突然这样...！但-但... 这样还挺-挺刺激！哈啊~",
+				"嗯唔啊... 我-我勃起有-有那么明显吗!？我不敢相信你就这么钻进来了！",
+				"呃啊！我... 我不是故意的！我-我尽力去掩饰了！别-不要在我的鸡巴里蠕动啊！"
 			],
 			[ // 75% - 100%
-				"MMMM! I-I just... I couldn't hide it. I was too hard! A-and now you squirming in there...! Haaagh, I'm probably gonna cum!",
-				"Meep! FFFfff... I was... j-just about to cum! A-and now y-you're squirming around in there!",
-				"Hhhhhhuuufff! A-ahhh... I-I g-guess t-that's ok! A-as long as you h-help me cum! G-gosh, I'm so close..."
+				"唔唔唔呜！我-我根本... 根本藏不住了。我的基霸又粗又硬！你还一直在里面蠕动...！啊啊哈，我随时都可能会喷射！",
+				"咪啊！吁吁... 我... 我就要射了！继续在里面扭动不要停，直到我把你射出去！",
+				"哈呼呼呼！啊-啊哈... 我-我想这-这样就行！你-你再帮我在-在里面继续动！天-天哈，我快要去了..."
 			]
 		]
 	},
 	"oralVoreLetoutForced": [
-		"O-oh ok...",
-		"M-maybe you'll come back later?",
-		"Ah... I-I was rather enjoying that...",
-		"M-maybe you can stay longer next time...",
+		"噢-哦，好吧... 你真美味...",
+		"或-或许等过一会，我们再来做一轮？",
+		"啊... 我-我其实还挺享受这样的...",
+		"也-也许下次你可以在我的胃-胃里多待一会...",
 		[
 			"<keysmash>",
-			"*Surprised Noises*"
+			"*发出惊讶的声音*"
 		]
 	],
 	"tailVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForced",
@@ -1744,35 +1744,35 @@
 	"navelVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:navelVoreLetoutForced",
 	"analVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutForced",
 	"unbirthVoreLetoutForced": [
-		"H-happy b-birthday!\n...\nS-sorry it just seemed funny...",
-		"Ah... o-oh... I g-guess you wanted out...",
-		"I-I hope you uh... consider going back in... I liked it...",
-		"I-I thought you were comfortable in there...",
-		"O-oh... alright..."
+		"祝-祝你生日快乐！\n...\n对-对不起，我觉得挺有意思的...",
+		"啊... 喔哦... 我-我猜你想出来透透气...",
+		"可-可以的话我额... 希望你能考虑一下我们再接着做\n我还挺喜欢这种感觉...",
+		"我-我以为你在里面会很舒服...还是说...",
+		"噢-哦... 好吧... 至少出来的时候我的小-小穴很舒服..."
 	],
 	"breastVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForced",
 	"cockVoreLetoutForced": [
 		[
 			"<keysmash>",
-			"*Horny Noise*"
+			"*淫荡的声音*"
 		],
-		"A-ahhhh~ Y-you're squirming so much!",
-		"Fffff~ That feels so g-good... m-maybe get back in?",
-		"Ahhh~"
+		"啊-啊啊啊~ 你-你动的太快了！我-我忍不住就射了！",
+		"吁吁~ 这感觉真-真赞... 你-你能钻进来我们再-再来一轮吗？",
+		"哈-啊~ 玩的我好爽..."
 	],
 	"struggleBelly": "/npcs/sbq/dialogue/default.dialogue:struggleBelly",
 	"struggleWomb": "/npcs/sbq/dialogue/default.dialogue:struggleWomb",
 	"struggleTail": "/npcs/sbq/dialogue/default.dialogue:struggleTail",
 	"struggleBreasts": [
 		"<keysmash>",
-		"Oh g-goodness... uhm!",
-		"Hhhh... They're so b-big with you...!",
-		"If you k-keep wiggling, people are g-gonna see...!"
+		"哦我-我的咪咪啊... 啊哈！",
+		"哈呵... 你把我的巨-巨乳撑的好大...！",
+		"要-要是你继续这样，别人会看到我摇-摇晃的奶子的...！"
 	],
 	"struggleBreastsShirt": [
-		"<keysmash> Oh no, my shirt...!",
-		"Stop, you're g-gonna make my top slip off...!",
-		"Ack, you nearly popped out of my b-bra...!"
+		"<keysmash> 哦不，我的衣服要...！",
+		"停一停，你就要-要把我的上衣晃掉了...！",
+		"啊呀，你都把我的胸-胸罩给撑大了...！"
 	],
 	"strugglePussy": "/npcs/sbq/dialogue/default.dialogue:strugglePussy",
 	"struggleCock": "/npcs/sbq/dialogue/default.dialogue:struggleCock",
@@ -1783,8 +1783,8 @@
 	"struggleCumHeal": ":struggleAcidHeal",
 	"struggleMilkHeal": [
 		[
-			"Uhm... I hope it feels g-good in there...!",
-			"J-just... relax, alright? You're s-safe..."
+			"呃... 我希望你挣扎是想表达呆-呆在里面很舒服...！",
+			"放-放轻松好不好？我没在消化你，这-这里面很安全..."
 		]
 	],
 	"struggleMiscHeal": ":struggleAcidHeal",
@@ -1797,9 +1797,9 @@
 	"struggleFemcumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigest",
 	"struggleFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigestImmune",
 	"struggleMilkDigest": [
-		"Oh g-goodness, I feel so f-full...",
-		"Was th-that... sloshing?  ...<keysmash>",
-		"I'm g-gonna be so leaky...!"
+		"噢妈-妈妈咪呀，我感觉-我的奶水前所未有的足...",
+		"唉我听-听到了什-我的乳汁溅出来了？<keysmash>",
+		"我的乳-乳汁很快就会漏的到处都是...！"
 	],
 	"struggleMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestBreastsShirt",
 	"struggleMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestImmune",
@@ -1820,15 +1820,15 @@
 	"strugglingWomb": "/npcs/sbq/dialogue/default.dialogue:strugglingWomb",
 	"strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
 	"strugglingBreasts": [
-		"It's so... s-soft...",
-		"S-so warm...",
-		"Gosh... b-bouncy...",
-		"Oh... I c-can hear your heartbeat...",
+		"这-这里面可真软真舒服...",
+		"好-好暖和... 好棒...",
+		"天哪... 好-好有弹性...",
+		"哦... 在-在这能清晰地听见你的心跳...",
 		"<keysmash>"
 	],
 	"strugglingBreastsShirt": [
-		"<keysmash>... So t-tight...",
-		"Hfff... S-so snug..."
+		"<keysmash>... 勒-勒的好紧...",
+		"呼呼... 太-太紧了..."
 	],
 	"strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
 	"strugglingCock": "/npcs/sbq/dialogue/default.dialogue:strugglingCock",
@@ -1838,9 +1838,9 @@
 	"strugglingFemcumHeal": ":strugglingAcidHeal",
 	"strugglingCumHeal": ":strugglingAcidHeal",
 	"strugglingMilkHeal": [
-		"A m-milk bath, here... heck...!",
-		"It feels so... good... <keysmash>",
-		"So c-comfy..."
+		"我被泡-泡在乳汁中，这奶香-天哪...！",
+		"这奶浴实在是... 太-太棒了... <keysmash>",
+		"温暖的乳汁，好-好舒服..."
 	],
 	"strugglingMiscHeal": ":strugglingAcidHeal",
 	"strugglingCompression": "/npcs/sbq/dialogue/default.dialogue:strugglingCompression",
@@ -1852,10 +1852,10 @@
 	"strugglingFemcumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingFemcumDigest",
 	"strugglingFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingFemcumDigestImmune",
 	"strugglingMilkDigest": [
-		"Oh heck... I'm turning into m-milk...!",
-		"You... want to know what I t-taste like?  ...<keysmash>",
-		" ...I taste... g-good...",
-		"Ohgosh you're m-making me into milk...!"
+		"噢老天... 再-再这样下去我就彻底变成一滩乳-乳汁了...！",
+		"你... 你想知道牛-牛奶味的我是什么样的？...<keysmash>",
+		" ...我...我的味道... 尝-尝起来还不错...",
+		"噢天哈你-你就要把我榨成奶水了...！"
 	],
 	"strugglingMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestBreastsShirt",
 	"strugglingMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestImmune",
@@ -1885,53 +1885,53 @@
 	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
 	// Unused Dialogue
 	"digestFull": [
-		"A-are y-you sure? m-my prey is melting in there...",
-		"Uhm... a-after my last meal is more manageable...",
-		"Y-you want to be p-pudge too?",
-		"I-Uhm... uhm... uhm... s-soon yeah... soon..."
+		"你-你真的的确-确定吗？有-有猎物还在里面正消化呢...",
+		"额姆... 等-等我上一顿饭被处理的差不多之后... 再说...",
+		"你-你也想像他们一样变成我身-身上的脂肪？",
+		"我-呃姆... 额姆... 额呜... 过-过会... 嗯... 过会..."
 	],
 	"oralVoreCompressionFull": [
-		"I um... need a moment to make room, it won't be long i t-think...",
-		"Let my belly c-compress some more... then I could f-fit you in...",
-		"Don't worry uh... my p-prey is getting more snug... you will fit soon...",
-		"C-can you come back later?... after my belly c-contents are s-squeezed down?"
+		"我额... 等一等我挤出点空间，我-我觉得应该会很快...",
+		"让-让我的胃收缩压实里面的食物... 这样我就可以把-把你也塞进去了...",
+		"不要担心呃... 我正将猎-猎物挤成一小只... 很快就能轮到你了...",
+		"你-你能过会再来问一问我么?... 等我把肚子里的东-东西压-压缩一下？"
 	],
 	"tailVoreCompressionFull": [
-		"I um... still have p-prey compressing in my t-tail... maybe later?...",
-		"My t-tail is busy... making it's s-snacks fit better... takes time..."
+		"我额... 得把我尾巴里面的猎物挤紧一些... 或许稍后再来?...",
+		"我的尾-尾巴正忙... 正忙着把它的零-零食们堆的更紧凑些... 得要点时间..."
 	],
 	"navelVoreCompressionFull": [
-		"Um... give me awhile... to squeeze down my belly filler...",
-		"Could you uh... come back later... when my prey is more... compact?..."
+		"呃姆... 给我点时间... 让我把处-处理养分的地方... 挤一挤...",
+		"你可不可以额... 稍后再来... 等我的猎物更... 更紧凑些?..."
 	],
 	"absorbVoreCompressionFull": [
-		"I-I uh... am f-full... but I'm c-compressing my guests... so maybe not f-full soon...",
-		"Compacting p-prey right now... very f-full... give me time... m-maybe?"
+		"我-我呃... 塞-塞不下了... 但我正让身体内的客人们挤紧一些... 所以过会就-就有空间了...",
+		"正把猎-猎物们弄得紧凑些... 里面太-太满了... 给我点时间... 好-好吗？"
 	],
 	"cockVoreDigestFull": [
-		"Oh uhm... y-you won't fit in there... t-though it does seem like they're... melting..."
+		"哦额姆... 里-里面没有地方能塞你了... 虽然看起来他们... 正在一点一点被溶解..."
 	],
 	"cockVoreCompressionFull": [
-		"Ahhh... the h-harder I get... the more they get squished... m-maybe then you'll fit in...?"
+		"啊啊哈... 我-我的那里越硬... 他-他们就会被挤得越厉害... 或-或许稍后你也会进去体验一下...?"
 	],
 	"unbirthVoreDigestFull": [
-		"N-no more space... u-until they're melted into juices..."
+		"没-没有空间了... 等-等我把他们溶-溶化成汁水..."
 	],
 	"unbirthVoreCompressionFull": [
-		"I-I'm trying to squeeze em down... t-then maybe you can fit too..."
+		"我-我正试着把他们压紧实... 之后你也可以进去陪陪他们..."
 	],
 	"breastVoreDigestFull": [
-		"Uhm... m-maybe... I-I just... need to go get milked..."
+		"额唔... 或-或许... 我-我只是... 需要找谁来给我挤挤奶..."
 	],
 	"breastVoreCompressionFull": [
-		"A-ah... uhm... S-soon, I just gotta... squeeze my boobs a little"
+		"啊-啊... 额姆... 很-很快，我-我只需要... 多揉一揉我的奶子。"
 	],
 	"struggleLetoutTransforming": {
 		"percentage": "transforming",
 		"pools": [
 			[
-				"O-oh y-you didn't want to change?",
-				"Do... do you not want to be like me?"
+				"哦-喔你-你不想被同化成我的样子么？",
+				"你... 你并不想变得和我一样吗？"
 			]
 		],
 		"full": [
@@ -1939,114 +1939,114 @@
 		]
 	},
 	"struggleLetoutDigested": [
-		"H-here, let me reform you real quick.",
-		"I...uhm... melted you... so I gotta reform you.",
-		"I-I hope you had fun being a part of me...",
-		"I-I don't think I can keep you forever..."
+		"很-很快，我这就把你变回去。",
+		"我...额姆... 把你给消化掉了... 所以让我先复-复原你。",
+		"我-我希望你会喜欢这样成为我-我的一部分...",
+		"我-我也觉得不能就这么永远占有着你..."
 	],
 	"oralVoreLetoutForcedDigestImmune": [
-		"O-oh... s-sorry about that... you seem to be fine though.",
-		"I... I just really needed to eat... but you just weren't melting...",
-		"W-why couldn't you just let yourself melt...",
-		"Y-you know I need food, right?"
+		"喔-哦... 对-对不起把你吃掉了... 不过你看起来没什么大碍。",
+		"我... 我真的很需要进食... 但你根本消化不掉...",
+		"为-为什么你就不能让自己被溶-溶化掉呢...",
+		"你-你知道我很需要食物，对吧？"
 	],
 	"oralVoreLetoutForcedDigest": [
-		"O-oh... s-sorry about that.",
-		"I... I just really needed to eat...",
-		"W-why couldn't you just finish melting...",
-		"Y-you know I need food, right?"
+		"喔-哦... 很-很抱歉我对你这么做了。",
+		"我... 我只是... 我真的需要进食...",
+		"你-你就不能乖乖地呆在里面被消-消化掉么...",
+		"我-我需要食物，不是么？虽-虽然你就是那个食-食物..."
 	],
 	"oralVoreLetoutForcedHeal": [
-		"U-uhm... I-it might be safer inside me...",
-		"M-maybe getting out isn't the best idea...?",
-		"I-I really think it'd be better if you stayed inside...",
-		"W-wait! What if you're not healed yet?!"
+		"额-额姆... 或-或许我的肚子里面更安全...",
+		"也-也许这样爬...爬出来并不是个好主意...？",
+		"我-我真的觉得你还是待-待在里面更好...",
+		"等-等一下！万一我还没治好你呢?！"
 	],
 	"strugglingMilkDigestShirt": [
-		"You're g-gonna leak me into your shirt...!"
+		"你-你就要把化成奶水的我漏到衬衫上了...！"
 	],
 	"analVoreUnpromptedWilling": [
-		"I-it's so warm... just like I thought it would be in your b-butt...",
-		"I'm really in your r-rear... hidden away from others... so nice..."
+		"真-真暖和... 呆在这里面比贴在你的屁屁上还要暖和...",
+		"我真的进到你的后门里了... 能避开其他人视线的感觉... 真好..."
 	],
 	"hungryNo": [
-		"I couldn't...",
-		"W-wow, okay, uhm...\nI'm not... that hungry?",
+		"我... 我-我不太行...",
+		"哇-哦，这，呃姆...\n我还不是... 那么饿？",
 		"<keysmash>"
 	],
 	"hungryFull": [
-		"<keysmash>\nI already ate enough...",
-		"ohgoshohgoshohgosh-",
-		"Too...\nUuuurhp!\nFull...",
-		"Bwuuuuurph!\nI- uh... <keysmash>"
+		"<keysmash>\n我真的吃不下了...",
+		"唔额老天我的肚子呃姆-",
+		"太...\n嗝嗝嗝嗝唔！\n太撑了...",
+		"咕嗝嗝嗝额！\n我-呃... <keysmash>"
 	],
 	"hungryDigestFull": [
-		"T-too... Soon...",
-		"A-already..?",
+		"好-好撑... 等我消-消消食...",
+		"这-这就又有人想被吃了..？",
 		"<keysmash>",
-		"The last ones are still...\nM-Melting...",
-		"I-I don't think you'd wa-AUUUUURP-\n...To join them...",
-		"I-I'm already going to be fat..."
+		"我胃里的那些食物们...\n还-还没消化完...",
+		"我-我不觉得你会-额嗝嗝嗝噜-\n...想在这个时候加入他们...",
+		"我-我感觉我已经开始变胖了..."
 	],
 	"hungryOtherFull": [
-		"<keysmash>\nI'm already full enough...",
-		"ohgoshohgoshohgosh-",
-		"Too... Full...",
-		"I- uh... <keysmash>"
+		"<keysmash>\n我的肚子已经塞满了...",
+		"哦啊呜啊好撑啊-",
+		"好... 好饱...",
+		"我-额... <keysmash>"
 	],
 	"struggleLetoutTransformed": [
-		"Hehe... now you're like me.",
-		"I-I t-think I like the new look."
+		"嘿嘿... 你现在长得可真像我。",
+		"我-我挺喜欢你现在的新样貌。"
 	],
 	"struggleLetoutEggify": [
-		"S-so you don't want to be in an egg?",
-		"S-so you don't like eggs?"
+		"你-你并不想被塞进个蛋-蛋里面吗？",
+		"所-所以你并不喜欢被变-变成蛋？"
 	],
 	"oralVoreLetoutRequestedHeal": [
-		"S-sorry I-I just want to check if it was working...",
-		"I-I'm not sure I can keep you in there...",
-		"W-what if my belly isn't healing you? I gotta get you out!",
-		"I uhm... uhm... yeah..."
+		"对-对不起我-我只是想试试我的治愈胃液...",
+		"或-或许我好心办坏事了...",
+		"我-我的胃不会没治疗反而在消-消化你？我得赶紧把你吐出来！",
+		"我额呜... 额啊... 做的不好吗？好吧..."
 	],
 	"oralVoreLetoutRequestedDigest": [
-		"A-actually... you've p-probably spent enough time in there.",
-		"I-I'm not r-really hungry anymore.",
-		"P-probably best to get you out of there...",
-		"A-are you ok?"
+		"其-其实... 你也已经在我胃里呆了很长时间了。",
+		"我-我已经不饿了... 谢-谢谢！",
+		"最-最好在我的胃对你做太过分的事之前把你吐出来...",
+		"你-你还好吗？我-我的胃-胃液没有伤到你吧..."
 	],
 	"oralVoreLetoutRequestedDigestImmune": [
-		"I-its like you're not melting at all...",
-		"I-I'm still hungry... but you're not really helping with that.",
-		"P-probably best to get you out of there...",
-		"Y-you seem entirely untouched... how?"
+		"似-似乎你完全没有开始溶-溶解的迹象...",
+		"我-我还是很饿... 但你在-在里面一点忙都没帮上。",
+		"该是时候放你出来了... 希-希望你在里面玩的开心...",
+		"看-看起来胃-胃酸对你一点效果都没有... 怎么会这样？"
 	],
 	"oralVoreLetoutRequestedTransforming": [
-		"M-maybe I shouldn't change you.",
-		"M-maybe I should stop this."
+		"或-或许我不该同-同化你。",
+		"也-也许我真的得停止这么做。"
 	],
 	"oralVoreLetoutRequestedEgged": [
-		"P-probably time to get this egg out."
+		"或-或许也是时候把你这颗蛋弄出来了。"
 	],
 	"unbirthVoreLetoutRequestedEgged": [
-		"W-well, time to lay an egg."
+		"好-好啦，该是时候下个蛋了。"
 	],
 	"cockVoreLetoutForcedTransformed": [
-		"O-oohhh that felt good... w-where'd you go?",
+		"喔-喔哦哦噢这感觉真棒... 等-等等你去哪了？",
 		[
-			"Ahhhhh~ ...O-oh I turned you... into... <keysmash>",
-			"Ahhhhh~ ...O-oh I turned you... into... *Flustered Noises*"
+			"啊哈啊~ ...噢哦我-我把你变... 变成了... <keysmash>",
+			"唔呜...难-难道这一滩白色的... 是-是你... *手足无措地嘀咕*"
 		]
 	],
 	"cockVoreLetoutForcedTransformingImmune": [
-		"W-was something happening in there?",
-		"Y-you look a bit more uh... drippy than normal.",
-		"Y-you seem a bit more... white... than normal."
+		"在-在里面有-有发生什么吗？",
+		"你-你被我给弄得呃... 黏-黏糊糊的。",
+		"看-看起来你全身裹-裹满了... 我... 我的白色..."
 	],
 	"struggling": [
 		[
-			"I-I'm stuck here aren't I?",
-			"I-is there even a way out?",
-			"T-trapped..."
+			"你-你把我困在里面了不-不是吗？",
+			"我-我还有机会能出去吗？",
+			"困-困住了... 动弹不得..."
 		]
 	]
 }

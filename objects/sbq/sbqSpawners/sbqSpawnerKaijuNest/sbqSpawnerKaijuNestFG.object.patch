@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "怪兽巢穴",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "由脱落的羽毛和绒毛编织成的巢穴。",
+    "path": "/description"
+  }
+]

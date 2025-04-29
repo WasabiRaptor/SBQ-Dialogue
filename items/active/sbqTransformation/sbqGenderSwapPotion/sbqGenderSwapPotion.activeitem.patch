@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种可以改变性别的药水。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "性别互换药水"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "药水"
+  }
+]

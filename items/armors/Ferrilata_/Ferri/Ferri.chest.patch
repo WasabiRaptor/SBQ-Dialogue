@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一件内衬蓬松的皮夹克，上面有补丁。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "飞行员夹克",
+    "path": "/shortdescription"
+  }
+]

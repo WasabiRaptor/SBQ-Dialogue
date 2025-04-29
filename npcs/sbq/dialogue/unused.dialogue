@@ -1,248 +1,247 @@
 {
-	"oralVoreDigestFull": [
-		"Maybe after I melt down the last meal",
-		"Urrrrp!\n Won't be too long until I can fit you.",
-		"I've eaten too much already... but I'll probably have room soon.",
-		"I'll have to finish processing this meal first."
-	],
-	"oralVoreCompressionFull": [
-		"Just give my prey some time to fit more snugly in, then I'll fit you in.",
-		"I'll swallow you down after my current snack gets a bit more compact",
-		"I'm pretty full right now, but my meal is getting downsized, so you'll fit soon!",
-		"Just give me a sec to squish my friend here down, and then you'll be next!"
-	],
-	"analVoreDigestFull": [
-		"Wait your turn! Ill get to you soon.",
-		"Just need to make some room for ya. Do you mind waiting a bit?"
-	],
-	"analVoreCompressionFull": [
-		"I got my back door busy with squeezing a guest down, come back later maybe.",
-		"I'm squeezing as hard as I can, that should pack em down enough to fit you in a bit."
-	],
-	"tailVoreDigestFull": [
-		"My tail is working it's prey down at the moment, come back later!",
-		"My tail's full, but once it's prey melts a bit, there'll be room!"
-	],
-	"tailVoreCompressionFull": [
-		"My tail is full, but it's prey is getting compacted, so there'll be room soon!",
-		"Once my tail has squeeze down it's current guest, I might squeeze you in."
-	],
-	"navelVoreDigestFull": [
-		"I might be able to get you in my navel after I've softened this one up.",
-		"My navel is closed until my current belly filler is digested a bit."
-	],
-	"navelVoreCompressionFull": [
-		"I'm working down my prey as is, I can get you in my navel in a bit maybe.",
-		"Once my current guest is a bit more compact, I might have room for you."
-	],
-	"absorbVoreDigestFull": [
-		"My form is at max, but once I've melted some guest down, I might take ya.",
-		"Let my form deal with it's current meals, then we'll talk."
-	],
-	"absorbVoreCompressionFull": [
-		"My form is at cap, but soon there might be room after I get some guests compacted.",
-		"Give my body time to down size it's prey, then see if there's room for you."
-	],
-	"cockVoreDigestFull": [
-		"Ah... give me a moment to melt my toys into cum, then I might be able to fit you."
-	],
-	"cockVoreCompressionFull": [
-		"Oh I'm squeezing them all down to a smaller size as I get harder, then maybe you'll fit in with them~"
-	],
-	"unbirthVoreDigestFull": [
-		"I may be full at the moment, but they're melting down into juices... Check back soon~"
-	],
-	"unbirthVoreCompressionFull": [
-		"A bit full, but give me a moment or two to pack them down a bit."
-	],
-	"breastVoreDigestFull": [
-		"They're already occupied, but it won't be long before I finish churning them into milk..."
-	],
-	"breastVoreCompressionFull": [
-		"I just gotta... squeeze em in my tits some more, then maybe you'll fit too..."
-	],
-	"full": [
-		"I'm a bit too full...",
-		"My body can't stretch any further...",
-		"I've been filled too much already...",
-		"I would... but I'm too full..."
-	],
-	"struggleTransformingImmune": [
-		"You don't want to change?",
-		"Come on, don't you want to be different?",
-		"Hm... You should be changing..."
-	],
-	"struggleEggifyImmune": [
-		"You should be in an egg by now. How are you still struggling?!",
-		"I'd think you'd be in a egg by now, yet you're still so active!",
-		"You must be resisting so much that it's keeping the shell from forming...",
-		"Hm... Why won't the shell form?"
-	],
-
-	"friendlyNo": [
-		"Sorry, I'm not feeling it right now.",
-		"I'm not hungry, maybe later though?"
-	],
-	"friendlyFull": [
-		"Oh sorry, I've already got a pal with me.",
-		"Sorry, I'm already full.\nI'm sure I'll be free soon though!"
-	],
-	"friendlyDigestFull": [
-		"Can you give me a few minutes?\nI need to tuck a friend away first.",
-		"Gotta tuck this cutie onto my hips.\nThen you can be next."
-	],
-	"frientlyFull": [
-		"Oh sorry, I've already got a pal with me.",
-		"Sorry, I'm already full.\nI'm sure I'll be free soon though!"
-	],
-	"friendlyTooBig": [
-		"Oh wow, you're big!",
-		"I couldn't even hope to fit you!"
-	],
-	"hungryTooBig": [
-		"That's too big even for me!",
-		"I may be hungry but...\nWow, you're way too big."
-	],
-	"oralVoreFriendlyRequested": [
-		"Oh, of course!",
-		"I'm sure you'll fill me just right."
-	],
-	"oralVoreFriendlyRequestedAfter": [
-		"That was good...",
-		"You taste SO good!"
-	],
-	"oralVoreFriendlyNoPrompt": [ //blue here, doing some minor edits to exiting 'NoPrompt' lines3
-		"I need something in me, Sorry about this friend!",
-		"Don't worry, I won't hurt you. just hold still for me...",
-		"I must have you! I'll be really gentle though.",
-		"Don't be afraid! I'm just gonna get you real close to me... and my stomach..."
-	],
-	"oralVoreHungryRequested": [
-		"Didn't know the food here came to you!",
-		"Oh yes, I'm famished.",
-		"Free food? Why of course!"
-	],
-	"oralVoreHungryRequestedAfter": [
-		"Oh yeah, that hit the spot.",
-		"Mmmmmh, nothing like a good meal.",
-		"Urrrhp!"
-	],
-	"oralVoreHungryNoPrompt": [ //blue here, doing some minor edits to exiting 'NoPrompt' lines2
-		"I'm famished, come here.",
-		"Sorry but... Not sorry, get in.",
-		"Let me help you help me get fuller.",
-		"Tasty food shouldn't be walking around, let me fix that."
-	],
-	"hungryNo": [
-		"I'm not that kind of hungry right now.",
-		"I'm not sure you'd fill me."
-	],
-	"hungryFull": [
-		"I wish I could but...\nI'm already too full.",
-		"Can't fit any more..."
-	],
-	"oralVoreHungryFull": [
-		"I wish I could but- Bwuuurph!\n...too full...",
-		"I've already had my fill."
-	],
-	"oralVoreHungryDigestFull": [
-		"Give it a few minutes.\nThen we'll see if I'm still hungry.",
-		"Bwuuuurp!\nSoon...",
-		"Check in when this meal's finished."
-	],
-	"ballsInfuseRequested": [
-		"Oh, so you want to be my balls~?",
-		"You want to be swinging around between my legs~?"
-	],
-	"ballsInfuseRequestedAfter": [
-		"Hehe, there you go, hanging down from my crotch~ Right where you belong~",
-		"Usually friends are stored IN the balls... but I like this arrangement too~"
-	],
-	"ballsInfuseNoPrompt": [
-		"Hmmm~ I think you'd make a nice pair of balls~"
-	],
-	"ballsInfuseNoPromptAfter": [
-		"Perfect, you feel perfect hanging around down there~"
-	],
-	"bellyNoisyInfused": [
-		[
-			"(Just a grumbling belly~)",
-			"(Just your grumbling belly~)",
-			"(Just <entityname>'s grumbling belly~)",
-			"(Just a noisy belly~)",
-			"(Just your noisy belly~)",
-			"(Just <entityname>'s noisy belly~)"
-		]
-	],
-	"ballsInfused": [
-		"<slowlove>",
-		"<love>",
-		[
-			"<slowlove>(Ahh... I just feel so good...~)",
-			"<slowlove>(I belong here, don't I...~)",
-			"<slowlove>(I'm just your balls~)",
-			"<slowlove>(Ahh~ so full of cum sloshing around~)",
-			"<slowlove>(I'm just <entityname>'s balls~)",
-			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
-		]
-	],
-	"bellyNoisyInfusedOccupant": [
-		"Hehe, grumbling <entityName>?",
-		"Does my noisy belly want something~?"
-	],
-	"breastsSizeInfusedOccupant": [
-		[
-			"<love>I love how much bigger you make my boobs~",
-			"<love>I love how much bigger you make my boobs <entityName>~"
-		],
-		[
-			"<love>You're better as extra size for me~",
-			"<love>You're better as extra size for me <entityName>~"
-		]
-	],
-	"cockSizeInfusedOccupant": [
-		[
-			"<love>I love how much bigger you make my cock~",
-			"<love>I love how much bigger you make my cock <entityName>~"
-		],
-		[
-			"<love>You're better as extra size for me~",
-			"<love>You're better as extra size for me <entityName>~"
-		]
-	],
-	"ballsInfusedOccupant": [
-		[
-			"<love>Heh, I can feel you twitching down there~",
-			"<love>Heh, I can feel you twitching down there <entityName>~"
-		],
-		[
-			"<love>Are you enjoying your new purpose?~",
-			"<love>Are you enjoying your new purpose <entityName>?~"
-		],
-		[
-			"<love>Mmm, all that cum sloshing around down there~",
-			"<love>Mmm, all that cum sloshing around down there, you sure are enjoying yourself <entityName>~"
-		],
-		[
-			"<love>You're far more useful like this~",
-			"<love>You're far more useful like this <entityName>"
-		]
-	],
-	"ballsSizeInfusedOccupant": [
-		[
-			"<love>I love how much bigger you make my balls~",
-			"<love>I love how much bigger you make my balls <entityName>~"
-		],
-		[
-			"<love>You're better as extra size for me~",
-			"<love>You're better as extra size for me <entityName>~"
-		]
-	],
-	"bellyHungryInfused": [
-		[
-			"<slowlove>(Feeed meee~)",
-			"(Hungry...)"
-		]
-	]
+  "oralVoreDigestFull": [
+    "也许等我把上一顿消化完之后",
+    "嗝儿！\n 用不了多久我就能装下你了,",
+    "我已经吃得太多了…… 但也许很快就又有空间了,",
+    "我得先把这顿饭消化完,"
+  ],
+  "oralVoreCompressionFull": [
+    "给我的猎物点时间,让它能更贴合地待在里面,然后就能装下你了,",
+    "等我现在吃的东西再压实一点,就把你吞下去,",
+    "我现在挺饱的,但我吃的东西在变小,所以你很快就能装进来啦！",
+    "给我点时间把我这位朋友挤下去,然后就轮到你啦！"
+  ],
+  "analVoreDigestFull": [
+    "等着轮到你呢！ 我很快就会轮到你,",
+    "得给你腾点地方出来,你介意等一会儿吗？"
+  ],
+  "analVoreCompressionFull": [
+    "我后门正忙着把一位客人挤下去呢,要不晚点再来？",
+    "我正使劲儿挤呢,这样应该能把他们压实一点,过会儿就能装下你了,"
+  ],
+  "tailVoreDigestFull": [
+    "我尾巴这会儿正忙着把猎物往下送呢,过会儿再来！",
+    "我尾巴满了,但等猎物融化一点,就有空间啦！"
+  ],
+  "tailVoreCompressionFull": [
+    "我尾巴满了,但它的猎物正在被压实,所以很快就有空间啦！",
+    "等我尾巴把现在这位客人挤下去,也许就能把你挤进去,"
+  ],
+  "navelVoreDigestFull": [
+    "等我把这个软化一点,也许就能把你塞进肚脐里,",
+    "等我现在肚子里的东西消化一点,肚脐才会打开,"
+  ],
+  "navelVoreCompressionFull": [
+    "我正在把猎物往下送,也许过会儿就能把你塞进肚脐里,",
+    "等我现在这位客人再紧凑一点,也许就有空间给你了,"
+  ],
+  "absorbVoreDigestFull": [
+    "我的身体已经满负荷了,但等我把一些客人融化之后,也许就能接纳你,",
+    "先让我的身体处理一下现在的食物,然后咱们再谈,"
+  ],
+  "absorbVoreCompressionFull": [
+    "我的身体已经到极限了,但等我把一些客人压实之后,也许很快就有空间了,",
+    "给我的身体点时间把猎物变小,然后看看有没有空间给你,"
+  ],
+  "cockVoreDigestFull": [
+    "啊…… 给我点时间把我的玩具融化成精液,然后也许就能装下你了,"
+  ],
+  "cockVoreCompressionFull": [
+    "哦,我一边变硬一边把它们都挤成更小的尺寸,然后也许你就能和它们一起装进来啦～"
+  ],
+  "unbirthVoreDigestFull": [
+    "我现在可能已经满了,但他们正在融化成汁水…… 过会儿再来看看～"
+  ],
+  "unbirthVoreCompressionFull": [
+    "有点满了,但给我一两分钟把他们再压实一点,"
+  ],
+  "breastVoreDigestFull": [
+    "它们已经被占用了,但用不了多久我就能把他们搅成乳汁……"
+  ],
+  "breastVoreCompressionFull": [
+    "我只要…… 再把它们在我的胸脯里挤一挤,也许你也能挤进来……"
+  ],
+  "full": [
+    "我有点太撑了……",
+    "我的身体再也撑不下去了……",
+    "我已经被塞得太多了……",
+    "我想…… 但我太撑了……"
+  ],
+  "struggleTransformingImmune": [
+    "你不想改变吗？",
+    "来吧,你难道不想变得不一样吗？",
+    "嗯…… 你应该在发生变化才对……"
+  ],
+  "struggleEggifyImmune": [
+    "你现在应该在蛋里了,怎么还在挣扎？！",
+    "我还以为你现在已经在蛋里了,可你怎么还这么活跃！",
+    "你一定是抵抗得太厉害了,所以蛋壳才没法形成……",
+    "嗯…… 为什么蛋壳不形成呢？"
+  ],
+  "friendlyNo": [
+    "抱歉,我现在没这个心情,",
+    "我现在不饿,要不改天吧？"
+  ],
+  "friendlyFull": [
+    "哦,不好意思,我已经有朋友陪我了,",
+    "抱歉,我已经吃饱了,\n 不过我肯定很快就又有空啦！"
+  ],
+  "friendlyDigestFull": [
+    "你能给我几分钟吗？\n 我得先把一位朋友安置好,",
+    "得把这个小可爱塞到我肚子上,\n 然后就轮到你啦,"
+  ],
+  "frientlyFull": [
+    "哦,不好意思,我已经有朋友陪我了,",
+    "抱歉,我已经吃饱了,\n 不过我肯定很快就又有空啦！"
+  ],
+  "friendlyTooBig": [
+    "哦,哇,你可真大！",
+    "我根本就别指望能装下你！"
+  ],
+  "hungryTooBig": [
+    "就算是我,这也太大了！",
+    "我可能是饿了,但是……\n 哇,你实在是太大了,"
+  ],
+  "oralVoreFriendlyRequested": [
+    "哦,当然可以！",
+    "我肯定你会正好把我填满,"
+  ],
+  "oralVoreFriendlyRequestedAfter": [
+    "感觉不错……",
+    "你尝起来太美味了！"
+  ],
+  "oralVoreFriendlyNoPrompt": [
+    "我得吃点东西,朋友,不好意思啦！",
+    "别担心,我不会伤害你的, 就乖乖别动……",
+    "我必须得到你！ 不过我会很温柔的,",
+    "别害怕！ 我只是想让你离我…… 还有我的肚子近一点,"
+  ],
+  "oralVoreHungryRequested": [
+    "没想到这儿的食物还能自己送上门来！",
+    "哦,好啊,我快饿死了,",
+    "免费的食物？ 那当然要吃！"
+  ],
+  "oralVoreHungryRequestedAfter": [
+    "哦,对,就想吃这个,",
+    "嗯嗯嗯,没有什么比一顿美餐更好的了,",
+    "嗝儿！"
+  ],
+  "oralVoreHungryNoPrompt": [
+    "我饿坏了,过来,",
+    "抱歉,但是…… 可我并不觉得抱歉,进来吧,",
+    "让我帮你,也帮我自己变得更饱,",
+    "美味的食物不应该到处乱跑,让我来解决这个问题,"
+  ],
+  "hungryNo": [
+    "我现在不是那种饿法,",
+    "我不确定你能不能填饱我,"
+  ],
+  "hungryFull": [
+    "我也希望我能吃,但……\n 我已经太饱了,",
+    "再也装不下了……"
+  ],
+  "oralVoreHungryFull": [
+    "我也希望我能吃,但是 —— 嗝儿！\n…… 太饱了……",
+    "我已经吃撑了,"
+  ],
+  "oralVoreHungryDigestFull": [
+    "等几分钟,\n 然后看看我是不是还饿,",
+    "嗝儿！\n 快了……",
+    "等这顿饭消化完了你再来看看,"
+  ],
+  "ballsInfuseRequested": [
+    "哦,所以你想成为我的蛋蛋～？",
+    "你想在我两腿之间晃荡～？"
+  ],
+  "ballsInfuseRequestedAfter": [
+    "呵呵,好了,你就在我裤裆这儿挂着啦～这才是你该待的地方～",
+    "通常朋友们都是被放在蛋蛋里面…… 但我也喜欢这种安排～"
+  ],
+  "ballsInfuseNoPrompt": [
+    "嗯嗯～我觉得你会成为一对很棒的蛋蛋～"
+  ],
+  "ballsInfuseNoPromptAfter": [
+    "完美,你挂在这儿的感觉太完美了～"
+  ],
+  "bellyNoisyInfused": [
+    [
+      "（只是肚子在咕噜咕噜叫～）",
+      "（只是你肚子在咕噜咕噜叫～）",
+      "（只是  <entityName> 的肚子在咕噜咕噜叫～）",
+      "（只是肚子在吵吵～）",
+      "（只是你肚子在吵吵～）",
+      "（只是  <entityName> 的肚子在吵吵～）"
+    ]
+  ],
+  "ballsInfused": [
+    "<slowlove>",
+    "<love>",
+    [
+      "<slowlove>（啊…… 我感觉太棒了……~）",
+      "<slowlove>（我就该在这儿,对吧……~）",
+      "<slowlove>（我只是你的蛋蛋～）",
+      "<slowlove>（啊～满满的精液晃来晃去～）",
+      "<slowlove>（我只是  <entityName> 的蛋蛋～）",
+      "<slowlove>（我就该在这儿…… 只是  <entityName> 的一部分～）",
+      "<love>(<keysmash>)"
+    ]
+  ],
+  "bellyNoisyInfusedOccupant": [
+    "呵呵,肚子在咕噜咕噜叫呢, <entityName>？",
+    "我这吵吵的肚子是想要什么东西吗～？"
+  ],
+  "breastsSizeInfusedOccupant": [
+    [
+      "<love>我喜欢你让我的胸变得这么大～",
+      "<love>我喜欢你让我的胸变得这么大, <entityName>~"
+    ],
+    [
+      "<love>你变成给我增加尺寸的东西更好～",
+      "<love>你变成给我增加尺寸的东西更好, <entityName>~"
+    ]
+  ],
+  "cockSizeInfusedOccupant": [
+    [
+      "<love>我喜欢你让我的鸡鸡变得这么大～",
+      "<love>我喜欢你让我的鸡鸡变得这么大, <entityName>~"
+    ],
+    [
+      "<love>你变成给我增加尺寸的东西更好～",
+      "<love>你变成给我增加尺寸的东西更好, <entityName>~"
+    ]
+  ],
+  "ballsInfusedOccupant": [
+    [
+      "<love>嘿,我能感觉到你在下面抽搐呢～",
+      "<love>嘿,我能感觉到你在下面抽搐呢, <entityName>~"
+    ],
+    [
+      "<love>你喜欢你的新用途吗？~",
+      "<love>你喜欢你的新用途吗, <entityName>？~"
+    ],
+    [
+      "<love>嗯,下面全是精液晃来晃去的～",
+      "<love>嗯,下面全是精液晃来晃去的,你肯定很享受吧, <entityName>~"
+    ],
+    [
+      "<love>你这样有用多了～",
+      "<love>你这样有用多了, <entityName>"
+    ]
+  ],
+  "ballsSizeInfusedOccupant": [
+    [
+      "<love>我喜欢你让我的蛋蛋变得这么大～",
+      "<love>我喜欢你让我的蛋蛋变得这么大, <entityName>~"
+    ],
+    [
+      "<love>你变成给我增加尺寸的东西更好～",
+      "<love>你变成给我增加尺寸的东西更好, <entityName>~"
+    ]
+  ],
+  "bellyHungryInfused": [
+    [
+      "<slowlove>（喂喂我～）",
+      "（好饿……）"
+    ]
+  ]
 }

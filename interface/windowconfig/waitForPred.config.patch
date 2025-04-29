@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "未找到捕食者"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/ok/caption",
+    "value": "再次搜索"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "value": "逃离"
+  }
+]

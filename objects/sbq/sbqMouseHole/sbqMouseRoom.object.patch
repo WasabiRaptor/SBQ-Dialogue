@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "一个小房间……小人可能可以进去。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "老鼠房间",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "镶嵌在黄铜底座上的发光水晶碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "紫水晶火炬"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "水晶似乎正在发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "在需要更持久的光源的地方，有些人用水晶代替火把。它们可以维持数千年。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "诡异的光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "好奇。这块水晶似乎能自己发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "水晶会发光，但摸起来完全是冷的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "如此美丽的技术。他们是如何学会并利用它的？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "这块闪闪发光的石头像火炬一样发光。"
+  }
+]

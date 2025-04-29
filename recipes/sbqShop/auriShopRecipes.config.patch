@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/toolTip",
+    "value": "变化"
+  },
+  {
+    "op": "replace",
+    "path": "/1/toolTip",
+    "value": "家具"
+  },
+  {
+    "op": "replace",
+    "path": "/2/toolTip",
+    "value": "工具"
+  },
+  {
+    "op": "replace",
+    "path": "/3/toolTip",
+    "value": "捕食者对象"
+  },
+  {
+    "op": "replace",
+    "path": "/4/toolTip",
+    "value": "服装"
+  },
+  {
+    "op": "replace",
+    "path": "/5/toolTip",
+    "value": "杂项"
+  }
+]

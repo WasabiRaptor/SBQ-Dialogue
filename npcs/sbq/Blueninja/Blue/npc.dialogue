@@ -1,786 +1,785 @@
 {
-	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
-	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
-	"greeting": [
-		"Hello friend, how are you?.",
-		"Beep boop!",
-		"Just a reminder, i'm not a gaming console, but i do have games downloaded on me",
-		"Hmmm? ya need something?"
-	],
-	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
-	"greetingIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingIntroduced",
-	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
-	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
-	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
-	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
-	"rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
-	"rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards",
-	"rewardNotifyHighValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyHighValueQuestRewards",
-	"oralVoreRequested": [
-		"Running NOM_NOM.exe",
-		"I'd thought you'd never ask~",
-		"Looking to 'pilot' the synth, huh?",
-		"How can i refuse a friend like you? get in~"
-	],
-	"oralVoreRequestedAfter": [
-		"Mmmmm... good NOM",
-		"What a tasty friend you are!",
-		"No need to strap in, I've got ya sucured tightly already~",
-		"Oh yes! your filling me up nicely"
-	],
-	"oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid",
-	"defaultNo": [
-		"I'm updating, ask me later",
-		"Sensors show that my belly does not need a snack, sorry.",
-		"I can't at the moment, systems are going though maintenance",
-		"I'm usually down for a snack, but not at this moment"
-	],
-	"oralVoreTooBig": ":tooBig",
-	"oralVoreTooSmall": ":tooSmall",
-	"tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
-	"oralVoreNoSlots": ":noSlots",
-	"noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
-	"oralVoreFull": [
-		"Occupancy at max, sorry",
-		"My belly module was not designed to handle any more, sorry",
-		"I'm at my limits, i'll set a tag for you to be next if ya like",
-		"I would, but systems are almost over loading as is, i just can't"
-	],
-	"oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
-	"oralVoreTargetPreySettingsMismatch": "/npcs/sbq/dialogue/default.dialogue:oralVoreTargetPreySettingsMismatch",
-	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"analVoreRequested": [
-		"My tail hole? well... it would feel nice, come here!~",
-		"Oh? well my disposal port is very welcoming, wiggle on in~",
-		"Alright, hope you don't mind the tight interior! i'm sure you won't~",
-		"you know what? yeah! get in my synth hole~"
-	],
-	"analVoreRequestedAfter": [
-		"Ahhh~ Hope I'm not squeezing too much... or too little~",
-		"Mmm~ i like it when people use the backdoor~",
-		"Heh~ you might find the nice scent of blueberries quite nice back there~",
-		"Oooh~ That squirming! it's making my sensors flare up in all the right ways~"
-	],
-	"analVoreInvalid": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:analVoreInvalid",
-	"analVoreNo": ":defaultNo",
-	"oralVoreNo": ":defaultNo",
-	"analVoreTooBig": ":tooBig",
-	"tooBig": "/npcs/sbq/dialogue/default.dialogue:tooBig",
-	"analVoreTooSmall": ":tooSmall",
-	"analVoreNoSlots": ":noSlots",
-	"analVoreFull": "/npcs/sbq/dialogue/default.dialogue:analVoreFull",
-	"analVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"analVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"cockVoreRequested": [
-		"I was just thinking the same thing! 'cum' here~",
-		"So forward! sure, let me show you to your 'private' room~",
-		"Glad i made the mods for my body that allow me to uh, fit you in, so let's get started",
-		"By my calculations: this is gonna be some lewd fun~"
-	],
-	"cockVoreRequestedAfter": [
-		"Aahh~ ooooh thats really good~",
-		"Mmmm~ those are my most sensitive sensors right there~",
-		"ohh~ How's being a cock snack treating ya? i'm sure your loving it~",
-		"A-ahh~ i'm getting overloaded with pleasure from you in there wiggling~"
-	],
-	"cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
-	"cockVoreNo": ":defaultNo",
-	"cockVoreTooBig": ":tooBig",
-	"cockVoreTooSmall": ":tooSmall",
-	"cockVoreNoSlots": ":noSlots",
-	"cockVoreFull": "/npcs/sbq/dialogue/default.dialogue:cockVoreFull",
-	"cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
-	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"bellyInfuseRequested": [
-		"Mm, you love my belly so much... You want to be a part of it?",
-		"You want to become my belly?",
-		"You want to become a part of me...?"
-	],
-	"bellyInfuseRequestedAfter": [
-		"Ahh... there you are... just my belly now",
-		"Just a part of me now.",
-		"Try not to make me too hungry..."
-	],
-	"bellyInfuseInvalid": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:bellyInfuseInvalid",
-	"bellyInfuseNo": ":defaultNo",
-	"bellyInfuseTooBig": ":tooBig",
-	"bellyInfuseTooSmall": ":tooSmall",
-	"bellyInfuseNoSlots": ":noSlots",
-	"bellyInfuseFull": ":breastInfuseFull",
-	"full": ":breastInfuseFull",
-	"bellyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"bellyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"breastInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:breastInfuseRequested",
-	"breastInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:breastInfuseRequestedAfter",
-	"breastInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseInvalid",
-	"breastInfuseNo": ":defaultNo",
-	"breastInfuseTooBig": ":tooBig",
-	"breastInfuseTooSmall": ":tooSmall",
-	"breastInfuseNoSlots": ":noSlots",
-	"breastInfuseFull": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseFull",
-	"breastInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"breastInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"pussyInfuseRequested": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfuseRequested",
-	"pussyInfuseRequestedAfter": [
-		"Hehe, I can feel you leaking with excitement already~",
-		"Hehe, excited to be part of me~?",
-		"Ah, you're already sopping wet with excitement~"
-	],
-	"pussyInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfuseInvalid",
-	"pussyInfuseNo": ":defaultNo",
-	"pussyInfuseTooBig": ":tooBig",
-	"pussyInfuseTooSmall": ":tooSmall",
-	"pussyInfuseNoSlots": ":noSlots",
-	"pussyInfuseFull": ":breastInfuseFull",
-	"pussyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"pussyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"cockInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:cockInfuseRequested",
-	"cockInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:cockInfuseRequestedAfter",
-	"cockInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockInfuseInvalid",
-	"cockInfuseNo": ":defaultNo",
-	"cockInfuseTooBig": ":tooBig",
-	"cockInfuseTooSmall": ":tooSmall",
-	"cockInfuseNoSlots": ":noSlots",
-	"cockInfuseFull": ":breastInfuseFull",
-	"cockInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
-	"cockInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-	"oralVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutRequested",
-	"analVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutRequested",
-	"cockVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutRequested",
-	"oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
-	"oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
-	"oralVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYesAfter",
-	"oralVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNo",
-	"oralVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYes",
-	"oralVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYesAfter",
-	"analVorePrompt": "/npcs/sbq/dialogue/default.dialogue:analVorePrompt",
-	"analVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:analVorePromptYes",
-	"analVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:analVorePromptYesAfter",
-	"analVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNo",
-	"analVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNoYes",
-	"analVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNoYesAfter",
-	"cockVorePrompt": "/npcs/sbq/dialogue/default.dialogue:cockVorePrompt",
-	"cockVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYes",
-	"cockVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYesAfter",
-	"cockVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNo",
-	"cockVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYes",
-	"cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
-	"oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
-	"oralVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingYes",
-	"oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
-	"oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
-	"analVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:analVoreRequesting",
-	"analVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:analVoreRequestingYes",
-	"analVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:analVoreRequestingNo",
-	"analVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:analVoreRequestingNoYes",
-	"cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
-	"cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
-	"cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
-	"cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
-	"oralVoreNoPrompt": [
-		"My sensors show i'm hungry, and you've been assigned to be a snack",
-		"Error! hunger detected, fixing issue~",
-		"Don'y mind me, i'm just having you all to my self~",
-		"You look cold, let me provide you with my warming service, free of charge!"
-	],
-	"oralVoreNoPromptAfter": [
-		"Mmmmmmm... good snack~",
-		"Error resolved, getting comfortable~",
-		"All mine, don't worry, i'm a gentle ro-bro~",
-		"Feeling more comfortable yet? i know i am~"
-	],
-	"analVoreNoPrompt": [
-		"My sensors show i'm hungry, and you've been assigned to be a butt snack",
-		"Hey... so listen, i'm gonna just... take you in my other entrance real quick~",
-		"I need maintenance ASAP, you'll have to take the secondary entrance~",
-		"you can bite my shiny, metal, butt!... and get in it too~"
-	],
-	"analVoreNoPromptAfter": ":analVoreRequestedAfter",
-	"cockVoreNoPrompt": [
-		"Gonna just put you in a rather lewd spot, don't mind this synth, hehe~",
-		"Don't panic, but i'm gonna put you in a synth seed bath, you'll like it though, i'm sure~",
-		"I got a bit excited Calculating this, so now I have to do it~",
-		"I'm gonna need you for a test of my systems, don't worry, you'll enjoy it~"
-	],
-	"cockVoreNoPromptAfter": [
-		"Oooh~ right where you belong~",
-		"Mmmm~ you're gonna be stewing in there for a while, i can tell~",
-		"oh yes~ i was right to stuff you in there, feels good, don't it?~",
-		"A-ahh~ Just as i thought, it's really pleasurable~"
-	],
-	"bellyInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseNoPrompt",
-	"bellyInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseNoPromptAfter",
-	"breastInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPrompt",
-	"breastInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPromptAfter",
-	"pussyInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseNoPrompt",
-	"pussyInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseNoPromptAfter",
-	"cockInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:cockInfuseNoPrompt",
-	"cockInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:cockInfuseNoPromptAfter",
-	"tailInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPrompt",
-	"tailInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPromptAfter",
-	"oralVoreUnprompted": [
-		"Why are drooling? Wait, don't you- mmph!",
-		"You look hungry, are you about to- ahh!",
-		"I might look like a snack to you, but I'm not- wah!",
-		"your in the mood for blueberries?.... wait a minute- MMPH!"
-	],
-	"analVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:analVoreUnprompted",
-	"cockVoreUnprompted": [
-		"UwU",
-		"Oh my!",
-		"You're putting me in your shaf- wah!",
-		"you're going to put me in there?? but i can't fit- MMMPH!",
-		"how lewd! ya can't just- MMMPH"
-	],
-	"oralVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutUnpromptedAfter",
-	"analVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutUnpromptedAfter",
-	"cockVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutUnpromptedAfter",
-	"oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
-	"analVoreForcing": {
-		"percentage": "sbqLust",
-		"pools": [
-			[ // 0% - 25%
-				"Don't mind me, I'm just going to get myself nice and comfy in your bum~"
-			],
-			[ // 25% - 50%
-				"Hate to make an ass of myself, but I'm going to shove myself up your butt!"
-			],
-			[ // 50% - 75%
-				"You better keep your back to me, cause I'm coming for that booty and taking the rear entrance~"
-			],
-			[ // 75% - 100%
-				"Just bend over for me. I want in that rear badly, and I'm going to get in!"
-			]
-		]
-	},
-	"cockVoreForcing": {
-		"percentage": "sbqLust",
-		"pools": [
-			[ // 0% - 25%
-				"I feel an urge to just... take a trip down your rod!"
-			],
-			[ // 25% - 50%
-				"I shall be taking the shaft down, and by shaft I mean your cock~"
-			],
-			[ // 50% - 75%
-				"I feel the pull of your member, it wants me inside it. Who am I to deny it?"
-			],
-			[ // 75% - 100%
-				"I desire being in that lewd stick of yours. Just relax and let me in already!"
-			]
-		]
-	},
-	"oralVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutForcingAfter",
-	"analVoreLetoutForcingAfter": [
-		"I managed to wiggle out your butt!"
-	],
-	"cockVoreLetoutForcingAfter": [
-		"Well, seems like I managed to squirm out of your cock!"
-	],
-	"oralVoreForced": {
-		"percentage": "food",
-		"pools": [
-			[ // 0% - 25%
-				"Oof, wasn't expecting that...! I just wanted to know if you had any food...",
-				"*glk*, note to self... don't let prey hear my hungry stomach grumble...",
-				"Mmph... I shouldn't have skipped lunch... People just... jump right in..."
-			],
-			[ // 25% - 50%
-				"*urp*, not exactly what I had in mind to fix my hunger, but you ARE filling.",
-				"Haa-ah... Nice joke... Now, when are you getting out?",
-				"Erf... A little warning before you force my jaws open would've been nice."
-			],
-			[ // 50% - 75%
-				"Ugh, I was supposed to be on a diet. You do taste good, though.",
-				"Oof! That's a little too forward, isn't it?",
-				"Hey, you're supposed to treat me to dinner first before you--oh."
-			],
-			[ // 75% - 100%
-				"Whew, I thought you were joking when you were offering me a snack!",
-				"Gah, is this your way of saying hello?",
-				"*gulp*, Was it something I said?"
-			]
-		]
-	},
-	"analVoreForced": "/npcs/sbq/dialogue/default.dialogue:analVoreForced",
-	"cockVoreForced": {
-		"percentage": "sbqLust",
-		"pools": [
-			[ // 0% - 25%
-				"Hmm, maybe I should start wearing a belt more if I don't want others randomly diving into my cock, hmm...",
-				"Hufff~... You know, you really should have asked before shoving yourself in my cock..."
-			],
-			[ // 25% - 50%
-				"Ahhh~! I would have preferred you asked before diving in my shaft... but I was already a bit horny, so I'll let it slide this time.",
-				"Hufff~! Jeez, a little warning before you push yourself down my rod would be appreciated!",
-				"Ahahaha~... Did you just... shove yourself into my cock!?"
-			],
-			[ // 50% - 75%
-				"Ahhh~ Well ain't you a 'cocky' little guy? Because you're so bold, I'll let you be for the moment.",
-				"MMM~ I was just getting a bit aroused, so I won't force you out. But could you warn me next time?",
-				"Hehehe, it seems I've 'gotten lucky' as I was just thinking about sticking someone in my shaft~ So I'll make the most of your spontaneity~"
-			],
-			[ // 75% - 100%
-				"Ahh~ FFFfff~ You just walked up and slid right down my shaft, didn't you~?",
-				"Hhhh... I should have known having my rock hard shaft on display would have attracted someone like you~",
-				"MMM~ Hhhhhaaa~! I was just about to cum before you dived in there! Horny little freak~"
-			]
-		]
-	},
-	"oralVoreLetoutForced": [
-		"Running regurgitation.exe",
-		"Come back anytime, i'm more then happy to have you~",
-		"Mmm... okay, you may leave, fallow to lights up",
-		"Aww, well, after you get bored of the outside, pay me a visit again, yeah?"
-	],
-	"analVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutForced",
-	"cockVoreLetoutForced": [
-		"Ahh~ ahh that felt so good~",
-		"Can't stand the heat huh? well when you cool off, your welcome back inside~",
-		"Mmm~ gotta be somewhere? cool, but don't tell them about where you where, unless there're into this sorta thing~",
-		"O-oh! you sliped out, guess i'll be seeing you, cock wiggler~",
-		"Leaving so soon? oh alright, but you better 'cum' back soon, i got more jokes!"
-	],
-	"struggleBelly": [
-		"Having fun? my insides are purpose built for enjoyment~",
-		"Quite a wiggly one you are, not that i'm complaning~",
-		"my metal stomach is quite strong, so squirm as you please, it won't bother me~"
-	],
-	"struggleWomb": [
-		"Ooh, that feels good! Keep up with that moving.",
-		"My womb's a bit harder to get out of than you thought, huh?"
-	],
-	"struggleTail": "/npcs/sbq/dialogue/default.dialogue:struggleTail",
-	"struggleBreasts": "/npcs/sbq/dialogue/default.dialogue:struggleBreasts",
-	"struggleBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleBreastsShirt",
-	"strugglePussy": "/npcs/sbq/dialogue/default.dialogue:strugglePussy",
-	"struggleCock": [
-		"O-oh?! careful! you might slip deeper, unless you want that, then by all means~",
-		"Hot in there? i have to agree with that, it's pretty hot indeed~",
-		"m-man! that feeling of you in ther is just.... great~"
-	],
-	"struggleBalls": [
-		"You having a 'ball' in there? hehe~",
-		"wow! you're going 'nuts' in there! heh~",
-		"It's quite nice feeling you squrim in there, you should 'cum' more often, heh~",
-		"what is it they say? Friends are stored in the balls? i agree~"
-	],
-	"struggleAss": "/npcs/sbq/dialogue/default.dialogue:struggleAss",
-	"struggleAcidHeal": [
-		"How is my med-bay-ly, ha! get it?",
-		"All comfort programs are running smoothly, you should feel great~",
-		"I will make sure you're all better, but you can stay even if you are already~"
-	],
-	"struggleFemcumHeal": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumHeal",
-	"struggleCumHeal": ":struggleAcidHeal",
-	"struggleMilkHeal": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:struggleMilkHeal",
-	"struggleMiscHeal": ":struggleAcidHeal",
-	"struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
-	"struggleAcidDigest": [
-		"Time to melt you down into Bio-fuel.",
-		"Just be a good battery and melt."
-	],
-	"struggleAcidDigestImmune": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleAcidDigestImmune",
-	"struggleCumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigest",
-	"struggleCumDigestBalls": ":struggleCumDigest",
-	"struggleCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestImmune",
-	"struggleFemcumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigest",
-	"struggleFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigestImmune",
-	"struggleMilkDigest": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigest",
-	"struggleMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestBreastsShirt",
-	"struggleMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestImmune",
-	"struggleMiscDigest": ":struggleAcidDigest",
-	"struggleMiscDigestImmune": ":struggleAcidDigestImmune",
-	"struggleTransforming": "/npcs/sbq/dialogue/default.dialogue:struggleTransforming",
-	"struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
-	"struggleEggify": "/npcs/sbq/LokiVulpix/Clover/npc.dialogue:struggleEggify",
-	"anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
-	"thighsInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:thighsInfusedOccupant",
-	"bellyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:bellyInfusedOccupant",
-	"breastInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:breastInfusedOccupant",
-	"pussyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pussyInfusedOccupant",
-	"cockInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:cockInfusedOccupant",
-	"pawInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pawInfusedOccupant",
-	"tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant",
-	"strugglingBelly": [
-		[
-			"Mmmm pretty comfortable by my calculations~",
-			"ooh, your belly seems quite suited for my, i'm so snug in here~",
-			{
-				"check": {
-					"bellySounds": true
-				},
-				"add": [
-					"Your belly is making the most soothing grumbles to my audio receptors~",
-					"Mmm... I should save this sounds to my memory so i can play them back to sleep to~"
-				]
-			}
-		],
-		{
-			"check": {
-				"predator": [
-					"sbqVaporeon",
-					"vaporeon"
-				]
-			},
-			"add": [
-				"Does this mean... you've caught me?",
-				"Interesting body you've got, it's like being sqeezed by a water bed~"
-			]
-		}
-	],
-	"strugglingWomb": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingWomb",
-	"strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
-	"strugglingBreasts": "/npcs/sbq/dialogue/default.dialogue:strugglingBreasts",
-	"strugglingBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingBreastsShirt",
-	"strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
-	"strugglingCock": [
-		"Ahh~ your putting my pressure resistance to the test with this tightness",
-		"I'm still gonna wiggle like heck, so don't get 'cocky' heh~",
-		"this is so lewd!~ i'm not a toy, even if i look loke one, and enjoy being treated like one~"
-	],
-	"strugglingBalls": [
-		"This is quite lewd! but i like it~... i'm going to put this thought in a secret file...",
-		"Being stord in here... does this mean we're friends?!~",
-		"When you said to 'hang out', i didn't think you meant this, but i'm not complaning~",
-		"I'm glad to have an advanced cooling system, cause this place is super hot~"
-	],
-	"strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
-	"strugglingAcidHeal": [
-		[
-			"Ahh... its so soothing.",
-			"I can't believe the power of your healing, mending even my metal parts~",
-			"Comfort at 100%, time left for rapairs.... um, maybe after i'm done taking a nap?",
-			{
-				"check": {
-					"bellySounds": true
-				},
-				"add": [
-					"Your belly is making the most soothing grumbles to my audio receptors~",
-					"Mmm... I should save this sounds to my memory so i can play them back to sleep to~"
-				]
-			}
-		],
-		{
-			"check": {
-				"predator": [
-					"sbqVaporeon",
-					"vaporeon"
-				]
-			},
-			"add": [
-				"The fluid in this stomach is like healing water! and it feels so nice"
-			]
-		}
-	],
-	"strugglingFemcumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumHeal",
-	"strugglingCumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumHeal",
-	"strugglingMilkHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkHeal",
-	"strugglingMiscHeal": ":strugglingAcidHeal",
-	"strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
-	"strugglingAcidDigest": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:strugglingAcidDigest",
-	"strugglingAcidDigestImmune": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingAcidDigestImmune",
-	"strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest",
-	"strugglingCumDigestBalls": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumDigestBalls",
-	"strugglingCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestImmune",
-	"strugglingFemcumDigest": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumDigest",
-	"strugglingFemcumDigestImmune": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingFemcumDigestImmune",
-	"strugglingMilkDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigest",
-	"strugglingMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestBreastsShirt",
-	"strugglingMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestImmune",
-	"strugglingMiscDigest": ":strugglingAcidDigest",
-	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
-	"strugglingTransforming": "/npcs/sbq/dialogue/default.dialogue:strugglingTransforming",
-	"strugglingDrainEnergy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingDrainEnergy",
-	"strugglingEggify": "/npcs/sbq/dialogue/default.dialogue:strugglingEggify",
-	"anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused",
-	"thighsInfused": "/npcs/sbq/dialogue/default.dialogue:thighsInfused",
-	"bellyInfused": "/npcs/sbq/dialogue/default.dialogue:bellyInfused",
-	"breastInfused": "/npcs/sbq/dialogue/default.dialogue:breastInfused",
-	"pussyInfused": "/npcs/sbq/dialogue/default.dialogue:pussyInfused",
-	"cockInfused": "/npcs/sbq/dialogue/default.dialogue:cockInfused",
-	"pawInfused": "/npcs/sbq/dialogue/default.dialogue:pawInfused",
-	"tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused",
-	"climax": "/npcs/sbq/dialogue/default.dialogue:climax",
-	"climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb",
-	"climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts",
-	"climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
-	"climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
-	"shrinking": "/npcs/sbq/dialogue/default.dialogue:shrinking",
-	"growing": "/npcs/sbq/dialogue/default.dialogue:growing",
-	"didSteppy": "/npcs/sbq/dialogue/default.dialogue:didSteppy",
-	"gotStepped": "/npcs/sbq/dialogue/default.dialogue:gotStepped",
-	"gotStomped": "/npcs/sbq/dialogue/default.dialogue:gotStomped",
-	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
-	// Unused Dialogue
-	"oralVoreDigestFull": [
-		"Fueling engadged: you can have your turn after i'm done with this one",
-		"Urrrrp!\n Won't be too long untill fueling is complete, then you're mine~",
-		"My batteres are almost full from the one i got, but i can squeeze you in after i'm done with them",
-		"I'll have to finish processing this meal first."
-	],
-	"oralVoreCompressionFull": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreCompressionFull",
-	"needsInfusion": ":oralVoreNeedsInfusion",
-	"struggle": ":struggleBelly",
-	"struggleHeal": ":struggleAcidHeal",
-	"struggleDigestCock": ":struggleFemcumDigest",
-	"oralVoreLetoutForcedDigest": [
-		"Dang it... I was hungry.",
-		"No hard feelings?",
-		"Come on, you were almost done...",
-		"If only you weren't such a fighter..."
-	],
-	"oralVoreLetoutForcedDigestImmune": "/npcs/sbq/AkariKaen/Akari/npc.dialogue:oralVoreLetoutForcedSoftDigestImmune",
-	"oralVoreLetoutForcedSoftDigest": [
-		"Darn it... I was hungry, you were gonna be fine anyway.",
-		"No hard feelings? Its not like I was going to go all the way...",
-		"Come on, you were almost done...",
-		"If only you weren't such a fighter..."
-	],
-	"oralVoreLetoutForcedHeal": [
-		"You do know its safer inside me right?",
-		"Are you suuuuure you're ready to come out?",
-		"I know by my sensors you're healed... but i'm still sad to see you go.",
-		"You can come back to be restored and re-stored any time."
-	],
-	"oralVoreLetoutRequestedDigested": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreLetoutRequestedDigested",
-	"oralVoreLetoutRequestedDigest": [
-		"Actually... You've probably spent enough time in there.",
-		"My hunger is satiated enough for now.",
-		"Probably best to get you out of there...",
-		"Don't feel like melting you entirely."
-	],
-	"oralVoreLetoutRequestedDigestImmune": [
-		"I can't even melt you down at all...",
-		"My hunger isn't going to be satiated with you in there.",
-		"Probably best to get you out of there, so I can eat something else.",
-		"Can't even melt you down the tiniest bit."
-	],
-	"oralVoreLetoutRequestedSoftDigest": ":oralVoreLetoutRequestedDigest",
-	"oralVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutRequestedHeal",
-	"analVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
-	"analVoreLetoutRequestedDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutRequestedDigest",
-	"analVoreLetoutRequestedDigestImmune": [
-		"Just leave via my 'exit', since it can't even soften you up.",
-		"You're free to go, since my bottom can't melt you at all."
-	],
-	"analVoreLetoutRequestedSoftDigest": ":analVoreLetoutRequestedDigest",
-	"analVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutRequestedHeal",
-	"tailVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
-	"navelVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
-	"absorbVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
-	"cockVoreLetoutRequestedDigest": [
-		"Hm... Maybe I won't melt you down entirely..."
-	],
-	"cockVoreLetoutRequestedDigestImmune": [
-		"I can't seem to melt you down... so I'll let you go."
-	],
-	"cockVoreLetoutRequestedSoftDigest": ":cockVoreLetoutRequestedDigest",
-	"cockVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutRequestedHeal",
-	"unbirthVoreLetoutRequestedDigest": [
-		"Hm... let's stop before you're all melted into juices, heh~"
-	],
-	"unbirthVoreLetoutRequestedDigestImmune": [
-		"Seems like you're not melting, so I'm gonna let you out."
-	],
-	"unbirthVoreLetoutRequestedSoftDigest": ":unbirthVoreLetoutRequestedDigest",
-	"unbirthVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutRequestedHeal",
-	"strugglingSlime": [
-		"This is a sticky situation!",
-		"Stuck... probability of escape: slim...",
-		"I hope this is just this things way of being affectionate..."
-	],
-	"strugglingSlimeDigestImmune": [
-		[
-			"Heh trying to melt me into more slime?",
-			"Heh trying to melt me into more slime?\nThats not gonna work."
-		],
-		"Sorry, I'm not soluble.",
-		"You're gonna have to try harder to absorb me."
-	],
-	"strugglingSlimeHeal": [
-		"Odd, this slime seems to carry mending properties... and it feels nice~",
-		"Ahh... I can't really move much, but it seems this slime is friendly, so not the worst place to be i suppose",
-		"Mmmm... i think i could get used to this... who needs a repair bay when you got cuddle slime~"
-	],
-	"strugglingSlimeTransforming": [
-		"Ahh... I'm being turned into slime...",
-		"Its like my limbs are turning into jelly..."
-	],
-	"strugglingTransformingBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:strugglingTransformingBelly",
-	"strugglingTransformingWomb": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingTransformingWomb",
-	"oralVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutForcingAfterDigest",
-	"oralVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutForcingAfterDigestImmune",
-	"oralVoreLetoutForcingAfterSoftDigest": ":oralVoreLetoutForcingAfterDigest",
-	"oralVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutForcingAfterHeal",
-	"analVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutForcingAfterDigest",
-	"analVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutForcingAfterDigestImmune",
-	"analVoreLetoutForcingAfterSoftDigest": ":analVoreLetoutForcingAfterDigest",
-	"analVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutForcingAfterHeal",
-	"tailVoreLetoutForcingAfterDigest": [
-		"Whew, I got out of your tail before I became part of it."
-	],
-	"tailVoreLetoutForcingAfterDigestImmune": [
-		"Looks like I escaped your tail, though I wasn't in danger inside it."
-	],
-	"tailVoreLetoutForcingAfterSoftDigest": ":tailVoreLetoutForcingAfterDigest",
-	"tailVoreLetoutForcingAfterHeal": [
-		"I squirmed out your tail and boy, do I feel great after that stay!"
-	],
-	"absorbVoreLetoutForcingAfterDigest": [
-		"Thank goodness I got out of your body. I was almost a part of it!"
-	],
-	"absorbVoreLetoutForcingAfterDigestImmune": [
-		"Looks like I got out of your body, though I wasn't at any risk inside."
-	],
-	"absorbVoreLetoutForcingAfterSoftDigest": ":absorbVoreLetoutForcingAfterDigest",
-	"absorbVoreLetoutForcingAfterHeal": [
-		"I managed to get out of your soothing form and I feel great!"
-	],
-	"cockVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutForcingAfterDigest",
-	"cockVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutForcingAfterDigestImmune",
-	"cockVoreLetoutForcingAfterSoftDigest": ":cockVoreLetoutForcingAfterDigest",
-	"cockVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutForcingAfterHeal",
-	"unbirthVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutForcingAfterDigest",
-	"unbirthVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutForcingAfterDigestImmune",
-	"unbirthVoreLetoutForcingAfterSoftDigest": ":unbirthVoreLetoutForcingAfterDigest",
-	"unbirthVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutForcingAfterHeal",
-	"breastVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutForcingAfterDigest",
-	"breastVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutForcingAfterDigestImmune",
-	"breastVoreLetoutForcingAfterSoftDigest": ":breastVoreLetoutForcingAfterDigest",
-	"breastVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutForcingAfterHeal",
-	"oralVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutUnpromptedAfterDigest",
-	"oralVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutUnpromptedAfterDigestImmune",
-	"oralVoreLetoutUnpromptedAfterSoftDigest": ":oralVoreLetoutUnpromptedAfterDigest",
-	"oralVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutUnpromptedAfterHeal",
-	"navelVoreLetoutUnpromptedAfterSoftDigest": [
-		"Whew! Thank goodness you pushed me out your navel, I was almost melted!"
-	],
-	"absorbVoreLetoutUnpromptedAfterDigest": [
-		"Whew, thanks for pushing me out of your form, I was almost added to it!"
-	],
-	"absorbVoreLetoutUnpromptedAfterDigestImmune": [
-		"Seems you let me out of your form. Did you realize it can't digest me?"
-	],
-	"absorbVoreLetoutUnpromptedAfterSoftDigest": ":absorbVoreLetoutUnpromptedAfterDigest",
-	"absorbVoreLetoutUnpromptedAfterHeal": [
-		"Ah, thanks for letting me out of your form. Your body surrounded and soothed every part of mine."
-	],
-	"cockVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutUnpromptedAfterDigest",
-	"cockVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutUnpromptedAfterDigestImmune",
-	"cockVoreLetoutUnpromptedAfterSoftDigest": ":cockVoreLetoutUnpromptedAfterDigest",
-	"cockVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutUnpromptedAfterHeal",
-	"unbirthVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutUnpromptedAfterDigest",
-	"unbirthVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutUnpromptedAfterDigestImmune",
-	"unbirthVoreLetoutUnpromptedAfterSoftDigest": ":unbirthVoreLetoutUnpromptedAfterDigest",
-	"unbirthVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutUnpromptedAfterHeal",
-	"breastVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutUnpromptedAfterDigest",
-	"breastVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutUnpromptedAfterDigestImmune",
-	"breastVoreLetoutUnpromptedAfterSoftDigest": ":breastVoreLetoutUnpromptedAfterDigest",
-	"breastVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutUnpromptedAfterHeal",
-	"tailInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:tailInfuseRequested",
-	"tailInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseRequestedAfter",
-	"infused": ":anyInfused",
-	"ballsInfused": [
-		"<slowlove>",
-		"<love>",
-		[
-			"<slowlove>(Ahh... I just feel so good...~)",
-			"<slowlove>(I belong here, don't I...~)",
-			"<slowlove>(I'm just your balls~)",
-			"<slowlove>(Ahh~ so full of cum sloshing around~)",
-			"<slowlove>(I'm just <entityname>'s balls~)",
-			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
-		]
-	],
-	"ballsInfusedOccupant": [
-		[
-			"<love>Heh, I can feel you twitching down there~",
-			"<love>Heh, I can feel you twitching down there <entityName>~"
-		],
-		[
-			"<love>Are you enjoying your new purpose?~",
-			"<love>Are you enjoying your new purpose <entityName>?~"
-		],
-		[
-			"<love>Mmm, all that cum sloshing around down there~",
-			"<love>Mmm, all that cum sloshing around down there, you sure are enjoying yourself <entityName>~"
-		],
-		[
-			"<love>You're far more useful like this~",
-			"<love>You're far more useful like this <entityName>"
-		]
-	],
-	"converse": [
-		"How can i help you?."
-	],
-	"oralVoreSoftDigestFull": ":oralVoreFull",
-	"oralVoreOtherFull": ":breastInfuseFull",
-	"struggleTransformedBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformedBelly",
-	"struggleTransformingBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformingBelly",
-	"struggleTransformingImmuneBelly": "Missing: struggleTransformingImmuneBelly <dialoguePath>",
-	"struggleEggedBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggedBelly",
-	"struggleEggifyBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggifyBelly",
-	"struggleEggifyImmuneBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggifyImmuneBelly",
-	"struggleTransformedCock": ":struggleFemcumDigest",
-	"struggleTransformingCock": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformingCock",
-	"struggleTransformingImmuneCock": ":struggleEggifyImmuneBelly",
-	"struggleDigestImmuneCock": ":struggleAcidDigestImmune",
-	"struggleTransformingImmuneBalls": ":struggleEggifyImmuneBelly",
-	"struggleDigestImmuneBalls": ":struggleAcidDigestImmune",
-	"oralVoreLetoutForcedTransforming": ":struggleEggifyImmuneBelly",
-	"oralVoreLetoutForcedEggifyImmune": [
-		"Don't want to be trapped in an egg?",
-		"You don't like eggs?"
-	],
-	"oralVoreLetoutForcedEggify": ":struggleEggifyImmuneBelly",
-	"struggling.default.default.default.default.default.default": [
-		[
-			"Running Wiggly_wggles.exe!",
-			"I can at least see thanks to my LED lights",
-			"Just because you ate me, don't mean i won't try to get out!, even if i don't want too....",
-			"Just because i taste like blueberries, don't mean i'm a snack, darn it!"
-		]
-	],
-	"struggling.default.default.default.shy.default.default": "/npcs/sbq/dialogue/shy.dialogue:struggling",
-	"strugglingSlimeDigest": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:strugglingSlimeDigest",
-	"strugglingTransformedWomb": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingTransformedWomb",
-	"strugglingEggifyImmuneWomb": ":strugglingEggify",
-	"defaultUnprompted": [
-		"wait, why are you looking at m- AH!",
-		"what are you doing exact- MMMPH!"
-	],
-	"unbirthVoreUnprompted": ":cockVoreUnprompted",
-	"escape.default.default.true.default.default.default": [
-		"Sweet freedom!",
-		"ah, fresh air, but i'm sad to leave too...",
-		"all things must end, but it can begin again too~"
-	],
-	"escape.default.default.false.default.default.default": [
-		"I wiggled my way out! don't underestimate me~",
-		"Nothing can hold me down! but i'm glad you tried~"
-	],
-	"converse.options.0.1": [
-		"Oh! well i'm a friendly synth boi, with a chill vide and a desire to help others whenever i can, i also like to keep friends close...",
-		"By stuffing them inside me~",
-		"Also, i like getting stuffed in friends, they tell me i taste like blueberries~",
-		"Also also, i am obsessed with the color blue, i like everything blue, my house, my body, my food, my air, all of it, blue makes my world go around!",
-		"And lastly, i used to be a fluffy toaster, but due to something that WAS NOT my fault(i think..), i got a huge bounty on my head, so i'm livin' the synth life till things cool down..."
-	],
-	"converse.options.1.1": [
-		"Oh of course! now running warm_hug.exe!"
-	],
-	"converse.options.2.1.default": [
-		"It's in containment mode, which means it will simple hold you snuggly inside, completer safe to enter~"
-	],
-	"converse.options.2.1.sbq_acidHeal": [
-		"It's in restoration mode, meaning you'll not only be safe, warm, and wet inside me, but your wounds will mend too! i'ma mobile med-bay~."
-	],
-	"converse.options.2.1.sbqDigest": [
-		"It's in fueling mode, WARNING: this means i'll melt ya down into bio-fuel if you go inside, so stay clear... unless you want to be fuel?"
-	],
-	"converse.options.2.1.sbq_softDigest": [
-		"It's in suppression mode, that means your body be softened up almost completely inside me, but it won't completely break you down~"
-	]
+  "greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
+  "greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
+  "greeting": [
+    "你好,朋友,最近怎么样？",
+    "哔哔啵啵！",
+    "提醒一下,我可不是游戏机,但我确实下载了一些游戏",
+    "嗯？你需要什么吗？"
+  ],
+  "greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
+  "greetingIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingIntroduced",
+  "crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
+  "fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
+  "crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
+  "rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
+  "rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
+  "rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards",
+  "rewardNotifyHighValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyHighValueQuestRewards",
+  "oralVoreRequested": [
+    "正在运行 NOM_NOM.exe",
+    "我就知道你迟早会问～",
+    "想 驾驶 这个合成体,嗯？",
+    "我怎么能拒绝你这样的朋友呢？进来吧～"
+  ],
+  "oralVoreRequestedAfter": [
+    "嗯…… 美味的noms",
+    "你真是个美味的朋友！",
+    "不用系安全带,我已经把你紧紧固定住了～",
+    "哦耶！你把我填得满满的"
+  ],
+  "oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid",
+  "defaultNo": [
+    "我正在更新,稍后再问我",
+    "传感器显示我的肚子不需要零食,抱歉",
+    "我现在不行,系统正在维护",
+    "我通常很乐意吃点零食,但现在不行"
+  ],
+  "oralVoreTooBig": ":tooBig",
+  "oralVoreTooSmall": ":tooSmall",
+  "tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
+  "oralVoreNoSlots": ":noSlots",
+  "noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
+  "oralVoreFull": [
+    "已满员,抱歉",
+    "我的腹部模块设计无法容纳更多,抱歉",
+    "我已经到极限了,如果你愿意,我可以给你标记为下一个",
+    "我很想,但系统几乎要过载了,实在不行"
+  ],
+  "oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
+  "oralVoreTargetPreySettingsMismatch": "/npcs/sbq/dialogue/default.dialogue:oralVoreTargetPreySettingsMismatch",
+  "targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "analVoreRequested": [
+    "我的尾洞？嗯…… 感觉会很不错,过来吧！~",
+    "哦？我的排泄口非常欢迎你,扭动着进来吧～",
+    "好吧,希望你不介意里面有点紧！我觉得你不会介意的～",
+    "你知道吗？没错！进到我的合成体洞里来～"
+  ],
+  "analVoreRequestedAfter": [
+    "啊～希望我没夹得太紧…… 或者太松～",
+    "嗯～我喜欢别人走后门～",
+    "嘿～你可能会发现后面有股蓝莓的香味～",
+    "哦哦～那种扭动！让我的传感器在各种正确的方式下闪烁～"
+  ],
+  "analVoreInvalid": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:analVoreInvalid",
+  "analVoreNo": ":defaultNo",
+  "oralVoreNo": ":defaultNo",
+  "analVoreTooBig": ":tooBig",
+  "tooBig": "/npcs/sbq/dialogue/default.dialogue:tooBig",
+  "analVoreTooSmall": ":tooSmall",
+  "analVoreNoSlots": ":noSlots",
+  "analVoreFull": "/npcs/sbq/dialogue/default.dialogue:analVoreFull",
+  "analVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "analVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "cockVoreRequested": [
+    "我也正这么想呢！ 来  这儿～",
+    "这么主动！当然,让我带你去你的 私人  房间～",
+    "很高兴我对身体做了些改装,能让我,呃,把你装进去,那我们开始吧",
+    "根据我的计算:这会是一场很淫荡的乐趣～"
+  ],
+  "cockVoreRequestedAfter": [
+    "啊啊～哦哦,感觉真好～",
+    "嗯嗯～那里是我最敏感的传感器～",
+    "哦哦～当  鸡巴点心  感觉怎么样？我肯定你很喜欢～",
+    "啊 - 啊啊～你在里面扭动让我充满了愉悦感～"
+  ],
+  "cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
+  "cockVoreNo": ":defaultNo",
+  "cockVoreTooBig": ":tooBig",
+  "cockVoreTooSmall": ":tooSmall",
+  "cockVoreNoSlots": ":noSlots",
+  "cockVoreFull": "/npcs/sbq/dialogue/default.dialogue:cockVoreFull",
+  "cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+  "cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "bellyInfuseRequested": [
+    "嗯,你这么喜欢我的肚子…… 你想成为它的一部分吗？",
+    "你想变成我的肚子？",
+    "你想成为我的一部分……？"
+  ],
+  "bellyInfuseRequestedAfter": [
+    "啊…… 你在这儿呢…… 现在只是我的肚子了",
+    "现在只是我的一部分了",
+    "尽量别让我太饿……"
+  ],
+  "bellyInfuseInvalid": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:bellyInfuseInvalid",
+  "bellyInfuseNo": ":defaultNo",
+  "bellyInfuseTooBig": ":tooBig",
+  "bellyInfuseTooSmall": ":tooSmall",
+  "bellyInfuseNoSlots": ":noSlots",
+  "bellyInfuseFull": ":breastInfuseFull",
+  "full": ":breastInfuseFull",
+  "bellyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "bellyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "breastInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:breastInfuseRequested",
+  "breastInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:breastInfuseRequestedAfter",
+  "breastInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseInvalid",
+  "breastInfuseNo": ":defaultNo",
+  "breastInfuseTooBig": ":tooBig",
+  "breastInfuseTooSmall": ":tooSmall",
+  "breastInfuseNoSlots": ":noSlots",
+  "breastInfuseFull": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseFull",
+  "breastInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "breastInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "pussyInfuseRequested": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfuseRequested",
+  "pussyInfuseRequestedAfter": [
+    "呵呵,我已经感觉到你兴奋得湿透了～",
+    "呵呵,兴奋地想成为我的一部分～？",
+    "啊,你已经兴奋得湿漉漉的了～"
+  ],
+  "pussyInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfuseInvalid",
+  "pussyInfuseNo": ":defaultNo",
+  "pussyInfuseTooBig": ":tooBig",
+  "pussyInfuseTooSmall": ":tooSmall",
+  "pussyInfuseNoSlots": ":noSlots",
+  "pussyInfuseFull": ":breastInfuseFull",
+  "pussyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "pussyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "cockInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:cockInfuseRequested",
+  "cockInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:cockInfuseRequestedAfter",
+  "cockInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockInfuseInvalid",
+  "cockInfuseNo": ":defaultNo",
+  "cockInfuseTooBig": ":tooBig",
+  "cockInfuseTooSmall": ":tooSmall",
+  "cockInfuseNoSlots": ":noSlots",
+  "cockInfuseFull": ":breastInfuseFull",
+  "cockInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
+  "cockInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+  "oralVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutRequested",
+  "analVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutRequested",
+  "cockVoreLetoutRequested": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutRequested",
+  "oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
+  "oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
+  "oralVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYesAfter",
+  "oralVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNo",
+  "oralVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYes",
+  "oralVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptNoYesAfter",
+  "analVorePrompt": "/npcs/sbq/dialogue/default.dialogue:analVorePrompt",
+  "analVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:analVorePromptYes",
+  "analVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:analVorePromptYesAfter",
+  "analVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNo",
+  "analVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNoYes",
+  "analVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNoYesAfter",
+  "cockVorePrompt": "/npcs/sbq/dialogue/default.dialogue:cockVorePrompt",
+  "cockVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYes",
+  "cockVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptYesAfter",
+  "cockVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNo",
+  "cockVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYes",
+  "cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
+  "oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
+  "oralVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingYes",
+  "oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
+  "oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
+  "analVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:analVoreRequesting",
+  "analVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:analVoreRequestingYes",
+  "analVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:analVoreRequestingNo",
+  "analVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:analVoreRequestingNoYes",
+  "cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
+  "cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
+  "cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
+  "cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
+  "oralVoreNoPrompt": [
+    "我的传感器显示我饿了,而你被指定为零食",
+    "错误！检测到饥饿,正在解决问题～",
+    "别介意我,我只是要独自享用你～",
+    "你看起来很冷,让我免费为你提供保暖服务！"
+  ],
+  "oralVoreNoPromptAfter": [
+    "嗯嗯嗯嗯嗯…… 美味的零食～",
+    "错误已解决,正在舒适享受～",
+    "全是我的,别担心,我是个温柔的机器人兄弟～",
+    "感觉舒服点了吗？我知道我很舒服～"
+  ],
+  "analVoreNoPrompt": [
+    "我的传感器显示我饿了,而你被指定为 屁股零食 ",
+    "嘿…… 听着,我要从另一个入口把你…… 马上～",
+    "我急需维护,你得从第二个入口进去～",
+    "你可以咬我那闪亮的金属屁股！…… 然后也进去～"
+  ],
+  "analVoreNoPromptAfter": ":analVoreRequestedAfter",
+  "cockVoreNoPrompt": [
+    "我要把你放在一个相当淫荡的地方,别介意这个合成体,呵呵～",
+    "别惊慌,但我要把你放进合成体的  种子浴  里,你会喜欢的,我确定～",
+    "计算这个的时候我有点兴奋,所以现在我得这么做～",
+    "我需要你帮我测试一下系统,别担心,你会享受的～"
+  ],
+  "cockVoreNoPromptAfter": [
+    "哦哦～正好在你该在的地方～",
+    "嗯嗯～我觉得你会在那儿 炖 一会儿～",
+    "哦耶～我把你塞进去是对的,感觉不错,对吧？~",
+    "啊 - 啊啊～正如我所想,感觉真的很愉悦～"
+  ],
+  "bellyInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseNoPrompt",
+  "bellyInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseNoPromptAfter",
+  "breastInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPrompt",
+  "breastInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPromptAfter",
+  "pussyInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseNoPrompt",
+  "pussyInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseNoPromptAfter",
+  "cockInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:cockInfuseNoPrompt",
+  "cockInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:cockInfuseNoPromptAfter",
+  "tailInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPrompt",
+  "tailInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPromptAfter",
+  "oralVoreUnprompted": [
+    "你为什么流口水？等等,你该不会是 - 唔！",
+    "你看起来很饿,你是不是要 - 啊！",
+    "我可能看起来像个零食,但我不是 - 哇！",
+    "你想吃蓝莓吗？…… 等等 - 唔！"
+  ],
+  "analVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:analVoreUnprompted",
+  "cockVoreUnprompted": [
+    "呜呜",
+    "哦,我的天！",
+    "你要把我放进你的 - 哇！",
+    "你要把我放进那里？可我塞不进去 - 唔！",
+    "太淫荡了！你不能就这么 - 唔！"
+  ],
+  "oralVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutUnpromptedAfter",
+  "analVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutUnpromptedAfter",
+  "cockVoreLetoutUnpromptedAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutUnpromptedAfter",
+  "oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
+  "analVoreForcing": {
+    "percentage": "sbqLust",
+    "pools": [
+      [
+        "别介意,我只是要舒舒服服地钻进你的屁股里～"
+      ],
+      [
+        "不想在你面前出丑,但我要把自己塞进你的屁股里！"
+      ],
+      [
+        "你最好背对着我,因为我要瞄准你的屁股,走后门～"
+      ],
+      [
+        "就为我弯下腰吧,我太想进入你的屁股了,我一定要进去！"
+      ]
+    ]
+  },
+  "cockVoreForcing": {
+    "percentage": "sbqLust",
+    "pools": [
+      [
+        "我有种冲动,就想…… 顺着你的阴茎滑下去！"
+      ],
+      [
+        "我要顺着这根 杆子 下去,我说的 杆子 就是你的阴茎～"
+      ],
+      [
+        "我感受到你阴茎的召唤,它想让我进去,我怎敢拒绝？"
+      ],
+      [
+        "我渴望进入你那根淫荡的 棍子 里,放松点,快让我进去！"
+      ]
+    ]
+  },
+  "oralVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutForcingAfter",
+  "analVoreLetoutForcingAfter": [
+    "我成功从你的屁股里挤出来了！"
+  ],
+  "cockVoreLetoutForcingAfter": [
+    "嗯,看来我从你的阴茎里扭动出来了！"
+  ],
+  "oralVoreForced": {
+    "percentage": "food",
+    "pools": [
+      [
+        "呃,没想到会这样……！我只是想问你有没有吃的……",
+        "咕噜,记住了…… 别让猎物听到我饿肚子的*咕噜声*……",
+        "唔…… 我不该不吃午饭的…… 人们就这么…… 直接跳进来了,"
+      ],
+      [
+        "呃呃,这可不是我原本想的解决饥饿的办法,但你确实很 顶饱,",
+        "哈 - 啊…… 很好笑…… 现在,你什么时候出去？",
+        "呃…… 你在强迫我张嘴之前,给点警告会好点,"
+      ],
+      [
+        "呃,我本来应该节食的,不过你尝起来确实不错,",
+        "哦！这是不是有点太直接了？",
+        "嘿,你应该先请我吃顿饭,再 - 哦,"
+      ],
+      [
+        "呼,我还以为你说请我吃零食是开玩笑呢！",
+        "啊,这就是你打招呼的方式？",
+        "*吞咽声*,是我说错什么了吗？"
+      ]
+    ]
+  },
+  "analVoreForced": "/npcs/sbq/dialogue/default.dialogue:analVoreForced",
+  "cockVoreForced": {
+    "percentage": "sbqLust",
+    "pools": [
+      [
+        "嗯,也许我以后得多系条皮带,免得别人随便往我阴茎里钻,嗯……",
+        "呼…… 你知道,你真的应该先问问再往我阴茎里塞……"
+      ],
+      [
+        "啊啊啊～！我其实希望你先问一下再钻进我的阴茎…… 但我本来就有点饥渴,所以这次就算了,",
+        "呼～！天哪,你往我阴茎里钻之前给个警告会更好！",
+        "啊哈哈哈哈～…… 你刚才是…… 把自己塞进我的阴茎里了？"
+      ],
+      [
+        "啊啊～你还真是个 自大 的小家伙呢？因为你这么大胆,我就先让你待着,",
+        "嗯嗯～我正有点兴奋呢,所以不会把你弄出来,但下次能不能先警告我一声？",
+        "嘿嘿嘿,看来我 运气真好 ,我刚还想着把人塞进我的阴茎里呢～所以我就好好享受你的自发性吧～"
+      ],
+      [
+        "啊～嗯嗯嗯～你就这么走过来,直接滑进我的阴茎里了,是吧～？",
+        "嗯嗯…… 我就知道把硬邦邦的阴茎露在外面会吸引像你这样的人～",
+        "嗯嗯～嗯嗯啊啊～！我都快射了,你就钻进来了！小色鬼～"
+      ]
+    ]
+  },
+  "oralVoreLetoutForced": [
+    "正在运行反刍程序.exe",
+    "随时欢迎回来,我很乐意再接纳你～",
+    "嗯…… 好吧,你可以离开了,跟着灯光走",
+    "哎呀,好吧,等你在外面玩腻了,再来看我,好吗？"
+  ],
+  "analVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutForced",
+  "cockVoreLetoutForced": [
+    "啊～啊,感觉太棒了～",
+    "受不了这  热度  了？好吧,等你冷静下来,欢迎再回来～",
+    "嗯～要去别的地方吗？行,但别告诉别人你刚才在哪儿,除非他们也喜欢这种事～",
+    "哦 - 哦！你滑出来了,那回头见咯,阴茎扭动者～",
+    "这么快就走啦？哦,好吧,但你最好  快点回来 ,我还有更多笑话呢！"
+  ],
+  "struggleBelly": [
+    "玩得开心吗？我的内部构造可是专为享受设计的～",
+    "你可真是个爱扭动的家伙,我可没抱怨哦～",
+    "我的金属肚子很结实,所以你尽管扭动,不会影响到我的～"
+  ],
+  "struggleWomb": [
+    "哦,感觉真好！继续动,",
+    "我的子宫比你想象的更难出来,是吧？"
+  ],
+  "struggleTail": "/npcs/sbq/dialogue/default.dialogue:struggleTail",
+  "struggleBreasts": "/npcs/sbq/dialogue/default.dialogue:struggleBreasts",
+  "struggleBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleBreastsShirt",
+  "strugglePussy": "/npcs/sbq/dialogue/default.dialogue:strugglePussy",
+  "struggleCock": [
+    "哦 - 哦？！小心点！你可能会滑得更深,除非你想这样,那就请便～",
+    "里面很热吗？我得承认,确实挺热的～",
+    "天 - 呐！你在里面的感觉真是…… 太棒了～"
+  ],
+  "struggleBalls": [
+    "你在里面  玩得开心  吗？呵呵～",
+    "哇！你在里面  疯狂扭动  呢！嘿～",
+    "感觉你在里面扭动真不错,你应该  多来几次 ,嘿～",
+    "他们怎么说来着？朋友都 存 在蛋蛋里？我同意～"
+  ],
+  "struggleAss": "/npcs/sbq/dialogue/default.dialogue:struggleAss",
+  "struggleAcidHeal": [
+    "我的  医疗舱  怎么样,哈！明白这个梗吧？（注:这里原文是med-bay-ly,我没看懂.A）",
+    "所有舒适程序都运行正常,你应该感觉很棒～",
+    "我会确保你完全康复,但即使你已经好了,也可以留下来～"
+  ],
+  "struggleFemcumHeal": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumHeal",
+  "struggleCumHeal": ":struggleAcidHeal",
+  "struggleMilkHeal": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:struggleMilkHeal",
+  "struggleMiscHeal": ":struggleAcidHeal",
+  "struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
+  "struggleAcidDigest": [
+    "是时候把你熔化成生物燃料了,",
+    "乖乖当块电池,熔化吧,"
+  ],
+  "struggleAcidDigestImmune": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleAcidDigestImmune",
+  "struggleCumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigest",
+  "struggleCumDigestBalls": ":struggleCumDigest",
+  "struggleCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestImmune",
+  "struggleFemcumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigest",
+  "struggleFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigestImmune",
+  "struggleMilkDigest": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigest",
+  "struggleMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestBreastsShirt",
+  "struggleMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestImmune",
+  "struggleMiscDigest": ":struggleAcidDigest",
+  "struggleMiscDigestImmune": ":struggleAcidDigestImmune",
+  "struggleTransforming": "/npcs/sbq/dialogue/default.dialogue:struggleTransforming",
+  "struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
+  "struggleEggify": "/npcs/sbq/LokiVulpix/Clover/npc.dialogue:struggleEggify",
+  "anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
+  "thighsInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:thighsInfusedOccupant",
+  "bellyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:bellyInfusedOccupant",
+  "breastInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:breastInfusedOccupant",
+  "pussyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pussyInfusedOccupant",
+  "cockInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:cockInfusedOccupant",
+  "pawInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pawInfusedOccupant",
+  "tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant",
+  "strugglingBelly": [
+    [
+      "嗯嗯,根据我的计算,相当舒服～",
+      "哦,你的肚子似乎很适合我,我在里面好舒服～",
+      {
+        "check": {
+          "bellySounds": true
+        },
+        "add": [
+          "你的肚子发出的咕噜声对我的听觉接收器来说太舒缓了～",
+          "嗯…… 我应该把这些声音保存到记忆里,这样就能播放着入睡了～"
+        ]
+      }
+    ],
+    {
+      "check": {
+        "predator": [
+          "sbqVaporeon",
+          "vaporeon"
+        ]
+      },
+      "add": [
+        "这是不是意味着…… 你抓住我了？",
+        "你的身体很有趣,就像被水床挤压着～"
+      ]
+    }
+  ],
+  "strugglingWomb": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingWomb",
+  "strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
+  "strugglingBreasts": "/npcs/sbq/dialogue/default.dialogue:strugglingBreasts",
+  "strugglingBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingBreastsShirt",
+  "strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
+  "strugglingCock": [
+    "啊～你这紧紧的感觉在考验我的抗压能力呢",
+    "我还是会拼命扭动的,所以别  自大  哦,嘿～",
+    "这太淫荡了！~ 我可不是玩具,就算我看起来像,而且也喜欢被当成玩具对待～"
+  ],
+  "strugglingBalls": [
+    "这太淫荡了！但我喜欢～…… 我要把这个想法存进一个秘密文件里……",
+    "被存放在这里…… 这是不是意味着我们是朋友了？！~",
+    "当你说  一起玩  时,我没想到你指的是这个,但我不抱怨～",
+    "我很高兴有个先进的冷却系统,因为这里超级热～"
+  ],
+  "strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
+  "strugglingAcidHeal": [
+    [
+      "啊…… 好舒服,",
+      "我真不敢相信你的治愈能力,连我的金属部件都能修复～",
+      "舒适度 100%,修复剩余时间…… 嗯,等我小睡一会儿再说吧？",
+      {
+        "check": {
+          "bellySounds": true
+        },
+        "add": [
+          "你的肚子发出的咕噜声对我的听觉接收器来说太舒缓了～",
+          "嗯…… 我应该把这些声音保存到记忆里,这样就能播放着入睡了～"
+        ]
+      }
+    ],
+    {
+      "check": {
+        "predator": [
+          "sbqVaporeon",
+          "vaporeon"
+        ]
+      },
+      "add": [
+        "这个肚子里的液体就像治愈之水！感觉太棒了"
+      ]
+    }
+  ],
+  "strugglingFemcumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumHeal",
+  "strugglingCumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumHeal",
+  "strugglingMilkHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkHeal",
+  "strugglingMiscHeal": ":strugglingAcidHeal",
+  "strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
+  "strugglingAcidDigest": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:strugglingAcidDigest",
+  "strugglingAcidDigestImmune": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingAcidDigestImmune",
+  "strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest",
+  "strugglingCumDigestBalls": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumDigestBalls",
+  "strugglingCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestImmune",
+  "strugglingFemcumDigest": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumDigest",
+  "strugglingFemcumDigestImmune": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingFemcumDigestImmune",
+  "strugglingMilkDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigest",
+  "strugglingMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestBreastsShirt",
+  "strugglingMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestImmune",
+  "strugglingMiscDigest": ":strugglingAcidDigest",
+  "strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
+  "strugglingTransforming": "/npcs/sbq/dialogue/default.dialogue:strugglingTransforming",
+  "strugglingDrainEnergy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingDrainEnergy",
+  "strugglingEggify": "/npcs/sbq/dialogue/default.dialogue:strugglingEggify",
+  "anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused",
+  "thighsInfused": "/npcs/sbq/dialogue/default.dialogue:thighsInfused",
+  "bellyInfused": "/npcs/sbq/dialogue/default.dialogue:bellyInfused",
+  "breastInfused": "/npcs/sbq/dialogue/default.dialogue:breastInfused",
+  "pussyInfused": "/npcs/sbq/dialogue/default.dialogue:pussyInfused",
+  "cockInfused": "/npcs/sbq/dialogue/default.dialogue:cockInfused",
+  "pawInfused": "/npcs/sbq/dialogue/default.dialogue:pawInfused",
+  "tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused",
+  "climax": "/npcs/sbq/dialogue/default.dialogue:climax",
+  "climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb",
+  "climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts",
+  "climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
+  "climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
+  "shrinking": "/npcs/sbq/dialogue/default.dialogue:shrinking",
+  "growing": "/npcs/sbq/dialogue/default.dialogue:growing",
+  "didSteppy": "/npcs/sbq/dialogue/default.dialogue:didSteppy",
+  "gotStepped": "/npcs/sbq/dialogue/default.dialogue:gotStepped",
+  "gotStomped": "/npcs/sbq/dialogue/default.dialogue:gotStomped",
+  "vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
+  "oralVoreDigestFull": [
+    "正在进行燃料补充:等我处理完这个,就轮到你了",
+    "嗝！\n 燃料补充完成还需要一点时间,之后你就是我的了～",
+    "我吃了这个,电池差不多快满了,但等我处理完,就能把你也 装 进来",
+    "我得先把这顿饭消化完,"
+  ],
+  "oralVoreCompressionFull": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreCompressionFull",
+  "needsInfusion": ":oralVoreNeedsInfusion",
+  "struggle": ":struggleBelly",
+  "struggleHeal": ":struggleAcidHeal",
+  "struggleDigestCock": ":struggleFemcumDigest",
+  "oralVoreLetoutForcedDigest": [
+    "真讨厌…… 我还饿着呐,",
+    "别往心里去,好吗？",
+    "拜托,你都快 消化 完了……",
+    "要是你不那么能反抗就好了……"
+  ],
+  "oralVoreLetoutForcedDigestImmune": "/npcs/sbq/AkariKaen/Akari/npc.dialogue:oralVoreLetoutForcedSoftDigestImmune",
+  "oralVoreLetoutForcedSoftDigest": [
+    "真可恶…… 我饿着呢,反正你也不会有事,",
+    "别生气哈？我又没打算把你完全 消化 掉……",
+    "拜托,你都快 消化 完了……",
+    "要是你不那么能反抗就好了……"
+  ],
+  "oralVoreLetoutForcedHeal": [
+    "你知道待在我身体里更安全,对吧？",
+    "你真的…… 确定要出来吗？",
+    "我通过传感器知道你已经痊愈了…… 但看到你离开,我还是很难过,",
+    "你随时都能回来,再次恢复健康并被 储存 起来,"
+  ],
+  "oralVoreLetoutRequestedDigested": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreLetoutRequestedDigested",
+  "oralVoreLetoutRequestedDigest": [
+    "其实…… 你在里面待的时间够长了,",
+    "我现在已经不那么饿了,",
+    "或许最好还是把你弄出来……",
+    "不想把你完全融化掉,"
+  ],
+  "oralVoreLetoutRequestedDigestImmune": [
+    "我根本就没法把你融化掉……",
+    "有你在里面,我的饥饿感也无法缓解,",
+    "或许最好还是把你弄出来,这样我就能吃点别的了,",
+    "连一点点都融化不了你,"
+  ],
+  "oralVoreLetoutRequestedSoftDigest": ":oralVoreLetoutRequestedDigest",
+  "oralVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutRequestedHeal",
+  "analVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
+  "analVoreLetoutRequestedDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutRequestedDigest",
+  "analVoreLetoutRequestedDigestImmune": [
+    "那就从我的 出口 出去吧,反正它也没法把你软化,",
+    "你可以走了,因为我的  底部 根本没法融化你,"
+  ],
+  "analVoreLetoutRequestedSoftDigest": ":analVoreLetoutRequestedDigest",
+  "analVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutRequestedHeal",
+  "tailVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
+  "navelVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
+  "absorbVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
+  "cockVoreLetoutRequestedDigest": [
+    "嗯…… 也许我不会把你完全融化掉……"
+  ],
+  "cockVoreLetoutRequestedDigestImmune": [
+    "我好像没法把你融化…… 所以放你走吧,"
+  ],
+  "cockVoreLetoutRequestedSoftDigest": ":cockVoreLetoutRequestedDigest",
+  "cockVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutRequestedHeal",
+  "unbirthVoreLetoutRequestedDigest": [
+    "嗯…… 在你完全融化成液体之前,先停一下吧,嘿嘿～"
+  ],
+  "unbirthVoreLetoutRequestedDigestImmune": [
+    "看起来你不会融化,所以我要把你放出来,"
+  ],
+  "unbirthVoreLetoutRequestedSoftDigest": ":unbirthVoreLetoutRequestedDigest",
+  "unbirthVoreLetoutRequestedHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutRequestedHeal",
+  "strugglingSlime": [
+    "这情况可真黏糊！",
+    "被困住了…… 逃脱的可能性:渺茫……",
+    "希望这只是这家伙表达亲热的方式……"
+  ],
+  "strugglingSlimeDigestImmune": [
+    [
+      "嘿,想把我融成更多黏液？",
+      "嘿,想把我融成更多黏液？\n 那可不管用,"
+    ],
+    "抱歉,我可溶解不了,",
+    "你得再加把劲才能把我吸收掉,"
+  ],
+  "strugglingSlimeHeal": [
+    "奇怪,这黏液好像有修复的功效…… 而且感觉还不错～",
+    "啊…… 我不太能动,但这黏液好像很友好,所以待在这儿也不算太糟,我想",
+    "嗯嗯…… 我想我能习惯这种感觉…… 有了这 抱抱黏液 ,还要什么维修舱～"
+  ],
+  "strugglingSlimeTransforming": [
+    "啊…… 我正在变成黏液……",
+    "感觉我的四肢都在变成果冻……"
+  ],
+  "strugglingTransformingBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:strugglingTransformingBelly",
+  "strugglingTransformingWomb": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingTransformingWomb",
+  "oralVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutForcingAfterDigest",
+  "oralVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutForcingAfterDigestImmune",
+  "oralVoreLetoutForcingAfterSoftDigest": ":oralVoreLetoutForcingAfterDigest",
+  "oralVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutForcingAfterHeal",
+  "analVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutForcingAfterDigest",
+  "analVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutForcingAfterDigestImmune",
+  "analVoreLetoutForcingAfterSoftDigest": ":analVoreLetoutForcingAfterDigest",
+  "analVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:analVoreLetoutForcingAfterHeal",
+  "tailVoreLetoutForcingAfterDigest": [
+    "呼,我在变成你尾巴的一部分之前挤出来了,"
+  ],
+  "tailVoreLetoutForcingAfterDigestImmune": [
+    "看来我从你尾巴里逃出来了,虽然在里面我也没什么危险,"
+  ],
+  "tailVoreLetoutForcingAfterSoftDigest": ":tailVoreLetoutForcingAfterDigest",
+  "tailVoreLetoutForcingAfterHeal": [
+    "我从你尾巴里扭出来了,哇,在里面待过后,我感觉棒极了！"
+  ],
+  "absorbVoreLetoutForcingAfterDigest": [
+    "谢天谢地,我从你身体里出来了,我差点就成为你的一部分了！"
+  ],
+  "absorbVoreLetoutForcingAfterDigestImmune": [
+    "看来我从你身体里出来了,不过在里面我也没什么危险,"
+  ],
+  "absorbVoreLetoutForcingAfterSoftDigest": ":absorbVoreLetoutForcingAfterDigest",
+  "absorbVoreLetoutForcingAfterHeal": [
+    "我成功从你那舒适的身体里出来了,感觉棒极了！"
+  ],
+  "cockVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutForcingAfterDigest",
+  "cockVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutForcingAfterDigestImmune",
+  "cockVoreLetoutForcingAfterSoftDigest": ":cockVoreLetoutForcingAfterDigest",
+  "cockVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutForcingAfterHeal",
+  "unbirthVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutForcingAfterDigest",
+  "unbirthVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutForcingAfterDigestImmune",
+  "unbirthVoreLetoutForcingAfterSoftDigest": ":unbirthVoreLetoutForcingAfterDigest",
+  "unbirthVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutForcingAfterHeal",
+  "breastVoreLetoutForcingAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutForcingAfterDigest",
+  "breastVoreLetoutForcingAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutForcingAfterDigestImmune",
+  "breastVoreLetoutForcingAfterSoftDigest": ":breastVoreLetoutForcingAfterDigest",
+  "breastVoreLetoutForcingAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutForcingAfterHeal",
+  "oralVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutUnpromptedAfterDigest",
+  "oralVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutUnpromptedAfterDigestImmune",
+  "oralVoreLetoutUnpromptedAfterSoftDigest": ":oralVoreLetoutUnpromptedAfterDigest",
+  "oralVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:oralVoreLetoutUnpromptedAfterHeal",
+  "navelVoreLetoutUnpromptedAfterSoftDigest": [
+    "呼！谢天谢地,你把我从肚脐里推出来了,我差点就被融化了！"
+  ],
+  "absorbVoreLetoutUnpromptedAfterDigest": [
+    "呼,谢谢你把我从你的身体里推出来,我差点就被同化了！"
+  ],
+  "absorbVoreLetoutUnpromptedAfterDigestImmune": [
+    "看来你把我从你的身体里放出来了,你是意识到消化不了我吗？"
+  ],
+  "absorbVoreLetoutUnpromptedAfterSoftDigest": ":absorbVoreLetoutUnpromptedAfterDigest",
+  "absorbVoreLetoutUnpromptedAfterHeal": [
+    "啊,谢谢你让我从你的身体里出来,你的身体包裹并抚慰了我的每一寸,"
+  ],
+  "cockVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutUnpromptedAfterDigest",
+  "cockVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutUnpromptedAfterDigestImmune",
+  "cockVoreLetoutUnpromptedAfterSoftDigest": ":cockVoreLetoutUnpromptedAfterDigest",
+  "cockVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:cockVoreLetoutUnpromptedAfterHeal",
+  "unbirthVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutUnpromptedAfterDigest",
+  "unbirthVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutUnpromptedAfterDigestImmune",
+  "unbirthVoreLetoutUnpromptedAfterSoftDigest": ":unbirthVoreLetoutUnpromptedAfterDigest",
+  "unbirthVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:unbirthVoreLetoutUnpromptedAfterHeal",
+  "breastVoreLetoutUnpromptedAfterDigest": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutUnpromptedAfterDigest",
+  "breastVoreLetoutUnpromptedAfterDigestImmune": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutUnpromptedAfterDigestImmune",
+  "breastVoreLetoutUnpromptedAfterSoftDigest": ":breastVoreLetoutUnpromptedAfterDigest",
+  "breastVoreLetoutUnpromptedAfterHeal": "/npcs/sbq/FFWizard/Helena/npc.dialogue:breastVoreLetoutUnpromptedAfterHeal",
+  "tailInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:tailInfuseRequested",
+  "tailInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseRequestedAfter",
+  "infused": ":anyInfused",
+  "ballsInfused": [
+    "<slowlove>",
+    "<love>",
+    [
+      "<slowlove>(啊…… 我感觉好舒服……~)",
+      "<slowlove>(我就该在这儿,不是吗……~)",
+      "<slowlove>(我只是你的蛋蛋～)",
+      "<slowlove>(啊～里面满是精液晃荡～)",
+      "<slowlove>(我只是  <entityName> 的蛋蛋～)",
+      "<slowlove>(我属于这儿…… 只是  <entityName> 的一部分～)",
+      "<love>(<keysmash>)"
+    ]
+  ],
+  "ballsInfusedOccupant": [
+    [
+      "<love>嘿,我能感觉到你在下面抽搐～",
+      "<love>嘿,我能感觉到你在下面抽搐  <entityName>~"
+    ],
+    [
+      "<love>你喜欢你的新 使命 吗？~",
+      "<love>你喜欢你的新 使命 吗  <entityName>？~"
+    ],
+    [
+      "<love>嗯,下面那些精液晃荡的感觉～",
+      "<love>嗯,下面那些精液晃荡的感觉,你肯定很享受吧  <entityName>~"
+    ],
+    [
+      "<love>你这样可比以前有用多了～",
+      "<love>你这样可比以前有用多了  <entityName>"
+    ]
+  ],
+  "converse": [
+    "我能帮你什么？"
+  ],
+  "oralVoreSoftDigestFull": ":oralVoreFull",
+  "oralVoreOtherFull": ":breastInfuseFull",
+  "struggleTransformedBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformedBelly",
+  "struggleTransformingBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformingBelly",
+  "struggleTransformingImmuneBelly": "Missing: struggleTransformingImmuneBelly <dialoguePath>",
+  "struggleEggedBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggedBelly",
+  "struggleEggifyBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggifyBelly",
+  "struggleEggifyImmuneBelly": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggifyImmuneBelly",
+  "struggleTransformedCock": ":struggleFemcumDigest",
+  "struggleTransformingCock": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformingCock",
+  "struggleTransformingImmuneCock": ":struggleEggifyImmuneBelly",
+  "struggleDigestImmuneCock": ":struggleAcidDigestImmune",
+  "struggleTransformingImmuneBalls": ":struggleEggifyImmuneBelly",
+  "struggleDigestImmuneBalls": ":struggleAcidDigestImmune",
+  "oralVoreLetoutForcedTransforming": ":struggleEggifyImmuneBelly",
+  "oralVoreLetoutForcedEggifyImmune": [
+    "不想被困在蛋里？",
+    "你不喜欢蛋吗？"
+  ],
+  "oralVoreLetoutForcedEggify": ":struggleEggifyImmuneBelly",
+  "struggling.default.default.default.default.default.default": [
+    [
+      "正在运行 “ 扭扭乐.exe”！",
+      "还好有 LED 灯，我至少还能看见",
+      "就算你把我吃了，我也不会放弃逃跑！即便我其实不想逃……",
+      "就因为我尝起来像蓝莓，可不代表我就是零食，可恶！"
+    ]
+  ],
+  "struggling.default.default.default.shy.default.default": "/npcs/sbq/dialogue/shy.dialogue:struggling",
+  "strugglingSlimeDigest": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:strugglingSlimeDigest",
+  "strugglingTransformedWomb": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingTransformedWomb",
+  "strugglingEggifyImmuneWomb": ":strugglingEggify",
+  "defaultUnprompted": [
+    "等等，你为什么看着我 - 啊！",
+    "你到底在干什么 - 唔！"
+  ],
+  "unbirthVoreUnprompted": ":cockVoreUnprompted",
+  "escape.default.default.true.default.default.default": [
+    "甜蜜的自由！",
+    "啊，新鲜空气，但离开也有点不舍……",
+    "万物皆有终结，但也能重新开始～"
+  ],
+  "escape.default.default.false.default.default.default": [
+    "我扭动着逃出来啦！别小看我～",
+    "没什么能困住我！但还是很高兴你尝试了～"
+  ],
+  "converse.options.0.1": [
+    "哦！我是个友好的合成体男孩，性格随和，随时都想帮助别人，而且我喜欢和朋友亲密接触……",
+    "通过把他们塞进我身体里～",
+    "另外，我也喜欢被朋友 “ 塞进去 ”，他们说我尝起来像蓝莓～",
+    "还有还有，我痴迷于蓝色，我喜欢所有蓝色的东西，我的房子、我的身体、我的食物、我的空气，所有的一切，蓝色让我的世界转动！",
+    "最后，我以前是个毛茸茸的烤面包机，但由于一些…… 我觉得不是我的错的事，我被悬赏了一大笔钱，所以我现在以合成体的身份生活，直到风头过去。"
+  ],
+  "converse.options.1.1": [
+    "哦，当然！现在运行 “ 温暖拥抱.exe”！"
+  ],
+  "converse.options.2.1.default": [
+    "它处于 “ 容纳模式”，这意味着它只会舒适地把你抱在里面，进去绝对安全～"
+  ],
+  "converse.options.2.1.sbq_acidHeal": [
+    "它处于 “ 恢复模式”，这意味着你在我身体里不仅安全、温暖、湿润，而且伤口还能愈合！我就是个移动医疗舱～"
+  ],
+  "converse.options.2.1.sbqDigest": [
+    "它处于 “ 燃料补充模式”，警告：这意味着如果你进去，我会把你熔化成生物燃料，所以离远点…… 除非你想变成燃料？"
+  ],
+  "converse.options.2.1.sbq_softDigest": [
+    "它处于 “ 压制模式”，这意味着你的身体在我里面会被几乎完全软化，但不会被彻底分解～"
+  ]
 }

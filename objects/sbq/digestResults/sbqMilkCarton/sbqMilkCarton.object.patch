@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一个大奶盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "奶盒"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPredPrey/0",
+    "value": "一个<predName>牌的奶盒。\n侧面印有<preyName>的脸。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPrey/0",
+    "value": "一个大奶盒。\n侧面印有<preyName>的脸。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceDescPred/0",
+    "value": "一个<predName>牌的牛奶盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPredPrey",
+    "value": "<preyName>风味的奶"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPrey",
+    "value": "<preyName>风味的奶"
+  },
+  {
+    "op": "replace",
+    "path": "/replaceShortDescPred",
+    "value": "<predName>的奶"
+  }
+]

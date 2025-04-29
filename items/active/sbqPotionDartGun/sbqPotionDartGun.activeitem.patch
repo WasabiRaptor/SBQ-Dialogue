@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "发射浸泡在另一只手持有的药水中的飞镖。",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "变形飞镖枪",
+    "path": "/shortdescription"
+  }
+]

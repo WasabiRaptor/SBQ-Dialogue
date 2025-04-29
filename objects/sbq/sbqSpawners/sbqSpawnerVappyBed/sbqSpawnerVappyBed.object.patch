@@ -1,0 +1,12 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "水床",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一种特定的鱼猫喜欢的特殊水床。",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,17 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "似乎在经历了多次剧烈的DNA变化后，你获得了自由变形为你曾经变成过的任何物种的能力。\n^#AAA;（变形技术已解锁）",
+    "path": "/sbqTransformUnlocked/text"
+  },
+  {
+    "op": "replace",
+    "value": "看起来你的DNA被重写了，但我仍然能检测到你原始DNA的痕迹，可能可以恢复。",
+    "path": "/sbqTransformedFirst/text"
+  },
+  {
+    "op": "replace",
+    "value": "然而，我也检测到你的DNA存在不稳定性，我建议你不要再进行进一步的变形，特别是不要变成^yellow;7^reset;不同的物种，没有特别的原因。",
+    "path": "/sbqTransformedHint/text"
+  }
+]

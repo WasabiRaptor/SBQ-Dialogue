@@ -1,0 +1,17 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "我累死了！你能把我带回<questGiver>那里吗？",
+    "path": "/sbq_escort_vore/found/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "我几乎动不了……我该怎么回到<questGiver>那里呢？",
+    "path": "/sbq_escort_vore/found/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "你觉得你能带我回<questGiver>那里吗？",
+    "path": "/sbq_escort_vore/found/default/default/2"
+  }
+]

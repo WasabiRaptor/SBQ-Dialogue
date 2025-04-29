@@ -1,0 +1,7 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "SBQ设置",
+    "path": "/items/starbecue:playerSettings/label"
+  }
+]

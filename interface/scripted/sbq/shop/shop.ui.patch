@@ -1,0 +1,22 @@
+﻿[
+  {
+    "op": "replace",
+    "value": "商店",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": " ",
+    "path": "/children/1/children/0/children/2/children/2/children/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "1",
+    "path": "/children/1/children/0/children/2/children/5/children/2/text"
+  },
+  {
+    "op": "replace",
+    "value": ":购买",
+    "path": "/children/1/children/0/children/2/children/5/children/4/caption"
+  }
+]

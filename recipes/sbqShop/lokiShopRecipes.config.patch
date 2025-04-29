@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/toolTip",
+    "value": "家具"
+  },
+  {
+    "op": "replace",
+    "path": "/1/toolTip",
+    "value": "变化"
+  },
+  {
+    "op": "replace",
+    "path": "/2/toolTip",
+    "value": "精华"
+  }
+]
