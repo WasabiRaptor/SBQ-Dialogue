@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Ferri",
+				"subTitle": "meow yarp meow myarp",
+				"description": "Catfox named Ferri. Friendly. Eager to please. Nutritious."
+			},
+			"charGenTextLabels": [
+				"Skin colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Underwear",
+				"Hair colour",
+				"Shirt colour",
+				"Legwear colour",
+				"HUMAN",
+				"Personality"
+			]
+		}
+	}
+]

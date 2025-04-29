@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Flareon",
+				"subTitle": "Floofer",
+				"description": "The floofiest floof."
+			},
+			"charGenTextLabels": [
+				"Underbelly",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Fur colour",
+				"Floof colour",
+				"Shirt colour",
+				"Legwear colour",
+				"Flareon",
+				"Personality"
+			]
+		}
+	}
+]

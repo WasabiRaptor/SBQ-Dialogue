@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Sandy",
+				"subTitle": "The Floatporeon.",
+				"description": "Blub."
+			},
+			"charGenTextLabels": [
+				"Skin colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Underwear",
+				"Hair colour",
+				"Shirt colour",
+				"Legwear colour",
+				"HUMAN",
+				"Personality"
+			]
+		}
+	}
+]

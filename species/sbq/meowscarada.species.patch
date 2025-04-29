@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Meowscarada",
+				"subTitle": "Kitty",
+				"description": "The trickiest grass cat."
+			},
+			"charGenTextLabels": [
+				"Eye colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Mask/Fur",
+				"Ears/Marks",
+				"Shirt colour",
+				"Legwear colour",
+				"Meowscarada",
+				"Personality"
+			]
+		}
+	}
+]

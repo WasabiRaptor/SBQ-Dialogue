@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Meowscarada",
+				"subTitle": "Kitty",
+				"description": "God I want him to do unspeakable things to me... wait how are you reading this, get out of here."
+			},
+			"charGenTextLabels": [
+				"Eye colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Mask/Fur",
+				"Ears/Marks",
+				"Shirt colour",
+				"Legwear colour",
+				"Meowscarada",
+				"Personality"
+			]
+		}
+	}
+]

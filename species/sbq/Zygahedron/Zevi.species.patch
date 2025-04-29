@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Zevi",
+				"subTitle": "Goocat",
+				"description": "Hey you shouldn't be able to see this."
+			},
+			"charGenTextLabels": [
+				"Gas colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"",
+				"Brand",
+				"Shirt colour",
+				"Legwear colour",
+				"NOVAKID",
+				"Personality"
+			]
+		}
+	}
+]

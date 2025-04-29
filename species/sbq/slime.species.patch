@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Slime",
+				"subTitle": "C31H27NO4",
+				"description": "You look half digested. Have you been chasing slimes again?\n-Nurse"
+			},
+			"charGenTextLabels": [
+				"Gel colour",
+				"Gel style",
+				"-",
+				"-",
+				"-",
+				"-",
+				"-",
+				"-",
+				"Slime",
+				"Personality"
+			]
+		}
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Vaporeon",
+				"subTitle": "H20",
+				"description": "Everyone's favorite fishcat."
+			},
+			"charGenTextLabels": [
+				"Primary Color", // body color
+				"-", // hair type
+				"Underbelly Color", // shirt
+				"Ear Finn Color", // pants
+				"Dorsal Finn Color", // alt option - undy color - facial mask
+				"Neck Finn Style", // head option - hair color - facial hair
+				"Flesh Color", // shirt color
+				"Neck Finn Color", // pants color
+				"Vaporeon", // species
+				"Personality" // personality
+			]
+		}
+	}
+]

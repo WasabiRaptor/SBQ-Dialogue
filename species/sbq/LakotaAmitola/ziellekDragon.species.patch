@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Ziellek Dragon",
+				"subTitle": "-",
+				"description": "Long noodle."
+			},
+			"charGenTextLabels": [
+				"Primary Color", // body color
+				"Horns Color", // hair type
+				"Underbelly Color", // shirt
+				"Eye Color", // pants
+				"Accent Color", // undy color
+				"Fluff Color", // hair color
+				"Flesh Color", // shirt color
+				"-", // pants color
+				"Ziellek Dragon", // species
+				"Personality" // personality
+			]
+		}
+	}
+]

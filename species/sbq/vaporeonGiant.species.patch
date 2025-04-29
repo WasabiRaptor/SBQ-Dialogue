@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Giant Vaporeon",
+				"subTitle": "Dihydrogen Monoxide",
+				"description": "Everyone's favorite fishcat, but bigger!"
+			},
+			"charGenTextLabels": [
+				"Primary Color", // body color
+				"-", // hair type
+				"Underbelly Color", // shirt
+				"Ear Finn Color", // pants
+				"Dorsal Finn Color", // alt option - undy color - facial mask
+				"-", // head option - hair color - facial hair
+				"Flesh Color", // shirt color
+				"Neck Finn Color", // pants color
+				"Vaporeon", // species
+				"Personality" // personality
+			]
+		}
+	}
+]

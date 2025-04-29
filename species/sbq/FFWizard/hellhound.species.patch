@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Hellhound",
+				"subTitle": "S8",
+				"description": "I hear they're pretty hot."
+			},
+			"charGenTextLabels": [
+				"Skin colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Underwear",
+				"Hair colour",
+				"Shirt colour",
+				"Legwear colour",
+				"Hellhound",
+				"Personality"
+			]
+		}
+	}
+]

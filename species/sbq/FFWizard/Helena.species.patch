@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Helena",
+				"subTitle": "S8",
+				"description": "Hot dog."
+			},
+			"charGenTextLabels": [
+				"Skin colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Underwear",
+				"Hair colour",
+				"Shirt colour",
+				"Legwear colour",
+				"HUMAN",
+				"Personality"
+			]
+		}
+	}
+]

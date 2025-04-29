@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Kaiju",
+				"subTitle": "-",
+				"description": "Large Kaiju, perfect for stomping around and eating people."
+			},
+			"charGenTextLabels": [
+				"Primary colour",
+				"Eye Color",
+				"-",
+				"-",
+				"Secondary Color",
+				"Horn colour",
+				"-",
+				"-",
+				"Kaiju",
+				"Personality"
+			]
+		}
+	}
+]

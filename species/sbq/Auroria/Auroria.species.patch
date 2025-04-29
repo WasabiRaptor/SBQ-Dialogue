@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Auroria",
+				"subTitle": "",
+				"description": "Are you sure you're supposed to be able to read this?"
+			},
+			"charGenTextLabels": [
+				"Skin colour",
+				"Hair style",
+				"Shirt",
+				"Legwear",
+				"Underwear",
+				"Hair colour",
+				"Shirt colour",
+				"Legwear colour",
+				"HUMAN",
+				"Personality"
+			]
+		}
+	}
+]

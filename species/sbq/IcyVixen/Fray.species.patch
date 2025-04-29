@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Fray",
+				"subTitle": "-",
+				"description": "Big Vulpix."
+			},
+			"charGenTextLabels": [
+				"Underbelly",
+				"Hair style",
+				"-",
+				"-",
+				"Fur colour",
+				"Floof colour",
+				"-",
+				"-",
+				"Vulpix",
+				"Personality"
+			]
+		}
+	}
+]
