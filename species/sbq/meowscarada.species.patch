@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "魔幻假面喵",
+                "subTitle": "Kitty",
+                "description": "最狡猾的草丛猫。"
+            },
+            "charGenTextLabels": [
+                "眼睛颜色",
+                "发型",
+                "上衣",
+                "腿部穿着",
+                "面具/毛皮",
+                "耳朵/标记",
+                "上衣颜色",
+                "腿部穿着颜色",
+                "魔幻假面喵",
+                "个性"
+            ]
+        }
+    }
+]
