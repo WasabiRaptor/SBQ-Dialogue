@@ -3,7 +3,7 @@
     "我想就算是你这样的书呆子也该得到些报酬,"
   ],
   "greetingRewardsIntroduced": [
-    " 不错啊,<entityname>,\n 拿着钱,滚吧,"
+    " 不错啊,<entityName>,\n 拿着钱,滚吧,"
   ],
   "greeting": [
     "你在看什么？",
@@ -388,11 +388,25 @@
   ],
   "cockVoreNeedsInfusion": [
     "我跟你做个交易:你找个人来当我的鸡巴,你就能进到里面去,",
-    "我做不到,去找个鸡巴来当我的鸡巴,然后咱们再谈,"
+    "我做不到,去找个鸡巴来当*我*的鸡巴,然后咱们再谈,"
   ],
   "cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-  "bellyInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseRequested",
-  "bellyInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseRequestedAfter",
+ "bellyInfuseRequested": [
+    "说清楚点。你想成为我的肚子？好吧，那就来吧。",
+    "你想成为我的肠胃。我差点受宠若惊了。",
+    "不会轻松的。现在可别想打退堂鼓。",
+    "你知道自己该待在哪里。那也行。",
+    "就凭我平时吃的东西？行啊，我收下了。",
+    "好吧，不过别指望我会很快改变主意。"
+],
+"bellyInfuseRequestedAfter": [
+    "希望你喜欢，我可有很多活儿要让你干。",
+    "我会尽量不忘记你的，但可不敢保证。",
+    "就为了你，我会确保我饮食多样化~",
+    "现在你可是属于*更棒*的东西的一部分了~",
+    "享受吧。你现在只是我的肠胃而已。",
+    "呃。安顿下来吧，你现在是我的了。"
+]
   "bellyInfuseInvalid": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseInvalid",
   "bellyInfuseNo": ":defaultNo",
   "bellyInfuseTooBig": ":tooBig",
@@ -401,8 +415,22 @@
   "bellyInfuseFull": ":tailVoreFull",
   "bellyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
   "bellyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-  "breastInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:breastInfuseRequested",
-  "breastInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:breastInfuseRequestedAfter",
+"breastInfuseRequested": [
+    "你想让我胸部丰满点，是吧？过来吧。",
+    "所以你一直盯着看就是这个原因。好吧。",
+    "我的胸部就这么有吸引力？真是见鬼了。",
+    "我没意见，只要你清楚你属于我。",
+    "别告诉别人，其实我有点受宠若惊。",
+    "就算我穿紧身上衣？那比基尼呢？好吧。"
+],
+"breastInfuseRequestedAfter": [
+    "希望你别后悔，因为我超喜欢你在我身上看起来的样子~",
+    "虽然不想承认，但你确实是一对完美的胸部~",
+    "别害羞，我可不介意向别人炫耀你~",
+    "见鬼，我应该让你为这个付钱的。",
+    "嗯，你在我身上看起来很不错~",
+    "嘿，有了这对摇钱树，我可要大赚一笔了~"
+]
   "breastInfuseInvalid": "/npcs/sbq/dialogue/default.dialogue:breastInfuseInvalid",
   "breastInfuseNo": ":defaultNo",
   "breastInfuseTooBig": ":tooBig",
@@ -411,8 +439,22 @@
   "breastInfuseFull": ":tailVoreFull",
   "breastInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
   "breastInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-  "pussyInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseRequested",
-  "pussyInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseRequestedAfter",
+"pussyInfuseRequested": [
+    "我的下面啊？好啊，我能接受。",
+    "所以，不只是随便玩玩。我喜欢。",
+    "成为我的下面，你不会后悔的。要是后悔，也晚了。",
+    "有时候我喜欢来点激烈刺激的。希望你准备好了~",
+    "我有*需求*，所以你的提议正合我意~",
+    "嗯哼，往前倾，让我来主导一切~"
+],
+"pussyInfuseRequestedAfter": [
+    "嗯，我的脑袋已经开始冒些下流的点子了~",
+    "继续抖得那么厉害，我会找些有趣的事来让你忙起来~",
+    "嘿嘿嘿，被掳走成为强盗的下体~",
+    "<entityName>，现在不过是个强盗的*湿漉漉*的下面~",
+    "fff，你成了一对完美的丰满嘴唇~",
+    "嘿，被简化成一个像素点了~"
+]
   "pussyInfuseInvalid": "/npcs/sbq/dialogue/default.dialogue:pussyInfuseInvalid",
   "pussyInfuseNo": ":defaultNo",
   "pussyInfuseTooBig": ":tooBig",
@@ -421,8 +463,22 @@
   "pussyInfuseFull": ":tailVoreFull",
   "pussyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
   "pussyInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
-  "cockInfuseRequested": "/npcs/sbq/dialogue/default.dialogue:cockInfuseRequested",
-  "cockInfuseRequestedAfter": "/npcs/sbq/dialogue/default.dialogue:cockInfuseRequestedAfter",
+"cockInfuseRequested": [
+    "厌倦探索太空了？那我们来找个*稳固*的归宿吧~",
+    "你想当个家伙？你已经——哦，是*那种*家伙。",
+    "还挺自大的，是吧？让我给你找准位置。",
+    "现在已经没有回头路了。进进出出就好~",
+    "嘿，希望你喜欢被一直把玩的感觉~",
+    "觉得自己能驾驭我的家伙？让我看看你有多厉害。"
+],
+"cockInfuseRequestedAfter": [
+    "现在你属于我了，准备好大干一场吧~",
+    "好好享受这段旅程，它会持续*很久*的~",
+    "尽量别迷失自我。或者迷失也行。你夹在我大腿间真是绝配~",
+    "今天，<entityName>消失在一个强盗的胯下，然后变得更棒地出现了~",
+    "啊，我看到你已经变得*热切*地想要取悦我了~",
+    "嗯……安静点，我的*家伙*。现在我掌控一切~"
+]
   "cockInfuseInvalid": "/npcs/sbq/dialogue/default.dialogue:cockInfuseInvalid",
   "cockInfuseNo": ":defaultNo",
   "cockInfuseTooBig": ":tooBig",
@@ -571,87 +627,916 @@
         "哦,你比这垃圾好吃多了,可能会让你成为我日常饮食的主要部分,"
       ],
       [
-        " 哎呀,看起来<entityname>不小心滑倒,直接掉进我喉咙里了,真不小心,"
+        " 哎呀,看起来<entityName>不小心滑倒,直接掉进我喉咙里了,真不小心,"
       ],
       [
         "看到了吧？现在我们俩都不无聊了,"
       ]
     ]
   },
-  "tailVorePrompt": "/npcs/sbq/dialogue/default.dialogue:tailVorePrompt",
-  "tailVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptYes",
-  "tailVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptYesAfter",
-  "tailVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNo",
-  "tailVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNoYes",
-  "tailVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:tailVorePromptNoYesAfter",
-  "absorbVorePrompt": "/npcs/sbq/dialogue/flirty.dialogue:absorbVorePrompt",
-  "absorbVorePromptYes": "/npcs/sbq/dialogue/flirty.dialogue:absorbVorePromptYes",
-  "absorbVorePromptYesAfter": "/npcs/sbq/dialogue/flirty.dialogue:absorbVorePromptYesAfter",
-  "absorbVorePromptNo": "/npcs/sbq/dialogue/flirty.dialogue:absorbVorePromptNo",
-  "absorbVorePromptNoYes": "/npcs/sbq/dialogue/flirty.dialogue:absorbVorePromptNoYes",
-  "absorbVorePromptNoYesAfter": "/npcs/sbq/dialogue/flirty.dialogue:absorbVorePromptNoYesAfter",
-  "navelVorePrompt": "/npcs/sbq/dialogue/flirty.dialogue:navelVorePrompt",
-  "navelVorePromptYes": "/npcs/sbq/dialogue/flirty.dialogue:navelVorePromptYes",
-  "navelVorePromptYesAfter": "/npcs/sbq/dialogue/flirty.dialogue:navelVorePromptYesAfter",
-  "navelVorePromptNo": "/npcs/sbq/dialogue/flirty.dialogue:navelVorePromptNo",
-  "navelVorePromptNoYes": "/npcs/sbq/dialogue/flirty.dialogue:navelVorePromptNoYes",
-  "navelVorePromptNoYesAfter": "/npcs/sbq/dialogue/flirty.dialogue:navelVorePromptNoYesAfter",
-  "analVorePrompt": "/npcs/sbq/dialogue/default.dialogue:analVorePrompt",
-  "analVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:analVorePromptYes",
-  "analVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:analVorePromptYesAfter",
-  "analVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNo",
-  "analVorePromptNoYes": "/npcs/sbq/dialogue/flirty.dialogue:analVorePromptNoYes",
-  "analVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:analVorePromptNoYesAfter",
-  "unbirthVorePrompt": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePrompt",
-  "unbirthVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptYes",
-  "unbirthVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptYesAfter",
-  "unbirthVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNo",
-  "unbirthVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNoYes",
-  "unbirthVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVorePromptNoYesAfter",
-  "breastVorePrompt": "/npcs/sbq/dialogue/default.dialogue:breastVorePrompt",
-  "breastVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptYes",
-  "breastVorePromptYesAfter": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptYesAfter",
-  "breastVorePromptNo": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNo",
-  "breastVorePromptNoYes": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNoYes",
-  "breastVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:breastVorePromptNoYesAfter",
-  "cockVorePrompt": "/npcs/sbq/dialogue/flirty.dialogue:cockVorePrompt",
-  "cockVorePromptYes": "/npcs/sbq/dialogue/flirty.dialogue:cockVorePromptYes",
-  "cockVorePromptYesAfter": "/npcs/sbq/dialogue/flirty.dialogue:cockVorePromptYesAfter",
-  "cockVorePromptNo": "/npcs/sbq/dialogue/flirty.dialogue:cockVorePromptNo",
-  "cockVorePromptNoYes": "/npcs/sbq/dialogue/flirty.dialogue:cockVorePromptNoYes",
-  "cockVorePromptNoYesAfter": "/npcs/sbq/dialogue/default.dialogue:cockVorePromptNoYesAfter",
-  "oralVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequesting",
-  "oralVoreRequestingYes": "/npcs/sbq/dialogue/flirty.dialogue:oralVoreRequestingYes",
-  "oralVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNo",
-  "oralVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:oralVoreRequestingNoYes",
-  "tailVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequesting",
-  "tailVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingYes",
-  "tailVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingNo",
-  "tailVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:tailVoreRequestingNoYes",
-  "absorbVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:absorbVoreRequesting",
-  "absorbVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:absorbVoreRequestingYes",
-  "absorbVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:absorbVoreRequestingNo",
-  "absorbVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:absorbVoreRequestingNoYes",
-  "navelVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:navelVoreRequesting",
-  "navelVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:navelVoreRequestingYes",
-  "navelVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:navelVoreRequestingNo",
-  "navelVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:navelVoreRequestingNoYes",
-  "analVoreRequesting": "/npcs/sbq/dialogue/flirty.dialogue:analVoreRequesting",
-  "analVoreRequestingYes": "/npcs/sbq/dialogue/flirty.dialogue:analVoreRequestingYes",
-  "analVoreRequestingNo": "/npcs/sbq/dialogue/flirty.dialogue:analVoreRequestingNo",
-  "analVoreRequestingNoYes": "/npcs/sbq/dialogue/flirty.dialogue:analVoreRequestingNoYes",
-  "unbirthVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequesting",
-  "unbirthVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingYes",
-  "unbirthVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingNo",
-  "unbirthVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreRequestingNoYes",
-  "breastVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequesting",
-  "breastVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingYes",
-  "breastVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingNo",
-  "breastVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:breastVoreRequestingNoYes",
-  "cockVoreRequesting": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequesting",
-  "cockVoreRequestingYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingYes",
-  "cockVoreRequestingNo": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNo",
-  "cockVoreRequestingNoYes": "/npcs/sbq/dialogue/default.dialogue:cockVoreRequestingNoYes",
+
+
+  "tailVorePrompt": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"我和我的尾巴都快饿疯了。饿到居然会问你愿不愿意喂它。"
+			],
+			[ // 25% - 50%
+				"分不清是我肚子还是尾巴在咕咕叫。想帮忙吗？"
+			],
+			[ // 50% - 75%
+				"想知道追捕亡命之徒是什么感觉？问我的尾巴就行。"
+			],
+			[ // 75% - 100%
+				"你知道吗，匪徒的尾巴是藏宝的完美地方。想看看吗？"
+			]
+		]
+	},
+	"tailVorePromptYes": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"谢了。下次我再收拾你的时候可能会轻点。"
+			],
+			[ // 25% - 50%
+				"我就知道你会——等等，你真的说好？那就让我的尾巴带路吧。"
+			],
+			[ // 50% - 75%
+				"很好，现在站在那儿别动。很简单。"
+			],
+			[ // 75% - 100%
+				"嘿，简直像我的尾巴上写着‘好骗’一样~"
+			]
+		]
+	},
+	"tailVorePromptYesAfter": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"呼，真是解脱了。谢了，不管你叫什么。"
+			],
+			[ // 25% - 50%
+				"好多了。我的尾巴也感谢你。"
+			],
+			[ // 50% - 75%
+				"放松点，我的尾巴不会对你太狠。可能吧。"
+			],
+			[ // 75% - 100%
+				"我只是逗你玩。我的尾巴其实很喜欢有你在。"
+			]
+		]
+	},
+	"tailVorePromptNo": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"果然如此。那就去找别人消失吧。"
+			],
+			[ // 25% - 50%
+				"我就知道你会这么说。我的尾巴挺失望的。"
+			],
+			[ // 50% - 75%
+				"没兴趣，嗯？你错过了好机会。"
+			],
+			[ // 75% - 100%
+				"哼，看来你比表面上精明。"
+			]
+		]
+	},
+	"tailVorePromptNoYes": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"至少我礼貌地问了。现在我可不客气了。"
+			],
+			[ // 25% - 50%
+				"我就知道你会这么说，我的尾巴也是。看看你后面。"
+			],
+			[ // 50% - 75%
+				"你这么说，但我知道怎么让你跟上来。"
+			],
+			[ // 75% - 100%
+				"你挺聪明，但你不够街头聪明。你肩膀上是白手套吗？"
+			]
+		]
+	},
+	"tailVorePromptNoYesAfter": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"不管是简单还是困难的方式，我的尾巴总能得逞。"
+			],
+			[ // 25% - 50%
+				"谢谢你的点心，即便你不是自愿的。"
+			],
+			[ // 50% - 75%
+				"好了，你不觉得追逐别人很刺激吗？"
+			],
+			[ // 75% - 100%
+				"不，只是我的尾巴。你该看看你脸上的表情。"
+			]
+		]
+	},
+	"absorbVorePrompt": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"天，午饭不该跳过——嘿，你有兴趣来一场快冒险吗？"
+			],
+			[ // 25% - 50%
+				"食物最近很缺……等等，你是<entityName>吗？我有个位置给你填。"
+			],
+			[ // 50% - 75%
+				"好无聊……你，愿意来我的私人‘池子’泡一泡吗？"
+			],
+			[ // 75% - 100%
+				"想看个不涉及任何部位的绝技吗？"
+			]
+		]
+	},
+	"absorbVorePromptYes": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"真的？那我就不浪费你时间了。靠近点，不远。"
+			],
+			[ // 25% - 50%
+				"哇。咳咳，那就让你安顿下来吧。"
+			],
+			[ // 50% - 75%
+				"完美。入场费免费，直接跳进去吧。"
+			],
+			[ // 75% - 100%
+				"很好。现在仔细看我。"
+			]
+		]
+	},
+	"absorbVorePromptYesAfter": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"你的第一个任务是多扭动，直到我的饥饿满足为止~"
+			],
+			[ // 25% - 50%
+				"嗯，正中要害……还有那儿……尤其是那儿……"
+			],
+			[ // 50% - 75%
+				"不过，出口费可不免费。最好开始扭动吧~"
+			],
+			[ // 75% - 100%
+				"看到了吗？我用的是整个身体，不是某个部位。"
+			]
+		]
+	},
+	"absorbVorePromptNo": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"真是意外。本来可能有奖励，但现在给别人了。"
+			],
+			[ // 25% - 50%
+				"看来你不是我想要的那种‘员工’。"
+			],
+			[ // 50% - 75%
+				"再想想，你可能会搞乱。算了。"
+			],
+			[ // 75% - 100%
+				"真遗憾。看来我得给别人看。"
+			]
+		]
+	},
+	"absorbVorePromptNoYes": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"你听错了；这是故事主线的核心部分。"
+			],
+			[ // 25% - 50%
+				"不？但我坚持让你试试这个空位。"
+			],
+			[ // 50% - 75%
+				"好吧，走开时别滑倒。"
+			],
+			[ // 75% - 100%
+				"这招的妙处在于：你离我太近了。"
+			]
+		]
+	},
+	"absorbVorePromptNoYesAfter": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"我的故事主线的核心部分，嗯。嗯……"
+			],
+			[ // 25% - 50%
+				"哦，你完美适合我。考虑下你被录用了~"
+			],
+			[ // 50% - 75%
+				"谁会把水坑留那儿？幸好我抓住了你~"
+			],
+			[ // 75% - 100%
+				"你就这么消失了~"
+			]
+		]
+	},
+	"navelVorePrompt": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"我现在得吃点东西，*立刻*。想试试特别的路线吗？"
+			],
+			[ // 25% - 50%
+				"我的肚子咕咕叫得厉害。想听听吗？"
+			],
+			[ // 50% - 75%
+				"我猜你探索过各种洞。有兴趣试试我的吗？"
+			],
+			[ // 75% - 100%
+				"天，最近太安静了。我们来闹点动静怎么样？"
+			]
+		]
+	},
+	"navelVorePromptYes": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"终于。直接钻进我的肚脐。别担心，我昨天把炸药拿出来了。"
+			],
+			[ // 25% - 50%
+				"那就爬进我的肚脐。如果你钻太深，嗯，那是你的选择。"
+			],
+			[ // 50% - 75%
+				"那就开始探索吧。谁知道你会找到什么？"
+			],
+			[ // 75% - 100%
+				"你知道该干嘛。钻进我的肚脐，随便按哪个‘按钮’。"
+			]
+		]
+	},
+	"navelVorePromptYesAfter": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"很好，你确实很快击中了要害~"
+			],
+			[ // 25% - 50%
+				"看来你直奔我的肚子了。恭喜你坐上前排。"
+			],
+			[ // 50% - 75%
+				"什么都没有？胡说，旅程本身就是奖励~"
+			],
+			[ // 75% - 100%
+				"让我们搞点噪音投诉，DJ <entityName>~"
+			]
+		]
+	},
+	"navelVorePromptNo": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				" meh。我会找别人塞进去。"
+			],
+			[ // 25% - 50%
+				"不喜欢肚子ASMR，嗯？随便吧。"
+			],
+			[ // 50% - 75%
+				"哼。你的冒险精神哪儿去了？"
+			],
+			[ // 75% - 100%
+				"不是你的乐器？公平。"
+			]
+		]
+	},
+	"navelVorePromptNoYes": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"这可是特别路线是有原因的。"
+			],
+			[ // 25% - 50%
+				"来吧，放松点，我把你的头靠在我的肚子上……"
+			],
+			[ // 50% - 75%
+				"你这么说，但我听说过你的故事。"
+			],
+			[ // 75% - 100%
+				"幸好我的肚子不需要你的参与也能闹出不少动静。"
+			]
+		]
+	},
+	"navelVorePromptNoYesAfter": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"因为把像你这样的书呆子直接塞进我肚子轻而易举~"
+			],
+			[ // 25% - 50%
+				"哎呀，我一定是把你直接推了进去~"
+			],
+			[ // 50% - 75%
+				"关于你无论被塞进哪个洞都完美贴合的故事~"
+			],
+			[ // 75% - 100%
+				"你那闷声的抱怨对我来说就像音乐~"
+			]
+		]
+	},
+	"analVorePrompt": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"你看起来很冒险。想探索一个黑暗、*紧实*的洞穴，里面可能满是宝藏吗？"
+			],
+			[ // 25% - 50%
+				"别撒谎，我看到你盯着我那丰满的臀部了。想近距离接触吗？"
+			],
+			[ // 50% - 75%
+				"来吧……不……嘿，笨蛋，我现在的玩具烂透了。来刺激我吧。"
+			],
+			[ // 75% - 100%
+				"嗯……我现在得有人在我臀部里扭动，*立刻*。嘿，你。想来吗？"
+			]
+		]
+	},
+	"analVorePromptYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"真的？过来，我告诉你具体位置。"
+			],
+			[ // 25% - 50%
+				"嘿，怪胎。嗯，我可没那么多时间。想多近就多近。"
+			],
+			[ // 50% - 75%
+				"难得有人愿意，但你显然知道自己的位置。"
+			],
+			[ // 75% - 100%
+				"很好。进去吧，别停，直到我让你停。"
+			]
+		]
+	},
+	"analVorePromptYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"欢迎体验我的‘奇迹洞穴’。唯一需要疑惑的是你能不能出去~"
+			],
+			[ // 25% - 50%
+				"现在你是我的了。谢谢你给匪徒的臀部增色，书呆子~"
+			],
+			[ // 50% - 75%
+				"嗯，尽量别在那些弯弯绕绕里迷路，或者迷路也行。反正你属于那儿~"
+			],
+			[ // 75% - 100%
+				"嗯……太爽了……累了才停，不然我会*狠狠*挤你，玩具~"
+			]
+		]
+	},
+	"analVorePromptNo": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"你的损失。看来得让别人去找那把10级武器了。"
+			],
+			[ // 25% - 50%
+				"好吧。我该收你偷看费的，这次就放过你。"
+			],
+			[ // 50% - 75%
+				"这招够贱，我可是行家。随便吧。"
+			],
+			[ // 75% - 100%
+				"哼。可能这样更好，你看起来跟刺雷一样无趣。"
+			]
+		]
+	},
+	"analVorePromptNoYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"来吧，我坚持你得试试。"
+			],
+			[ // 25% - 50%
+				"啊，怕被抓？‘我就在这儿坐下，希望没人挡路~’"
+			],
+			[ // 50% - 75%
+				"不？可惜，你让这臀部靠得太近了。"
+			],
+			[ // 75% - 100%
+				"嗯，这次不接受拒绝……"
+			]
+		]
+	},
+	"analVorePromptNoYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"抱歉，没附带地图。尽量别迷路~"
+			],
+			[ // 25% - 50%
+				"哎呀！看来<entityName>找到了新迷宫玩耍~"
+			],
+			[ // 50% - 75%
+				"就你和我臀部之间，我觉得你挺棒的。"
+			],
+			[ // 75% - 100%
+				"啊~你真的击中了所有爽点~"
+			]
+		]
+	},
+	"unbirthVorePrompt": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嘿，我就直说了：想当我一阵子的孕肚吗？"
+			],
+			[ // 25% - 50%
+				"你看起来很累。我知道一个完美藏身地，适合你这种身形~"
+			],
+			[ // 50% - 75%
+				"天，热得要命……<entityName>，我求你*填满*我。"
+			],
+			[ // 75% - 100%
+				"*喘气* 快进我的阴道，好吗？"
+			]
+		]
+	},
+	"unbirthVorePromptYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"好吧。让我们把你藏到某个深邃、温暖、*湿润*的地方。"
+			],
+			[ // 25% - 50%
+				"别担心，不远。跟着‘运河’走，你会滑进去~"
+			],
+			[ // 50% - 75%
+				"你最好准备好，因为我会狠狠骑你，把你藏到湿润的地方~"
+			],
+			[ // 75% - 100%
+				"终于！不知道我现在多*需要*这个。"
+			]
+		]
+	},
+	"unbirthVorePromptYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嗯，偶尔满足下母性冲动挺不错。"
+			],
+			[ // 25% - 50%
+				"嗯~希望你喜欢这环境，因为它会变得很亲密~"
+			],
+			[ // 50% - 75%
+				"啊~现在你会发现我没开玩笑……准备好享受旅程吧……"
+			],
+			[ // 75% - 100%
+				"操~这……继续——哦~——扭动……"
+			]
+		]
+	},
+	"unbirthVorePromptNo": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"好吧。只是想问问。这次而已。"
+			],
+			[ // 25% - 50%
+				"嗯，看来你没我想象的那么累。"
+			],
+			[ // 50% - 75%
+				"天，我明白了。下次我自己偷个好玩的玩具。"
+			],
+			[ // 75% - 100%
+				"真——真的？你不帮一个急需的匪徒？好吧。"
+			]
+		]
+	},
+	"unbirthVorePromptNoYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"本来想试试我的母性一面。现在换成偷盗一面了。"
+			],
+			[ // 25% - 50%
+				"你真礼貌。可惜我一点也不。"
+			],
+			[ // 50% - 75%
+				"嗯，不。这次你得去我想让你去的地方。"
+			],
+			[ // 75% - 100%
+				"你真敢对一个绝望的亡命徒说‘不’，但你放松了警惕。"
+			]
+		]
+	},
+	"unbirthVorePromptNoYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嘿嘿，全偷来给自己了~"
+			],
+			[ // 25% - 50%
+				"嗯~看？现在让你的疲惫融化吧~"
+			],
+			[ // 50% - 75%
+				"嗯~不管愿不愿意，你滑进去的感觉真好~"
+			],
+			[ // 75% - 100%
+				"哈~随便扭吧，我的阴道需求优先于你的。"
+			]
+		]
+	},
+	"breastVorePrompt": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嘿，想看我用胸部耍个绝技吗？"
+			],
+			[ // 25% - 50%
+				"哦，是你。我在处理一个棘手的陷阱，需要帮手。"
+			],
+			[ // 50% - 75%
+				"<entityName>？你看起来会欣赏一对好胸。想摸摸我的吗？"
+			],
+			[ // 75% - 100%
+				"嘿，书呆子。抓到你偷看我的胸了。想来个牛奶浴吗？"
+			]
+		]
+	},
+	"breastVorePromptYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"好吧，靠近点，别眨眼。"
+			],
+			[ // 25% - 50%
+				"把手放我肚子上。现在，再高一点……"
+			],
+			[ // 50% - 75%
+				"很好，别害羞。尽情感受吧~"
+			],
+			[ // 75% - 100%
+				"我就知道这会诱惑你。那就给我个温暖的拥抱吧~"
+			]
+		]
+	},
+	"breastVorePromptYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"惊喜。你自己的消失表演，进入一个充满牛奶的‘密室’~"
+			],
+			[ // 25% - 50%
+				"可惜，你被我的胸部陷阱抓住了。下次好运~"
+			],
+			[ // 50% - 75%
+				"哎呀，看来它们也想感受你在里面扭动~"
+			],
+			[ // 75% - 100%
+				"尽情吸收牛奶，<entityName>味的牛奶会卖个好价钱~"
+			]
+		]
+	},
+	"breastVorePromptNo": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"不喜欢神秘感，嗯？那我就自己留着这招。"
+			],
+			[ // 25% - 50%
+				"好吧。别等别人触发了再来哭。"
+			],
+			[ // 50% - 75%
+				"害怕碰，嗯？那算了。"
+			],
+			[ // 75% - 100%
+				"天，你真没趣。去洗个普通的热水澡吧。"
+			]
+		]
+	},
+	"breastVorePromptNoYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"那至少让我给你看看我的胸。"
+			],
+			[ // 25% - 50%
+				"来吧，偶尔冒个险。这次我来引导你。"
+			],
+			[ // 50% - 75%
+				"公开场合太尴尬？那就让我‘不小心’用胸撞你一下~"
+			],
+			[ // 75% - 100%
+				"你看起来真的很需要洗澡，站着别动，接受吧。"
+			]
+		]
+	},
+	"breastVorePromptNoYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"内部视角不错吧？从我的角度看肯定是~"
+			],
+			[ // 25% - 50%
+				"哎呀，看来我把你引导进胸部陷阱了~"
+			],
+			[ // 50% - 75%
+				"<entityName>去哪儿了？可能得去银河看看~"
+			],
+			[ // 75% - 100%
+				"嗯哼，现在好好泡着。牛奶对你有好处，书呆子。"
+			]
+		]
+	},
+	"cockVorePrompt": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"听说附近有充满宝藏的通道。有兴趣吗？"
+			],
+			[ // 25% - 50%
+				"嘿，家伙。有兴趣来场家伙比拼吗？"
+			],
+			[ // 50% - 75%
+				"你看起来是个有活力的冒险者。愿意帮我完成一个重要任务吗？"
+			],
+			[ // 75% - 100%
+				"*喘气* <entityName>，听说你是让家伙爽到飞起的高手。我的家伙想要这个。"
+			]
+		]
+	},
+	"cockVorePromptYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"先让我找个舒服的姿势，然后我给你看。"
+			],
+			[ // 25% - 50%
+				"我就知道你无法抗拒。看看你跟我比怎么样。"
+			],
+			[ // 50% - 75%
+				"这就是我喜欢你这种人的地方：总是准备好一头扎进去。"
+			],
+			[ // 75% - 100%
+				"很好。现在弯下腰，让它给你个小吻以示感激~"
+			]
+		]
+	},
+	"cockVorePromptYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嗯~享受你的寻宝之旅，<entityName>~"
+			],
+			[ // 25% - 50%
+				"啊~看看这个：你被困在里面时，我的更大~"
+			],
+			[ // 50% - 75%
+				"嗯~你的第一个任务是找到我精液的源头~"
+			],
+			[ // 75% - 100%
+				"操~事情已经在下面变得很刺激了~"
+			]
+		]
+	},
+	"cockVorePromptNo": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"那就让别人去找那宝藏吧。"
+			],
+			[ // 25% - 50%
+				"哈。我就知道你会回避挑战。"
+			],
+			[ // 50% - 75%
+				"不感兴趣，嗯？可惜，奖励挺不错的。"
+			],
+			[ // 75% - 100%
+				"嘶——没必要对我的家伙这么冷淡吧。"
+			]
+		]
+	},
+	"cockVorePromptNoYes": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"这很公平。你永远不知道什么时候会突然发生意外。"
+			],
+			[ // 25% - 50%
+				"这次挑战没得退缩。"
+			],
+			[ // 50% - 75%
+				"更像是挂机型玩家，嗯？别担心，我总是感觉很色~"
+			],
+			[ // 75% - 100%
+				"该死，那我就自己来验证！"
+			]
+		]
+	},
+	"cockVorePromptNoYesAfter": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"哈~哎呀，看来你直接跌进了我的通道~"
+			],
+			[ // 25% - 50%
+				"哼~现在你知道一个更强的家伙能干什么了~"
+			],
+			[ // 50% - 75%
+				"嗯~奖励是我们一路上存储的朋友和战利品~"
+			],
+			[ // 75% - 100%
+				"啊~现在乖点，没我允许你别出来~"
+			]
+		]
+	},
+	"bellyInfusePrompt": [
+		"嘿。想知道做匪徒的肚子是什么感觉吗？",
+		"嘿，<entityName>。想知道做匪徒的肚子是什么感觉吗？"
+	],
+	"bellyInfusePromptYes": [
+		"没想到你真的会说好，但我没意见。"
+	],
+	"bellyInfusePromptYesAfter": [
+		"嘿，现在去找些书呆子让你消化掉~"
+	],
+	"bellyInfusePromptNo": [
+		"不？即使我一天喂你超过三个扭动的食物？随便吧。"
+	],
+	"bellyInfusePromptNoYes": [
+		"没兴趣？太糟了，亡命徒总是相信自己的直觉。"
+	],
+	"bellyInfusePromptNoYesAfter": [
+		"相信我，一旦我找到合适的点心，你会喜欢被塞得满满的感觉。"
+	],
+	"breastInfusePrompt": [
+		"想一招就抢走所有人的注意力吗？"
+	],
+	"breastInfusePromptYes": [
+		"我就希望你说好。来给我个拥抱吧。"
+	],
+	"breastInfusePromptYesAfter": [
+		"你让我的胸看起来不错。尽量别因为所有人的注视而脸红~"
+	],
+	"breastInfusePromptNo": [
+		"觉得自己太优秀了，嗯？我就知道。"
+	],
+	"breastInfusePromptNoYes": [
+		"如果你不想偷，那我就偷你的好身材给自己。"
+	],
+	"breastInfusePromptNoYesAfter": [
+		"嘿嘿，你在我身上看起来很棒。大家都会忙着看你，没人注意我在偷他们的钱包~"
+	],
+	"pussyInfusePrompt": [
+		"你那对嘴唇很不错。让我来更好地利用它们，嗯？"
+	],
+	"pussyInfusePromptYes": [
+		"向前倾。这会很快。"
+	],
+	"pussyInfusePromptYesAfter": [
+		"嗯，已经湿了？我还没怎么开始呢~"
+	],
+	"pussyInfusePromptNo": [
+		"真遗憾。我有那么多玩具可以一起玩~"
+	],
+	"pussyInfusePromptNoYes": [
+		"太害羞不敢同意，嗯？这个只要一瞬间。"
+	],
+	"pussyInfusePromptNoYesAfter": [
+		"看？没人会知道。你可以尽情流口水~"
+	],
+	"cockInfusePrompt": [
+		"你看起来挺自大的。想试试你的能耐吗？"
+	],
+	"cockInfusePromptYes": [
+		"很好，我喜欢你这种人。你总是能塑造出完美的形状~"
+	],
+	"cockInfusePromptYesAfter": [
+		"嘿，现在一个真正的家伙在我大腿间晃荡了~"
+	],
+	"cockInfusePromptNo": [
+		"嗯，看来我猜错了。"
+	],
+	"cockInfusePromptNoYes": [
+		"不，我还是要试试你。"
+	],
+	"cockInfusePromptNoYesAfter": [
+		"嗯，我得说你以飞扬的^#F30F0F;c^reset;^#D16D18;o^reset;^#FFF300;l^reset;^#00F902;o^reset;^#0006F9;r^reset;^#AA00F9;s^reset;通过了！"
+	],
+	"tailInfusePrompt": [
+		"我感觉有人在追我。能帮我看着后面吗？"
+	],
+	"tailInfusePromptYes": [
+		"我很感激。放松点。"
+	],
+	"tailInfusePromptYesAfter": [
+		"完美。我需要一根好尾巴来摇晃~"
+	],
+	"tailInfusePromptNo": [
+		"来吧，我不会违反*太多*法律的。"
+	],
+	"tailInfusePromptNoYes": [
+		"如果你不愿意主动跟着我，我就用我的方式招募你。"
+	],
+	"tailInfusePromptNoYesAfter": [
+		"好了。看到你终于跟上了真好~"
+	],
+	"oralVoreRequesting": [
+		"嘿，我需要一个结实的肚子藏身。介意我用你的吗？"
+	],
+	"oralVoreRequestingYes": [
+		"很好，现在张嘴。我要滑进你的舱口。"
+	],
+	"oralVoreRequestingNo": [
+		"嗯，算了。谁知道你那里面有什么。"
+	],
+	"oralVoreRequestingNoYes": [
+		"什么，你觉得我味道不好吗？来，让我给你看看你错过了什么。"
+	],
+	"tailVoreRequesting": [
+		"你的尾巴看起来真诱人。介意我靠近点看看吗？"
+	],
+	"tailVoreRequestingYes": [
+		"嗯，看起来它挺兴奋的。看来它已经知道我接下来要干嘛~"
+	],
+	"tailVoreRequestingNo": [
+		"这太冷漠了。这样的尾巴值得被欣赏。"
+	],
+	"tailVoreRequestingNoYes": [
+		"你可能说了不，但我敢肯定你的尾巴说了好。"
+	],
+	"absorbVoreRequesting": [
+		"嘿，我需要一个不那么结实的肚子藏身。介意我用你的吗？"
+	],
+	"absorbVoreRequestingYes": [
+		"很好，站着别动，我直接跳进去~"
+	],
+	"absorbVoreRequestingNo": [
+		"嗯，算了。谁知道你里面漂着什么。"
+	],
+	"absorbVoreRequestingNoYes": [
+		"你身体的乐趣就在于：我反正可以直接跳进去~"
+	],
+	"navelVoreRequesting": [
+		"一个不靠谱的消息说你的肚脐里有好货。是真的吗？"
+	],
+	"navelVoreRequestingYes": [
+		"他们从没让我失望，所以我进去了！"
+	],
+	"navelVoreRequestingNo": [
+		"嗯。看来他们搞错了。"
+	],
+	"navelVoreRequestingNoYes": [
+		"你这么说让我觉得那里*确实*有东西。别拦我！"
+	],
+	"analVoreRequesting": [
+		"听说你这儿有最大的混蛋，我想看看。"
+	],
+	"analVoreRequestingYes": [
+		"很好，现在让我分开你的臀部，亲自看看~"
+	],
+	"analVoreRequestingNo": [
+		"哼。他们该说‘是’，不是‘有’。"
+	],
+	"analVoreRequestingNoYes": [
+		"我不觉得他们撒谎，所以我要爬进那臀部！"
+	],
+	"unbirthVoreRequesting": [
+		"我真的很想回到子宫，你看起来完全可以。拜托？"
+	],
+	"unbirthVoreRequestingYes": [
+		"谢了，我会一边滑进去一边多扭动几下~"
+	],
+	"unbirthVoreRequestingNo": [
+		"至少试了下，值了。"
+	],
+	"unbirthVoreRequestingNoYes": [
+		"不？别担心，我会确保多扭动几下~"
+	],
+	"breastVoreRequesting": [
+		"我就直说了，你的胸真的很棒。我想消失在里面。"
+	],
+	"breastVoreRequestingYes": [
+		"抱歉如果这听起来有点怪，但我没撒谎。谢了。"
+	],
+	"breastVoreRequestingNo": [
+		"这也公平。我该换个说法。"
+	],
+	"breastVoreRequestingNoYes": [
+		"我还是要滑进去。我能看出它们想要更多分量~"
+	],
+	"cockVoreRequesting": [
+		"那家伙看起来真结实。介意我自我介绍一下~？"
+	],
+	"cockVoreRequestingYes": [
+		"好！很高兴认识你，我是你的新玩物~"
+	],
+	"cockVoreRequestingNo": [
+		"真遗憾……它看起来也太棒了！"
+	],
+	"cockVoreRequestingNoYes": [
+		"什么？有点害羞？没关系，我有办法引诱出来~"
+	],
   "oralVoreNoPrompt": [
     "上一份口粮真难吃,还好眼前就有个小点心,",
     "嘿,你身后是什么？",
@@ -960,37 +1845,340 @@
       ]
     ]
   },
-  "tailVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:tailVoreForcing",
-  "absorbVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:absorbVoreForcing",
-  "navelVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:navelVoreForcing",
-  "analVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:analVoreForcing",
-  "unbirthVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:unbirthVoreForcing",
-  "breastVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:breastVoreForcing",
-  "cockVoreForcing": "/npcs/sbq/dialogue/flirty.dialogue:cockVoreForcing",
-  "oralVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:oralVoreLetoutForcingAfter",
-  "tailVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForcingAfter",
-  "absorbVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:absorbVoreLetoutForcingAfter",
-  "navelVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:navelVoreLetoutForcingAfter",
-  "analVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutForcingAfter",
-  "unbirthVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:unbirthVoreLetoutForcingAfter",
-  "breastVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForcingAfter",
-  "cockVoreLetoutForcingAfter": "/npcs/sbq/dialogue/default.dialogue:cockVoreLetoutForcingAfter",
-  "oralVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:oralVoreForced",
-  "tailVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:tailVoreForced",
-  "absorbVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:absorbVoreForced",
-  "navelVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:navelVoreForced",
-  "analVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:analVoreForced",
-  "unbirthVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:unbirthVoreForced",
-  "breastVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:breastVoreForced",
-  "cockVoreForced": "/npcs/sbq/dialogue/flirty.dialogue:cockVoreForced",
-  "oralVoreLetoutForced": "/npcs/sbq/dialogue/flirty.dialogue:oralVoreLetoutForced",
-  "tailVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:tailVoreLetoutForced",
-  "absorbVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:absorbVoreLetoutForced",
-  "navelVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:navelVoreLetoutForced",
-  "analVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:analVoreLetoutForced",
-  "unbirthVoreLetoutForced": "/npcs/sbq/dialogue/flirty.dialogue:unbirthVoreLetoutForced",
-  "breastVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForced",
-  "cockVoreLetoutForced": "/npcs/sbq/dialogue/flirty.dialogue:cockVoreLetoutForced",
+"tailVoreForcing": {
+		"percentage": "sbqRest",
+		"pools": [
+			[ // 0% - 25%
+				"我累得要死，需要一个舒服的吊床。你的尾巴就行。"
+			],
+			[ // 25% - 50%
+				"听说你的尾巴能承受很多重量。让我们来试试看。"
+			],
+			[ // 50% - 75%
+				"我现在伪装成尾巴检查员，得完成我的工作。打开吧。"
+			],
+			[ // 75% - 100%
+				"我要抛硬币了。正面还是反面？"
+			]
+		]
+	},
+	"absorbVoreForcing": {
+		"percentage": "sbqRest",
+		"pools": [
+			[ // 0% - 25%
+				"我累到感觉身体要垮了。接住我，好吗？"
+			],
+			[ // 25% - 50%
+				"听说你有独特的特质。让我看看它对需要小睡的人有多好用。"
+			],
+			[ // 50% - 75%
+				"我朋友跟我打赌一千像素，说我不能穿过你。所以我来了！"
+			],
+			[ // 75% - 100%
+				"我在逃亡，急需一个藏身的地方。"
+			]
+		]
+	},
+	"navelVoreForcing": {
+		"percentage": "sbqRest",
+		"pools": [
+			[ // 0% - 25%
+				"感觉好几天没睡了，我需要一个舒服的肚子休息。我就直接钻进去吧。"
+			],
+			[ // 25% - 50%
+				"我不是吹牛，但我跑得很快。觉得你能躲开我吗？"
+			],
+			[ // 50% - 75%
+				"我得赶紧逃跑，觉得我找到了一个完美的洞钻进去~"
+			],
+			[ // 75% - 100%
+				"你看起来像是那种保持肚脐干净的人。完美适合我藏身。"
+			]
+		]
+	},
+	"analVoreForcing": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"好臀部。我要在里面待一会儿，所以放松点。"
+			],
+			[ // 25% - 50%
+				"你觉得我是个麻烦？别急着回答，这只会是种享受。"
+			],
+			[ // 50% - 75%
+				"嘿，你的后门没守好。谁知道我会爬进去做什么~？"
+			],
+			[ // 75% - 100%
+				"我就不装了；我憋得慌，真的*需要*钻进你的臀部。"
+			]
+		]
+	},
+	"unbirthVoreForcing": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"你可能不信，但我是个逃脱艺术家。看我消失到某个私密地方~"
+			],
+			[ // 25% - 50%
+				"听说你的子宫是这银河里最舒服的。我要亲自验证。"
+			],
+			[ // 50% - 75%
+				"你看起来需要点‘服务’。让我跪下来，把头往前一探，然后——"
+			],
+			[ // 75% - 100%
+				"我早就没了自制力；我欲火焚身，*必须*进入你的子宫。"
+			]
+		]
+	},
+	"breastVoreForcing": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"你这对胸真不错。你知道它们缺了什么吗？缺我。"
+			],
+			[ // 25% - 50%
+				"我不需要飞船就能探索银河，因为它就在我面前~"
+			],
+			[ // 50% - 75%
+				"气囊检查员在此。我得确保你符合标准。嗯，重量不够。我来解决。"
+			],
+			[ // 75% - 100%
+				"我本来想编个疯狂的故事说要看你的胸，但我想我还是直接进去吧~"
+			]
+		]
+	},
+	"cockVoreForcing": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"我要抛硬币了。正面还是反面？"
+			],
+			[ // 25% - 50%
+				"好家伙。别介意，我只是想近距离看看..."
+			],
+			[ // 50% - 75%
+				"你确定这东西能随便带在身上？我得检查一下..."
+			],
+			[ // 75% - 100%
+				"嘿，我就不撒谎了：我*必须*进入你的家伙。那根棒子简直是*完美*。"
+			]
+		]
+	},
+	"oralVoreLetoutForcingAfter": [
+		"嘿，你就是压不住一个好匪徒~"
+	],
+	"tailVoreLetoutForcingAfter": [
+		"我不想再待在你的尾巴上了。"
+	],
+	"absorbVoreLetoutForcingAfter": [
+		"可惜了，我可是个很会游泳的家伙。"
+	],
+	"navelVoreLetoutForcingAfter": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
+		"哈，你应该把你的肚脐扣紧的~"
+	],
+	"analVoreLetoutForcingAfter": [
+		"钻出狭窄空间对我来说不算什么。"
+	],
+	"unbirthVoreLetoutForcingAfter": [
+		"那挺刺激的，但我不想再当你的玩具了。"
+	],
+	"breastVoreLetoutForcingAfter": [
+		"虽然我在你的胸里玩得很开心，但我得走了。"
+	],
+	"cockVoreLetoutForcingAfter": [
+		"你那家伙不错，但我还是更喜欢从外面欣赏。"
+	],
+	"oralVoreForced": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"像你这样的食物知道什么时候该臣服于我，真是好。"
+			],
+			[ // 25% - 50%
+				"嗝。直接跳到精彩部分了，嗯？"
+			],
+			[ // 50% - 75%
+				"嘿，我都没开口。反正我也不打算问。"
+			],
+			[ // 75% - 100%
+				"哇。不是抱怨，但你别指望我会手下留情。"
+			]
+		]
+	},
+	"tailVoreForced": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"告诉你，我的尾巴比我还贪婪。",
+				"嗯，这下晚饭解决了。"
+			],
+			[ // 25% - 50%
+				"如果我的尾巴决定把你融化，那可不是我的错。",
+				"小心点，你可能很快就成了尾巴的一部分。"
+			],
+			[ // 50% - 75%
+				"我以为你只是想给我的尾巴一个大大的拥抱，但这可好多了。",
+				"下次你再滑进我的尾巴，可得付出代价。"
+			],
+			[ // 75% - 100%
+				"就这么跳进来了，嗯？好吧，但得听我的。",
+				"哈，你就是无法抗拒我这迷人的尾巴，对吧？"
+			]
+		]
+	},
+	"absorbVoreForced": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"好吧？嗯，至少这解决了我的饥饿。",
+				"真巧，遇到了你。时机也正好~"
+			],
+			[ // 25% - 50%
+				"当然，我是饿了，但至少让我假装我要问你吧！",
+				"我正需要个快餐，这正好。"
+			],
+			[ // 50% - 75%
+				"我本来想问你想不想去我的巢穴，但你已经进去了。",
+				"你本可以问问，想不想滑进一个更舒服的地方~"
+			],
+			[ // 75% - 100%
+				"如果有人撞到我，通常我会偷他们的像素。这次我偷你吧。",
+				"不知道你为什么这样滑进来，但你没那么容易滑出去~"
+			]
+		]
+	},
+	"navelVoreForced": {
+		"percentage": "food",
+		"pools": [
+			[ // 0% - 25%
+				"你想要直通解决我饥饿的快车道？你如愿了。",
+				"如果你在找宝藏，你只会找到我那饥饿的肚子。"
+			],
+			[ // 25% - 50%
+				"我不知道你有什么计划，但你确实解决了我的食物问题！",
+				"哈，我肚子一咕噜你就跳进我的肚脐了？"
+			],
+			[ // 50% - 75%
+				"如果我知道露出我的腹部会让人跳进来，我会更常这么做~",
+				"就是无法抗拒‘洞穴’探险，对吧~？"
+			],
+			[ // 75% - 100%
+				"就想直接钻进匪徒的肚子，是吧~？",
+				"哈，看来我的肚脐按下了你所有的按钮~"
+			]
+		]
+	},
+	"analVoreForced": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"闯进一个匪徒的后门，嗯？我挺欣赏的。"
+			],
+			[ // 25% - 50%
+				"看来你找到了我的秘密迷宫。别迷路了~"
+			],
+			[ // 50% - 75%
+				"谢谢你省了我把你塞进我臀部的麻烦~"
+			],
+			[ // 75% - 100%
+				"嗯~！你最好在我的臀部里多扭动几下，我的新玩具~"
+			]
+		]
+	},
+	"unbirthVoreForced": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嗯...下次先警告我一下..."
+			],
+			[ // 25% - 50%
+				"嗯~就是无法抗拒一个亡命之徒的魅力，对吧~？"
+			],
+			[ // 50% - 75%
+				"哦~你正是我现在*需要*的那种玩具~"
+			],
+			[ // 75% - 100%
+				"操~赶紧进去，开始扭动*现在*~！"
+			]
+		]
+	},
+	"breastVoreForced": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"先问问是礼貌，你知道的。幸好我不讲礼貌。"
+			],
+			[ // 25% - 50%
+				"嗯，幸好我背部够结实。前胸更好~"
+			],
+			[ // 50% - 75%
+				"嗯~如果你要钻进我的胸，你最好让它们抖得够好~"
+			],
+			[ // 75% - 100%
+				"哈~最好享受这奶，它不会留太久~"
+			]
+		]
+	},
+	"cockVoreForced": {
+		"percentage": "sbqLust",
+		"pools": [
+			[ // 0% - 25%
+				"嘿！下次先给我个机会润滑一下！"
+			],
+			[ // 25% - 50%
+				"嗯！就是无法抗拒探索我的阴暗面，对吧？"
+			],
+			[ // 50% - 75%
+				"啊~来得正好，你是我那话儿的*完美*搭配~"
+			],
+			[ // 75% - 100%
+				"嗯嗯~看看你会不会直接弹出来~"
+			]
+		]
+	},
+	"oralVoreLetoutForced": [
+		"呃...没能留住你...",
+		"咳...看来你比看起来要硬。",
+		"来吧，我只是逗你玩。"
+	],
+	"tailVoreLetoutForced": [
+		"我看你逃出了我那贪婪的尾巴。",
+		"怎么，不喜欢有自己的私人吊床？",
+		"我的尾巴只是玩玩...想玩真的。"
+	],
+	"absorbVoreLetoutForced": [
+		"哈，难得有人能从我这里逃脱。",
+		"该死，我应该让自己更结实点。",
+		"回来吧，‘水’很舒服~"
+	],
+	"navelVoreLetoutForced": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
+		"我就知道我该把肚脐堵起来。",
+		"从我的肚脐里挤出来了。真狡猾。",
+		"如果你找到了什么，那是我的，明白？"
+	],
+	"analVoreLetoutForced": [
+		"怎么了？不喜欢让我的臀部更丰满点~？",
+		"哦~你爬出来几乎弥补了你的决定。",
+		"我一定是生锈了，连个书呆子都困不住在我的臀部..."
+	],
+	"unbirthVoreLetoutForced": [
+		"来吧，我们才刚开始！",
+		"你再扭回去我给你钱~",
+		"嗯~啊，我的玩具要跑了...",
+		"嘿，做匪徒也没那么糟。",
+		"看来你不喜欢待在我的货舱里。"
+	],
+	"breastVoreLetoutForced": [
+		"回去。我比你更需要这填充物，而不是你需要新鲜空气~",
+		"嘿！你最好为每一滴你洒出来的东西付钱！"
+	],
+	"cockVoreLetoutForced": [
+		"嗯~你抓住了我裤子没穿好的时候~",
+		"嗯~如果你扭回去，也许我会找个人把你喷进去~",
+		"天，你真让我那话儿炸了。",
+		"啊，你逃出来后我的那话儿会特别敏感...",
+		"在匪徒的精液里晃荡没那么糟吧？"
+	],
   "struggleBelly": [
     "尽情扭动吧，我就喜欢这种感觉。",
     "在里面不舒服了？那可与我无关。",
@@ -1165,59 +2353,339 @@
     "别担心这个蛋，我只是让你更容易掌控。",
     "呵，我只是在你和自由之间又加了一层障碍～"
   ],
-  "anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
-  "thighsInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:thighsInfusedOccupant",
-  "bellyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:bellyInfusedOccupant",
-  "breastInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:breastInfusedOccupant",
-  "pussyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pussyInfusedOccupant",
-  "cockInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:cockInfusedOccupant",
-  "pawInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pawInfusedOccupant",
-  "tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant",
-  "strugglingBelly": "/npcs/sbq/dialogue/default.dialogue:strugglingBelly",
-  "strugglingWomb": "/npcs/sbq/dialogue/default.dialogue:strugglingWomb",
-  "strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
-  "strugglingBreasts": "/npcs/sbq/dialogue/flirty.dialogue:strugglingBreasts",
-  "strugglingBreastsShirt": "/npcs/sbq/dialogue/flirty.dialogue:strugglingBreastsShirt",
-  "strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
-  "strugglingCock": "/npcs/sbq/dialogue/default.dialogue:strugglingCock",
-  "strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
-  "strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
-  "strugglingAcidHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingAcidHeal",
+"anyInfusedOccupant": [
+		"你是我坏坏自我里最好的部分~",
+		"你是我坏坏自我里最好的部分，<entityName>~" // very very placeholder
+	],
+	"thighsInfusedOccupant": [
+		"谢谢你让我本来就迷人的大腿更出色了~",
+		"谢谢你让我本来就迷人的大腿更出色了，<entityName>~"
+	],
+	"bellyInfusedOccupant": [
+		"哈，我们去找个书呆子来消化掉。",
+		"嘿，是时候找个人扔进<entityName>监狱了。"
+	],
+	"breastInfusedOccupant": [
+		[
+			"<slowlove>不得不说，你真是一对好胸~",
+			"<slowlove>不得不说，你真是一对好胸，<entityName>~"
+		],
+		[
+			"<slowlove>嘿，随便漏吧。我总能把奶卖掉~",
+			"<slowlove>嘿，随便漏吧，<entityName>。我总能把奶卖掉~"
+		],
+		[
+			"<slowlove>看着你这样晃动真有点催眠~",
+			"<slowlove>看着你这样晃动真有点催眠，<entityName>~"
+		],
+		[
+			"<love>谁会去找你呢？他们只会*盯着*你看~",
+			"<love>谁会去找你呢，<entityName>？他们只会*盯着*你看~"
+		]
+	],
+	"pussyInfusedOccupant": [
+		[
+			"<slowlove>天，是你在让我这么湿吗~？继续。",
+			"<slowlove><entityName>，是你在让我这么湿吗~？继续。"
+		],
+		[
+			"<slowlove>是的，我很确定你就该是我的下唇~",
+			"<slowlove><entityName>，我很确定你就该是我的下唇~"
+		],
+		[
+			"<slowlove>天，得找点东西或人来填满你……",
+			"<slowlove>天，得找点东西或人来填满你，<entityName>……"
+		],
+		[
+			"<love>操~让我一直有这种感觉，你就别想走~",
+			"<love>操~让我一直有这种感觉，<entityName>，你就别想走~"
+		]
+	],
+	"cockInfusedOccupant": [
+		[
+			"<love>不错的悸动。可惜这只是让我爽~",
+			"<love>不错的悸动，<entityName>。可惜这只是让我爽~"
+		],
+		[
+			"<love>你是我的秘密奖品，藏在亡命徒的大腿间~",
+			"<love>你是我的秘密奖品，<entityName>，藏在亡命徒的大腿间~"
+		],
+		[
+			"<slowlove>面对现实吧，你爱做我的坏骨头~",
+			"<slowlove>面对现实吧，<entityName>，你爱做我的坏骨头~"
+		],
+		[
+			"<love>感觉憋得慌……要么你进别人，要么别人进你~",
+			"<love>感觉憋得慌……要么你进别人，要么别人进你，<entityName>~"
+		],
+		[
+			"<love>我在纠结要不要留你，硬得不行~",
+			"<love>我在纠结要不要留你，<entityName>，硬得不行~"
+		]
+	],
+	"pawInfusedOccupant": [
+		"抱歉，但也不抱歉。我们得*经常*跑路~",
+		"你在下面感觉很好。我会用你去踩几个书呆子~"
+	],
+	"tailInfusedOccupant": [
+		"终于，我有了一条像样的尾巴~",
+		"该猜‘正面’的，<entityName>~",
+		"看来你就是停不下来跟着我，<entityName>~"
+	],
+	"strugglingBelly": [
+		"不错的肚子，但你真该在这儿多存点值钱货。",
+		"就算我自己要求进去，也不能让人觉得我轻易认输！"
+	],
+	"strugglingWomb": [
+		"哇……这好舒服……我是说，我得逃出去！",
+		"如果这是你的监狱牢房……我认可。",
+		"越来越……不想……睡着……"
+	],
+	"strugglingTail": [
+		"天，你有多兴奋？别摇尾巴了！",
+		"这种晃动让我很难找准方向……",
+		"你的尾巴可以当个不错的吊床……"
+	],
+	"strugglingBreasts": [
+		"外面软，里面也软……",
+		"这最好别弄脏我的装备……",
+		"我得承认，你的‘缓冲垫’真不错！",
+		"那是你心跳，还是我的？"
+	],
+	"strugglingBreastsShirt": [
+		"我几乎动不了……！",
+		"连晃动都做不到……"
+	],
+	"strugglingPussy": [
+		"咕，刚才那收缩真厉害。",
+		"嘿！别忘了我在这儿！",
+		"得……继续……扭动……"
+	],
+	"strugglingCock": [
+		"天，你*真硬*！",
+		"哇，你……在这儿真会挤我！",
+		"我得说，这有点影响到我了~"
+	],
+	"strugglingBalls": [
+		"嗯。现在我全身都是你的味道了。",
+		"这么轻松就被收纳了……",
+		"就稍微搅和一下吧……",
+		"好多……精液……"
+	],
+	"strugglingAss": [
+		"这可不是我心目中的逃生通道……",
+		"臀部不错，但我宁愿从外面欣赏……"
+	],
+	"strugglingAcidHeal": [
+		"折腾了半天还帮我治疗？我可能会记住这点。",
+		"这……其实挺不错的。谢谢。",
+		"别告诉别人，但我真的很享受这个……"
+	],
   "strugglingFemcumHeal": ":strugglingAcidHeal",
   "strugglingCumHeal": ":strugglingAcidHeal",
-  "strugglingMilkHeal": "/npcs/sbq/dialogue/flirty.dialogue:strugglingMilkHeal",
+"strugglingMilkHeal": [
+		"这奶真不错……",
+		"泡在温暖的奶里和喝它一样舒服……",
+		"要是有些饼干就好了……"
+	],
   "strugglingMiscHeal": ":strugglingAcidHeal",
-  "strugglingCompression": "/npcs/sbq/dialogue/default.dialogue:strugglingCompression",
-  "strugglingAcidDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingAcidDigest",
-  "strugglingAcidDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingAcidDigestImmune",
-  "strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest",
-  "strugglingCumDigestBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestBalls",
-  "strugglingCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestImmune",
-  "strugglingFemcumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingFemcumDigest",
-  "strugglingFemcumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingFemcumDigestImmune",
-  "strugglingMilkDigest": "/npcs/sbq/dialogue/flirty.dialogue:strugglingMilkDigest",
-  "strugglingMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestBreastsShirt",
-  "strugglingMilkDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestImmune",
+"strugglingCompression": [
+		"嘿！这不是我说的藏起来！",
+		"几乎……动不了……",
+		"一切都变得好挤……"
+	],
+	"strugglingAcidDigest": [
+		"我应该比这高一级食物链……",
+		"把我消化？也算公平。"
+	],
+	"strugglingAcidDigestImmune": [
+		[
+			"我太硬了，消化不了。",
+			"我太硬了，消化不了。\n不过试得不错。"
+		],
+		"哈，想消化我得再加把劲。",
+		"可惜，我没那么软。",
+		"嗯，就这点能耐？"
+	],
+	"strugglingCumDigest": [
+		"把我变成种子会种出坏苹果哦~",
+		"嘿，我等不及高潮了……~"
+	],
+	"strugglingCumDigestBalls": [
+		"你不怕我弄出一批坏货吗~？"
+	],
+	"strugglingCumDigestImmune": [
+		"你试了，但我不会变成你的精液。",
+		"避孕套挺好玩，但你别想用我装满一个。",
+		"很热，但我不会变成一滩水离开。"
+	],
+	"strugglingFemcumDigest": [
+		"越来越难保持固态了……",
+		"柔软……炽热……还很黏……",
+		"该死……我几乎能感觉到自己在流出来……"
+	],
+	"strugglingFemcumDigestImmune": [
+		"我是匪徒，我能应付这热度~",
+		"知道你在拼命还挺性感的~",
+		"抱歉让你失望了，但我还是固态的。"
+	],
+	"strugglingMilkDigest": [
+		"嘿，不怕我把你的货弄坏？",
+		"在这汹涌的海洋里保持漂浮越来越难……",
+		"没想到会被一胸的‘宝藏’干掉……",
+		"啊！我被胸部陷阱困住了！"
+	],
+	"strugglingMilkDigestBreastsShirt": [
+		"好热……我最多只能……\n造成个衣橱失误……"
+	],
+	"strugglingMilkDigestImmune": [
+		"嘿，你挤不出我的奶！"
+	],
   "strugglingMiscDigest": ":strugglingAcidDigest",
   "strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
-  "strugglingTransforming": "/npcs/sbq/dialogue/default.dialogue:strugglingTransforming",
-  "strugglingDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:strugglingDrainEnergy",
-  "strugglingEggify": "/npcs/sbq/dialogue/default.dialogue:strugglingEggify",
-  "anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused",
-  "thighsInfused": "/npcs/sbq/dialogue/default.dialogue:thighsInfused",
-  "bellyInfused": "/npcs/sbq/dialogue/default.dialogue:bellyInfused",
-  "breastInfused": "/npcs/sbq/dialogue/default.dialogue:breastInfused",
-  "pussyInfused": "/npcs/sbq/dialogue/default.dialogue:pussyInfused",
-  "cockInfused": "/npcs/sbq/dialogue/default.dialogue:cockInfused",
-  "pawInfused": "/npcs/sbq/dialogue/default.dialogue:pawInfused",
-  "tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused",
-  "climax": "/npcs/sbq/dialogue/default.dialogue:climax",
-  "climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb",
-  "climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts",
-  "climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
-  "climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
-  "shrinking": "/npcs/sbq/dialogue/default.dialogue:shrinking",
-  "growing": "/npcs/sbq/dialogue/default.dialogue:growing",
+
+ "strugglingTransforming": [
+		"想把我变得更好？我们走着瞧。",
+		"就算你改变我的外表，内心我还是个亡命徒！"
+	],
+	"strugglingDrainEnergy": [
+		"你在偷我的能量……",
+		"必须……想……邪恶的点子……",
+		"真的好难……动弹，就是说……",
+		"偷东西不好……除非是我干的……",
+		"来吧……再踢一下……",
+		"我不是……能量饮料……",
+		"好累……动不了……"
+	],
+	"strugglingEggify": [
+		"变蛋？这可麻烦了……",
+		"嘿！我可不是营养早餐的一部分。哦，等等。"
+	],
+	"anyInfused": [
+		"<slowlove>",
+		"<love>",
+		[
+			[
+				"(好好藏在你身体的一部分里~)",
+				"(好好藏在<entityName>身体的一部分里~)"
+			],
+			"<slowlove>(我没啥好抱怨的，这儿完美~)",
+			"<slowlove>(你是最完美的藏身地，<entityName>~)",
+			"<love>(<keysmash>)"
+		]
+	],
+	"thighsInfused": [
+		"<slowlove>(藏在你的大腿里~)",
+		"<slowlove>(一点痕迹都没有，只有一层温暖的软肉~)",
+		"<love>(<keysmash>)"
+	],
+	"bellyInfused": [
+		"<slowlove>",
+		"<love>",
+		[
+			[
+				"(作为肚子消化食物和书呆子~)",
+				"(作为你的一部分消化食物和书呆子~)",
+				"(作为<entityName>的肚子消化食物和书呆子~)"
+			],
+			"<slowlove>(就在我该在的地方……<entityName>强有力的胃~)",
+			"<love>(<keysmash>)"
+		]
+	],
+	"breastInfused": [
+		"<slowlove>",
+		"<love>",
+		[
+			"<slowlove>(嗯，众人的焦点~)",
+			"<slowlove>(多么可爱的心跳……~)",
+			"<slowlove>(制造了好多奶……~)",
+			"<slowlove>(就在我该在的地方……<entityName>完美的胸部~)",
+			"<love>(<keysmash>)"
+		]
+	],
+	"pussyInfused": [
+		"<slowlove>",
+		"<love>",
+		[
+			"<slowlove>(就一个像素……~)",
+			"<slowlove>(去找个好玩的玩具……~)",
+			"<slowlove>(好……湿……~)",
+			"<slowlove>(简直完美……~)",
+			"<slowlove>(<entityName>饥渴的阴道~)",
+			"<slowlove>(就在我该在的地方……<entityName>的下唇~)",
+			"<love>(<keysmash>)"
+		]
+	],
+	"cockInfused": [
+		"<slowlove>",
+		"<love>",
+		[
+			"<slowlove>(这就是生活……~)",
+			"<slowlove>(就在你完美的大腿间……~)",
+			"<slowlove>(我很高兴做个家伙~)",
+			"<slowlove>(嗯，好好利用我……~)",
+			"<slowlove>(每一次悸动……每一次抽动……~)",
+			"<slowlove>(<entityName>悸动的家伙~)",
+			"<slowlove>(就在我该在的地方……<entityName>结实的棒子~)",
+			"<love>(<keysmash>)"
+		]
+	],
+	"pawInfused": [
+		"<slowlove>(感受那压力~)",
+		"<slowlove>(去找个小不点踩扁……~)"
+	],
+	"tailInfused": [
+		"<slowlove>(我帮你看着后方~)",
+		"<slowlove>(来回摇摆……很开心在这儿……~)",
+		"<slowlove>(就在我该在的地方……<entityName>美丽的尾巴~)"
+	],
+	"climax": [
+		"嗯~这击中了所有爽点~"
+	],
+	"climaxWomb": [
+		{
+			"dialogue": [
+				"哦，这感觉太棒了。再在那儿推一下——啊啊啊！",
+				"嗯~",
+				"嗯，不错……继续这样我可能会留着你……"
+			]
+		}
+	],
+	"climaxBreasts": [
+		{
+			"dialogue": [
+				"哇，那是个敏感点……继续那样晃——啊啊啊！",
+				"嗯~",
+				"嘿，谢谢你献上这么精彩的表演~"
+			]
+		}
+	],
+	"climaxCock": [
+		{
+			"dialogue": [
+				"天，停不下来……悸动……好硬然后——啊啊啊！",
+				"嗯嗯~",
+				"这可是憋了好久。看来你还被困在里面，真可惜~"
+			]
+		}
+	],
+	"climaxBalls": [
+		{
+			"dialogue": [
+				"继续在那儿晃荡然后——啊-啊啊啊！",
+				"嗯~",
+				"简直完美……你陷得那么深都没出来，哦，算了~"
+			]
+		}
+	],
+	"shrinking": [
+		"什么？！我又拿错那个坏枪了？",
+		"要么世界在变大，要么我在缩小！"
+	],
+	"growing": [
+		"好吧，潜行的计划泡汤了。",
+		"我越大，藏东西就越容易。"
+	],
   "didSteppy": [
     " 呵，对<steppyType>到你身上这事儿，我可没觉得抱歉。",
     "我压得你够狠吗？不够？下次我再加点力。",
