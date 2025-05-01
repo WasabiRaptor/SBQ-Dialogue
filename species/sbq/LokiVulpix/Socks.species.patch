@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "Socks",
+                "subTitle": "毛绒玩具.",
+                "description": "你确定你本该能看到这段内容吗？"
+            },
+            "charGenTextLabels": [
+                "皮肤颜色",
+                "发型",
+                "上衣",
+                "腿部穿着",
+                "内衣",
+                "头发颜色",
+                "上衣颜色",
+                "腿部穿着颜色",
+                "火伊布",
+                "个性"
+            ]
+        }
+    }
+]
