@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "水伊布",
+                "subTitle": "H20",
+                "description": "大家最喜欢的小鱼猫。"
+            },
+            "charGenTextLabels": [
+                "主体颜色", // body color
+                "-", // hair type
+                "腹部颜色", // shirt
+                "耳鳍颜色", // pants
+                "背鳍颜色", // alt option - undy color - facial mask
+                "颈鳍样式", // head option - hair color - facial hair
+                "肉体颜色", // shirt color
+                "颈鳍颜色", // pants color
+                "水伊布", // species
+                "个性" // personality
+            ]
+        }
+    }
+]
