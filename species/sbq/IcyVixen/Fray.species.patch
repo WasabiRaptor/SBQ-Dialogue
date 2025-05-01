@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Fray",
+				"subTitle": "-",
+				"description": "大六尾。"
+			},
+			"charGenTextLabels": [
+				"腹部毛色",
+				"发型",
+				"-",
+				"-",
+				"毛色",
+				"蓬松毛色",
+				"-",
+				"-",
+				"六尾",
+				"个性"
+			]
+		}
+	}
+]
