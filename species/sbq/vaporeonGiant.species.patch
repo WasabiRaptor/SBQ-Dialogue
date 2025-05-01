@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "大号水伊布",
+                "subTitle": "Dihydrogen Monoxide",
+                "description": "大家最喜欢的小鱼猫，但更大！"
+            },
+            "charGenTextLabels": [
+                "主体颜色", // body color
+                "-", // hair type
+                "腹部颜色", // shirt
+                "耳鳍颜色", // pants
+                "背鳍颜色", // alt option - undy color - facial mask
+                "-", // head option - hair color - facial hair
+                "肉体颜色", // shirt color
+                "颈鳍颜色", // pants color
+                "水伊布", // species
+                "个性" // personality
+            ]
+        }
+    }
+]
