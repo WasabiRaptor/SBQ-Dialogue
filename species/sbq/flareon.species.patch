@@ -4,20 +4,20 @@
         "path": "",
         "value": {
             "charCreationTooltip": {
-                "title": "Ambi",
-                "subTitle": "Au",
-                "description": "你确定你本该能看到这段内容吗？"
+                "title": "火伊布",
+                "subTitle": "Floofer",
+                "description": "最蓬松的毛茸茸。"
             },
             "charGenTextLabels": [
-                "皮肤颜色",
+                "腹部",
                 "发型",
                 "上衣",
                 "腿部穿着",
-                "内衣",
-                "头发颜色",
+                "毛皮颜色",
+                "蓬松毛色",
                 "上衣颜色",
                 "腿部穿着颜色",
-                "人类",
+                "火伊布",
                 "个性"
             ]
         }
