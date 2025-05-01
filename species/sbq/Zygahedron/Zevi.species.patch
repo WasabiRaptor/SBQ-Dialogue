@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "Zevi",
+                "subTitle": "Goocat",
+                "description": "嘿，你不应该能看到这段内容。"
+            },
+            "charGenTextLabels": [
+                "气体颜色",
+                "发型",
+                "上衣",
+                "腿部穿着",
+                "",
+                "品牌",
+                "上衣颜色",
+                "腿部穿着颜色",
+                "NOVAKID",
+                "个性"
+            ]
+        }
+    }
+]
