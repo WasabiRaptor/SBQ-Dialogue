@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "Slime",
+                "subTitle": "C31H27NO4",
+                "description": "你看起来半消化了。你又去追史莱姆了吗？\n——护士"
+            },
+            "charGenTextLabels": [
+                "凝胶颜色",
+                "凝胶样式",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "史莱姆",
+                "个性"
+            ]
+        }
+    }
+]
