@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "Nickit",
+                "subTitle": "Au",
+                "description": "你最好看好你的钱包……"
+            },
+            "charGenTextLabels": [
+                "身体颜色", // body color
+                "发型", // hair type
+                "眼睛颜色", // shirt
+                "-", // pants
+                "爪子颜色", // alt option - undy color - facial mask
+                "腹部颜色", // head option - hair color - facial hair
+                "头发颜色", // shirt color
+                "-", // pants color
+                "Nickit", // species
+                "个性" // personality
+            ]
+        }
+    }
+]
