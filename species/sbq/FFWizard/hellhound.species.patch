@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "地狱犬",
+				"subTitle": "S8",
+				"description": "听说它们相当火辣。"
+			},
+			"charGenTextLabels": [
+				"肤色",
+				"发型",
+				"上衣",
+				"裤装",
+				"内衣",
+				"发色",
+				"上衣颜色",
+				"裤装颜色",
+				"地狱犬",
+				"个性"
+			]
+		}
+	}
+]
