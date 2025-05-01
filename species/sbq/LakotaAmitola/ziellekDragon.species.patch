@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Ziellek龙",
+				"subTitle": "-",
+				"description": "长条面龙。"
+			},
+			"charGenTextLabels": [
+				"主色", // 身体颜色
+				"角颜色", // 发型
+				"腹部颜色", // 上衣
+				"眼睛颜色", // 裤子
+				"点缀颜色", // 内衣颜色
+				"绒毛颜色", // 头发颜色
+				"肉色", // 上衣颜色
+				"-", // 裤子颜色
+				"Ziellek龙", // 种族
+				"个性" // 个性
+			]
+		}
+	}
+]
