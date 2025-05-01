@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Sandy",
+				"subTitle": "漂浮伊布龙",
+				"description": "咕噜。"
+			},
+			"charGenTextLabels": [
+				"肤色",
+				"发型",
+				"上衣",
+				"裤装",
+				"内衣",
+				"发色",
+				"上衣颜色",
+				"裤装颜色",
+				"人类",
+				"个性"
+			]
+		}
+	}
+]
