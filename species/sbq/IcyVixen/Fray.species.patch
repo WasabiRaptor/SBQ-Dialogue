@@ -9,16 +9,16 @@
 				"description": "Big Vulpix."
 			},
 			"charGenTextLabels": [
-				"Underbelly",
-				"Hair style",
-				"-",
-				"-",
-				"Fur colour",
-				"Floof colour",
-				"-",
-				"-",
-				"Vulpix",
-				"Personality"
+				"Fur Color", // body color
+				"Eye Color", // hair type
+				"Beans Color", // shirt
+				"-", // pants
+				"Hair Color", // alt option - undy color - facial mask
+				"Hair Style", // head option - hair color - facial hair
+				"-", // shirt color
+				"-", // pants color
+				"Vulpix", // species
+				"Personality" // personality
 			]
 		}
 	}

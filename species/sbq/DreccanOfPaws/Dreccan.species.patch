@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Dreccan",
+				"subTitle": "",
+				"description": ""
+			},
+			"charGenTextLabels": [
+				"-", // body color
+				"-", // hair type
+				"-", // shirt
+				"-", // pants
+				"-", // alt option - undy color - facial mask
+				"-", // head option - hair color - facial hair
+				"-", // shirt color
+				"-", // pants color
+				"Deer", // species
+				"Personality" // personality
+			]
+		}
+	}
+]

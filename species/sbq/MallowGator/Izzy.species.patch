@@ -1,0 +1,25 @@
+[
+	{
+		"op": "merge",
+		"path": "",
+		"value": {
+			"charCreationTooltip": {
+				"title": "Absol",
+				"subTitle": "Omen",
+				"description": "The Disaster Pokemon."
+			},
+			"charGenTextLabels": [
+				"-", // body color
+				"-", // hair type
+				"-", // shirt
+				"-", // pants
+				"-", // alt option - undy color - facial mask
+				"-", // head option - hair color - facial hair
+				"-", // shirt color
+				"-", // pants color
+				"Absol", // species
+				"Personality" // personality
+			]
+		}
+	}
+]

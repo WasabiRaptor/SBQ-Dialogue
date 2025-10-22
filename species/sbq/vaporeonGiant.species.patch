@@ -10,13 +10,13 @@
 			},
 			"charGenTextLabels": [
 				"Primary Color", // body color
-				"-", // hair type
-				"Underbelly Color", // shirt
+				"Belly Color", // hair type
+				"Dorsal Finn Color", // shirt
 				"Ear Finn Color", // pants
-				"Dorsal Finn Color", // alt option - undy color - facial mask
-				"-", // head option - hair color - facial hair
-				"Flesh Color", // shirt color
-				"Neck Finn Color", // pants color
+				"Neck Finn Color", // alt option - undy color - facial mask
+				"Beans Color", // head option - hair color - facial hair
+				"Neck Finn Style", // shirt color
+				"-", // pants color
 				"Vaporeon", // species
 				"Personality" // personality
 			]

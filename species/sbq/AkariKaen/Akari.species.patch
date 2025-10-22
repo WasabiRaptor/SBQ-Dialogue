@@ -4,20 +4,20 @@
 		"path": "",
 		"value": {
 			"charCreationTooltip": {
-				"title": "Meowscarada",
-				"subTitle": "Kitty",
-				"description": "The trickiest grass cat."
+				"title": "Akari",
+				"subTitle": "The potential for vore.",
+				"description": "Are you sure you're supposed to be able to read this?"
 			},
 			"charGenTextLabels": [
-				"Eye colour",
+				"Skin colour",
 				"Hair style",
 				"Shirt",
 				"Legwear",
-				"Mask/Fur",
-				"Ears/Marks",
+				"Underwear",
+				"Hair colour",
 				"Shirt colour",
 				"Legwear colour",
-				"Meowscarada",
+				"Sergal",
 				"Personality"
 			]
 		}

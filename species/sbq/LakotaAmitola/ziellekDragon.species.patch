@@ -11,11 +11,11 @@
 			"charGenTextLabels": [
 				"Primary Color", // body color
 				"Horns Color", // hair type
-				"Underbelly Color", // shirt
+				"Belly Color", // shirt
 				"Eye Color", // pants
 				"Accent Color", // undy color
 				"Fluff Color", // hair color
-				"Flesh Color", // shirt color
+				"Beans Color", // shirt color
 				"-", // pants color
 				"Ziellek Dragon", // species
 				"Personality" // personality
